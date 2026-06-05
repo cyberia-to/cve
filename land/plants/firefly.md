@@ -1,0 +1,32 @@
+---
+tags: cyberia
+crystal-type: entity
+crystal-domain: cyberia
+---
+[[violet]]
+
+[[asarum]]
+
+[[bryophyte]]
+
+[[sambucus]]
+
+[[trifolium]]
+
+[[pilea microphylla]]
+
+[[ageratum conyzoides]]
+
+[[melastoma malabathricum]]
+
+[[elatostema lineolatum]]
+
+[[nephrolepis exaltata]]
+
+[[colocasia esculenta]]
+
+[[impatiens balsamina]]
+
+[[clidemia hirta]]
+
+[[lantana camara]]
