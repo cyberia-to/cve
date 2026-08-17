@@ -26,7 +26,7 @@ this translate into ~1 ha of yielding surface
 - 19-24: [[@lia]]
 - 24-32: [[@devita]]
 
-[[nandu]]
+nandu
 
 - 0-1: [[@echa]]
 - 2-3: [[@meli]]
