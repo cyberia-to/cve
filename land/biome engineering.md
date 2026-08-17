@@ -5,4 +5,4 @@ crystal-domain: cyberia
 ---
 # biome engineering
 
-→ **[[edge city residency/biome engineering]]** (moved with [[edge city residency]] course pack)
+→ **[[edge city patagonia 2025/biome engineering]]** (moved with [[edge city patagonia 2025]] course pack)

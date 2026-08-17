@@ -5,4 +5,4 @@ crystal-domain: cyberia
 ---
 # soil, heat and carbon
 
-→ **[[edge city residency/soil, heat and carbon]]** (moved with [[edge city residency]] course pack)
+→ **[[edge city patagonia 2025/soil, heat and carbon]]** (moved with [[edge city patagonia 2025]] course pack)
