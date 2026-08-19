@@ -51,7 +51,7 @@ To confirm the dual-account regime in [[cve/ceo]] §§2–4: strategic account (
 To bind the President Director to [[cve/ceo]] §5: commissioner approval for HGB / hak sewa below **USD 3,000 per are**; **no power** to mortgage Company real estate for loans.
 
 **3.4 Entry equity.**  
-To approve the transfer of **80 shares (1%)** from Alisa Voinova to the President Director at **par (Rp 200,000,000)** under [[share sale entry]], as part of the same Closing.
+To approve the transfer of **80 shares (1%)** from Alisa Voinova to the President Director at **Rp 200,000,000** — the price at the agreed company valuation of Rp 20,100,000,000 (the issued and fully paid capital, Rp 2,500,000 per share) — under [[share sale entry]], as part of the same Closing.
 
 **3.5 Option framework.**  
 To note the option package in [[cve/ceo]] §6 (up to 10% @ USD 4M, 5% / 2y + 5% / 7y, **founder sale only**) for implementation by separate share sale / option deeds when exercised — not a new issue of capital for that package.

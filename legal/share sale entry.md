@@ -28,7 +28,7 @@ Share sale and purchase · PT. Cyber Valley Estate · draft heads for the notari
 |---|---|
 | **Shares** | **80** shares of the Company (**1%** of 8,040) |
 | **Price** | **par** — **Rp 200,000,000** total (Rp 2,500,000 per share) |
-| **Basis** | deliberate entry economics for accepting the office of President Director and personal risk of the role; not a market valuation of the Company |
+| **Basis** | the agreed company valuation is the issued and fully paid capital — **Rp 20,100,000,000 for 8,040 shares** ([[articles of association]] Article 4), which is Rp 2,500,000 per share; the price equals that valuation exactly: 80 × Rp 2,500,000 = Rp 200,000,000 |
 
 Option strike for the separate option pool remains **USD 4,000,000** company valuation under [[cve/ceo]] §6 — different instrument, later sales from founders.
 
