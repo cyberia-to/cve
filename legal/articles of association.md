@@ -186,11 +186,25 @@ The Company is established for an unlimited period of time.
 3. The Company's financial year runs from 1 January to 31 December. At the end of December of each year the Company's books are closed.
 4. The Board of Directors prepares the annual report and makes it available at the Company's office for inspection by shareholders from the date of the notice of the annual GMS.
 
-## Article 18 — Application of profit and dividends
+## Article 18 — Dividends
 
-1. The Company's net profit in a financial year, as shown in the balance sheet and profit and loss account ratified by the annual GMS and constituting a positive profit balance, is applied in the manner determined by that GMS.
-2. If the profit and loss account for a financial year shows a loss that cannot be covered by the reserve fund, the loss shall remain recorded in the profit and loss account, and in subsequent financial years the Company shall be deemed to have made no profit until the recorded loss has been fully covered.
+1. Cadence. The Company distributes distributable cash to the shareholders every moon cycle (one new moon to the next; *bulan*), and in no event less often than once per calendar quarter. Distribution is the rule; retention is the exception and requires an affirmative GMS resolution.
+2. Moonly interim dividend — mandatory. Within 10 (ten) business days of the end of each moon cycle the Board of Directors resolves, and the Board of Commissioners approves, an interim dividend equal to the distributable cash of that cycle under Article 5 of the [[shareholders agreement]]. Interim dividends are expressly permitted by these Articles, as [UU 40/2007 Art. 72(1)](https://jdih.kemenkeu.go.id/fulltext/2007/40TAHUN2007UU.htm) requires. Approval may be withheld only where a test in paragraph (3) of this Article 18 fails, and only by written notice stating which test and the figures. Discretion is not a ground.
+3. Objective tests — the only lawful grounds to withhold:
+   a. after payment, net assets remain at least the issued and paid-up capital plus the statutory reserve accumulated under Article 19 of these Articles — [UU 40/2007 Art. 72(2)](https://jdih.kemenkeu.go.id/fulltext/2007/40TAHUN2007UU.htm);
+   b. the Company can meet its debts falling due in the following 3 (three) moon cycles;
+   c. cumulative realised profit for the current financial year is positive.
+   The figures are certified by the Company's accountant; the tests are arithmetic, not opinion.
+4. Annual true-up. The final dividend for a financial year is the net profit after the reserve allocation under Article 19 of these Articles, less interim dividends already paid during that year, and is distributed at the annual GMS unless the GMS resolves otherwise — [UU 40/2007 Art. 71(2)](https://jdih.kemenkeu.go.id/fulltext/2007/40TAHUN2007UU.htm).
+5. Statutory clawback. If a financial year closes at a loss, interim dividends of that year are returned by the shareholders — [UU 40/2007 Art. 72(5)](https://jdih.kemenkeu.go.id/fulltext/2007/40TAHUN2007UU.htm); test (c) of paragraph (3) exists to keep this theoretical. A loss not covered by the reserve carries forward, and the Company is deemed to have made no profit until it is covered.
+6. Payment runs pro rata to shareholding, within 5 (five) business days of approval, through the maker/authorizer mandate of Article 12(4) of these Articles.
 
-## Article 19 — Closing provision
+## Article 19 — Statutory reserve
+
+1. While the reserve stands below 20% (twenty percent) of the issued and paid-up capital, the Company sets aside 5% (five percent) of the net profit of each profitable financial year into the reserve; the remaining 95% is subject to Article 18 of these Articles. Dividends are payable from the first profitable year — the 20% is a ceiling on the reserve, never a precondition for distribution. Once the reserve reaches 20%, allocation stops — [UU 40/2007 Art. 70](https://jdih.kemenkeu.go.id/fulltext/2007/40TAHUN2007UU.htm).
+2. The reserve is used only to cover losses not met by other reserves.
+3. Any excess above 20% is applied as the GMS resolves.
+
+## Article 20 — Closing provision
 
 Anything not or insufficiently regulated in these Articles of Association shall be resolved by the GMS.

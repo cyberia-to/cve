@@ -61,7 +61,9 @@ Cash received by the Company is applied in the following order before any amount
 3. **distributable cash** — dividends or other distributions to Shareholders;
 4. the approved operating moonly budget (including the operational account under [[cve/ceo]]).
 
-The split of distributable cash between **dividends** and **retained project treasury** is decided by the GMS under [[articles of association]] Article 18. Working proposal (not binding until GMS resolves): **50/50**.
+Distributable cash under item 3 is paid out every moon cycle as a mandatory interim dividend under [[articles of association]] Article 18, subject only to the objective tests in its paragraph (3). The split between **dividends** and **retained project treasury** at the annual true-up is decided by the GMS under [[articles of association]] Article 18(4). Working proposal (not binding until GMS resolves): **50/50**.
+
+Each Shareholder shall procure that the organs of the Company adopt and approve every distribution due under Article 18 of the [[articles of association]]. Withholding approval where no test under Article 18(3) has failed is a material breach of this Agreement, actionable by any Shareholder against the withholding party for the dividend so withheld.
 
 This Article does not set CEO compensation — that is [[cve/ceo]] only.
 
