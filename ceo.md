@@ -152,15 +152,9 @@ Between rows: log-interpolate val.
 
 ---
 
-## 8. Exit (thin)
+## 8. Exit
 
-| | |
-|---|---|
-| **Cause / Bad Leaver** | serious fiduciary breach; crime harming the Company; material breach of this deal / Articles uncured 30 days after notice |
-| **Otherwise** | CEO keeps ladder equity already earned from closed steps; options per time earned |
-| **Bad Leaver** | founders may buy back option/ladder shares acquired under this deal **at cost** paid by CEO |
-
-No separate “open leaver epic.” SHA among shareholders stays for shareholder-to-shareholder mechanics only if still needed for the admission deed — **not** part of this page’s open list.
+On exit, whatever the cause, the CEO keeps the equity already his: ladder equity earned from closed steps, options per time earned, and the entry stake. Shares held are ordinary shares under the [[articles of association]] and the [[shareholders agreement]] — ROFR and tag-along apply to any later sale, the same as for every shareholder.
 
 ---
 
