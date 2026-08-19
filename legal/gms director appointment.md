@@ -13,7 +13,7 @@ Circular resolution of the General Meeting of Shareholders · PT. Cyber Valley E
 > **One closing with [[share sale entry]].**  
 > Appointment as President Director and purchase of **1% (80 shares)** are **one condition package**:  
 > **no completed share sale → no appointment takes effect; no appointment → share sale does not complete.**  
-> Commercial terms of the role: [[cve/ceo]].
+> Commercial terms of the role: [[ceo]].
 
 ## 1. Authority
 
@@ -45,19 +45,19 @@ Effective only upon Closing under §4:
 One person may not sit on both organs; Voinova's seat on the Board of Commissioners ends as her seat on the Board of Directors begins. The Board of Commissioners continues with Starodubtsev as its sole member under Articles 15(4).
 
 **3.2 Dual accounts.**  
-To confirm the dual-account regime in [[cve/ceo]] §§2–4: strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **one Commissioner**; monthly funding transfer strategic → operational.
+To confirm the dual-account regime in [[ceo]] §§2–4: strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **one Commissioner**; monthly funding transfer strategic → operational.
 
 **3.3 Land and credit limits.**  
-To bind the President Director to [[cve/ceo]] §5: commissioner approval for HGB / hak sewa below **USD 3,000 per are**; **no power** to mortgage Company real estate for loans.
+To bind the President Director to [[ceo]] §5: commissioner approval for HGB / hak sewa below **USD 3,000 per are**; **no power** to mortgage Company real estate for loans.
 
 **3.4 Entry equity.**  
 To approve the transfer of **80 shares (1%)** from Alisa Voinova to the President Director at **Rp 200,000,000** — the price at the agreed company valuation of Rp 20,100,000,000 (the issued and fully paid capital, Rp 2,500,000 per share) — under [[share sale entry]], as part of the same Closing.
 
 **3.5 Option framework.**  
-To note the option package in [[cve/ceo]] §6 (up to 10% @ USD 4M, 5% / 2y + 5% / 7y, **founder sale only**) for implementation by separate share sale / option deeds when exercised — not a new issue of capital for that package.
+To note the option package in [[ceo]] §6 (up to 10% @ USD 4M, 5% / 2y + 5% / 7y, **founder sale only**) for implementation by separate share sale / option deeds when exercised — not a new issue of capital for that package.
 
 **3.6 KPI.**  
-To note the capitalisation ladder in [[cve/ceo]] §7 as the commercial success metric between the parties; not a statutory KPI under the Articles unless later adopted by GMS for bonus purposes.
+To note the capitalisation ladder in [[ceo]] §7 as the commercial success metric between the parties; not a statutory KPI under the Articles unless later adopted by GMS for bonus purposes.
 
 ## 4. Closing — single condition package
 
