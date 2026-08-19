@@ -94,7 +94,6 @@ The Company is established for an unlimited period of time.
 6. If the President Director is absent or unavailable for any reason, which need not be proven to third parties, the GMS is chaired by the Deputy President Director.
 7. If the Deputy President Director is absent or unavailable, the GMS is chaired by a Director appointed by the President Director or the Deputy President Director.
 8. If all Directors are absent or unavailable, the GMS is chaired by a member of the Board of Commissioners.
-9. If all members of the Board of Commissioners are absent or unavailable, the GMS is chaired by a person elected by and from among those present at the meeting.
 
 ## Article 10 — Quorum, voting rights and resolutions of the GMS
 
