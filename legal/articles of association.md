@@ -191,12 +191,6 @@ The Company is established for an unlimited period of time.
 1. The Company's net profit in a financial year, as shown in the balance sheet and profit and loss account ratified by the annual GMS and constituting a positive profit balance, is applied in the manner determined by that GMS.
 2. If the profit and loss account for a financial year shows a loss that cannot be covered by the reserve fund, the loss shall remain recorded in the profit and loss account, and in subsequent financial years the Company shall be deemed to have made no profit until the recorded loss has been fully covered.
 
-## Article 19 — Use of reserves
-
-1. Net profit is set aside as reserves until they reach 20% (twenty percent) of the issued and paid-up capital, and may only be used to cover losses not met by other reserves.
-2. If the reserves exceed 20% (twenty percent), the GMS may resolve that the excess be used for the needs of the Company.
-3. Reserves referred to in paragraph (1) not yet used to cover losses, and the excess reserves referred to in paragraph (2) whose use has not been determined by the GMS, shall be managed by the Board of Directors in an appropriate manner in its judgment, after obtaining the approval of the Board of Commissioners and with due observance of laws and regulations, so as to generate profit.
-
-## Article 20 — Closing provision
+## Article 19 — Closing provision
 
 Anything not or insufficiently regulated in these Articles of Association shall be resolved by the GMS.
