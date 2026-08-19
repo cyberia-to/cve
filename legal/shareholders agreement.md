@@ -58,10 +58,8 @@ Cash received by the Company is applied in the following order before any amount
 
 1. taxes and mandatory payments;
 2. direct costs of the relevant transaction or project;
-3. the approved operating budget (including the operational account under [[cve/ceo]]);
-4. development and infrastructure reserve;
-5. the Company's minimum cash reserve (amount set by GMS);
-6. **distributable cash** — dividends or other distributions to Shareholders.
+3. **distributable cash** — dividends or other distributions to Shareholders;
+4. the approved operating monthly budget (including the operational account under [[cve/ceo]]).
 
 The split of distributable cash between **dividends** and **retained project treasury** is decided by the GMS under [[articles of association]] Articles 18–19. Working proposal (not binding until GMS resolves): **50/50**.
 
