@@ -17,7 +17,7 @@ Corporate pack index: [[dzin]] · company page: [[cve]]
 | [[gms director appointment]] | GMS appoints Director at Closing |
 | [[share sale entry]] | 1% at par to Director at Closing |
 | [[ceo]] | ops · options · KPI ladder |
-| [[shareholders agreement]] | ROFR, tag-along, leaver, cash waterfall |
+| [[shareholders agreement]] | ROFR, tag-along, moonly dividend cadence, cash waterfall |
 
 ## Constitution
 
