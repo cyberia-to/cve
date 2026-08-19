@@ -12,7 +12,7 @@ English text · supplementary to Articles 5 and 7 of the [[articles of associati
 
 > Source: bilingual edition `CVEShareholdersAgreementIDEN`. The Bahasa Indonesia text prevails on any discrepancy. This page carries the English column only.
 
-Part of the [[dzin]] corporate pack. This is the instrument that admits a new member: 80 shares move from Alisa Voinova to Oleksandr Fedorov at par, and the Director's leaver status is bound to a put and call option.
+Part of the [[dzin]] corporate pack. This is the instrument that admits a new member: 80 shares move from Alisa Voinova to Oleksandr Fedorov at par, and every shareholder is paid on the moonly dividend cadence.
 
 ## Parties
 
@@ -20,7 +20,7 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Depu
 
 ## Preamble
 
-1. This Agreement is made to supplement Articles 5 and 7 of the Company's Articles of Association with contractual terms binding between the Shareholders personally, including tag-along rights, a closed list of grounds for withholding consent to a transfer, and a put/call option linked to the Director's leaver status.
+1. This Agreement is made to supplement Articles 5 and 7 of the Company's Articles of Association with contractual terms binding between the Shareholders personally, including tag-along rights, a closed list of grounds for withholding consent to a transfer, and the mandatory dividend cadence.
 2. This Agreement is entered into in connection with the transfer of 80 (eighty) shares from Alisa Voinova to Oleksandr Fedorov at par value (Rp 200,000,000.00), as approved by the shareholders' circular resolution and set out in the Share Sale Deed.
 3. Where this Agreement and the Articles of Association conflict on a matter binding third parties or the Company vis-à-vis third parties, the Articles of Association prevail (Law No. 40 of 2007). As between the Shareholders themselves, this Agreement binds as a supplementary contract and must be performed in good faith, including by procuring that the GMS adopts resolutions consistent with it.
 
@@ -45,14 +45,7 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Depu
    d. the prospective transferee, or the transferring Shareholder, has an unresolved obligation owed to the Company.
 2. Outside those four grounds, GMS approval of a transfer that satisfies Articles 1 and 2 of this Agreement and Article 5(2) of the Articles of Association shall not be withheld, unreasonably delayed, or made subject to additional conditions.
 
-## Article 4 — Put and call option linked to President Director status
-
-1. If Oleksandr Fedorov's tenure as President Director ends through no fault of his own ("Good Leaver") — including resignation for health reasons, non-reappointment for reasons unrelated to performance or good faith, or removal by the GMS without the cause referred to in paragraph (3) — Fedorov shall have the right (a put option) to require the Company or the other Shareholders to purchase all of his shares at fair market value, determined by an independent appraiser mutually agreed or, absent agreement within 14 days, appointed by the Chairman of the Bali Provincial Chamber of Commerce and Industry (KADIN), payable within a maximum of 12 (twelve) months from the date of valuation.
-2. The Company or the other Shareholders hold an equivalent call option, exercisable on the same terms as referred to in paragraph (1), available within 90 (ninety) days of the ending of Fedorov's tenure as a Good Leaver.
-3. If Fedorov's tenure ends through removal for cause — comprising serious breach of fiduciary duty, a criminal act to the Company's detriment, or a material breach of the Articles of Association or this Agreement not cured within 30 days of notice (a "Bad Leaver") — the put and call options over his shares are exercised at his acquisition cost (Rp 200,000,000.00), not fair market value.
-4. The put and call options referred to in this Article do not apply to Alisa Voinova or Dmitry Starodubtsev, unless later agreed in writing by the Shareholders.
-
-## Article 5 — Distribution of cash and profit
+## Article 4 — Distribution of cash and profit
 
 Cash received by the Company is applied in the following order before any amount becomes available to Shareholders:
 
@@ -67,7 +60,7 @@ Each Shareholder shall procure that the organs of the Company adopt and approve 
 
 This Article does not set CEO compensation — that is [[cve/ceo]] only.
 
-## Article 6 — Miscellaneous
+## Article 5 — Miscellaneous
 
 1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee of shares who has acceded to it under Article 5(2) of the Articles of Association.
 2. Amendments to this Agreement are valid only if made in writing and signed by all Shareholders.

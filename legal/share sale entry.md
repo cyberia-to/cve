@@ -56,7 +56,7 @@ At Closing:
 
 - Buyer is **President Director** and **1% shareholder**.  
 - Further economics (options from founders, KPI ladder): [[cve/ceo]].  
-- Transfer rules going forward: [[articles of association]] + [[shareholders agreement]] (ROFR, tag-along, consent list, leaver put/call as written there).
+- Transfer rules going forward: [[articles of association]] + [[shareholders agreement]] (ROFR, tag-along, consent list as written there).
 
 ## 6. Signatories
 

@@ -19,7 +19,7 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 | 1 | [[gms director appointment]] | GMS seats the board — Fedorov President Director, Voinova Deputy President Director, Starodubtsev President Commissioner — **effective only at Closing** |
 | 2 | [[share sale entry]] | founder sells **1% (80 shares) at par** to the President Director — **only at Closing** |
 | 3 | [[cve/ceo]] | how CEO runs ops + options + KPI ladder after entry |
-| 4 | [[shareholders agreement]] | ROFR, tag-along, consent list, leaver put/call among shareholders |
+| 4 | [[shareholders agreement]] | ROFR, tag-along, consent list, moonly dividend cadence among shareholders |
 
 **Rule:** buy 1% ↔ become President Director. No buy → no appointment. No appointment → no sale.
 
@@ -28,7 +28,7 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 | page | what |
 |---|---|
 | [[articles of association]] | Anggaran Dasar — capital, pre-emption, GMS powers, director authority |
-| [[shareholders agreement]] | ROFR, tag-along, leaver, **cash waterfall** among shareholders |
+| [[shareholders agreement]] | ROFR, tag-along, **moonly dividend cadence**, cash waterfall among shareholders |
 | [[preemption waiver letter]] | if a specific transfer still needs waiver |
 | [[cyber-valley/strategy/README\|strategy]] | what the estate sells and how it sequences (not shareholder cash split) |
 
