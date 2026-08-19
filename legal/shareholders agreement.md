@@ -16,7 +16,7 @@ Part of the [[dzin]] corporate pack. This is the instrument that admits a new me
 
 ## Parties
 
-This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, President Commissioner-designate, holder of 3,940 shares following the transfer referred to in paragraph 2; (2) DMITRY STARODUBTSEV, Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, Director-designate, holder of 80 shares following the transfer; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it.
+This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Deputy President Director-designate, holder of 3,940 shares following the transfer referred to in paragraph 2; (2) DMITRY STARODUBTSEV, President Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, President Director-designate, holder of 80 shares following the transfer; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it.
 
 ## Preamble
 
@@ -45,9 +45,9 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Pres
    d. the prospective transferee, or the transferring Shareholder, has an unresolved obligation owed to the Company.
 2. Outside those four grounds, GMS approval of a transfer that satisfies Articles 1 and 2 of this Agreement and Article 5(2) of the Articles of Association shall not be withheld, unreasonably delayed, or made subject to additional conditions.
 
-## Article 4 — Put and call option linked to Director status
+## Article 4 — Put and call option linked to President Director status
 
-1. If Oleksandr Fedorov's tenure as Director ends through no fault of his own ("Good Leaver") — including resignation for health reasons, non-reappointment for reasons unrelated to performance or good faith, or removal by the GMS without the cause referred to in paragraph (3) — Fedorov shall have the right (a put option) to require the Company or the other Shareholders to purchase all of his shares at fair market value, determined by an independent appraiser mutually agreed or, absent agreement within 14 days, appointed by the Chairman of the Bali Provincial Chamber of Commerce and Industry (KADIN), payable within a maximum of 12 (twelve) months from the date of valuation.
+1. If Oleksandr Fedorov's tenure as President Director ends through no fault of his own ("Good Leaver") — including resignation for health reasons, non-reappointment for reasons unrelated to performance or good faith, or removal by the GMS without the cause referred to in paragraph (3) — Fedorov shall have the right (a put option) to require the Company or the other Shareholders to purchase all of his shares at fair market value, determined by an independent appraiser mutually agreed or, absent agreement within 14 days, appointed by the Chairman of the Bali Provincial Chamber of Commerce and Industry (KADIN), payable within a maximum of 12 (twelve) months from the date of valuation.
 2. The Company or the other Shareholders hold an equivalent call option, exercisable on the same terms as referred to in paragraph (1), available within 90 (ninety) days of the ending of Fedorov's tenure as a Good Leaver.
 3. If Fedorov's tenure ends through removal for cause — comprising serious breach of fiduciary duty, a criminal act to the Company's detriment, or a material breach of the Articles of Association or this Agreement not cured within 30 days of notice (a "Bad Leaver") — the put and call options over his shares are exercised at his acquisition cost (Rp 200,000,000.00), not fair market value.
 4. The put and call options referred to in this Article do not apply to Alisa Voinova or Dmitry Starodubtsev, unless later agreed in writing by the Shareholders.
@@ -77,6 +77,6 @@ This Article does not set CEO compensation — that is [[cve/ceo]] only.
 
 | party | office |
 |---|---|
-| Alisa Voinova | President Commissioner (designate) |
-| Dmitry Starodubtsev | Commissioner |
-| Oleksandr Fedorov | Director (designate) |
+| Alisa Voinova | Deputy President Director (designate) |
+| Dmitry Starodubtsev | President Commissioner |
+| Oleksandr Fedorov | President Director (designate) |

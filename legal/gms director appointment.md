@@ -6,12 +6,12 @@ crystal-domain: socio
 crystal-size: article
 icon: "📋"
 ---
-# GMS — appointment of Director
+# GMS — appointment of President Director
 
 Circular resolution of the General Meeting of Shareholders · PT. Cyber Valley Estate · draft for notary
 
 > **One closing with [[share sale entry]].**  
-> Appointment as Director and purchase of **1% (80 shares)** are **one condition package**:  
+> Appointment as President Director and purchase of **1% (80 shares)** are **one condition package**:  
 > **no completed share sale → no appointment takes effect; no appointment → share sale does not complete.**  
 > Commercial terms of the role: [[cve/ceo]].
 
@@ -33,17 +33,25 @@ Numbers to match the executed share ledger and [[shareholders agreement]] preamb
 
 The Shareholders resolve as follows:
 
-**3.1 Appointment (conditional).**  
-To appoint **[Full name of CEO]** as **Director** of the Company for the term under the Articles, **effective only upon Closing** under §4.
+**3.1 Board composition (conditional).**  
+Effective only upon Closing under §4:
+
+| person | office |
+|---|---|
+| **Oleksandr Fedorov** | appointed **President Director** for the term under the Articles |
+| **Alisa Voinova** | resigns as President Commissioner; appointed **Deputy President Director** |
+| **Dmitry Starodubtsev** | designated **President Commissioner** |
+
+One person may not sit on both organs; Voinova's seat on the Board of Commissioners ends as her seat on the Board of Directors begins. The Board of Commissioners continues with Starodubtsev as its sole member under Articles 15(4).
 
 **3.2 Dual accounts.**  
 To confirm the dual-account regime in [[cve/ceo]] §§2–4: strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **one Commissioner**; monthly funding transfer strategic → operational.
 
 **3.3 Land and credit limits.**  
-To bind the Director to [[cve/ceo]] §5: commissioner approval for HGB / hak sewa below **USD 3,000 per are**; **no power** to mortgage Company real estate for loans.
+To bind the President Director to [[cve/ceo]] §5: commissioner approval for HGB / hak sewa below **USD 3,000 per are**; **no power** to mortgage Company real estate for loans.
 
 **3.4 Entry equity.**  
-To approve the transfer of **80 shares (1%)** from Alisa Voinova to the Director at **par (Rp 200,000,000)** under [[share sale entry]], as part of the same Closing.
+To approve the transfer of **80 shares (1%)** from Alisa Voinova to the President Director at **par (Rp 200,000,000)** under [[share sale entry]], as part of the same Closing.
 
 **3.5 Option framework.**  
 To note the option package in [[cve/ceo]] §6 (up to 10% @ USD 4M, 5% / 2y + 5% / 7y, **founder sale only**) for implementation by separate share sale / option deeds when exercised — not a new issue of capital for that package.
@@ -57,12 +65,12 @@ To note the capitalisation ladder in [[cve/ceo]] §7 as the commercial success m
 
 | # | instrument | effect |
 |---|---|---|
-| A | This GMS resolution signed by all shareholders | appointment **authorised**, effective only at Closing |
+| A | This GMS resolution signed by all shareholders | board composition **authorised**, effective only at Closing |
 | B | [[share sale entry]] signed and price paid / receipted | **80 shares** transfer |
 | C | Share register updated | buyer registered as shareholder |
-| D | Director accepts office in writing | office begins |
+| D | President Director accepts office in writing | offices begin |
 
-**If B fails** (no purchase / no payment / no registration) → **A does not take effect**; no Director appointment.  
+**If B fails** (no purchase / no payment / no registration) → **A does not take effect**; no appointment, board seats stay as they are.  
 **If A fails** → **B does not complete**; shares stay with seller.  
 
 Neither side may demand performance of one without the other.
@@ -71,8 +79,8 @@ Neither side may demand performance of one without the other.
 
 | | |
 |---|---|
-| Alisa Voinova | shareholder / President Commissioner |
-| Dmitry Starodubtsev | shareholder / Commissioner |
-| [CEO] | accepts office **at Closing only** |
+| Alisa Voinova | shareholder / President Commissioner (until Closing); Deputy President Director from Closing |
+| Dmitry Starodubtsev | shareholder / President Commissioner from Closing |
+| Oleksandr Fedorov | accepts the office of President Director **at Closing only** |
 
 Bahasa Indonesia prevails on the notarial form if executed bilingually.

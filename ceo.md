@@ -25,10 +25,10 @@ Cannot unglue:
 | leg | instrument |
 |---|---|
 | **Buy 1% (80 shares) at par** from founder | [[share sale entry]] |
-| **Appoint as Director** | [[gms director appointment]] |
+| **Appoint as President Director** | [[gms director appointment]] |
 
 **Closing rule:** buy completes ↔ appointment takes effect.  
-No completed purchase → **no Director**. No appointment → **sale does not complete**.
+No completed purchase → **no President Director**. No appointment → **sale does not complete**.
 
 Same-day package with [[shareholders agreement]] accession as needed.  
 This page is **how the CEO works and is paid in options + ladder** after entry. Entry itself is GMS + share sale.

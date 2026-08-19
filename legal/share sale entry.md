@@ -11,7 +11,7 @@ icon: "✍️"
 Share sale and purchase · PT. Cyber Valley Estate · draft heads for the notarial deed
 
 > **One closing with [[gms director appointment]].**  
-> This sale **is** the equity condition of appointing the CEO as Director.  
+> This sale **is** the equity condition of appointing the CEO as President Director.  
 > **Buy → appoint. No buy → no appoint.** Not two optional deals.
 
 ## 1. Parties
@@ -19,7 +19,7 @@ Share sale and purchase · PT. Cyber Valley Estate · draft heads for the notari
 | | |
 |---|---|
 | **Seller** | Alisa Voinova |
-| **Buyer** | [Full name of CEO] — Director-designate under [[gms director appointment]] |
+| **Buyer** | Oleksandr Fedorov — President Director-designate under [[gms director appointment]] |
 | **Company** | PT. Cyber Valley Estate — registers the transfer |
 
 ## 2. Object and price
@@ -28,7 +28,7 @@ Share sale and purchase · PT. Cyber Valley Estate · draft heads for the notari
 |---|---|
 | **Shares** | **80** shares of the Company (**1%** of 8,040) |
 | **Price** | **par** — **Rp 200,000,000** total (Rp 2,500,000 per share) |
-| **Basis** | deliberate entry economics for accepting Director office and personal risk of the role; not a market valuation of the Company |
+| **Basis** | deliberate entry economics for accepting the office of President Director and personal risk of the role; not a market valuation of the Company |
 
 Option strike for the separate option pool remains **USD 4,000,000** company valuation under [[cve/ceo]] §6 — different instrument, later sales from founders.
 
@@ -37,7 +37,7 @@ Option strike for the separate option pool remains **USD 4,000,000** company val
 | | |
 |---|---|
 | **Condition for Buyer** | GMS has adopted [[gms director appointment]] and appointment becomes effective **only at Closing** of this sale |
-| **Condition for Seller / Company** | Buyer pays the price and accepts office as Director at Closing |
+| **Condition for Seller / Company** | Buyer pays the price and accepts office as President Director at Closing |
 | **Failure** | If either leg fails, **neither** share transfer nor appointment completes |
 
 Same-day exchange is preferred: money, signed sale deed, signed GMS, acceptance of office, register update.
@@ -49,12 +49,12 @@ At Closing:
 1. Buyer pays **Rp 200,000,000** to Seller (or as escrow instructs).  
 2. Seller delivers executed share transfer / sale deed.  
 3. Company updates the share register and issues certificate if used.  
-4. Buyer delivers written acceptance of Director office.  
+4. Buyer delivers written acceptance of the office of President Director.  
 5. Parties sign / reaffirm [[shareholders agreement]] accession if required for new shareholder.
 
 ## 5. After Closing
 
-- Buyer is **Director** and **1% shareholder**.  
+- Buyer is **President Director** and **1% shareholder**.  
 - Further economics (options from founders, KPI ladder): [[cve/ceo]].  
 - Transfer rules going forward: [[articles of association]] + [[shareholders agreement]] (ROFR, tag-along, consent list, leaver put/call as written there).
 
@@ -63,7 +63,7 @@ At Closing:
 | party | capacity |
 |---|---|
 | Alisa Voinova | seller |
-| [CEO] | buyer / Director at Closing |
+| Oleksandr Fedorov | buyer / President Director at Closing |
 | Company (Director/Commissioner as required) | registration |
 
 Bahasa Indonesia prevails on the notarial deed if executed bilingually.

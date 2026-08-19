@@ -16,12 +16,12 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 
 | # | document | what |
 |---|---|---|
-| 1 | [[gms director appointment]] | GMS appoints Director — **effective only at Closing** |
-| 2 | [[share sale entry]] | founder sells **1% (80 shares) at par** to Director — **only at Closing** |
+| 1 | [[gms director appointment]] | GMS seats the board — Fedorov President Director, Voinova Deputy President Director, Starodubtsev President Commissioner — **effective only at Closing** |
+| 2 | [[share sale entry]] | founder sells **1% (80 shares) at par** to the President Director — **only at Closing** |
 | 3 | [[cve/ceo]] | how CEO runs ops + options + KPI ladder after entry |
 | 4 | [[shareholders agreement]] | ROFR, tag-along, consent list, leaver put/call among shareholders |
 
-**Rule:** buy 1% ↔ become Director. No buy → no appointment. No appointment → no sale.
+**Rule:** buy 1% ↔ become President Director. No buy → no appointment. No appointment → no sale.
 
 ## Company constitution
 
