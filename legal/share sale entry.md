@@ -67,3 +67,7 @@ At Closing:
 | Company (Director/Commissioner as required) | registration |
 
 Bahasa Indonesia prevails on the notarial deed if executed bilingually.
+
+## Notary draft (Tuti, 20 August 2026)
+
+[[legal/share sale entry/tuti jual beli saham]] — the sale as the notary drafted it, Indonesian. Same shares, same price at par; the condition package is absent, and Pasal 1 makes the signed agreement itself the receipt for the price.
