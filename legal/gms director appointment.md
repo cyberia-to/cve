@@ -84,3 +84,13 @@ Neither side may demand performance of one without the other.
 | Oleksandr Fedorov | accepts the office of President Director **at Closing only** |
 
 Bahasa Indonesia prevails on the notarial form if executed bilingually.
+
+## Notary drafts (Tuti, 20 August 2026)
+
+| page | what |
+|---|---|
+| [[legal/gms director appointment/tuti sirkular]] | circular resolution — transfer approval + board re-seat, Indonesian |
+| [[legal/gms director appointment/tuti surat pengunduran diri]] | resignations: Voinova as Direktur, Starodubtsev as Komisaris |
+| [[legal/gms director appointment/tuti surat pernyataan pengangkatan]] | acceptances: Fedorov Direktur, Voinova Komisaris Utama, Starodubtsev Komisaris |
+
+The notary's board layout differs from this page — Voinova takes Komisaris Utama and stays out of the Direksi; Starodubtsev is plain Komisaris; Fedorov is Direktur without the Utama title. The recitals also show the current registered board: Voinova sitting Direktur, Starodubtsev sitting Komisaris.
