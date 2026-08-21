@@ -98,6 +98,7 @@ Once per month (or written circular):
 | **Independence** | Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
 | **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of CEO and founders |
 | **Source** | **only sale/transfer from founders** — **no new share issue** for this package |
+| **ROFR carve-out** | Transfers of option shares under this §6, from a founder to the CEO on exercise, are **exempt from the SHA Article 1 matching right** — pre-cleared by all Shareholders as parties to this deal |
 
 Options ≠ KPI ladder (§7). Personal upside for the chair; shares come from founders’ holdings, not dilution by print.
 
@@ -158,6 +159,11 @@ Between rows: log-interpolate val.
 
 On exit, whatever the cause, the CEO keeps the equity already his: ladder equity earned from closed steps, options per time earned, and the entry stake. Shares held are ordinary shares under the [[articles of association]] and the [[shareholders agreement]] — ROFR and tag-along apply to any later sale, the same as for every shareholder.
 
+| trigger | rule |
+|---|---|
+| **Removal from Director office** (by founders, shareholders, or any party other than the CEO) | Takes effect only once the CEO's held shares are bought out at **market price**, no less than the CEO's own **cash invested** in them. No completed buyout → no removal. |
+| **CEO's own decision to leave** | CEO may first offer the shares to the founders and other shareholders, then to third parties — under the ROFR in the [[shareholders agreement]] — or keep the stake and continue to receive dividends. No obligation to sell. |
+
 ---
 
 ## 9. Not in this deal
@@ -176,3 +182,68 @@ Land commission grids, sub-project referral stacks, investment-raise %, Developm
 | CEO | offer | |
 
 Draft until signed.
+
+---
+
+## 11. Law & disputes
+
+| | |
+|---|---|
+| **Governing law** | Republic of Indonesia — same as [[articles of association]] and [[shareholders agreement]] |
+| **Disputes** | Good-faith negotiation first; unresolved after 30 days → arbitration under BANI rules, seat Bali, in English |
+
+---
+
+## 12. Pre-appointment liability
+
+| | |
+|---|---|
+| **Shield** | CEO bears no contractual liability to the Company or Shareholders for acts, obligations, breaches or facts arising **before** the date of appointment, unless CEO personally participated in them |
+| **Basis** | Company and Shareholders confirm disclosure to CEO of all known material debts, contracts (incl. MoUs, side letters, material oral arrangements), guarantees, judicial/administrative proceedings, tax exposure, land encumbrances, related-party arrangements and other liabilities as of the appointment date |
+
+---
+
+## 13. Legal defence — narrow indemnification
+
+| | |
+|---|---|
+| **Scope** | Company advances CEO's reasonable legal defence costs for third-party claims traceable to (a) facts pre-dating appointment, or (b) inaccuracy of the §12 disclosure — to the extent permitted by Indonesian law |
+| **Advance, not reimbursement** | Costs are advanced as incurred, not repaid after the fact |
+| **Carve-out from §9** | Narrows, not reopens, §9's exclusion of "multi-page indemnification" — a single-purpose defence-cost clause, not general indemnity for CEO's own acts in office |
+
+---
+
+## 14. Right to refuse
+
+| | |
+|---|---|
+| **Refusal** | CEO may decline to execute any instruction or sign any transaction that shows reasonable signs of illegality, lack of required corporate authority, or unjustified personal-liability risk to CEO |
+| **Documentation** | Material shareholder instructions outside ordinary operations must be given in writing |
+
+---
+
+## 15. Anti-circumvention
+
+| | |
+|---|---|
+| **Prohibited** | Unjustified dilution of CEO's stake; artificial suppression of company value ahead of a buyout or termination; below-market transfer of land, projects or other assets to related parties; manufactured debt or obligations — any act aimed at defeating CEO's economic rights under this page |
+| **Remedy** | Value for §6 options, §7 ladder and §8 buyout is computed **as if** the prohibited act had not occurred |
+
+---
+
+## 16. Change of control
+
+| | |
+|---|---|
+| **Trigger** | Sale of the Company, a controlling stake, a material part of the land bank, or a key project to a third party |
+| **CEO rights** | Tag-along already applies as an ordinary shareholder ([[shareholders agreement]] Art. 2); unvested §6 options accelerate to fully vested; unbanked §7 ladder steps in progress at signing are paid out at the transaction valuation |
+
+---
+
+## 17. Survival after departure
+
+| | |
+|---|---|
+| **Survival** | §12 shield and §13 defence-cost advance continue after CEO's departure, for the periods they cover, regardless of when a claim is brought |
+| **Acts in office** | Extends to CEO's good-faith acts within authority under §14 while in office, on the same defence-cost-advance basis as §13 |
+| **D&O cover** | Company maintains directors & officers insurance naming CEO, continuing for a tail period after departure |
