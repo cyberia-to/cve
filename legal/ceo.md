@@ -95,6 +95,8 @@ Once per month (or written circular):
 | **Pool** | up to **10%** of the company |
 | **Tranche A** | **5%** · exercise within **2 years** of start |
 | **Tranche B** | **5%** · exercise within **7 years** of start |
+| **Independence** | Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
+| **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of CEO and founders |
 | **Source** | **only sale/transfer from founders** — **no new share issue** for this package |
 
 Options ≠ KPI ladder (§7). Personal upside for the chair; shares come from founders’ holdings, not dilution by print.
