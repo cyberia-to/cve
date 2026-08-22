@@ -178,7 +178,7 @@ Land commission grids, sub-project referral stacks, investment-raise %, Developm
 |---|---|---|
 | PT Cyber Valley Estate | company | |
 | Commissioners | strategic gate | |
-| Founders (DS / AV) | option sellers | |
+| Founders (DS / AV) | option sellers; buyout funding obligors under §8 (see [[shareholders agreement]] Art. 5) | |
 | CEO | offer | |
 
 Draft until signed.
@@ -237,6 +237,7 @@ Draft until signed.
 |---|---|
 | **Trigger** | Sale of the Company, a controlling stake, a material part of the land bank, or a key project to a third party |
 | **CEO rights** | Tag-along already applies as an ordinary shareholder ([[shareholders agreement]] Art. 2); unvested §6 options accelerate to fully vested; unbanked §7 ladder steps in progress at signing are paid out at the transaction valuation |
+| **Interaction with §8** | If removal from Director office occurs in connection with a change of control, the CEO is entitled to the **greater of** the §16 treatment above and the §8 removal-buyout floor — not both cumulatively for the same shares. |
 
 ---
 

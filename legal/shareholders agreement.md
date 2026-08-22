@@ -61,7 +61,13 @@ Each Shareholder shall procure that the organs of the Company adopt and approve 
 
 This Article does not set CEO compensation — that is [[ceo]] only.
 
-## Article 5 — Miscellaneous
+## Article 5 — Funding of CEO buyout on removal
+
+1. Where [[ceo]] §8 requires a buyout of the CEO's shares upon removal from Director office, the Company shall first apply available capacity under Article 37 of Law No. 40 of 2007 (buyback of own shares, subject to the net-asset and 10%-of-capital limits stated there) to fund the purchase.
+2. Any shortfall between the Company's Article 37 capacity and the amount due under [[ceo]] §8 is funded by the other Shareholders, pro rata to their shareholding at the time of removal, within the timeline set in [[ceo]] §8.
+3. Each Shareholder, by signing this Agreement, accepts the funding obligation in paragraph 2 as a personal contractual commitment to the CEO, enforceable by the CEO as a third-party beneficiary of this Article (Article 1317 of the Indonesian Civil Code).
+
+## Article 6 — Miscellaneous
 
 1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee of shares who has acceded to it under Article 5(2) of the Articles of Association.
 2. Amendments to this Agreement are valid only if made in writing and signed by all Shareholders.
