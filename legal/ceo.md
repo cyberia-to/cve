@@ -98,7 +98,7 @@ Once per month (or written circular):
 | **Independence** | Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
 | **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of CEO and founders |
 | **Source** | **only sale/transfer from founders** — **no new share issue** for this package |
-| **ROFR carve-out** | Transfers of option shares under this §6, from a founder to the CEO on exercise, are **exempt from the SHA Article 1 matching right** — pre-cleared by all Shareholders as parties to this deal |
+| **ROFR** | Transfers of option shares under this §6 follow [[shareholders agreement]] Article 1: the other Shareholders have a **3 (three) day** window to take up the shares first; once it passes unexercised, the transfer to the CEO proceeds |
 
 Options ≠ KPI ladder (§7). Personal upside for the chair; shares come from founders’ holdings, not dilution by print.
 
@@ -248,4 +248,4 @@ Draft until signed.
 | **Survival** | §12 shield and §13 defence-cost advance continue after CEO's departure, for the periods they cover, regardless of when a claim is brought |
 | **Acts in office** | Extends to CEO's good-faith acts within authority under §14 while in office, on the same defence-cost-advance basis as §13 |
 | **D&O cover** | Company maintains directors & officers insurance naming CEO, continuing for a tail period after departure |
-| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission agreed with the CEO under the separate arrangements referenced in §9 survive removal or departure in full, regardless of cause — payable on their own terms for any deal sourced, introduced, or closed by the CEO before departure. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
+| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission agreed with the CEO under the separate arrangements referenced in §9 survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |

@@ -70,6 +70,7 @@ The Company is established for an unlimited period of time.
 1. A transfer of shares must be based on a deed of transfer signed by the transferor and the transferee or their lawful attorneys.
 2. The deed of transfer referred to in paragraph (1), or a copy thereof, shall be delivered to the Company.
 3. A shareholder intending to transfer shares must first offer them to the other shareholders, stating the price and terms of sale, and notify the Board of Directors in writing of the offer.
+4. The other shareholders may purchase the offered shares within 3 (three) days from the offer date, in proportion to their respective shareholdings.
 5. The offering shareholder may withdraw the offer after expiry of the period referred to in paragraph (4).
 6. A transfer of shares requires the approval of the competent authority where required by laws and regulations.
 7. From the day of the notice of a GMS until the day the GMS is held, transfers of shares are not permitted.
