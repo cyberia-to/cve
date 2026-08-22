@@ -161,14 +161,14 @@ On exit, whatever the cause, the CEO keeps the equity already his: ladder equity
 
 | trigger | rule |
 |---|---|
-| **Removal from Director office** (by founders, shareholders, or any party other than the CEO) | Takes effect only once the CEO's held shares are bought out at **market price**, no less than the CEO's own **cash invested** in them. No completed buyout → no removal. |
+| **Removal from Director office** (by founders, shareholders, or any party other than the CEO) | Takes effect only once **all of the CEO's held shares** (entry stake, vested option shares under §6, and KPI-ladder equity earned under §7) are bought out at the **greater of (a) market price** — set by an independent appraiser jointly appointed, or (failing agreement within 15 days) appointed by an agreed accounting/appraisal firm, final and binding absent manifest error — **and (b) USD 40,000 per 1% of the Company held by the CEO at the time of removal**, fully-diluted (e.g. 5% → USD 200,000, 10% → USD 400,000) — independent of the Rp 200,000,000 nominal consideration recorded in the [[share sale entry]] deed for registration purposes. (b) is a floor only: if the market-price appraisal under (a) is higher, (a) governs. No completed buyout → no removal. |
 | **CEO's own decision to leave** | CEO may first offer the shares to the founders and other shareholders, then to third parties — under the ROFR in the [[shareholders agreement]] — or keep the stake and continue to receive dividends. No obligation to sell. |
 
 ---
 
 ## 9. Not in this deal
 
-Land commission grids, sub-project referral stacks, investment-raise %, DevelopmentCo menus, multi-page indemnification, fixed salary as a negotiated term (ops budget only).
+Land commission grids, sub-project referral stacks, investment-raise %, DevelopmentCo menus, multi-page indemnification, fixed salary as a negotiated term (ops budget only) — terms live in separate documents, but survival on departure is confirmed by §17.
 
 ---
 
@@ -207,7 +207,7 @@ Draft until signed.
 
 | | |
 |---|---|
-| **Scope** | Company advances CEO's reasonable legal defence costs for third-party claims traceable to (a) facts pre-dating appointment, or (b) inaccuracy of the §12 disclosure — to the extent permitted by Indonesian law |
+| **Scope** | Company advances CEO's reasonable legal defence costs, and indemnifies CEO, for third-party claims (incl. tax penalties/interest) traceable to (a) facts pre-dating appointment, (b) inaccuracy of the §12 disclosure, or (c) an error or omission by the Company's appointed accountant/tax adviser where CEO relied on them in good faith with no actual knowledge of the error — to the extent permitted by Indonesian law, save for CEO's own fraud, wilful misconduct or gross negligence |
 | **Advance, not reimbursement** | Costs are advanced as incurred, not repaid after the fact |
 | **Carve-out from §9** | Narrows, not reopens, §9's exclusion of "multi-page indemnification" — a single-purpose defence-cost clause, not general indemnity for CEO's own acts in office |
 
@@ -247,3 +247,4 @@ Draft until signed.
 | **Survival** | §12 shield and §13 defence-cost advance continue after CEO's departure, for the periods they cover, regardless of when a claim is brought |
 | **Acts in office** | Extends to CEO's good-faith acts within authority under §14 while in office, on the same defence-cost-advance basis as §13 |
 | **D&O cover** | Company maintains directors & officers insurance naming CEO, continuing for a tail period after departure |
+| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission agreed with the CEO under the separate arrangements referenced in §9 survive removal or departure in full, regardless of cause — payable on their own terms for any deal sourced, introduced, or closed by the CEO before departure. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |

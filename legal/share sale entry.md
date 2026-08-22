@@ -30,7 +30,7 @@ Share sale and purchase · PT. Cyber Valley Estate · draft heads for the notari
 | **Price** | **par** — **Rp 200,000,000** total (Rp 2,500,000 per share) |
 | **Basis** | the agreed company valuation is the issued and fully paid capital — **Rp 20,100,000,000 for 8,040 shares** ([[articles of association]] Article 4), which is Rp 2,500,000 per share; the price equals that valuation exactly: 80 × Rp 2,500,000 = Rp 200,000,000 |
 
-Option strike for the separate option pool remains **USD 4,000,000** company valuation under [[ceo]] §6 — different instrument, later sales from founders.
+Option strike for the separate option pool remains **USD 4,000,000** company valuation under [[ceo]] §6 — different instrument, later sales from founders. The removal-buyout floor in [[ceo]] §8 (USD 40,000 per 1% held) is a separate protection term, not this transaction price.
 
 ## 3. Condition package (cannot unglue)
 
@@ -56,7 +56,7 @@ At Closing:
 
 - Buyer is **President Director** and **1% shareholder**.  
 - Further economics (options from founders, KPI ladder): [[ceo]].  
-- Transfer rules going forward: [[articles of association]] + [[shareholders agreement]] (ROFR, tag-along, consent list as written there).
+- Transfer rules going forward: [[articles of association]] + [[shareholders agreement]] (ROFR, tag-along, consent list); leaver/removal buyout mechanism: [[ceo]] §8.
 
 ## 6. Signatories
 
