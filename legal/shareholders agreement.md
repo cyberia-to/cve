@@ -27,10 +27,10 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Depu
 ## Article 1 — Right of first refusal
 
 1. A Shareholder intending to sell or transfer all or part of its shares (the "Selling Shareholder") shall deliver a written notice (the "Offer Notice") to the other Shareholders, stating the number of shares, the price and all material terms of the proposed transaction, at least 30 (thirty) days before the intended sale.
-2. Within 14 (fourteen) days of the date of the Offer Notice, the other Shareholders shall have the right — but not the obligation — to purchase all (not part) of the offered shares at the same price and on the same terms, in proportion to their shareholding or as they otherwise agree among themselves (the "Matching Right").
+2. Within 3 (three) days of the date of the Offer Notice, the other Shareholders shall have the right — but not the obligation — to purchase all (not part) of the offered shares at the same price and on the same terms, in proportion to their shareholding or as they otherwise agree among themselves (the "Matching Right").
 3. If the Matching Right is not exercised over all of the offered shares within that period, the Selling Shareholder may sell the offered shares to a third party within the following 60 (sixty) days, at a price no lower and on terms no more favourable to the buyer than those stated in the Offer Notice, subject to Article 3 of this Agreement and Articles 5(2) and 7(8) of the Articles of Association.
 4. If the sale to a third party is not completed within the 60 (sixty)-day period referred to in paragraph (3), the Matching Right procedure under this Article resets and applies in full before the Selling Shareholder may re-offer its shares.
-5. This Article does not apply to a transfer of shares from a Shareholder to the CEO implementing the option package under [[ceo]] §6. Such a transfer requires no Offer Notice and no Matching Right under this Article — pre-cleared by all Shareholders as parties to this Agreement.
+5. A transfer of shares from a Shareholder to the CEO implementing the option package under [[ceo]] §6 is subject to this Article. The other Shareholders keep the Matching Right and have the 3 (three) day window under paragraph 2 to take up the shares first; where the window passes unexercised, the transfer to the CEO proceeds and no further approval under this Article is required.
 
 ## Article 2 — Tag-along rights
 
