@@ -18,9 +18,11 @@ Personal instrument from the **Owners** (Alisa Voinova, Dmitry Starodubtsev) to 
 | party | role |
 |---|---|
 | PT Cyber Valley Estate | Company (PT PMA, est. 2022, Desa Gesing/Buleleng) |
-| Alisa Voinova ("Owner 1") | 50% shareholder, current sole Director (term from 04.01.2022, expires ~04.01.2027) |
-| Dmitry Starodubtsev ("Owner 2") | 50% shareholder, Commissioner |
-| Oleksandr Fedorov ("Alex") | Incoming Director — same person as CEO in [[ceo]] / President Director in [[gms director appointment]] |
+| Alisa Voinova ("Owner 1") | 50% shareholder pre-Closing, **49% post-Closing** (3,940/8,040 shares), current sole Director (term from 04.01.2022, expires ~04.01.2027) |
+| Dmitry Starodubtsev ("Owner 2") | 50% shareholder throughout (4,020/8,040 shares), Commissioner |
+| Oleksandr Fedorov ("Alex") | Incoming Director — same person as CEO in [[ceo]] / President Director in [[gms director appointment]] — **becomes 1% shareholder at Closing** (80/8,040 shares) under [[share sale entry]], so a third party to this agreement's own Owner/Director split ends up an owner too |
+
+Shareholding figures are the post-Closing state under [[share sale entry]] §2 and [[gms director appointment]] §2/§3.4 — Alex is not an "Owner" for the purposes of this agreement (he gives no indemnity, only receives one) even though he holds equity from the same Closing that brings him into office.
 
 ## Mechanics that matter
 
@@ -30,7 +32,7 @@ Personal instrument from the **Owners** (Alisa Voinova, Dmitry Starodubtsev) to 
 - **No knowledge/investigation defense (Art. 6).** Prior review, incl. the audit itself, doesn't limit Owner liability except for confirmed Disclosed Matters.
 - **Survival.** Unlimited for title/Encumbrances, Tax, criminal/corruption matters, and any knowing non-disclosure; 10 years for everything else.
 - **Governing law / forum.** Indonesian law; BANI arbitration, Denpasar, English language; land title/registration carved out to Indonesian courts/BPN regardless (Art. 11.1, 11.4).
-- **Director's authority (Appendix D, convenience summary only — Governing Documents control on conflict).** Director signs alone for ordinary business, HR, contractors, bank accounts; Commissioner consent needed for loans, pledges/mortgages of land, guarantees, new business lines; RUPS needed for share issues, AoA amendment, appointing/removing directors, disposing >50% of assets. Bank mandate is strict maker (Director) / authorizer (Commissioner) two-to-sign.
+- **Director's authority (Appendix D).** No longer restated here — it only ever repeated [[articles of association]] Art. 11 (statutory signing powers), [[ceo]] §5 (Commissioner-approval thresholds for land/credit, no-mortgage rule) and [[gms director appointment]] §3.3 (binds the President Director to those thresholds), so keeping a second copy just risked drifting out of sync with the originals. Those documents control; if a future draft of this agreement still carries a standalone Appendix D, treat it as a convenience summary only.
 
 ## Appendix A — Owners' Q&A (translated from Russian): key admissions
 
@@ -56,7 +58,7 @@ Any row left blank stays **inside** the Article 5 indemnity by design — that's
 
 ## Placeholders to fill before signature
 
-Passport/KITAS numbers + addresses (all 4 parties) · Appointment Deed notarial number/date · Effective Date · number of BANI arbitrators (1 vs 3, Art. 11.3) · Appendix C rows initialled.
+Passport/KITAS numbers + addresses (all 4 parties) · Appointment Deed notarial number/date · **Effective Date — should be pinned to the same Closing defined in [[gms director appointment]] §4 (GMS resolution + share sale + register update + acceptance of office), not set independently**, so Alex is never in office without the indemnity in force or vice versa · number of BANI arbitrators (1 vs 3, Art. 11.3) · Appendix C rows initialled.
 
 ---
 
