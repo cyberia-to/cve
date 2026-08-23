@@ -10,7 +10,7 @@ icon: "🤝"
 
 Private agreement between two individuals · not a corporate document · not filed with any authority · draft
 
-Companion to [[share sale entry]] (the notarial deed) and [[ceo]] §8. This letter records the payment actually made between the parties for the entry stake, and the undertaking to return it on exit.
+Companion to [[share sale entry]] (the notarial deed) and [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit). This letter records the payment actually made between the parties for the entry stake, and the undertaking to return it on exit.
 
 ## Operative text
 
@@ -32,13 +32,13 @@ Companion to [[share sale entry]] (the notarial deed) and [[ceo]] §8. This lett
 >
 > **5. No interest.** No interest accrues on the sum in paragraph 1, whether before or after the event in paragraph 3.
 >
-> **6. Currency.** The sum is denominated and repayable in United States dollars. Where payment is made in another currency, the conversion is at the JISDOR rate on the date of payment.
+> **6. Currency.** The sum is denominated and repayable in United States dollars. Where payment is made in another currency, the conversion is at the [[jisdor|JISDOR]] rate on the date of payment.
 >
-> **7. Scope.** This letter covers the Entry Shares only. Shares acquired by the Buyer under the option package in [[ceo]] §6, and equity earned under the KPI ladder in [[ceo]] §7, are outside this letter and are governed by their own terms.
+> **7. Scope.** This letter covers the Entry Shares only. Shares acquired by the Buyer under the option package in [[ceo]] [§6](/cyber-valley/cve/legal/ceo#6-options-up-to-10-at-4m-sale-from-founders-only), and equity earned under the KPI ladder in [[ceo]] [§7](/cyber-valley/cve/legal/ceo#7-kpi-ladder-ds-av-10-founders-company-1b), are outside this letter and are governed by their own terms.
 >
 > **8. Confidentiality.** The parties keep the terms of this letter confidential, save where disclosure is required by law or by a competent authority.
 >
-> **9. Governing law and disputes.** This letter is governed by the laws of the Republic of Indonesia. Disputes are settled by good-faith negotiation and, failing agreement within 30 days, by arbitration under BANI rules, seat Bali, in English.
+> **9. Governing law and disputes.** This letter is governed by the laws of the Republic of Indonesia. Disputes are settled by good-faith negotiation and, failing agreement within 30 days, by arbitration under [[bani|BANI]] rules, seat Bali, in English.
 >
 > **10. Counterparts.** This letter may be signed in counterparts, each of which is an original, together forming one instrument.
 >
@@ -52,5 +52,5 @@ Companion to [[share sale entry]] (the notarial deed) and [[ceo]] §8. This lett
 | item | question |
 |---|---|
 | trigger | "ceases to hold office for any reason" — covers his own resignation as well as removal. If the intent is repayment only on removal by the shareholders, paragraph 3 narrows accordingly |
-| relation to [[ceo]] §8 | §8 currently sets a buyout floor of USD 40,000 per 1% held. Whether this letter replaces that floor for the Entry Shares, or sits alongside it, must be stated in one of the two documents |
+| relation to [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit) | [§8](/cyber-valley/cve/legal/ceo#8-exit) currently sets a buyout floor of USD 40,000 per 1% held. Whether this letter replaces that floor for the Entry Shares, or sits alongside it, must be stated in one of the two documents |
 | Dmitry Starodubtsev | as the other shareholder he is not a party here; if the repayment obligation is meant to be shared, he signs too |
