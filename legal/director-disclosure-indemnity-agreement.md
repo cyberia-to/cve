@@ -235,7 +235,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 | No. | Area, m² | Title & expiry | Registered as | Purchase agreement | PPKPR (Aug 2026) | Transferred to PT? | Status | Key risk / note |
 |---|---|---|---|---|---|---|---|---|
-| 0 | 6,800 | *Pipil* at the date of purchase; now in certification at [[bpn|BPN]] | Certificate not yet issued | Invoice "Extra Land", seller Ketut Merta Yasa; purchase Rp 612,000,000 plus Rp 389,320,000 of processing and other costs, Rp 1,001,320,000 in total, paid in full by 4 Dec 2024 | Paid for in the same invoice (registration and validation) | Yes — [[bphtb|BPHTB]] 5% and [[pph|PPh]] 2.5% both paid | Attention | Added by the Owners. Everything is paid, including the AJB and name-change fees and the *penurunan hak* to the Company; the land was on *Pipil* at purchase and is in certification. Certificate and file not yet delivered |
+| 0 | 6,400 | *Pipil* at the date of purchase; now in certification at [[bpn|BPN]] | Certificate not yet issued | Invoice "Extra Land", seller Ketut Merta Yasa; purchase Rp 612,000,000 plus Rp 389,320,000 of processing and other costs, Rp 1,001,320,000 in total, paid in full by 4 Dec 2024 | Paid for in the same invoice (registration and validation) | Yes — [[bphtb|BPHTB]] 5% and [[pph|PPh]] 2.5% both paid | Attention | Added by the Owners. The invoice was raised on 6,800 m²; a recent re-measurement reduced the parcel by 400 m², and 6,400 m² is the figure to rely on. Everything is paid, including the AJB and name-change fees and the *penurunan hak* to the Company. The land was on *Pipil* at purchase and is in certification; certificate and file not yet delivered |
 | 1 | 15,500 (14,750 resurveyed) | [[hgb|HGB]] 00046, until 02.02.2053 | PT Cyber Valley Estate | [[ajb|AJB]] 47/2023 | Not on file | Yes | OK* | Area reduced ~750 m² per 2026 resurvey; no PPKPR on file |
 | 2 | 20,700 | HGB 00047, until 02.02.2053 | PT (per AJB & tax) | AJB 62/2023 | Not on file | Yes (cert. unconfirmed) | OK* | No post-transfer certificate on file; no PPKPR |
 | 3 | 20,000 | HGB 00052, until 12.04.2053 | PT Cyber Valley Estate | AJB 148/2023 | Expired ~10.08.2026 | Yes | Attention | Forest/protected zone — development restrictions |
@@ -259,7 +259,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 **Excluded from the Land — Parcel "21. Green Flow" (Desa Sayan, Kecamatan Ubud, Kabupaten Gianyar):** a separate 25-year leasehold project over land titled (SHM) to local individuals, involving Commissioner Dmitry Starodubtsev, Felix Demin, PT Bali Investment SFG and PT Bali Investments Group personally and/or through affiliated vehicles. **Not** included in the Land, **not** warranted as a Company asset. See Appendix C item 9.
 
-**Portfolio totals (Parcels 0–19, excluding Green Flow):** declared area ≈371,520 m² (≈37.2 ha); ≈319,320 m² (≈31.9 ha) registered in the Company's name (subject to the "Attention"/"OK*" caveats above); ≈52,200 m² (≈5.2 ha) — Parcels 0, 3.1 and 13 — remains legally titled to individual sellers or uncertificated and is **not yet Company property**.
+**Portfolio totals (Parcels 0–19, excluding Green Flow):** declared area ≈371,120 m² (≈37.1 ha); ≈319,320 m² (≈31.9 ha) registered in the Company's name (subject to the "Attention"/"OK*" caveats above); ≈51,800 m² (≈5.2 ha) — Parcels 0, 3.1 and 13 — remains legally titled to individual sellers or uncertificated and is **not yet Company property**.
 
 ## Appendix C — Reconciliation of independent audit findings
 
