@@ -30,7 +30,7 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Depu
 2. Within 3 (three) days of the date of the Offer Notice, the other Shareholders shall have the right — but not the obligation — to purchase all (not part) of the offered shares at the same price and on the same terms, in proportion to their shareholding or as they otherwise agree among themselves (the "Matching Right").
 3. If the Matching Right is not exercised over all of the offered shares within that period, the Selling Shareholder may sell the offered shares to a third party within the following 60 (sixty) days, at a price no lower and on terms no more favourable to the buyer than those stated in the Offer Notice, subject to Article 3 of this Agreement and Articles 5(2) and 7(8) of the Articles of Association.
 4. If the sale to a third party is not completed within the 60 (sixty)-day period referred to in paragraph (3), the Matching Right procedure under this Article resets and applies in full before the Selling Shareholder may re-offer its shares.
-5. A transfer of shares from a Shareholder to the CEO implementing the option package under [[ceo]] §6 is subject to this Article. The other Shareholders keep the Matching Right and have the 3 (three) day window under paragraph 2 to take up the shares first; where the window passes unexercised, the transfer to the CEO proceeds and no further approval under this Article is required.
+5. A transfer of shares from a Shareholder to the CEO implementing the option package under [[ceo]] [§6](/cyber-valley/cve/legal/ceo#6-options-up-to-10-at-4m-sale-from-founders-only) is subject to this Article. The other Shareholders keep the Matching Right and have the 3 (three) day window under paragraph 2 to take up the shares first; where the window passes unexercised, the transfer to the CEO proceeds and no further approval under this Article is required.
 
 ## Article 2 — Tag-along rights
 
@@ -63,8 +63,8 @@ This Article does not set CEO compensation — that is [[ceo]] only.
 
 ## Article 5 — Funding of CEO buyout on removal
 
-1. Where [[ceo]] §8 requires a buyout of the CEO's shares upon removal from Director office, the Company shall first apply available capacity under Pasal 37 of [[uu 40-2007 perseroan terbatas|UU 40/2007]] (buyback of own shares, subject to the net-asset and 10%-of-capital limits stated there) to fund the purchase.
-2. Any shortfall between the Company's Article 37 capacity and the amount due under [[ceo]] §8 is funded by the other Shareholders, pro rata to their shareholding at the time of removal, within the timeline set in [[ceo]] §8.
+1. Where [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit) requires a buyout of the CEO's shares upon removal from Director office, the Company shall first apply available capacity under Pasal 37 of [[uu 40-2007 perseroan terbatas|UU 40/2007]] (buyback of own shares, subject to the net-asset and 10%-of-capital limits stated there) to fund the purchase.
+2. Any shortfall between the Company's Article 37 capacity and the amount due under [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit) is funded by the other Shareholders, pro rata to their shareholding at the time of removal, within the timeline set in [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit).
 3. Each Shareholder, by signing this Agreement, accepts the funding obligation in paragraph 2 as a personal contractual commitment to the CEO, enforceable by the CEO as a third-party beneficiary of this Article (Pasal 1317 of the [[kuhperdata|KUHPerdata]]).
 
 ## Article 6 — Miscellaneous

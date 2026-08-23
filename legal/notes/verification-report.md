@@ -63,11 +63,11 @@ Position: `UU 4/1996` on Hak Tanggungan, Pasal 4 lists the objects that may be e
 
 Honestly on the provenance of this position: the primary text could not be opened from this session — `peraturan.bpk.go.id` returned 403, `jdih.atrbpn.go.id` shows only metadata without articles, and the hukumonline page is silent on this question. The position is stated from knowledge rather than from a retrieved source. It is confirmed with the notary against JDIH with one question: is hak sewa within the list in Pasal 4 of UU 4/1996.
 
-What went into §2.9 in place of a charge: assignment of the right by way of security (`cessie tot zekerheid`) by notarial deed on notice to the Estate; the Estate acknowledges the secured creditor, issues it the Estate Certificate, and notifies it of a material breach before terminating, granting the same cure period as the Holder; on enforcement the creditor takes the whole bundle under 2.5.2 and accedes under 2.5.4, with no transfer fee — the fee is taken on its subsequent sale.
+What went into [§2.9](#2-itr-and-buleleng) in place of a charge: assignment of the right by way of security (`cessie tot zekerheid`) by notarial deed on notice to the Estate; the Estate acknowledges the secured creditor, issues it the Estate Certificate, and notifies it of a material breach before terminating, granting the same cure period as the Holder; on enforcement the creditor takes the whole bundle under 2.5.2 and accedes under 2.5.4, with no transfer fee — the fee is taken on its subsequent sale.
 
 This also strengthens the argument for a negative pledge. The asymmetry is named directly: the Company may charge the land under `Pasal 12(3)(b)` of the Articles, while the Holder may not charge his right at all. A one-sided power of encumbrance without non-disturbance is not a balance that can be sold.
 
-## 4a. Numbering of the [[kuhperdata|KUHPerdata]] articles in §2.7
+## 4a. Numbering of the [[kuhperdata|KUHPerdata]] articles in [§2.7](#2-itr-and-buleleng)
 
 Answer: not confirmed. It could not be verified from this session.
 
@@ -75,7 +75,7 @@ Wikisource is unavailable from the environment, Indonesian primary sources retur
 
 What is known structurally and does not amount to proof: Buku III [[kuhperdata|KUHPerdata]], chapter `Bab VII Sewa Menyewa`, occupies roughly articles 1548–1600, so 1588–1592 fall within the chapter on leases rather than on sale. For a clause about leasing a plot that is an argument for the reference being correct rather than against it. "Rather" is not a basis for signature.
 
-The precise question for the notary, in one paragraph: confirm that Pasal 1588–1592 [[kuhperdata|KUHPerdata]] govern the lease of land stated by area and the consequences of a divergence between actual and stated area; that they are dispositive; and that waiving them is permissible where the boundaries are objectively determinable. If the articles are the wrong ones, §2.7 is empty and the whole per aversionem construction rests on nothing.
+The precise question for the notary, in one paragraph: confirm that Pasal 1588–1592 [[kuhperdata|KUHPerdata]] govern the lease of land stated by area and the consequences of a divergence between actual and stated area; that they are dispositive; and that waiving them is permissible where the boundaries are objectively determinable. If the articles are the wrong ones, [§2.7](#2-itr-and-buleleng) is empty and the whole per aversionem construction rests on nothing.
 
 The item has been added to the document's open questions.
 
@@ -102,9 +102,9 @@ What needs to be exported and placed into Annex A — one row per KBLI × addres
 
 How to obtain it: OSS RBA → company account → cetak NIB → daftar kegiatan usaha; take the address, scale, risk and status for each row; reconcile the addresses against the list of titles in Annex A.
 
-Check first of all the discrepancy already noted at v0.3: the NIB shows a different address for 68111 than for the other codes. 68111 is the code under which leases are granted. If its location does not cover the plot, the warranty in §9A.1 is untrue for that plot — and `Pasal 12(2)(c)` of the Articles gives the Director authority to sign leases precisely within 68111 and 68200.
+Check first of all the discrepancy already noted at v0.3: the NIB shows a different address for 68111 than for the other codes. 68111 is the code under which leases are granted. If its location does not cover the plot, the warranty in [§9A.1](/cyber-valley/cve/legal/land-rights-agreement#9a-licences-warranty-and-licence-event-regime) is untrue for that plot — and `Pasal 12(2)(c)` of the Articles gives the Director authority to sign leases precisely within 68111 and 68200.
 
-The second consequence of the list, already entered into §2.6: 55199 and 55192 are held by the Company and cannot be held by a foreign individual Holder. A sublet with occupation runs under the Company's licence; bare land with no accommodation service runs under the Holder's responsibility.
+The second consequence of the list, already entered into [§2.6](#2-itr-and-buleleng): 55199 and 55192 are held by the Company and cannot be held by a foreign individual Holder. A sublet with occupation runs under the Company's licence; bare land with no accommodation service runs under the Holder's responsibility.
 
 ---
 
