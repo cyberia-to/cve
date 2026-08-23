@@ -61,13 +61,7 @@ Each Shareholder shall procure that the organs of the Company adopt and approve 
 
 This Article does not set CEO compensation — that is [[ceo]] only.
 
-## Article 5 — Funding of CEO buyout on removal
-
-1. Where [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit) requires a buyout of the CEO's shares upon removal from Director office, the Company shall first apply available capacity under Pasal 37 of [[uu 40-2007 perseroan terbatas|UU 40/2007]] (buyback of own shares, subject to the net-asset and 10%-of-capital limits stated there) to fund the purchase.
-2. Any shortfall between the Company's Pasal 37 capacity and the amount due under [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit) is funded by the Shareholder who sold those shares to the CEO, within the timeline set in [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit). A Shareholder who sold none of the shares being bought back carries no part of the shortfall.
-3. The selling Shareholder accepts the funding obligation in paragraph 2 as a personal contractual commitment to the CEO, enforceable by the CEO as a third-party beneficiary of this Article (Pasal 1317 of the [[kuhperdata|KUHPerdata]]).
-
-## Article 6 — Miscellaneous
+## Article 5 — Miscellaneous
 
 1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee of shares who has acceded to it under Article 5(2) of the Articles of Association.
 2. Amendments to this Agreement are valid only if made in writing and signed by all Shareholders.
