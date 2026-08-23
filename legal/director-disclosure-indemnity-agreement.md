@@ -239,7 +239,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 | 1 | 15,500 (14,750 resurveyed) | [[hgb|HGB]] 00046, until 02.02.2053 | PT Cyber Valley Estate | [[ajb|AJB]] 47/2023 | Not on file | Yes | OK* | Area reduced ~750 m² per 2026 resurvey; no PPKPR on file |
 | 2 | 20,700 | HGB 00047, until 02.02.2053 | PT (per AJB & tax) | AJB 62/2023 | Not on file | Yes (cert. unconfirmed) | OK* | No post-transfer certificate on file; no PPKPR |
 | 3 | 20,000 | HGB 00052, until 12.04.2053 | PT Cyber Valley Estate | AJB 148/2023 | Expired ~10.08.2026 | Yes | Attention | Forest/protected zone — development restrictions |
-| 3.1 | ~400–450 (of 27,800 m² mother parcel) | [[shm|SHM]] (mother title); no pemecahan yet | Individual — Gede Redita | [[ppjb|PPJB]] 1/2025 only; no AJB | None | No | RISK | Rp 30,000,000 deposit paid; no final sale, tax payment, or subdivision |
+| 3.1 | ~400–450 (of 27,800 m² mother parcel) | [[shm|SHM]] (mother title); no pemecahan yet | Individual — Gede Redita | [[ppjb|PPJB]] 1/2025 only; no AJB | None | No | RISK | Rp 30,000,000 paid — the full price for the 400 m², not a deposit (corrected by the Owners); no AJB, no tax payment and no *pemecahan* of the mother title yet |
 | 4 | 40,000 | HGB 00048, until 02.02.2053 | PT Cyber Valley Estate | AJB 81/2023 | Expired ~09.08.2026 | Yes | Attention | Land tax (PBB) not yet re-registered to the Company |
 | 5 | 10,400 | HGB 11/Gesing, until 21.06.2052 | PT Cyber Valley Estate | AJB 146/2022 | Not on file | Yes | OK* | "Forest fund" note on original SHM — verify with BPN |
 | 6 | 11,620 | HGB (NIB 22.04.000007933.0), until 19.08.2054 | PT Cyber Valley Estate | AJB 99/2024 | Not on file | Yes | OK* | Cleanest file in the portfolio; PPKPR recommended |
