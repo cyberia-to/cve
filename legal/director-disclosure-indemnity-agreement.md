@@ -235,15 +235,15 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 | No. | Area, m² | Title & expiry | Registered as | Purchase agreement | PPKPR (Aug 2026) | Transferred to PT? | Status | Key risk / note |
 |---|---|---|---|---|---|---|---|---|
-| 1 | 15,500 (14,750 resurveyed) | HGB 00046, until 02.02.2053 | PT Cyber Valley Estate | AJB 47/2023 | Not on file | Yes | OK* | Area reduced ~750 m² per 2026 resurvey; no PPKPR on file |
+| 1 | 15,500 (14,750 resurveyed) | [[hgb|HGB]] 00046, until 02.02.2053 | PT Cyber Valley Estate | [[ajb|AJB]] 47/2023 | Not on file | Yes | OK* | Area reduced ~750 m² per 2026 resurvey; no PPKPR on file |
 | 2 | 20,700 | HGB 00047, until 02.02.2053 | PT (per AJB & tax) | AJB 62/2023 | Not on file | Yes (cert. unconfirmed) | OK* | No post-transfer certificate on file; no PPKPR |
 | 3 | 20,000 | HGB 00052, until 12.04.2053 | PT Cyber Valley Estate | AJB 148/2023 | Expired ~10.08.2026 | Yes | Attention | Forest/protected zone — development restrictions |
-| 3.1 | ~400–450 (of 27,800 m² mother parcel) | SHM (mother title); no pemecahan yet | Individual — Gede Redita | PPJB 1/2025 only; no AJB | None | No | RISK | Rp 30,000,000 deposit paid; no final sale, tax payment, or subdivision |
+| 3.1 | ~400–450 (of 27,800 m² mother parcel) | [[shm|SHM]] (mother title); no pemecahan yet | Individual — Gede Redita | [[ppjb|PPJB]] 1/2025 only; no AJB | None | No | RISK | Rp 30,000,000 deposit paid; no final sale, tax payment, or subdivision |
 | 4 | 40,000 | HGB 00048, until 02.02.2053 | PT Cyber Valley Estate | AJB 81/2023 | Expired ~09.08.2026 | Yes | Attention | Land tax (PBB) not yet re-registered to the Company |
 | 5 | 10,400 | HGB 11/Gesing, until 21.06.2052 | PT Cyber Valley Estate | AJB 146/2022 | Not on file | Yes | OK* | "Forest fund" note on original SHM — verify with BPN |
 | 6 | 11,620 | HGB (NIB 22.04.000007933.0), until 19.08.2054 | PT Cyber Valley Estate | AJB 99/2024 | Not on file | Yes | OK* | Cleanest file in the portfolio; PPKPR recommended |
 | 7 | 2,880 | HGB (NIB 22.04.000001680.0), until 16.08.2054 | PT Cyber Valley Estate | AJB 100/2024 | Valid to ~2027 | Yes | OK | No issues noted |
-| 8 | 5,000 | HGB 00016, until 31.08.2052 | Individual — I Ketut Ceraka | PPJB 32 + POA 33 only; no AJB | None | No (taxes paid) | RISK | BPHTB/PPh paid 2022, but no final AJB or BPN registration |
+| 8 | 5,000 | HGB 00016, until 31.08.2052 | Individual — I Ketut Ceraka | PPJB 32 + POA 33 only; no AJB | None | No (taxes paid) | RISK | [[bphtb|BPHTB]]/[[pph|PPh]] paid 2022, but no final AJB or BPN registration |
 | 9 | 5,700 | HGB 14/Gesing, until 21.06.2052 | PT Cyber Valley Estate | AJB 147/2022 | Not on file | Yes | OK* | No issues other than missing PPKPR |
 | 10 | 19,500 | SHM 01614 on file (pre-conversion); HGB 013 referenced | PT (per AJB & BPHTB) | AJB 184/2022 | Not on file | Yes (cert. unconfirmed) | Attention | No copy of final HGB certificate — verify with BPN; forest-fund zone note |
 | 11 | 18,200 | HGB 00019, until 31.08.2052 | PT (per AJB, unverified) | AJB 260/2022 | None on file | Yes (cert. unconfirmed) | Attention | Transfer registration not documented; no PPKPR |
@@ -275,8 +275,8 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 | 7 | NIB / KBLI gap | Current NIB (reissued 7 Oct 2025) omits three KBLI codes already added to the Articles by Akta No. 02 (1 Jul 2025): 55192, 68200, 82302. |
 | 8 | Parcels 18 & 19 — swapped file contents | Parcel 18's file contains AJB 28/2024, which per its own reference belongs to Parcel 19; Parcel 18's own deed (AJB 22/2024 per its certificate) is physically absent. No tax receipts in either file. |
 | 9 | "Green Flow" project (Sayan, Ubud, Gianyar) | Documents an unrelated 25-year leasehold project, not a Company asset — Commissioner Dmitry Starodubtsev personally (incl. his 2024 purchase of the "Villa 19" leasehold from Felix Demin, a 2026 property-management agreement) plus PT Bali Investment SFG and PT Bali Investments Group. No document references PT Cyber Valley Estate. |
-| 10 | LKPM reporting | No evidence found of the Company's mandatory periodic PMA investment-activity reporting (LKPM) via OSS; compliance status unconfirmed. |
-| 11 | Duplicate/unclear SHM No. 02100 | SHM (Hak Milik) No. 02100/02099, 44,500 m², Desa Gesing, registered 18 Nov 2022 to Putu Mardika — same area/date/seller as Parcel 15 (HGB 49), likely its historical pre-conversion title rather than a separate un-transferred asset; to confirm with notary/PPAT. |
+| 10 | [[lkpm|LKPM]] reporting | No evidence found of the Company's mandatory periodic PMA investment-activity reporting (LKPM) via OSS; compliance status unconfirmed. |
+| 11 | Duplicate/unclear SHM No. 02100 | SHM (Hak Milik) No. 02100/02099, 44,500 m², Desa Gesing, registered 18 Nov 2022 to Putu Mardika — same area/date/seller as Parcel 15 (HGB 49), likely its historical pre-conversion title rather than a separate un-transferred asset; to confirm with notary/[[ppat|PPAT]]. |
 
 *Owner sign-off column omitted here — see the source Google Doc for the live confirm/correct + initial table.*
 
@@ -288,7 +288,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 - **Signs independently:** full representation of the Company in and out of court; ordinary-course contracts under Articles Art. 3 (lease, leasehold, land-rights transfers within KBLI 68111/68200, Land Rights Agreements with local residents); HR documents; opening/operating/closing bank accounts; day-to-day operations (Art. 12(1)–(2)).
 - **Needs Commissioner's consent:** loans/borrowings in any form; pledging, encumbering, or mortgaging any asset (incl. HGB, Hak Pakai); loans to third parties and corporate guarantees; disposal of core assets outside the ordinary course; establishing/acquiring interests in other companies; changing the Company's core business activity (Art. 12(3)); the annual plan/budget before each year begins (Art. 17); share certificates (Art. 5.9).
-- **Needs RUPS consent:** loans, pledging land, and changing the core business (double-key: Commissioner + RUPS); issuing new shares; amending the Articles; appointing/removing directors or commissioners; transferring shares to a non-shareholder (Art. 7.6); profit distribution; and, by statute (UU 40/2007 Art. 102), disposing of or pledging more than 50% of the Company's assets.
+- **Needs RUPS consent:** loans, pledging land, and changing the core business (double-key: Commissioner + RUPS); issuing new shares; amending the Articles; appointing/removing directors or commissioners; transferring shares to a non-shareholder (Art. 7.6); profit distribution; and, by statute ([[uu 40-2007 perseroan terbatas|UU 40/2007]] Art. 102), disposing of or pledging more than 50% of the Company's assets.
 - **Payment/contracting limits:** no numerical cap; structural control instead — any disbursement from the main revenue account requires two signatures (two-to-sign). Otherwise uncapped except the categories above.
 - **Bank account access:** Director opens/operates accounts; disbursements need maker (Director) + authorizer (Commissioner); one person cannot hold both roles for the same transaction (Art. 12(4)).
 - **Payment roles:** initiator (maker) — Director; confirmer (authorizer) — Komisaris Utama and/or a designated commissioner.
