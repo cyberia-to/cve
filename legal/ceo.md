@@ -250,5 +250,5 @@ Draft until signed.
 |---|---|
 | **Survival** | [§12](#12-pre-appointment-liability) shield and [§13](#13-legal-defence-narrow-indemnification) defence-cost advance continue after CEO's departure, for the periods they cover, regardless of when a claim is brought |
 | **Acts in office** | Extends to CEO's good-faith acts within authority under [§14](#14-right-to-refuse) while in office, on the same defence-cost-advance basis as [§13](#13-legal-defence-narrow-indemnification) |
-| **D&O cover** | Company maintains directors & officers insurance naming CEO, continuing for a tail period after departure |
+| **[[do|D&O]] cover** | Company maintains directors & officers insurance naming CEO, continuing for a tail period after departure |
 | **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission agreed with the CEO under the separate arrangements referenced in [§9](#9-not-in-this-deal) survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
