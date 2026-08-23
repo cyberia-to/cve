@@ -98,7 +98,7 @@ Once per month (or written circular):
 | **Independence** | Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
 | **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of CEO and founders |
 | **Source** | **only sale/transfer from founders** — **no new share issue** for this package |
-| **ROFR carve-out** | Transfers of option shares under this §6, from a founder to the CEO on exercise, are **exempt from the SHA Article 1 matching right** — pre-cleared by all Shareholders as parties to this deal |
+| **ROFR** | Transfers of option shares under this §6 follow [[shareholders agreement]] Article 1: the other Shareholders have a **3 (three) day** window to take up the shares first; once it passes unexercised, the transfer to the CEO proceeds |
 
 Options ≠ KPI ladder (§7). Personal upside for the chair; shares come from founders’ holdings, not dilution by print.
 
@@ -161,7 +161,8 @@ On exit, whatever the cause, the CEO keeps the equity already his: ladder equity
 
 | trigger | rule |
 |---|---|
-| **Removal from Director office** (by founders, shareholders, or any party other than the CEO) | Takes effect only once **all of the CEO's held shares** (entry stake, vested option shares under §6, and KPI-ladder equity earned under §7) are bought out at the **greater of (a) market price** — set by an independent appraiser jointly appointed, or (failing agreement within 15 days) appointed by an agreed accounting/appraisal firm, final and binding absent manifest error — **and (b) USD 40,000 per 1% of the Company held by the CEO at the time of removal**, fully-diluted (e.g. 5% → USD 200,000, 10% → USD 400,000) — independent of the Rp 200,000,000 nominal consideration recorded in the [[share sale entry]] deed for registration purposes. (b) is a floor only: if the market-price appraisal under (a) is higher, (a) governs. No completed buyout → no removal. |
+| **Removal from Director office** (by founders, shareholders, or any party other than the CEO) | Removal takes effect **immediately**. What the CEO **bought** is returned at **what he actually paid** — the entry stake per the [[entry payment side letter]], and any option shares under §6 at the strike actually paid for them, against transfer of those shares back to the seller. What the CEO **earned** — KPI-ladder equity under §7 — **stays with him**; it is not bought out. |
+| **Payment of the buyout** | A debt of the buyer, not a condition of removal. The amount is **fixed in US dollars at the removal date** and paid in **12 equal moonly instalments**. Each instalment is converted to IDR at [JISDOR](https://www.bi.go.id/en/statistik/informasi-kurs/jisdor/default.aspx) on its payment date, as UU 7/2011 requires — the dollar figure does not move, only the conversion does, so the CEO carries no rupiah devaluation risk. Late payment accelerates the whole balance. Secured by the instrument chosen under 9B.7 of [[land-rights-agreement]]. |
 | **CEO's own decision to leave** | CEO may first offer the shares to the founders and other shareholders, then to third parties — under the ROFR in the [[shareholders agreement]] — or keep the stake and continue to receive dividends. No obligation to sell. |
 
 ---
@@ -235,7 +236,7 @@ Draft until signed.
 
 | | |
 |---|---|
-| **Trigger** | Sale of the Company, a controlling stake, a material part of the land bank, or a key project to a third party |
+| **Trigger** | Sale of the Company, or of a controlling stake, to a third party. Sales of land, plots or individual projects are the Company's ordinary business and are not a change of control |
 | **CEO rights** | Tag-along already applies as an ordinary shareholder ([[shareholders agreement]] Art. 2); unvested §6 options accelerate to fully vested; unbanked §7 ladder steps in progress at signing are paid out at the transaction valuation |
 | **Interaction with §8** | If removal from Director office occurs in connection with a change of control, the CEO is entitled to the **greater of** the §16 treatment above and the §8 removal-buyout floor — not both cumulatively for the same shares. |
 
@@ -248,4 +249,4 @@ Draft until signed.
 | **Survival** | §12 shield and §13 defence-cost advance continue after CEO's departure, for the periods they cover, regardless of when a claim is brought |
 | **Acts in office** | Extends to CEO's good-faith acts within authority under §14 while in office, on the same defence-cost-advance basis as §13 |
 | **D&O cover** | Company maintains directors & officers insurance naming CEO, continuing for a tail period after departure |
-| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission agreed with the CEO under the separate arrangements referenced in §9 survive removal or departure in full, regardless of cause — payable on their own terms for any deal sourced, introduced, or closed by the CEO before departure. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
+| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission agreed with the CEO under the separate arrangements referenced in §9 survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
