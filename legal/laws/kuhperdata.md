@@ -10,7 +10,7 @@ icon: "📖"
 
 The Indonesian Civil Code, descended from the Dutch Burgerlijk Wetboek. Cited in the pack for three separate mechanisms.
 
-> ⚠ Provenance. The article texts below are stated from knowledge, not from a retrieved official source: `peraturan.bpk.go.id` returned 403, `jdih.atrbpn.go.id` shows metadata only, and Wikisource is unreachable from this environment. Each article must be confirmed against JDIH before an executed instrument relies on it. The numbering of Arts. 1588–1592 is already flagged as an open item in [[legal/notes/open questions]].
+> ⚠ Provenance. The article texts below are stated from knowledge, not from a retrieved official source: `peraturan.bpk.go.id` returned 403, `jdih.atrbpn.go.id` shows metadata only, and Wikisource is unreachable from this environment. Each article must be confirmed against JDIH before an executed instrument relies on it. The numbering of Arts. 1588–1592 is already flagged as an open item in [[open questions]].
 
 ## Pasal 1317 — stipulation for the benefit of a third party
 
@@ -34,4 +34,4 @@ Relied on by: [[land-rights-agreement]] §2.7 — the *per aversionem* (ad corpu
 
 These articles govern what happens when the actual area of a leased property differs from the stated area: price adjustment, compensation, or rescission. §2.7 sets them aside by agreement, which is only possible if they are dispositive rather than mandatory.
 
-⚠ The whole of §2.7 rests on this. [[legal/notes/verification-report]] §4a records that the numbering and the dispositive character could not be confirmed from an official source, and sets out the exact question for the notary. If the articles are the wrong ones, §2.7 is empty.
+⚠ The whole of §2.7 rests on this. [[verification-report]] §4a records that the numbering and the dispositive character could not be confirmed from an official source, and sets out the exact question for the notary. If the articles are the wrong ones, §2.7 is empty.
