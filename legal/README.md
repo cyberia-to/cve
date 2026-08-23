@@ -18,6 +18,7 @@ Corporate pack index: [[dzin]] · company page: [[cve]]
 | [[share sale entry]] | 1% at par to Director at Closing |
 | [[ceo]] | ops · options · KPI ladder |
 | [[shareholders agreement]] | ROFR, tag-along, moonly dividend cadence, cash waterfall |
+| [[director-disclosure-indemnity-agreement]] | Owners' personal disclosure & uncapped indemnity to the incoming Director, re: Company/land liabilities |
 
 ## Constitution
 
