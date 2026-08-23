@@ -18,7 +18,7 @@ Answer to the edits received from veritus1, and to the disclosure draft of 2026-
 | 2 | Option transfers and the [[rofr|ROFR]] | option transfers exempt from the matching right | subject to it, with the same 3-day window — [[shareholders agreement]] Article 1(5) |
 | 3 | Commissions after departure | any deal, whenever the money arrives | deals signed before the date of departure, whenever the money arrives — [[ceo]] [§17](/cyber-valley/cve/legal/ceo#17-survival-after-departure) |
 | 4 | Change of control | broad trigger | sale of the Company or of a controlling stake only; land, plot and project sales are ordinary business — [[ceo]] [§16](/cyber-valley/cve/legal/ceo#16-change-of-control) |
-| 5 | Exit price | buyback at cost | on removal, the whole holding is bought at the company valuation at the removal date, floor USD 40,000 per 1% — [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit). On his own departure, no buyout — he keeps the shares |
+| 5 | Exit price | buyback at cost | on removal, only the shares bought from the founders are bought back, at the company valuation at the removal date, floor USD 40,000 per 1%; ladder equity and commissions stay with the CEO — [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit). On his own departure, no buyout — he keeps the shares |
 | 6 | Payment of the buyout | condition of removal | a debt of the buyer; removal is immediate; 12 moonly instalments fixed in US dollars, converted at [[jisdor|JISDOR]] on each payment date |
 | 7 | Entry payment | stated only in the notarial deed | recorded as it is, in [[entry payment side letter]] — USD 40,000, personal, with a repayment undertaking |
 | 8 | Dividends | annual, at the meeting's discretion | mandatory moonly interim dividends on objective tests — [[articles of association]] Article 18; 5% reserve to a 20% ceiling — Article 19 |
@@ -37,13 +37,13 @@ Thank you for the edits and for the disclosure draft. Ten of your points are now
 
 **On the buyout ([[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit) and [[shareholders agreement]] Article 5)**
 
-1. §8 now buys your whole holding at the company valuation at the removal date, with a floor of USD 40,000 per 1% held. Confirm this is the basis you want.
+1. §8 now buys back only the shares you bought from us — the entry stake and exercised options — at the company valuation at the removal date, with a floor of USD 40,000 per 1%, being what you paid. Ladder equity under §7 and commissions under §17 stay with you and are not bought out. Confirm this is the basis you want.
 
 2. The valuation is fixed as the price per share in the most recent arm's-length third-party sale within the 12 moon cycles before removal, and failing one, an independent valuer agreed by the parties. Is that method acceptable, or do you want a different one named?
 
 3. SHA Article 5 funds the buyout through the Company first (Pasal 37 buyback) and then the other shareholders pro rata. As drafted, that puts half of the payment on Dmitry Starodubtsev for shares he never sold. Which is intended — Company first, or the seller personally?
 
-4. The option package in §6 is written on founders' shares, not on new issue. On removal, do option shares return to the founder who sold them, or are they part of the same valuation buyout?
+4. The option package in §6 is written on founders' shares, not on new issue. On removal, do option shares return to the founder who sold them, or does the Company take them?
 
 **On [[entry payment side letter]]**
 
