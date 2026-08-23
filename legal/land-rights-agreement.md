@@ -170,7 +170,7 @@ Asymmetric option. If the Holder wants downside protection without losing upside
 
 2.8 Succession. ▲ On the death of the Holder the interest passes to the heirs by operation of law, with no transfer fee. The heirs accede to the Community Rules within 12 months. Pending accession the interest subsists and the Landowner may not treat the death as a default.
 
-2.9 Security over the Holder's interest. ▲ ⚠ Hak sewa is not an object of *hak tanggungan*: UU 4/1996 Pasal 4 lists Hak Milik, HGU and HGB, and Hak Pakai over state land that is registrable and transferable. A lease right that is not registered at BPN cannot be charged. This clause therefore uses assignment by way of security, not a charge:
+2.9 Security over the Holder's interest. ▲ ⚠ Hak sewa is not an object of *hak tanggungan*: [[uu 4-1996 hak tanggungan|UU 4/1996]] Pasal 4 lists Hak Milik, HGU and HGB, and Hak Pakai over state land that is registrable and transferable. A lease right that is not registered at BPN cannot be charged. This clause therefore uses assignment by way of security, not a charge:
 
 - the Holder may assign its interest by way of security (*cessie tot zekerheid*) to a financier, by notarial deed, on written notice to the Landowner;
 - the Landowner acknowledges the financier, issues the Estate Certificate to it under 2.5.6, and notifies it of any material breach before terminating, allowing that party the same cure period as the Holder;

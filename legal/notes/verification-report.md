@@ -59,7 +59,7 @@ Separately: in a `Kawasan Pertanian` zone the [[lp2b|LP2B]] question (protected 
 
 Answer: a charge is impossible. The construction is replaced by an assignment by way of security.
 
-Position: `UU 4/1996` on Hak Tanggungan, Pasal 4 lists the objects that may be encumbered — Hak Milik, Hak Guna Usaha, Hak Guna Bangunan (ayat 1) and Hak Pakai over state land that is registrable and transferable (ayat 2). Hak sewa untuk bangunan under UUPA Pasal 44–45 is not in that list and is not registered at [[bpn|BPN]], and registrability is the condition of encumbrance.
+Position: [[uu 4-1996 hak tanggungan|UU 4/1996]] on Hak Tanggungan, Pasal 4 lists the objects that may be encumbered — Hak Milik, Hak Guna Usaha, Hak Guna Bangunan (ayat 1) and Hak Pakai over state land that is registrable and transferable (ayat 2). Hak sewa untuk bangunan under UUPA Pasal 44–45 is not in that list and is not registered at [[bpn|BPN]], and registrability is the condition of encumbrance.
 
 Honestly on the provenance of this position: the primary text could not be opened from this session — `peraturan.bpk.go.id` returned 403, `jdih.atrbpn.go.id` shows only metadata without articles, and the hukumonline page is silent on this question. The position is stated from knowledge rather than from a retrieved source. It is confirmed with the notary against JDIH with one question: is hak sewa within the list in Pasal 4 of UU 4/1996.
 

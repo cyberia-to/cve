@@ -28,3 +28,5 @@ Cited in the pack, not yet reproduced here:
 | PP 18/2021 | land rights — HGB and Hak Pakai terms | [[land-rights-agreement]] §3.2 |
 
 The English column is a working translation for reading. On any executed instrument the Bahasa Indonesia text prevails.
+
+- [[uu 4-1996 hak tanggungan|UU 4/1996]] — which land rights can be mortgaged; the reason a lease cannot be
