@@ -32,13 +32,13 @@ Companion to [[share sale entry]] (the notarial deed) and [[ceo]] §8. This lett
 >
 > **5. No interest.** No interest accrues on the sum in paragraph 1, whether before or after the event in paragraph 3.
 >
-> **6. Currency.** The sum is denominated and repayable in United States dollars. Where payment is made in another currency, the conversion is at the JISDOR rate on the date of payment.
+> **6. Currency.** The sum is denominated and repayable in United States dollars. Where payment is made in another currency, the conversion is at the [[jisdor|JISDOR]] rate on the date of payment.
 >
 > **7. Scope.** This letter covers the Entry Shares only. Shares acquired by the Buyer under the option package in [[ceo]] §6, and equity earned under the KPI ladder in [[ceo]] §7, are outside this letter and are governed by their own terms.
 >
 > **8. Confidentiality.** The parties keep the terms of this letter confidential, save where disclosure is required by law or by a competent authority.
 >
-> **9. Governing law and disputes.** This letter is governed by the laws of the Republic of Indonesia. Disputes are settled by good-faith negotiation and, failing agreement within 30 days, by arbitration under BANI rules, seat Bali, in English.
+> **9. Governing law and disputes.** This letter is governed by the laws of the Republic of Indonesia. Disputes are settled by good-faith negotiation and, failing agreement within 30 days, by arbitration under [[bani|BANI]] rules, seat Bali, in English.
 >
 > **10. Counterparts.** This letter may be signed in counterparts, each of which is an original, together forming one instrument.
 >

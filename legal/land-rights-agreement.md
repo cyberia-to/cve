@@ -9,9 +9,9 @@ icon: "⚖️"
 
 v0.4.3 · working skeleton, not an executable document
 
-*Changelog: v0.1 initial skeleton · v0.2 §9A Licence Event regime · v0.3 §5A construction control, BAST handover chain and indemnity · v0.3.1 §2.7 plot as per aversionem (ad corpus) · v0.4 holder protocol folded in — §2.5 free assignability and the Register, §9B title warranties, negative pledge, non-disturbance and mirror indemnity, §2.4 renewal by right, §2.6 split into land-time and stay, §6 three-tier build remedy, §8 veto and initiative in place of an Association, §9A full KBLI list from the Articles of Association, §10A force majeure, §10B adat, §2.8 succession, §13 general provisions; Design Code moved to Annex C; clause leaders unbolded per the graph style rule · v0.4.1 §7.4 Design Envelope lock — the signing-to-SLF window, with the Landowner's cure right and exit in both fault and no-fault cases · v0.4.2 §6.0 conditions precedent and the Commencement Certificate — the construction clock starts there, stops when a condition falls away, and carries a long stop; 9B.2 adds pengecekan sertifikat on the day of signing; 9B.7 rewritten as a choice of real security instruments; open questions moved to `legal/notes/open questions.md` · v0.4.3 §2.1 term derived from the Title with automatic extension, 2.1.1–2.1.2 where the term lives and the offer of record, 9B.9 duty to extend Titles in time.*
+*Changelog: v0.1 initial skeleton · v0.2 §9A Licence Event regime · v0.3 §5A construction control, [[bast|BAST]] handover chain and indemnity · v0.3.1 §2.7 plot as per aversionem (ad corpus) · v0.4 holder protocol folded in — §2.5 free assignability and the Register, §9B title warranties, negative pledge, non-disturbance and mirror indemnity, §2.4 renewal by right, §2.6 split into land-time and stay, §6 three-tier build remedy, §8 veto and initiative in place of an Association, §9A full [[kbli|KBLI]] list from the Articles of Association, §10A force majeure, §10B adat, §2.8 succession, §13 general provisions; Design Code moved to Annex C; clause leaders unbolded per the graph style rule · v0.4.1 §7.4 Design Envelope lock — the signing-to-SLF window, with the Landowner's cure right and exit in both fault and no-fault cases · v0.4.2 §6.0 conditions precedent and the Commencement Certificate — the construction clock starts there, stops when a condition falls away, and carries a long stop; 9B.2 adds pengecekan sertifikat on the day of signing; 9B.7 rewritten as a choice of real security instruments; open questions moved to `legal/notes/open questions.md` · v0.4.3 §2.1 term derived from the Title with automatic extension, 2.1.1–2.1.2 where the term lives and the offer of record, 9B.9 duty to extend Titles in time.*
 
-> Status. Structural draft for discussion with an Indonesian notary (PPAT) and counsel. Nothing here is legal advice. Every clause marked ⚠ carries a known Indonesian-law constraint that must be verified against the current regulations and the actual master title before any version of this is signed. Every clause marked ▲ implements a decision from `holder-protocol-decisions.md` and reverts cleanly if that decision is changed.
+> Status. Structural draft for discussion with an Indonesian notary ([[ppat|PPAT]]) and counsel. Nothing here is legal advice. Every clause marked ⚠ carries a known Indonesian-law constraint that must be verified against the current regulations and the actual master title before any version of this is signed. Every clause marked ▲ implements a decision from `holder-protocol-decisions.md` and reverts cleanly if that decision is changed.
 
 Corporate source of authority: Anggaran Dasar / Articles of Association PT. Cyber Valley Estate, 12 August 2026 (Akta Pendirian No. 01, 04-01-2022; PKR No. 13, 14-04-2025; PKR No. 02, 01-07-2025). Where this framework and the Articles diverge, the Articles prevail and this framework is corrected.
 
@@ -23,7 +23,7 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 |---|---|
 | this file | framework and operative structure |
 | `legal/notes/open questions.md` | release gate and every open item, deliberately outside the signable text |
-| Annex A | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, RTRW classification, PKKPR number or its absence, LP2B status; plus the KBLI × location table under §9A.1 |
+| Annex A | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw|RTRW]] classification, [[pkkpr|PKKPR]] number or its absence, [[lp2b|LP2B]] status; plus the KBLI × location table under §9A.1 |
 | Annex B | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
 | [[annex-c-design-code\|Annex C]] | Design Code — the zoning code as numbers |
 | Annex D | Community Rules |
@@ -40,11 +40,11 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 
 Bilingual execution — mandatory. ⚠ [[uu 24-2009 bahasa|UU 24/2009]] requires agreements involving an Indonesian party to be executed in Bahasa Indonesia. English-only instruments have been annulled by Indonesian courts. Execute bilingual, with an express clause stating which language prevails on discrepancy (Indonesian text customarily prevails; the parties may agree otherwise but should not assume it will be honoured).
 
-Notarial form. Land leases are executed as *akta sewa* before a notary/PPAT. Private signature agreements are enforceable in principle but weak in practice and unusable for any later BPN procedure.
+Notarial form. Land leases are executed as *akta sewa* before a notary/PPAT. Private signature agreements are enforceable in principle but weak in practice and unusable for any later [[bpn|BPN]] procedure.
 
 Anti-nominee. ⚠ Both parties represent that no part of this arrangement is a nominee structure (*perjanjian pinjam nama*). Nominee arrangements violate the Basic Agrarian Law and Art. 1320 Civil Code and are void. Nothing in this framework may be used to simulate freehold for a foreign party, and no Holder may receive shares or share-like economics in exchange for the Plot outside the reviewed joint-venture instrument.
 
-Title subordination. ⚠ There is no single master title. The Estate is assembled from 21 acquisitions; the register of holdings records 18 certificated HGB parcels and three parcels without an HGB certificate (one recorded as *Pipil*, one awaiting certification, one held on agreement only). No right granted may exceed the remaining term of the specific certificate on which the Plot sits. Every term, renewal and option below is expressly capped by, and conditional on, the subsistence and renewal of that certificate. Annex A lists every title with its number, area, grant and expiry dates and remaining term; the recitals name the certificate for this Plot and state its remaining term as a number.
+Title subordination. ⚠ There is no single master title. The Estate is assembled from 21 acquisitions; the register of holdings records 18 certificated [[hgb|HGB]] parcels and three parcels without an HGB certificate (one recorded as *Pipil*, one awaiting certification, one held on agreement only). No right granted may exceed the remaining term of the specific certificate on which the Plot sits. Every term, renewal and option below is expressly capped by, and conditional on, the subsistence and renewal of that certificate. Annex A lists every title with its number, area, grant and expiry dates and remaining term; the recitals name the certificate for this Plot and state its remaining term as a number.
 
 Condition precedent to offering a Plot. ⚠ No Plot is offered, priced or granted unless (a) it sits on a certificated HGB parcel listed in Annex A, and (b) a PKKPR covering the intended use exists for that parcel. Parcels held on *Pipil*, on agreement, or awaiting certification are outside this framework until converted.
 
@@ -56,7 +56,7 @@ Signing authority. Under Articles of Association Pasal 12(2)(c) the Director sig
 
 | Term | Definition |
 |---|---|
-| Landowner | PT. CYBER VALLEY ESTATE, an Indonesian limited liability company (PT PMA) domiciled in Gesing, Banjar, Buleleng, Bali; holder of the land titles listed in Annex A; NIB [___] |
+| Landowner | PT. CYBER VALLEY ESTATE, an Indonesian limited liability company (PT [[pma|PMA]]) domiciled in Gesing, Banjar, Buleleng, Bali; holder of the land titles listed in Annex A; [[nib|NIB]] [___] |
 | Title | the HGB certificate listed in Annex A on which the Plot sits, named in the recitals |
 | Holder | the counterparty; classified at signing as Foreign Holder (non-Indonesian national) or Indonesian Holder (WNI) |
 | Estate | the land parcel(s) under the master title, described in Annex A |
@@ -99,7 +99,7 @@ The default product. Available to Foreign and Indonesian Holders alike, with no 
 
 No marketing material may describe this instrument as a registered lease.
 
-2.3 Consideration. [Lump sum for full term / annual rent], payable [schedule]. Tax treatment: PPh on lease value at [10%]; PPN and withholding responsibility allocated at §12. ▲ Where consideration is indexed, the obligation is denominated in the century index: what is fixed at signing is the set of quantities qᵢ and the collar and floor, not the amount of any future invoice. The Index Annex (Annex E) carries weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor and one worked invoice, and prevails over prose (thesis T1). The Holder may recompute any invoice from public sources within 30 days and the recomputation prevails (T5). Settlement is in IDR at JISDOR on the invoice date (T6, [[uu 7-2011 mata uang|UU 7/2011]]). The Index Annex survives assignment, sublease and succession with the same quantities (T7). On divergence between the on-chain fix and the annex computation from named public fixes, the annex computation prevails (T8).
+2.3 Consideration. [Lump sum for full term / annual rent], payable [schedule]. Tax treatment: PPh on lease value at [10%]; PPN and withholding responsibility allocated at §12. ▲ Where consideration is indexed, the obligation is denominated in the century index: what is fixed at signing is the set of quantities qᵢ and the collar and floor, not the amount of any future invoice. The Index Annex (Annex E) carries weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor and one worked invoice, and prevails over prose (thesis T1). The Holder may recompute any invoice from public sources within 30 days and the recomputation prevails (T5). Settlement is in IDR at [[jisdor|JISDOR]] on the invoice date (T6, [[uu 7-2011 mata uang|UU 7/2011]]). The Index Annex survives assignment, sublease and succession with the same quantities (T7). On divergence between the on-chain fix and the annex computation from named public fixes, the annex computation prevails (T8).
 
 2.4 Renewal by right. ▲ The Holder has the right — not an option subject to the Landowner's agreement — to renew for a further term determined as in 2.1, exercisable between [24] and [12] months before expiry, provided the Holder is not in uncured material default. The renewal price is L(T) = L₀ · I(T)/I(t₀) under the Index Annex. The Landowner may not refuse renewal while the Title subsists. Where the term granted under 2.1 was shortened by the Title rather than by choice, the automatic extension in 2.1 operates first and the renewal right attaches to the extended term.
 ⚠ The formula must be arithmetic — an index, a benchmark, or a defined valuation method with a named appointing body. "To be agreed" is the single most common defect in Bali leases and renders the option unenforceable in substance. Annex E is that formula; a renewal clause pointing at an empty annex reproduces the defect it warns against.
@@ -119,7 +119,7 @@ No marketing material may describe this instrument as a registered lease.
 | Holder's position | fee |
 |---|---|
 | base | [2.0]% |
-| built within time, SLF issued | [1.5]% |
+| built within time, [[slf|SLF]] issued | [1.5]% |
 | no unremedied Design Code breach for the whole term | [1.0]% |
 | soil and water results published to the ledger without gaps | [0.5]% |
 | referred residents above the threshold in Annex D | [0]% |
@@ -127,7 +127,7 @@ No marketing material may describe this instrument as a registered lease.
 
 Right of first refusal exists only in Wave 1 and only until the build obligation under §6 is discharged; it lapses permanently on SLF. Where it applies, its mechanics mirror Articles of Association Pasal 7 for shares: notice stating price and terms, 30 days to respond, right to withdraw the offer after that period.
 
-2.5.6 Estate Certificate. On the Holder's written request the Landowner issues, free of charge and within 10 working days, a certificate stating: remaining term; confirmation of payments and absence of arrears; quantities qᵢ and the latest invoice under the Index Annex; PBG and SLF status; any unremedied Design Code breaches, or confirmation that there are none; status of the master title and of any encumbrance over it at that date. The certificate is valid for 30 days and is a statement on which a prospective assignee may rely.
+2.5.6 Estate Certificate. On the Holder's written request the Landowner issues, free of charge and within 10 working days, a certificate stating: remaining term; confirmation of payments and absence of arrears; quantities qᵢ and the latest invoice under the Index Annex; [[pbg|PBG]] and SLF status; any unremedied Design Code breaches, or confirmation that there are none; status of the master title and of any encumbrance over it at that date. The certificate is valid for 30 days and is a statement on which a prospective assignee may rely.
 
 2.5.7 Deadlines and deemed consent. Every act of the Landowner under this clause is due within 10 working days. Failure to act within that period is deemed consent and confirmation.
 
@@ -190,13 +190,13 @@ Confirm the construction with the notary before use. Note the asymmetry this cre
 
 3.3 Trade-offs to be disclosed. Hak Pakai is a registered right and stronger on paper, but: it is residency-dependent; the resale pool is limited to foreigners who themselves qualify, or requires reconversion to a citizen-held title; and it removes the flexibility of §2.5. Many Holders are better served by the base lease. This section exists so the choice is informed, not assumed.
 
-3.4 Costs. Splitting, conversion, BPHTB, notarial and administrative costs borne by the Holder. Upgrade fee to Landowner: [amount].
+3.4 Costs. Splitting, conversion, [[bphtb|BPHTB]], notarial and administrative costs borne by the Holder. Upgrade fee to Landowner: [amount].
 
 ---
 
 ## 4. Part B — Track I: upgrade to title (Indonesian Holders)
 
-4.1 Step 1 — Plot split and sale. On request, the Landowner procures *pemecahan sertifikat* of the Plot and transfers the resulting HGB to the Holder by AJB before the PPAT. Purchase price: [amount / formula], credited [in whole / in part] against sums already paid under Part A.
+4.1 Step 1 — Plot split and sale. On request, the Landowner procures *pemecahan sertifikat* of the Plot and transfers the resulting HGB to the Holder by [[ajb|AJB]] before the PPAT. Purchase price: [amount / formula], credited [in whole / in part] against sums already paid under Part A.
 
 4.2 Step 2 — Holder's own conversion to Hak Milik. ⚠ The Holder may then apply to BPN to upgrade HGB → Hak Milik. This is the Holder's own application; the Landowner facilitates documents but gives no warranty of outcome. Conditions the Holder must satisfy:
 
@@ -229,7 +229,7 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 
 5A.1 Design and contractor approval. No works until the Landowner has approved (a) the design package for Design Code compliance, (b) the identity of the main contractor, (c) the construction programme. Approval is limited to those matters and creates no design or engineering warranty by the Landowner — say so expressly. Approval or refusal is due within 10 working days; failure to act is deemed approval.
 
-5A.2 Contractor qualification. ⚠ Under UU 2/2017 on Construction Services, construction services must be performed by a qualified provider (*penyedia jasa*) holding a valid SBU and the corresponding KBLI, and the client (*pengguna jasa*) is obliged to engage such a provider. The Holder shall engage only a contractor meeting this standard and shall furnish copies of SBU, licences and the construction contract before commencement.
+5A.2 Contractor qualification. ⚠ Under UU 2/2017 on Construction Services, construction services must be performed by a qualified provider (*penyedia jasa*) holding a valid [[sbu|SBU]] and the corresponding KBLI, and the client (*pengguna jasa*) is obliged to engage such a provider. The Holder shall engage only a contractor meeting this standard and shall furnish copies of SBU, licences and the construction contract before commencement.
 
 5A.3 Supervision. An independent construction supervisor (*pengawas* / MK) is appointed [by the Landowner, at the Holder's cost / by the Holder from a Landowner-approved panel], with authority to inspect, to require rectification, and to stop works on material non-compliance. Stage inspections at: foundation, structure, roof, MEP, completion.
 
@@ -353,7 +353,7 @@ Binding on all Holders, all tracks, all zones. [[annex-c-design-code|Annex C]] s
 
 ## 9. Representations
 
-Landowner: valid title, no encumbrances beyond those disclosed, zoning permits the intended use, KKPR status disclosed, licences held and their locational scope. Extended warranties: §9B.
+Landowner: valid title, no encumbrances beyond those disclosed, zoning permits the intended use, [[kkpr|KKPR]] status disclosed, licences held and their locational scope. Extended warranties: §9B.
 Holder: identity and status, source of funds, no nominee arrangement, ability to fund construction.
 
 ⚠ Disclose honestly: master-title term and renewal risk, zoning status and any pending change of designation, and that Hak Sewa is unregistered. Non-disclosure here is the fastest route to a void agreement.
@@ -391,10 +391,10 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 - the Company is duly incorporated and subsisting, its issued capital is fully paid, its NIB is valid;
 - the Title is a valid HGB certificate; its number, grant date, expiry date and remaining term are disclosed in Annex A and stated in the recitals as a number;
 - a PKKPR covering the intended use subsists for the parcel and is annexed; the Plot does not sit on land recorded as *Pipil*, uncertificated or held on agreement;
-- the Plot is free of *hak tanggungan*, attachment (*sita*) and other encumbrances; has not previously been let, promised under a PPJB, optioned or otherwise committed; and is not in the physical possession of a third party;
+- the Plot is free of *hak tanggungan*, attachment (*sita*) and other encumbrances; has not previously been let, promised under a [[ppjb|PPJB]], optioned or otherwise committed; and is not in the physical possession of a third party;
 - there are no judicial, administrative or arbitral proceedings, and no asserted adat, subak or desa claims, affecting the Plot;
 - zoning and KKPR permit the intended use; the Plot carries no LP2B designation and falls outside *sempadan*;
-- PBB is paid and no arrears subsist;
+- [[pbb|PBB]] is paid and no arrears subsist;
 - the chain of title documents is disclosed.
 
 9B.2 Due diligence pack and the search at signing. Annex I, delivered before signing: certified copy of the Title certificate, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR document. In addition, and as a condition of execution, the PPAT performs *pengecekan sertifikat* at BPN on the day of signing and the result is recited in the deed. The Landowner warrants that nothing has been created over the Plot between the search and signing.

@@ -29,14 +29,14 @@ No decision below takes a single power away from the Company under Pasal 12 of t
 
 ## D1 · Freedom of exit and a fee for contribution
 
-Problem: §2.5 is unresolved, there is no secondary market, and a ROFR collapses the resale price.
+Problem: §2.5 is unresolved, there is no secondary market, and a [[rofr|ROFR]] collapses the resale price.
 
 Decision. Assignment is free, without consent. The transfer fee is 2% of the transaction price, reduced for contribution:
 
 | the Holder's position | fee |
 |---|---|
 | base | 2.0% |
-| built within time, SLF issued | 1.5% |
+| built within time, [[slf|SLF]] issued | 1.5% |
 | no unremedied Design Code breach for the whole term | 1.0% |
 | soil and water readings published to the ledger without gaps | 0.5% |
 | referred residents above the threshold | 0% |
@@ -54,7 +54,7 @@ Recommending (a).
 
 Problem: a secondary buyer has nothing with which to check what he is buying.
 
-Decision. Every lease is a particle in cybergraph. An assignment is a cyberlink. The Estate Certificate is issued within 10 working days free of charge and states the remaining term, arrears, the quantities qᵢ and the latest invoice, PBG and SLF status, open breaches, and the status and encumbrances of the master title. It is valid for 30 days and the acquirer may rely on it. Where the graph and the notarial deed diverge, the deed and the register prevail — the same ordering as thesis T8 of the index.
+Decision. Every lease is a particle in cybergraph. An assignment is a cyberlink. The Estate Certificate is issued within 10 working days free of charge and states the remaining term, arrears, the quantities qᵢ and the latest invoice, [[pbg|PBG]] and SLF status, open breaches, and the status and encumbrances of the master title. It is valid for 30 days and the acquirer may rely on it. Where the graph and the notarial deed diverge, the deed and the register prevail — the same ordering as thesis T8 of the index.
 
 Why win-win. The Holder sells faster and higher. The Estate gets the first real application of the graph to a physical asset: the mission of a single knowledge graph stops being a declaration and becomes the thing that lifts the price of its own land.
 
@@ -64,7 +64,7 @@ Recommending (a).
 
 ## D3 · Security over land without fear
 
-Problem: `Pasal 12(3)(b)` of the Articles expressly permits the Company to charge HGB and Hak Pakai. An unregistered hak sewa is extinguished on enforcement.
+Problem: `Pasal 12(3)(b)` of the Articles expressly permits the Company to charge [[hgb|HGB]] and Hak Pakai. An unregistered hak sewa is extinguished on enforcement.
 
 Decision. The Company keeps the right to charge — it is needed for phase 1 infrastructure. But an encumbrance is permitted only on three conditions: the secured party confirms in writing that the leases survive and bind a purchaser at auction; Holders are notified 30 days in advance; the entry appears in the register. In addition, for the period the encumbrance subsists, the area tax for Holders is reduced by an agreed step — a premium for the risk accepted.
 
@@ -88,7 +88,7 @@ Recommending (a), moving to (d) where aggregate obligations exceed the fund's th
 
 ## D5 · The truth in place of the word "registered"
 
-Problem: the product pages sell a "registered lease", while §2.2 of the agreement says honestly that hak sewa is not registered at BPN.
+Problem: the product pages sell a "registered lease", while §2.2 of the agreement says honestly that hak sewa is not registered at [[bpn|BPN]].
 
 Decision. The word goes, and the promise is strengthened. What is sold is what actually exists, with an explanation of why it works:
 
@@ -168,7 +168,7 @@ Recommending (a).
 
 ## D10 · Two sublet products in place of one contested product
 
-Problem: the product page promises bare rails, the strategy promises a management company, and the Articles give the Company KBLI 55199 and 55192, which a foreign Holder cannot hold.
+Problem: the product page promises bare rails, the strategy promises a management company, and the Articles give the Company [[kbli|KBLI]] 55199 and 55192, which a foreign Holder cannot hold.
 
 Decision. Split by horizon and by the presence of a service:
 
@@ -177,7 +177,7 @@ Decision. Split by horizon and by the presence of a service:
 | land-time | day to season, bare land, no accommodation service | the Holder | area tax of 10% or 5%, plus a settlement fee of 1–3% |
 | stay | occupation with an accommodation service | the Estate, KBLI 55199 and 55192 | management fee, the Estate operating |
 
-The Holder chooses the channel. Both settle in IDR at JISDOR on the invoice date, as `[[uu 7-2011 mata uang|UU 7/2011]]` and thesis T6 of the index require; USDT remains a unit of account and a rail for agent demand rather than a means of payment inside Indonesia.
+The Holder chooses the channel. Both settle in IDR at [[jisdor|JISDOR]] on the invoice date, as `[[uu 7-2011 mata uang|UU 7/2011]]` and thesis T6 of the index require; USDT remains a unit of account and a rail for agent demand rather than a means of payment inside Indonesia.
 
 Why win-win. The Estate takes licence rent where it carries licence risk, and takes nothing extra where it does not. The Holder pays for what he actually receives. And the formula of the `hak sewa` page — the Estate earns on the activity of the city rather than on guarding a door — becomes true for land-time, instead of being a stretch for both cases.
 
@@ -253,8 +253,8 @@ No Bali leasehold today gives the third of these, and almost none gives the seco
 
 After the sign-off sheet is marked, the base hak sewa deed is assembled in RU-EN-ID with closed brackets where a decision is taken and explicit markers where one is deferred. The draft's open questions are carried out into a separate file so that they do not travel into the signable text.
 
-Outside this sheet, and requiring external confirmation rather than a decision: the remaining term of the master title, the ITR and RDTR status for Buleleng, the absence of LP2B, the admissibility of charging a hak sewa, the article numbering of [[kuhperdata|KUHPerdata]] in §2.7, and the locational scope of each KBLI under `Pasal 3` of the Articles.
+Outside this sheet, and requiring external confirmation rather than a decision: the remaining term of the master title, the ITR and [[rdtr|RDTR]] status for Buleleng, the absence of [[lp2b|LP2B]], the admissibility of charging a hak sewa, the article numbering of [[kuhperdata|KUHPerdata]] in §2.7, and the locational scope of each KBLI under `Pasal 3` of the Articles.
 
 ---
 
-This is not legal advice. The constructions above are verified by the notary and PPAT before they enter any signable text.
+This is not legal advice. The constructions above are verified by the notary and [[ppat|PPAT]] before they enter any signable text.

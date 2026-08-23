@@ -26,7 +26,7 @@ The `Cyberia legal compliance` chat is not reachable from here: `ListAgents` see
 
 ## Verdict
 
-The document is good as a skeleton and honest where it touches Indonesian law: bilingual execution, notarial form, anti-nominee, subordination to the HGB term, PBG in the name of the title holder, the BAST chain, the Licence Event regime. Those are the strong parts and they should be kept.
+The document is good as a skeleton and honest where it touches Indonesian law: bilingual execution, notarial form, anti-nominee, subordination to the [[hgb|HGB]] term, [[pbg|PBG]] in the name of the title holder, the [[bast|BAST]] chain, the Licence Event regime. Those are the strong parts and they should be kept.
 
 As a contract template it is not ready, and the principal problem is one of stitching rather than of law: the charter and the product pages promise the buyer things the agreement does not contain, and in three cases promise the exact opposite of what the agreement says. While those three contradictions live, any executed counterpart is written evidence of a divergence between the advertising and the deal.
 
@@ -43,15 +43,15 @@ The product pages and the charter tell the buyer he receives a registered right:
 - `leasehold upfront`: "registered 25y term + extension pre-agreed"
 - strategy §6.1, instrument A: "Full payment at signing, registered lease (25y + pre-agreed extensions)"
 
-Agreement §2.2 says the opposite, and says it correctly: hak sewa is a contractual right, it is not registered at BPN and does not appear on the certificate.
+Agreement §2.2 says the opposite, and says it correctly: hak sewa is a contractual right, it is not registered at [[bpn|BPN]] and does not appear on the certificate.
 
-One of the two statements is false, and the false one is what is printed on the shopfront. For a buyer paying 100% up front, the difference between a registered right and a contract with a PT PMA is the whole difference. Fix: remove the word registered from pages A and B and from strategy §6.1, keep the formulation of the `hak sewa` page ("it is a right, not a title"), and move this into the recitals of the agreement rather than leaving it at §2.2 in the middle of the text.
+One of the two statements is false, and the false one is what is printed on the shopfront. For a buyer paying 100% up front, the difference between a registered right and a contract with a PT [[pma|PMA]] is the whole difference. Fix: remove the word registered from pages A and B and from strategy §6.1, keep the formulation of the `hak sewa` page ("it is a right, not a title"), and move this into the recitals of the agreement rather than leaving it at §2.2 in the middle of the text.
 
 ### B2. "locked on day one" against the mechanics of the century index
 
 `annual leasehold`: "the rest is a fixed yearly rent for 25 years — locked on day one, not renegotiated at market"; annex B: "rent path still fixed at signing". The calculator draws a smooth curve at CX 6% and land 3%.
 
-Century index §2 and §4: the payment is a fixed set of quantities rather than a number; the rate is recomputed annually on TWAP, with a collar of +35% / −15% in satoshi and a double floor. A single year can produce +35%.
+Century index §2 and §4: the payment is a fixed set of quantities rather than a number; the rate is recomputed annually on [[twap|TWAP]], with a collar of +35% / −15% in satoshi and a double floor. A single year can produce +35%.
 
 What is fixed is the formula and the quantities qᵢ, not the amount. The page sells predictability of the payment, the specification sells predictability of the rule. Fix: say on the page what the thing is — quantities are fixed, the amount is not; the amount moves with the basket, and the annual step is bounded by a collar of +35/−15 — and show the historical path from the backtest in the calculator (1.00 → 1.80 → 1.00 → 2.16 → 4.07 → 3.54) rather than only a smooth exponential. In the agreement: a separate article on what exactly is fixed, plus one worked invoice in the annex, as T1 requires.
 
@@ -72,7 +72,7 @@ Charter, stream 4: rent is indexed through CX. Pages A and B: "extension pre-agr
 
 The agreement mentions CX once in §2.3 by reference, while §2.4 sends the renewal price to "the formula in Schedule E" and itself warns that "to be agreed" is the principal defect of Bali leases. Schedule E is empty. As it stands the agreement contains exactly the defect it warns against.
 
-Fix: Schedule E becomes the CX annex under T1 (weights, t₀ prices, quantities qᵢ, fix sources with fallbacks, collar, floor, one worked invoice), plus the migration into the body of the agreement of T5 (the tenant's right to recompute within 30 days, the recomputation prevailing), T6 (settlement in IDR at JISDOR on the invoice date, [[uu 7-2011 mata uang|UU 7/2011]]), T7 (the annex surviving assignment, sublease and succession), T8 (the computation from public fixes prevailing over the on-chain fix). Renewal formula: L(T) = L₀ · I(T)/I(t₀).
+Fix: Schedule E becomes the CX annex under T1 (weights, t₀ prices, quantities qᵢ, fix sources with fallbacks, collar, floor, one worked invoice), plus the migration into the body of the agreement of T5 (the tenant's right to recompute within 30 days, the recomputation prevailing), T6 (settlement in IDR at [[jisdor|JISDOR]] on the invoice date, [[uu 7-2011 mata uang|UU 7/2011]]), T7 (the annex surviving assignment, sublease and succession), T8 (the computation from public fixes prevailing over the on-chain fix). Renewal formula: L(T) = L₀ · I(T)/I(t₀).
 
 ### M2. The zoning code is not a covenant
 
@@ -188,7 +188,7 @@ Beyond the above, the skeleton lacks:
 4. Encumbrance of the right. Whether the Holder may charge a hak sewa is a question of buyer financing, and there is no answer.
 5. Succession and the death of the Holder. Over 25+25 years this is not a rare event.
 6. Adat. For a Balinese estate the absence of subak, banjar, awig-awig desa adat, ceremonial passage and customary obligations is a large gap. `sempadan sungai` and subak are mentioned once in §2.7 as somebody else's risk. The charter meanwhile spends 10% of recurring income on the desa share and calls it a guardrail on tone.
-7. VAT. §12 lists PPh, BPHTB, notarial fees and PBB. VAT on the lease of land and buildings is not mentioned — confirm the rate and base with an adviser, and who bears it.
+7. VAT. §12 lists PPh, [[bphtb|BPHTB]], notarial fees and [[pbb|PBB]]. VAT on the lease of land and buildings is not mentioned — confirm the rate and base with an adviser, and who bears it.
 8. Currency of account against currency of payment. There is no express clause.
 9. KYC and source of funds. §9 gives a representation, with no procedure.
 10. Boilerplate: notices, entire agreement, counterparts and electronic signature, the language of notices and correspondence, severability.
@@ -245,7 +245,7 @@ One file for everything does not work: the ≤500 line rule and the zonal differ
 legal/
   land-rights-agreement.md      open questions, principles, package map (stays, cleaned up)
   deed-hak-sewa.md              base deed, RU-EN-ID, three columns
-  annex-a-estate.md             master title, cadastre, zoning, KKPR
+  annex-a-estate.md             master title, cadastre, zoning, [[kkpr|KKPR]]
   annex-b-plot.md               boundaries, patok, neighbours, GPS/UTM, peta bidang
   annex-c-design-code.md        the zoning code as numbers, from policies/*
   annex-d-community-rules.md    community rules, tone, car-free, adat
@@ -266,4 +266,4 @@ The base deed is written in three parallel columns RU-EN-ID from the start, as c
 
 ## Reservation
 
-This is not legal advice. Every statement about Indonesian law in this audit is either a quotation from the draft itself or an item marked as requiring confirmation. It is verified with a notary and a PPAT — preferably not only the one proposed by the landowner — before signing, against the current editions of the regulations and against the actual master title.
+This is not legal advice. Every statement about Indonesian law in this audit is either a quotation from the draft itself or an item marked as requiring confirmation. It is verified with a notary and a [[ppat|PPAT]] — preferably not only the one proposed by the landowner — before signing, against the current editions of the regulations and against the actual master title.
