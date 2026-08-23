@@ -9,15 +9,15 @@ icon: "📐"
 
 v0.4 · annex to [[land-rights-agreement|Land Rights Agreement]] · binding on all Holders, all tracks, all zones, and on any assignee or successor
 
-Source of the numbers: [[cyber-valley/policies/zoning system|zoning code]] and the six policy pages. Where a policy page is amended, this annex is amended with it under §7.3 of the deed, subject to the veto in §8.2. Where a Bali provincial or Buleleng regulation is stricter, that regulation prevails.
+Source of the numbers: [[cyber-valley/policies/zoning system|zoning code]] and the six policy pages. Where a policy page is amended, this annex is amended with it under [§7.3](/cyber-valley/cve/legal/land-rights-agreement#7-design-code-annex-c) of the deed, subject to the veto in [§8.2](/cyber-valley/cve/legal/land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge). Where a Bali provincial or Buleleng regulation is stricter, that regulation prevails.
 
 ## C1. Measurement
 
 C1.1 Ratios in C2 and C3 are measured per Plot, on the area shown in Annex B.
 
-C1.2 Unused footprint entitlement is transferable to another Plot in the same district through the Register under §7.2 of the deed, against a settlement fee, and only where the district balance in C7 is maintained. Transfers open from Wave 2.
+C1.2 Unused footprint entitlement is transferable to another Plot in the same district through the Register under [§7.2](/cyber-valley/cve/legal/land-rights-agreement#7-design-code-annex-c) of the deed, against a settlement fee, and only where the district balance in C7 is maintained. Transfers open from Wave 2.
 
-C1.3 The Holder's compliance is measured at [[slf|SLF]] and at each periodic SLF renewal, and on any transfer under §2.5.
+C1.3 The Holder's compliance is measured at [[slf|SLF]] and at each periodic SLF renewal, and on any transfer under [§2.5](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders).
 
 ## C2. Construction area
 
@@ -92,7 +92,7 @@ Soil — [[soil policy]]:
 | soil test per Plot | annual | Holder | cyberia ledger and the Register |
 | species count | at SLF and each SLF renewal | Holder | Register |
 
-Publication carries the Plot identifier and the result, not the Holder's identity. Failure to publish for two consecutive periods is a Design Code breach for the purposes of the transfer fee scale in §2.5.5 and, if unremedied after notice, a default.
+Publication carries the Plot identifier and the result, not the Holder's identity. Failure to publish for two consecutive periods is a Design Code breach for the purposes of the transfer fee scale in [§2.5.5](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) and, if unremedied after notice, a default.
 
 ## C7. District balance
 
@@ -108,4 +108,4 @@ Provincial building-height limits, architectural requirements, slope and ravine 
 
 ## C10. Grandfathering
 
-Improvements completed in compliance with the version of this annex in force at their SLF remain compliant. An amendment worsening their position requires the veto threshold in §8.2 of the deed.
+Improvements completed in compliance with the version of this annex in force at their SLF remain compliant. An amendment worsening their position requires the veto threshold in [§8.2](/cyber-valley/cve/legal/land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge) of the deed.
