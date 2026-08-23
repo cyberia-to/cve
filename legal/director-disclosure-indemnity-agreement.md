@@ -235,6 +235,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 | No. | Area, m² | Title & expiry | Registered as | Purchase agreement | PPKPR (Aug 2026) | Transferred to PT? | Status | Key risk / note |
 |---|---|---|---|---|---|---|---|---|
+| 0 | 6,400 | None yet — held on *Pipil*; certification in progress | Not yet issued to the Company | Documents not yet handed over by the seller | None | Yes — purchase price and all taxes paid in full by the Company | RISK | Added by the Owners. All costs of acquisition and all taxes were paid by the Company; the land is in *Pipil* status and the certification route is long, so no certificate and no file have been delivered yet |
 | 1 | 15,500 (14,750 resurveyed) | [[hgb|HGB]] 00046, until 02.02.2053 | PT Cyber Valley Estate | [[ajb|AJB]] 47/2023 | Not on file | Yes | OK* | Area reduced ~750 m² per 2026 resurvey; no PPKPR on file |
 | 2 | 20,700 | HGB 00047, until 02.02.2053 | PT (per AJB & tax) | AJB 62/2023 | Not on file | Yes (cert. unconfirmed) | OK* | No post-transfer certificate on file; no PPKPR |
 | 3 | 20,000 | HGB 00052, until 12.04.2053 | PT Cyber Valley Estate | AJB 148/2023 | Expired ~10.08.2026 | Yes | Attention | Forest/protected zone — development restrictions |
@@ -258,7 +259,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 **Excluded from the Land — Parcel "21. Green Flow" (Desa Sayan, Kecamatan Ubud, Kabupaten Gianyar):** a separate 25-year leasehold project over land titled (SHM) to local individuals, involving Commissioner Dmitry Starodubtsev, Felix Demin, PT Bali Investment SFG and PT Bali Investments Group personally and/or through affiliated vehicles. **Not** included in the Land, **not** warranted as a Company asset. See Appendix C item 9.
 
-**Portfolio totals (Parcels 1–19, excluding Green Flow):** declared area ≈364,720 m² (≈36.5 ha); ≈292,000 m² (≈29.2 ha) supported by documentation showing registration in the Company's name (subject to the "Attention"/"OK*" caveats above); ≈72,700 m² (≈7.3 ha) — Parcels 3.1, 8, 13 and 14 — remains legally titled to individual sellers and is **not yet Company property**.
+**Portfolio totals (Parcels 0–19, excluding Green Flow):** declared area ≈371,120 m² (≈37.1 ha); ≈292,000 m² (≈29.2 ha) supported by documentation showing registration in the Company's name (subject to the "Attention"/"OK*" caveats above); ≈79,100 m² (≈7.9 ha) — Parcels 0, 3.1, 8, 13 and 14 — remains legally titled to individual sellers or uncertificated and is **not yet Company property**.
 
 ## Appendix C — Reconciliation of independent audit findings
 
