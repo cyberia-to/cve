@@ -11,13 +11,13 @@ icon: "🛡️"
 > **Draft — not reviewed by Indonesian counsel/notary yet. Additions and corrections welcome.**
 > Source: Google Doc *"PT Cyber Valley Estate — Director Appointment, Full Disclosure and Indemnification Agreement"*, prepared 2026-08-23, built on the Owners' due-diligence Questionnaire and an independent document audit dated 2026-08-21.
 
-Personal instrument from the **Owners** (Alisa Voinova, Dmitry Starodubtsev) to the **Incoming Director** (Oleksandr "Alex" Fedorov): full disclosure of Company and land liabilities, backed by an uncapped joint-and-several indemnity, so Alex can accept the Director role and deal with third parties on the Land without inheriting undisclosed risk. **Supplements, does not replace**, the RUPS + notarial appointment in [[gms director appointment]] — Article 2.2 of the draft says so explicitly.
+Personal instrument from the **Owners** (Alisa Voinova, Dmitry Starodubtsev) to the **Incoming Director** (Oleksandr "Alex" Fedorov): full disclosure of Company and land liabilities, backed by an uncapped joint-and-several indemnity, so Alex can accept the Director role and deal with third parties on the Land without inheriting undisclosed risk. **Supplements, does not replace**, the [[rups|RUPS]] + notarial appointment in [[gms director appointment]] — Article 2.2 of the draft says so explicitly.
 
 ## Parties
 
 | party | role |
 |---|---|
-| PT Cyber Valley Estate | Company (PT PMA, est. 2022, Desa Gesing/Buleleng) |
+| PT Cyber Valley Estate | Company (PT [[pma|PMA]], est. 2022, Desa Gesing/Buleleng) |
 | Alisa Voinova ("Owner 1") | 50% shareholder pre-Closing, **49% post-Closing** (3,940/8,040 shares), current sole Director (term from 04.01.2022, expires ~04.01.2027) |
 | Dmitry Starodubtsev ("Owner 2") | 50% shareholder throughout (4,020/8,040 shares), Commissioner |
 | Oleksandr Fedorov ("Alex") | Incoming Director — same person as CEO in [[ceo]] / President Director in [[gms director appointment]] — **becomes 1% shareholder at Closing** (80/8,040 shares) under [[share sale entry]], so a third party to this agreement's own Owner/Director split ends up an owner too |
@@ -28,11 +28,11 @@ Shareholding figures are the post-Closing state under [[share sale entry]] §2 a
 
 - **Disclosed Matters (the whole hinge of the deal).** Only: (a) specific answers in Appendix A, (b) Appendix B particulars, (c) Appendix C rows the Owners actually **confirm or correct and countersign** before signing. A document merely sitting in the data room is **not** disclosure — Article 6 says so twice, deliberately closing the "you had access to the files" defense.
 - **Indemnity (Art. 5).** Joint & several, no cap/basket/threshold, covers full cure cost + diminution in value + legal fees on indemnity basis + Tax gross-up + 12%/year compounded interest. **+20% liquidated uplift** if an Owner knew and didn't disclose (deliberately drafted as "compensation," not "penalty" — see comment 4 below).
-- **Third-party stipulation (Art. 4, KUHPerdata Art. 1317).** Lets Alex/Company extend the same indemnity to a bona fide buyer/lessee/contractor of the Land — this is what makes the agreement useful beyond Alex personally.
+- **Third-party stipulation (Art. 4, [[kuhperdata|KUHPerdata]] Art. 1317).** Lets Alex/Company extend the same indemnity to a bona fide buyer/lessee/contractor of the Land — this is what makes the agreement useful beyond Alex personally.
 - **No knowledge/investigation defense (Art. 6).** Prior review, incl. the audit itself, doesn't limit Owner liability except for confirmed Disclosed Matters.
 - **Survival.** Unlimited for title/Encumbrances, Tax, criminal/corruption matters, and any knowing non-disclosure; 10 years for everything else.
-- **Governing law / forum.** Indonesian law; BANI arbitration, Denpasar, English language; land title/registration carved out to Indonesian courts/BPN regardless (Art. 11.1, 11.4).
-- **Director's authority (Appendix D).** No longer restated here — it only ever repeated [[articles of association]] Art. 11 (statutory signing powers), [[ceo]] §5 (Commissioner-approval thresholds for land/credit, no-mortgage rule) and [[gms director appointment]] §3.3 (binds the President Director to those thresholds), so keeping a second copy just risked drifting out of sync with the originals. Those documents control; if a future draft of this agreement still carries a standalone Appendix D, treat it as a convenience summary only.
+- **Governing law / forum.** Indonesian law; [[bani|BANI]] arbitration, Denpasar, English language; land title/registration carved out to Indonesian courts/[[bpn|BPN]] regardless (Art. 11.1, 11.4).
+- **Director's authority (Appendix D, convenience summary only — Governing Documents control on conflict).** No longer restated here in full; it only ever repeated [[articles of association]] Art. 11 (statutory signing powers), [[ceo]] §5 (Commissioner-approval thresholds for land/credit, no-mortgage rule) and [[gms director appointment]] §3.3 (binds the President Director to those thresholds), so keeping a second copy just risked drifting out of sync with the originals. If a future draft still carries a standalone Appendix D, treat it as a convenience summary only. The practical summary is: Director signs alone for ordinary business, HR, contractors, and bank accounts; Commissioner consent is needed for loans, pledges/mortgages of land, guarantees, and new business lines; RUPS is needed for share issues, AoA amendments, appointing/removing directors, and disposing of >50% of assets. Bank mandate is strict maker (Director) / authorizer (Commissioner) two-to-sign.
 
 ## Appendix A — Owners' Q&A (translated from Russian): key admissions
 
@@ -47,12 +47,12 @@ Shareholding figures are the post-Closing state under [[share sale entry]] §2 a
 
 - Declared total: **~364,720 m² (36.5 ha)**.
 - Documented as registered to the Company: **~292,000 m² (29.2 ha)**, several with caveats ("Attention"/"OK*" — missing PPKPR, missing post-transfer certificates, expired PPKPR on 6 parcels).
-- **Not yet Company property — still titled to individuals: ~72,700 m² (7.3 ha) = Parcels 3.1, 8, 13, 14.** Parcel 13 (45,000 m²) is marked **CRITICAL**: zero transaction documents, yet the Company already holds a PKKPR over it.
+- **Not yet Company property — still titled to individuals: ~72,700 m² (7.3 ha) = Parcels 3.1, 8, 13, 14.** Parcel 13 (45,000 m²) is marked **CRITICAL**: zero transaction documents, yet the Company already holds a [[pkkpr|PKKPR]] over it.
 - **"Green Flow" (Sayan, Ubud)** — a separate 25-year leasehold project involving Dmitry personally (+ Felix Demin, PT Bali Investment SFG, PT Bali Investments Group) — **explicitly excluded**, not a Company asset, not warranted here.
 
 ## Appendix C — 11 audit findings requiring Owner sign-off before the Effective Date
 
-Director's term expiry (2027) · Parcel 15 undisclosed 2023 litigation (2 cases, withdrawn, not decided on merits) · Parcel 13 no documents at all · Parcels 3.1/8/14 title not transferred · 6 parcels with expired PPKPR · Company-level PKKPR expired · NIB missing 3 KBLI codes already in the Articles · Parcels 18/19 swapped file contents · Green Flow personal project · LKPM (PMA reporting) status unconfirmed · duplicate/unclear SHM No. 02100.
+Director's term expiry (2027) · Parcel 15 undisclosed 2023 litigation (2 cases, withdrawn, not decided on merits) · Parcel 13 no documents at all · Parcels 3.1/8/14 title not transferred · 6 parcels with expired PPKPR · Company-level PKKPR expired · [[nib|NIB]] missing 3 [[kbli|KBLI]] codes already in the Articles · Parcels 18/19 swapped file contents · Green Flow personal project · LKPM (PMA reporting) status unconfirmed · duplicate/unclear SHM No. 02100.
 
 Any row left blank stays **inside** the Article 5 indemnity by design — that's the intended incentive, not an oversight.
 

@@ -9,9 +9,9 @@ icon: "⚖️"
 
 v0.4.3 · working skeleton, not an executable document
 
-*Changelog: v0.1 initial skeleton · v0.2 §9A Licence Event regime · v0.3 §5A construction control, BAST handover chain and indemnity · v0.3.1 §2.7 plot as per aversionem (ad corpus) · v0.4 holder protocol folded in — §2.5 free assignability and the Register, §9B title warranties, negative pledge, non-disturbance and mirror indemnity, §2.4 renewal by right, §2.6 split into land-time and stay, §6 three-tier build remedy, §8 veto and initiative in place of an Association, §9A full KBLI list from the Articles of Association, §10A force majeure, §10B adat, §2.8 succession, §13 general provisions; Design Code moved to Annex C; clause leaders unbolded per the graph style rule · v0.4.1 §7.4 Design Envelope lock — the signing-to-SLF window, with the Landowner's cure right and exit in both fault and no-fault cases · v0.4.2 §6.0 conditions precedent and the Commencement Certificate — the construction clock starts there, stops when a condition falls away, and carries a long stop; 9B.2 adds pengecekan sertifikat on the day of signing; 9B.7 rewritten as a choice of real security instruments; open questions moved to `legal/notes/open questions.md` · v0.4.3 §2.1 term derived from the Title with automatic extension, 2.1.1–2.1.2 where the term lives and the offer of record, 9B.9 duty to extend Titles in time.*
+*Changelog: v0.1 initial skeleton · v0.2 [§9A](#9a-licences-warranty-and-licence-event-regime) Licence Event regime · v0.3 [§5A](#5a-construction-control-handover-and-indemnity) construction control, [[bast|BAST]] handover chain and indemnity · v0.3.1 [§2.7](#2-part-a-base-grant-hak-sewa-all-holders) plot as per aversionem (ad corpus) · v0.4 holder protocol folded in — [§2.5](#2-part-a-base-grant-hak-sewa-all-holders) free assignability and the Register, [§9B](#9b-title-warranties-negative-pledge-and-indemnity) title warranties, negative pledge, non-disturbance and mirror indemnity, [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) renewal by right, [§2.6](#2-part-a-base-grant-hak-sewa-all-holders) split into land-time and stay, [§6](#6-construction-timeline-and-the-build-obligation) three-tier build remedy, [§8](#8-community-council-shared-infrastructure-and-service-charge) veto and initiative in place of an Association, [§9A](#9a-licences-warranty-and-licence-event-regime) full [[kbli|KBLI]] list from the Articles of Association, [§10A](#10a-force-majeure) force majeure, [§10B](#10b-adat-subak-and-desa) adat, [§2.8](#2-part-a-base-grant-hak-sewa-all-holders) succession, [§13](#13-general-provisions) general provisions; Design Code moved to Annex C; clause leaders unbolded per the graph style rule · v0.4.1 [§7.4](#7-design-code-annex-c) Design Envelope lock — the signing-to-SLF window, with the Landowner's cure right and exit in both fault and no-fault cases · v0.4.2 [§6.0](#6-construction-timeline-and-the-build-obligation) conditions precedent and the Commencement Certificate — the construction clock starts there, stops when a condition falls away, and carries a long stop; 9B.2 adds pengecekan sertifikat on the day of signing; 9B.7 rewritten as a choice of real security instruments; open questions moved to `legal/notes/open questions.md` · v0.4.3 [§2.1](#2-part-a-base-grant-hak-sewa-all-holders) term derived from the Title with automatic extension, 2.1.1–2.1.2 where the term lives and the offer of record, 9B.9 duty to extend Titles in time.*
 
-> Status. Structural draft for discussion with an Indonesian notary (PPAT) and counsel. Nothing here is legal advice. Every clause marked ⚠ carries a known Indonesian-law constraint that must be verified against the current regulations and the actual master title before any version of this is signed. Every clause marked ▲ implements a decision from `holder-protocol-decisions.md` and reverts cleanly if that decision is changed.
+> Status. Structural draft for discussion with an Indonesian notary ([[ppat|PPAT]]) and counsel. Nothing here is legal advice. Every clause marked ⚠ carries a known Indonesian-law constraint that must be verified against the current regulations and the actual master title before any version of this is signed. Every clause marked ▲ implements a decision from `holder-protocol-decisions.md` and reverts cleanly if that decision is changed.
 
 Corporate source of authority: Anggaran Dasar / Articles of Association PT. Cyber Valley Estate, 12 August 2026 (Akta Pendirian No. 01, 04-01-2022; PKR No. 13, 14-04-2025; PKR No. 02, 01-07-2025). Where this framework and the Articles diverge, the Articles prevail and this framework is corrected.
 
@@ -23,7 +23,7 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 |---|---|
 | this file | framework and operative structure |
 | `legal/notes/open questions.md` | release gate and every open item, deliberately outside the signable text |
-| Annex A | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, RTRW classification, PKKPR number or its absence, LP2B status; plus the KBLI × location table under §9A.1 |
+| Annex A | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw|RTRW]] classification, [[pkkpr|PKKPR]] number or its absence, [[lp2b|LP2B]] status; plus the KBLI × location table under [§9A.1](#9a-licences-warranty-and-licence-event-regime) |
 | Annex B | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
 | [[annex-c-design-code\|Annex C]] | Design Code — the zoning code as numbers |
 | Annex D | Community Rules |
@@ -38,17 +38,17 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 
 ## 0. Threshold requirements (apply to every track)
 
-Bilingual execution — mandatory. ⚠ Law No. 24/2009 requires agreements involving an Indonesian party to be executed in Bahasa Indonesia. English-only instruments have been annulled by Indonesian courts. Execute bilingual, with an express clause stating which language prevails on discrepancy (Indonesian text customarily prevails; the parties may agree otherwise but should not assume it will be honoured).
+Bilingual execution — mandatory. ⚠ [[uu 24-2009 bahasa|UU 24/2009]] requires agreements involving an Indonesian party to be executed in Bahasa Indonesia. English-only instruments have been annulled by Indonesian courts. Execute bilingual, with an express clause stating which language prevails on discrepancy (Indonesian text customarily prevails; the parties may agree otherwise but should not assume it will be honoured).
 
-Notarial form. Land leases are executed as *akta sewa* before a notary/PPAT. Private signature agreements are enforceable in principle but weak in practice and unusable for any later BPN procedure.
+Notarial form. Land leases are executed as *akta sewa* before a notary/PPAT. Private signature agreements are enforceable in principle but weak in practice and unusable for any later [[bpn|BPN]] procedure.
 
 Anti-nominee. ⚠ Both parties represent that no part of this arrangement is a nominee structure (*perjanjian pinjam nama*). Nominee arrangements violate the Basic Agrarian Law and Art. 1320 Civil Code and are void. Nothing in this framework may be used to simulate freehold for a foreign party, and no Holder may receive shares or share-like economics in exchange for the Plot outside the reviewed joint-venture instrument.
 
-Title subordination. ⚠ There is no single master title. The Estate is assembled from 21 acquisitions; the register of holdings records 18 certificated HGB parcels and three parcels without an HGB certificate (one recorded as *Pipil*, one awaiting certification, one held on agreement only). No right granted may exceed the remaining term of the specific certificate on which the Plot sits. Every term, renewal and option below is expressly capped by, and conditional on, the subsistence and renewal of that certificate. Annex A lists every title with its number, area, grant and expiry dates and remaining term; the recitals name the certificate for this Plot and state its remaining term as a number.
+Title subordination. ⚠ There is no single master title. The Estate is assembled from 21 acquisitions; the register of holdings records 18 certificated [[hgb|HGB]] parcels and three parcels without an HGB certificate (one recorded as *Pipil*, one awaiting certification, one held on agreement only). No right granted may exceed the remaining term of the specific certificate on which the Plot sits. Every term, renewal and option below is expressly capped by, and conditional on, the subsistence and renewal of that certificate. Annex A lists every title with its number, area, grant and expiry dates and remaining term; the recitals name the certificate for this Plot and state its remaining term as a number.
 
 Condition precedent to offering a Plot. ⚠ No Plot is offered, priced or granted unless (a) it sits on a certificated HGB parcel listed in Annex A, and (b) a PKKPR covering the intended use exists for that parcel. Parcels held on *Pipil*, on agreement, or awaiting certification are outside this framework until converted.
 
-Signing authority. Under Articles of Association Pasal 12(2)(c) the Director signs lease agreements and land-rights transfer agreements within KBLI 68111 and 68200 without prior approval. Acts requiring prior written approval of the Board of Commissioners, and in the listed cases also of the GMS, are set out in Pasal 12(3) — in particular encumbrance of land rights (letter b, relevant to §9B.3) and participation in another company (letter e, relevant to the joint-venture instrument). Pasal 12(4) requires separate maker and authorizer roles for every disbursement from the principal revenue account; payment deadlines in this deed are set to accommodate that mandate.
+Signing authority. Under Articles of Association Pasal 12(2)(c) the Director signs lease agreements and land-rights transfer agreements within KBLI 68111 and 68200 without prior approval. Acts requiring prior written approval of the Board of Commissioners, and in the listed cases also of the GMS, are set out in Pasal 12(3) — in particular encumbrance of land rights (letter b, relevant to [§9B.3](#9b-title-warranties-negative-pledge-and-indemnity)) and participation in another company (letter e, relevant to the joint-venture instrument). Pasal 12(4) requires separate maker and authorizer roles for every disbursement from the principal revenue account; payment deadlines in this deed are set to accommodate that mandate.
 
 ---
 
@@ -56,20 +56,20 @@ Signing authority. Under Articles of Association Pasal 12(2)(c) the Director sig
 
 | Term | Definition |
 |---|---|
-| Landowner | PT. CYBER VALLEY ESTATE, an Indonesian limited liability company (PT PMA) domiciled in Gesing, Banjar, Buleleng, Bali; holder of the land titles listed in Annex A; NIB [___] |
+| Landowner | PT. CYBER VALLEY ESTATE, an Indonesian limited liability company (PT [[pma|PMA]]) domiciled in Gesing, Banjar, Buleleng, Bali; holder of the land titles listed in Annex A; [[nib|NIB]] [___] |
 | Title | the HGB certificate listed in Annex A on which the Plot sits, named in the recitals |
 | Holder | the counterparty; classified at signing as Foreign Holder (non-Indonesian national) or Indonesian Holder (WNI) |
 | Estate | the land parcel(s) under the master title, described in Annex A |
 | Plot | the demarcated area allocated to the Holder, described by coordinates and site plan in Annex B |
 | Improvements | any building or structure erected by the Holder on the Plot |
-| Design Code | Annex C, as amended under §7 |
+| Design Code | Annex C, as amended under [§7](#7-design-code-annex-c) |
 | Community Rules | Annex D |
-| Index Annex | Annex E, the century index annex referred to in §2.3 and §2.4 |
-| Register | the register of leases maintained by the Landowner under §2.5.8 |
-| Estate Certificate | the statement of lease status issued under §2.5.6 |
-| Guarantee Fund | the reserve constituted under §9B.7 |
-| Community Council | the contractual body of Holders under §8 |
-| Licence Event | as defined in §9A.2 |
+| Index Annex | Annex E, the century index annex referred to in [§2.3](#2-part-a-base-grant-hak-sewa-all-holders) and [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) |
+| Register | the register of leases maintained by the Landowner under [§2.5.8](#2-part-a-base-grant-hak-sewa-all-holders) |
+| Estate Certificate | the statement of lease status issued under [§2.5.6](#2-part-a-base-grant-hak-sewa-all-holders) |
+| Guarantee Fund | the reserve constituted under [§9B.7](#9b-title-warranties-negative-pledge-and-indemnity) |
+| Community Council | the contractual body of Holders under [§8](#8-community-council-shared-infrastructure-and-service-charge) |
+| Licence Event | as defined in [§9A.2](#9a-licences-warranty-and-licence-event-regime) |
 
 ---
 
@@ -91,15 +91,15 @@ The default product. Available to Foreign and Indonesian Holders alike, with no 
 
 2.2 Nature of the right, and what stands in place of registration. ⚠ Hak Sewa is a contractual right under Indonesian civil law. It is not registered at BPN as a land title and does not appear on the certificate. This is stated in the recitals in those words. ▲ In place of registration the Holder receives, and the Landowner expressly grants:
 
-- a notarial deed and an entry in the Register (§2.5.8);
-- the negative pledge and non-disturbance regime (§9B.3–9B.4);
-- the covenant that any transferee of the Estate takes subject to this deed (§9B.3);
-- the Estate Certificate on demand (§2.5.6), on which a prospective assignee may rely;
-- the upgrade path to a registered right after completion — Hak Pakai under §3 or Hak Milik under §4.
+- a notarial deed and an entry in the Register ([§2.5.8](#2-part-a-base-grant-hak-sewa-all-holders));
+- the negative pledge and non-disturbance regime ([§9B.3–9B.4](#9b-title-warranties-negative-pledge-and-indemnity));
+- the covenant that any transferee of the Estate takes subject to this deed ([§9B.3](#9b-title-warranties-negative-pledge-and-indemnity));
+- the Estate Certificate on demand ([§2.5.6](#2-part-a-base-grant-hak-sewa-all-holders)), on which a prospective assignee may rely;
+- the upgrade path to a registered right after completion — Hak Pakai under [§3](#3-part-b-track-f-upgrade-to-hak-pakai-foreign-holders) or Hak Milik under [§4](#4-part-b-track-i-upgrade-to-title-indonesian-holders).
 
 No marketing material may describe this instrument as a registered lease.
 
-2.3 Consideration. [Lump sum for full term / annual rent], payable [schedule]. Tax treatment: PPh on lease value at [10%]; PPN and withholding responsibility allocated at §12. ▲ Where consideration is indexed, the obligation is denominated in the century index: what is fixed at signing is the set of quantities qᵢ and the collar and floor, not the amount of any future invoice. The Index Annex (Annex E) carries weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor and one worked invoice, and prevails over prose (thesis T1). The Holder may recompute any invoice from public sources within 30 days and the recomputation prevails (T5). Settlement is in IDR at JISDOR on the invoice date (T6, UU 7/2011). The Index Annex survives assignment, sublease and succession with the same quantities (T7). On divergence between the on-chain fix and the annex computation from named public fixes, the annex computation prevails (T8).
+2.3 Consideration. [Lump sum for full term / annual rent], payable [schedule]. Tax treatment: PPh on lease value at [10%]; PPN and withholding responsibility allocated at [§12](#12-taxes-currency-and-costs). ▲ Where consideration is indexed, the obligation is denominated in the century index: what is fixed at signing is the set of quantities qᵢ and the collar and floor, not the amount of any future invoice. The Index Annex (Annex E) carries weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor and one worked invoice, and prevails over prose (thesis T1). The Holder may recompute any invoice from public sources within 30 days and the recomputation prevails (T5). Settlement is in IDR at [[jisdor|JISDOR]] on the invoice date (T6, [[uu 7-2011 mata uang|UU 7/2011]]). The Index Annex survives assignment, sublease and succession with the same quantities (T7). On divergence between the on-chain fix and the annex computation from named public fixes, the annex computation prevails (T8).
 
 2.4 Renewal by right. ▲ The Holder has the right — not an option subject to the Landowner's agreement — to renew for a further term determined as in 2.1, exercisable between [24] and [12] months before expiry, provided the Holder is not in uncured material default. The renewal price is L(T) = L₀ · I(T)/I(t₀) under the Index Annex. The Landowner may not refuse renewal while the Title subsists. Where the term granted under 2.1 was shortened by the Title rather than by choice, the automatic extension in 2.1 operates first and the renewal right attaches to the extended term.
 ⚠ The formula must be arithmetic — an index, a benchmark, or a defined valuation method with a named appointing body. "To be agreed" is the single most common defect in Bali leases and renders the option unenforceable in substance. Annex E is that formula; a renewal clause pointing at an empty annex reproduces the defect it warns against.
@@ -119,15 +119,15 @@ No marketing material may describe this instrument as a registered lease.
 | Holder's position | fee |
 |---|---|
 | base | [2.0]% |
-| built within time, SLF issued | [1.5]% |
+| built within time, [[slf|SLF]] issued | [1.5]% |
 | no unremedied Design Code breach for the whole term | [1.0]% |
 | soil and water results published to the ledger without gaps | [0.5]% |
 | referred residents above the threshold in Annex D | [0]% |
-| succession under §2.8 | [0]% |
+| succession under [§2.8](#2-part-a-base-grant-hak-sewa-all-holders) | [0]% |
 
-Right of first refusal exists only in Wave 1 and only until the build obligation under §6 is discharged; it lapses permanently on SLF. Where it applies, its mechanics mirror Articles of Association Pasal 7 for shares: notice stating price and terms, 30 days to respond, right to withdraw the offer after that period.
+Right of first refusal exists only in Wave 1 and only until the build obligation under [§6](#6-construction-timeline-and-the-build-obligation) is discharged; it lapses permanently on SLF. Where it applies, its mechanics mirror Articles of Association Pasal 7 for shares: notice stating price and terms, 30 days to respond, right to withdraw the offer after that period.
 
-2.5.6 Estate Certificate. On the Holder's written request the Landowner issues, free of charge and within 10 working days, a certificate stating: remaining term; confirmation of payments and absence of arrears; quantities qᵢ and the latest invoice under the Index Annex; PBG and SLF status; any unremedied Design Code breaches, or confirmation that there are none; status of the master title and of any encumbrance over it at that date. The certificate is valid for 30 days and is a statement on which a prospective assignee may rely.
+2.5.6 Estate Certificate. On the Holder's written request the Landowner issues, free of charge and within 10 working days, a certificate stating: remaining term; confirmation of payments and absence of arrears; quantities qᵢ and the latest invoice under the Index Annex; [[pbg|PBG]] and SLF status; any unremedied Design Code breaches, or confirmation that there are none; status of the master title and of any encumbrance over it at that date. The certificate is valid for 30 days and is a statement on which a prospective assignee may rely.
 
 2.5.7 Deadlines and deemed consent. Every act of the Landowner under this clause is due within 10 working days. Failure to act within that period is deemed consent and confirmation.
 
@@ -135,7 +135,7 @@ Right of first refusal exists only in Wave 1 and only until the build obligation
 
 2.5.9 Partial assignment and subdivision of the Plot require written consent and compliance with the Design Code.
 
-2.5.10 Taxes on assignment are allocated between assignor and assignee as set out in §12.
+2.5.10 Taxes on assignment are allocated between assignor and assignee as set out in [§12](#12-taxes-currency-and-costs).
 
 2.6 Subletting — two products. ▲ ⚠ The Articles of Association Pasal 3 give the Landowner KBLI 55199 (other short-term accommodation) and 55192 (campgrounds and caravan parks). A Foreign Holder cannot ordinarily hold either. The lease therefore distinguishes:
 
@@ -144,17 +144,17 @@ Right of first refusal exists only in Wave 1 and only until the build obligation
 | land-time | hour to season, bare land, no accommodation service supplied | the Holder | area revenue charge of 10%, or 5% where the district is a net exporter of energy, water and food, plus a settlement fee of [1–3]% |
 | stay | occupation with an accommodation service | the Landowner, under KBLI 55199 and 55192 | management fee, the Landowner operating |
 
-The Holder elects the channel. Both settle in IDR at JISDOR on the invoice date; where the marketplace quotes in another unit, that unit is a unit of account and not the means of payment (UU 7/2011). Horizon and use remain gated by the Design Code: a day market and a month-long camp are different permitted uses. Definition of revenue, the certification and review cycle for net-exporter status, reporting cadence, audit rights and consequences of understatement are set out in Annex G.
+The Holder elects the channel. Both settle in IDR at JISDOR on the invoice date; where the marketplace quotes in another unit, that unit is a unit of account and not the means of payment ([[uu 7-2011 mata uang|UU 7/2011]]). Horizon and use remain gated by the Design Code: a day market and a month-long camp are different permitted uses. Definition of revenue, the certification and review cycle for net-exporter status, reporting cadence, audit rights and consequences of understatement are set out in Annex G.
 
 2.7 Plot as a single unit (per aversionem / ad corpus). ⚠ The Plot is leased as one contiguous parcel defined by its boundaries, not by a certified area number.
 
 *Working English formulation (final wording through the notary):*
 
-> The Object is demised as a single land parcel (*per aversionem* / ad corpus) within the boundaries described in Article […] and Annex B, and not by unit of area. Any figure of approximately [1,000] m² is indicative only. The Parties agree to set aside Articles 1588, 1589, 1590, 1591 and 1592 of the Civil Code (KUHPerdata), and there shall be no price adjustment, compensation, or rescission if a later BPN cadastral survey yields a larger or smaller area.
+> The Object is demised as a single land parcel (*per aversionem* / ad corpus) within the boundaries described in Article […] and Annex B, and not by unit of area. Any figure of approximately [1,000] m² is indicative only. The Parties agree to set aside Articles 1588, 1589, 1590, 1591 and 1592 of the Civil Code ([[kuhperdata|KUHPerdata]]), and there shall be no price adjustment, compensation, or rescission if a later BPN cadastral survey yields a larger or smaller area.
 
 *Indonesian sense-text for notary drafting:*
 
-> Objek disewakan sebagai satu kesatuan bidang tanah (per aversionem) dalam batas-batas sebagaimana diuraikan dalam Pasal … dan Lampiran …, bukan berdasarkan satuan luas. Luas ±[1.000] m² bersifat perkiraan. Para Pihak sepakat mengesampingkan ketentuan Pasal 1588, 1589, 1590, 1591 dan 1592 KUHPerdata, dan tidak ada penyesuaian harga, kompensasi, maupun pembatalan apabila pengukuran kadastral BPN di kemudian hari menghasilkan luas yang lebih besar atau lebih kecil.
+> Objek disewakan sebagai satu kesatuan bidang tanah (per aversionem) dalam batas-batas sebagaimana diuraikan dalam Pasal … dan Lampiran …, bukan berdasarkan satuan luas. Luas ±[1.000] m² bersifat perkiraan. Para Pihak sepakat mengesampingkan ketentuan Pasal 1588, 1589, 1590, 1591 dan 1592 [[kuhperdata|KUHPerdata]], dan tidak ada penyesuaian harga, kompensasi, maupun pembatalan apabila pengukuran kadastral BPN di kemudian hari menghasilkan luas yang lebih besar atau lebih kecil.
 
 Boundary description is mandatory. Without it the clause is empty. Annex B must define boundaries by physical marks (*patok*), adjoining owners by name, and GPS/UTM coordinates; the *peta bidang* / sketch is annexed and initialled by both parties so that the Plot is determinable without reference to area.
 
@@ -176,7 +176,7 @@ Asymmetric option. If the Holder wants downside protection without losing upside
 - the Landowner acknowledges the financier, issues the Estate Certificate to it under 2.5.6, and notifies it of any material breach before terminating, allowing that party the same cure period as the Holder;
 - on enforcement the financier takes the whole bundle under 2.5.2 and accedes under 2.5.4; no transfer fee is charged on enforcement, and the fee under 2.5.5 applies on the financier's onward sale.
 
-Confirm the construction with the notary before use. Note the asymmetry this creates and which §9B.3 answers: the Landowner may charge the land under Articles of Association Pasal 12(3)(b), while the Holder cannot charge its lease at all.
+Confirm the construction with the notary before use. Note the asymmetry this creates and which [§9B.3](#9b-title-warranties-negative-pledge-and-indemnity) answers: the Landowner may charge the land under Articles of Association Pasal 12(3)(b), while the Holder cannot charge its lease at all.
 
 ---
 
@@ -188,15 +188,15 @@ Confirm the construction with the notary before use. Note the asymmetry this cre
 
 3.2 Mechanics. [To be settled per the fork above.] Term cycles and extensions under PP 18/2021.
 
-3.3 Trade-offs to be disclosed. Hak Pakai is a registered right and stronger on paper, but: it is residency-dependent; the resale pool is limited to foreigners who themselves qualify, or requires reconversion to a citizen-held title; and it removes the flexibility of §2.5. Many Holders are better served by the base lease. This section exists so the choice is informed, not assumed.
+3.3 Trade-offs to be disclosed. Hak Pakai is a registered right and stronger on paper, but: it is residency-dependent; the resale pool is limited to foreigners who themselves qualify, or requires reconversion to a citizen-held title; and it removes the flexibility of [§2.5](#2-part-a-base-grant-hak-sewa-all-holders). Many Holders are better served by the base lease. This section exists so the choice is informed, not assumed.
 
-3.4 Costs. Splitting, conversion, BPHTB, notarial and administrative costs borne by the Holder. Upgrade fee to Landowner: [amount].
+3.4 Costs. Splitting, conversion, [[bphtb|BPHTB]], notarial and administrative costs borne by the Holder. Upgrade fee to Landowner: [amount].
 
 ---
 
 ## 4. Part B — Track I: upgrade to title (Indonesian Holders)
 
-4.1 Step 1 — Plot split and sale. On request, the Landowner procures *pemecahan sertifikat* of the Plot and transfers the resulting HGB to the Holder by AJB before the PPAT. Purchase price: [amount / formula], credited [in whole / in part] against sums already paid under Part A.
+4.1 Step 1 — Plot split and sale. On request, the Landowner procures *pemecahan sertifikat* of the Plot and transfers the resulting HGB to the Holder by [[ajb|AJB]] before the PPAT. Purchase price: [amount / formula], credited [in whole / in part] against sums already paid under Part A.
 
 4.2 Step 2 — Holder's own conversion to Hak Milik. ⚠ The Holder may then apply to BPN to upgrade HGB → Hak Milik. This is the Holder's own application; the Landowner facilitates documents but gives no warranty of outcome. Conditions the Holder must satisfy:
 
@@ -219,7 +219,7 @@ Confirm the construction with the notary before use. Note the asymmetry this cre
 
 5.3 No works before permit. The Holder shall commence no construction before PBG issuance. Breach is a material default with immediate cessation rights, because enforcement action against unpermitted structures runs against the title holder, not the occupant.
 
-5.4 Ownership of Improvements. Indonesian law recognises horizontal separation — buildings may be owned separately from land. The parties record that Improvements are owned by the Holder for the term. Consequences at termination: §10.
+5.4 Ownership of Improvements. Indonesian law recognises horizontal separation — buildings may be owned separately from land. The parties record that Improvements are owned by the Holder for the term. Consequences at termination: [§10](#10-termination-and-end-of-term).
 
 ---
 
@@ -229,7 +229,7 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 
 5A.1 Design and contractor approval. No works until the Landowner has approved (a) the design package for Design Code compliance, (b) the identity of the main contractor, (c) the construction programme. Approval is limited to those matters and creates no design or engineering warranty by the Landowner — say so expressly. Approval or refusal is due within 10 working days; failure to act is deemed approval.
 
-5A.2 Contractor qualification. ⚠ Under UU 2/2017 on Construction Services, construction services must be performed by a qualified provider (*penyedia jasa*) holding a valid SBU and the corresponding KBLI, and the client (*pengguna jasa*) is obliged to engage such a provider. The Holder shall engage only a contractor meeting this standard and shall furnish copies of SBU, licences and the construction contract before commencement.
+5A.2 Contractor qualification. ⚠ Under UU 2/2017 on Construction Services, construction services must be performed by a qualified provider (*penyedia jasa*) holding a valid [[sbu|SBU]] and the corresponding KBLI, and the client (*pengguna jasa*) is obliged to engage such a provider. The Holder shall engage only a contractor meeting this standard and shall furnish copies of SBU, licences and the construction contract before commencement.
 
 5A.3 Supervision. An independent construction supervisor (*pengawas* / MK) is appointed [by the Landowner, at the Holder's cost / by the Holder from a Landowner-approved panel], with authority to inspect, to require rectification, and to stop works on material non-compliance. Stage inspections at: foundation, structure, roof, MEP, completion.
 
@@ -250,7 +250,7 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 
 5A.7 SLF. Application follows the PBG applicant, therefore the Landowner. The Holder shall fund the process, deliver as-built drawings and test certificates, procure the contractor's cooperation and provide access to the inspecting commission. No occupation or use of any Improvement before SLF issuance. Periodic SLF renewal is treated the same way.
 
-5A.8 Holder's indemnity. The Holder indemnifies the Landowner against all claims, penalties, orders and costs arising from the Holder's works and from the Holder's occupation and use, including: unpermitted works, deviation from PBG, breach of zoning or environmental rules, accidents to workers or third parties, and damage to neighbouring land. The indemnity survives termination for [__] years. Its mirror in favour of the Holder is §9B.5.
+5A.8 Holder's indemnity. The Holder indemnifies the Landowner against all claims, penalties, orders and costs arising from the Holder's works and from the Holder's occupation and use, including: unpermitted works, deviation from PBG, breach of zoning or environmental rules, accidents to workers or third parties, and damage to neighbouring land. The indemnity survives termination for [__] years. Its mirror in favour of the Holder is [§9B.5](#9b-title-warranties-negative-pledge-and-indemnity).
 
 5A.9 What the Landowner cannot delegate. ⚠ Regardless of the above, the following follow the title and remain with the Landowner as against the authorities: enforcement action for unpermitted or non-conforming structures; standing as PBG/SLF applicant; and answerability for structural safety. The Holder's indemnity operates between the parties — it does not move public-law liability. This is precisely why 5A.1–5A.5 exist.
 
@@ -296,19 +296,19 @@ Binding on all Holders, all tracks, all zones. [[annex-c-design-code|Annex C]] s
 
 7.2 Density transfer. ▲ Unused footprint entitlement may be transferred to another Plot within the same district through the Register, subject to the Landowner's check that the district balance in Annex C is maintained, against a settlement fee of [__]%. Transfers open from Wave 2. Entitlement not transferred remains with the Plot.
 
-7.3 Amendment and grandfathering. Amendment by the Landowner. Completed Improvements are grandfathered. Any amendment that would worsen the position of already-built Improvements is subject to the veto in §8.2.
+7.3 Amendment and grandfathering. Amendment by the Landowner. Completed Improvements are grandfathered. Any amendment that would worsen the position of already-built Improvements is subject to the veto in [§8.2](#8-community-council-shared-infrastructure-and-service-charge).
 
-7.4 Design Envelope lock. ▲ Grandfathering under 7.3 and the veto under §8.2 protect what is already built. Between signing and SLF the Holder has paid and has nothing on the ground, and is therefore least protected exactly where it is most exposed. This clause closes that window.
+7.4 Design Envelope lock. ▲ Grandfathering under 7.3 and the veto under [§8.2](#8-community-council-shared-infrastructure-and-service-charge) protect what is already built. Between signing and SLF the Holder has paid and has nothing on the ground, and is therefore least protected exactly where it is most exposed. This clause closes that window.
 
 7.4.1 Design Envelope of the Plot means (a) the figures in C2 and C3 of Annex C in the version in force at signing, adjusted for any density transferred under C1.2; (b) the Holder's row in the permitted-use matrix, Annex G; (c) so much of the access and connection specification in Annex F as applies to the Plot. The version of Annex C is identified by version number and content hash and initialled by both parties.
 
 7.4.2 Lock. From signing until SLF plus 12 months the Plot is governed by the Design Envelope in the version in force at signing. Later amendments apply to the Plot only with the Holder's written consent.
 
-7.4.3 Duration and transfer. The lock runs for the period in 7.4.2 and no longer than the build obligation in §6.1 plus 12 months. It transfers with the bundle under 2.5.2 and does not restart on assignment. It lapses with the build obligation, so that an unbuilt Plot cannot freeze the code for the term.
+7.4.3 Duration and transfer. The lock runs for the period in 7.4.2 and no longer than the build obligation in [§6.1](#6-construction-timeline-and-the-build-obligation) plus 12 months. It transfers with the bundle under 2.5.2 and does not restart on assignment. It lapses with the build obligation, so that an unbuilt Plot cannot freeze the code for the term.
 
-7.4.4 Scope of the Landowner's freedom. The lock is per Plot. The Landowner may amend the Design Code at any time for Plots granted after the amendment, and for Holders whose lock has expired, subject to 7.3 and §8.2.
+7.4.4 Scope of the Landowner's freedom. The lock is per Plot. The Landowner may amend the Design Code at any time for Plots granted after the amendment, and for Holders whose lock has expired, subject to 7.3 and [§8.2](#8-community-council-shared-infrastructure-and-service-charge).
 
-7.4.5 Material change. A change is material where it: reduces permitted footprint or floor area by more than [10]%; removes a use from the Holder's row in Annex G; or increases the cost of compliance for a design already approved under 5A.1 by more than [10]% of the budgeted construction cost. Fact and amount are certified by the independent supervisor under 5A.3 or an independent valuer; disputes follow §11. Materiality is not determined by the Landowner.
+7.4.5 Material change. A change is material where it: reduces permitted footprint or floor area by more than [10]%; removes a use from the Holder's row in Annex G; or increases the cost of compliance for a design already approved under 5A.1 by more than [10]% of the budgeted construction cost. Fact and amount are certified by the independent supervisor under 5A.3 or an independent valuer; disputes follow [§11](#11-dispute-resolution). Materiality is not determined by the Landowner.
 
 7.4.6 Landowner's cure right. Within 30 days of the Holder's notice the Landowner may withdraw the change as to that Plot, grant a variance, or offer an equivalent Plot. Any of these extinguishes the rights in 7.4.7.
 
@@ -323,7 +323,7 @@ Binding on all Holders, all tracks, all zones. [[annex-c-design-code|Annex C]] s
 
 7.4.8 Notice window. The Holder invokes 7.4.7 within 90 days of notification of the change. Silence within that period is acceptance of the change.
 
-7.4.9 Continuity. Signing to SLF: this clause. SLF to end of term: grandfathering under 7.3 and the veto under §8.2. There is no interval in which the Plot is unprotected.
+7.4.9 Continuity. Signing to SLF: this clause. SLF to end of term: grandfathering under 7.3 and the veto under [§8.2](#8-community-council-shared-infrastructure-and-service-charge). There is no interval in which the Plot is unprotected.
 
 *Indonesian sense-text for notary drafting:*
 
@@ -353,7 +353,7 @@ Binding on all Holders, all tracks, all zones. [[annex-c-design-code|Annex C]] s
 
 ## 9. Representations
 
-Landowner: valid title, no encumbrances beyond those disclosed, zoning permits the intended use, KKPR status disclosed, licences held and their locational scope. Extended warranties: §9B.
+Landowner: valid title, no encumbrances beyond those disclosed, zoning permits the intended use, [[kkpr|KKPR]] status disclosed, licences held and their locational scope. Extended warranties: [§9B](#9b-title-warranties-negative-pledge-and-indemnity).
 Holder: identity and status, source of funds, no nominee arrangement, ability to fund construction.
 
 ⚠ Disclose honestly: master-title term and renewal risk, zoning status and any pending change of designation, and that Hak Sewa is unregistered. Non-disclosure here is the fastest route to a void agreement.
@@ -373,14 +373,14 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 | Impact on the Holder | Remedy |
 |---|---|
 | None — occupation and use unaffected | no remedy; Landowner cures within a Cure Period of [180] days, extendable while cure is diligently pursued |
-| Landowner cannot process the Holder's PBG application or perform another agreed act | suspension of the corresponding Holder obligation and of construction deadlines under §6; time-based rights extended day for day |
+| Landowner cannot process the Holder's PBG application or perform another agreed act | suspension of the corresponding Holder obligation and of construction deadlines under [§6](#6-construction-timeline-and-the-build-obligation); time-based rights extended day for day |
 | Holder actually deprived of use or occupation for more than [90] consecutive days | rent abatement pro rata; thereafter termination with return of the unamortised prepaid portion per Annex E, secured by the Guarantee Fund |
 
 9A.5 Landowner's obligations during a Licence Event. Diligent pursuit of cure; [quarterly] progress reporting to the Holder or the Community Council; no new grants over the Estate while the impediment subsists if making them would aggravate the position.
 
-9A.6 Carve-out. ⚠ §§9A.3–9A.4 do not apply where the Licence Event results from the Landowner's fraud, wilful misconduct, or failure to remedy after repeated written warnings from the authorities. Protection against administrative accidents is legitimate; a shield against neglect is not — and a clause drafted as the latter invites a court to disregard the whole of §9A.
+9A.6 Carve-out. ⚠ [§§9A.3–9A.4](#9a-licences-warranty-and-licence-event-regime) do not apply where the Licence Event results from the Landowner's fraud, wilful misconduct, or failure to remedy after repeated written warnings from the authorities. Protection against administrative accidents is legitimate; a shield against neglect is not — and a clause drafted as the latter invites a court to disregard the whole of [§9A](#9a-licences-warranty-and-licence-event-regime).
 
-9A.7 Holder's own licences. Any licence required for the Holder's own activity on the Plot is the Holder's responsibility, subject to the land-time / stay split in §2.6. The Landowner's licences do not extend to land-time activity.
+9A.7 Holder's own licences. Any licence required for the Holder's own activity on the Plot is the Holder's responsibility, subject to the land-time / stay split in [§2.6](#2-part-a-base-grant-hak-sewa-all-holders). The Landowner's licences do not extend to land-time activity.
 
 9A.8 Severability of consequences. A Licence Event affecting one KBLI or one location does not, of itself, affect obligations under this deed that do not depend on that licence.
 
@@ -391,10 +391,10 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 - the Company is duly incorporated and subsisting, its issued capital is fully paid, its NIB is valid;
 - the Title is a valid HGB certificate; its number, grant date, expiry date and remaining term are disclosed in Annex A and stated in the recitals as a number;
 - a PKKPR covering the intended use subsists for the parcel and is annexed; the Plot does not sit on land recorded as *Pipil*, uncertificated or held on agreement;
-- the Plot is free of *hak tanggungan*, attachment (*sita*) and other encumbrances; has not previously been let, promised under a PPJB, optioned or otherwise committed; and is not in the physical possession of a third party;
+- the Plot is free of *hak tanggungan*, attachment (*sita*) and other encumbrances; has not previously been let, promised under a [[ppjb|PPJB]], optioned or otherwise committed; and is not in the physical possession of a third party;
 - there are no judicial, administrative or arbitral proceedings, and no asserted adat, subak or desa claims, affecting the Plot;
 - zoning and KKPR permit the intended use; the Plot carries no LP2B designation and falls outside *sempadan*;
-- PBB is paid and no arrears subsist;
+- [[pbb|PBB]] is paid and no arrears subsist;
 - the chain of title documents is disclosed.
 
 9B.2 Due diligence pack and the search at signing. Annex I, delivered before signing: certified copy of the Title certificate, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR document. In addition, and as a condition of execution, the PPAT performs *pengecekan sertifikat* at BPN on the day of signing and the result is recited in the deed. The Landowner warrants that nothing has been created over the Plot between the search and signing.
@@ -402,15 +402,15 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 9B.3 Negative pledge and binding on successors. The Landowner shall not, without the Holder's written consent: encumber the Plot with *hak tanggungan* or other security; grant competing rights over the Plot; or dispose of the Plot otherwise than subject to this deed, the transferee taking bound by it.
 ⚠ Articles of Association Pasal 12(3)(b) permits the Company to encumber land and land rights with the approval of the Board of Commissioners and, per that paragraph, of the GMS. Without this clause the corporate constitution allows the land beneath the leases to be charged without the Holder ever being told.
 
-9B.4 Non-disturbance. Where an encumbrance is nevertheless granted, it is permitted only if the secured party confirms in writing that this deed survives enforcement and binds a purchaser at auction. Holders are notified no later than 30 days before the encumbrance is granted, and the Register is updated. For the period an encumbrance subsists, the area revenue charge under §2.6 is reduced by [__] percentage points.
+9B.4 Non-disturbance. Where an encumbrance is nevertheless granted, it is permitted only if the secured party confirms in writing that this deed survives enforcement and binds a purchaser at auction. Holders are notified no later than 30 days before the encumbrance is granted, and the Register is updated. For the period an encumbrance subsists, the area revenue charge under [§2.6](#2-part-a-base-grant-hak-sewa-all-holders) is reduced by [__] percentage points.
 
-9B.5 Indemnity in favour of the Holder — the mirror of §5A.8. The Landowner indemnifies the Holder against loss, cost, penalty and reasonable legal expense arising from: breach of the warranties in 9B.1; third-party rights subsisting at signing; enforcement of security over the Plot; loss or non-renewal of the master title otherwise than through the Holder's act; and inability to obtain PBG or SLF for reasons attributable to the Landowner's title or licences. Cap: sums paid by the Holder plus the valuation of Improvements under 9B.6. Claims may be brought within [__] years after termination.
+9B.5 Indemnity in favour of the Holder — the mirror of [§5A.8](#5a-construction-control-handover-and-indemnity). The Landowner indemnifies the Holder against loss, cost, penalty and reasonable legal expense arising from: breach of the warranties in 9B.1; third-party rights subsisting at signing; enforcement of security over the Plot; loss or non-renewal of the master title otherwise than through the Holder's act; and inability to obtain PBG or SLF for reasons attributable to the Landowner's title or licences. Cap: sums paid by the Holder plus the valuation of Improvements under 9B.6. Claims may be brought within [__] years after termination.
 
 9B.6 Remedies for title defect:
 
 | situation | remedy |
 |---|---|
-| defect curable within 90 days, use unaffected | cure at the Landowner's cost; §6 deadlines suspended and time-based rights extended day for day |
+| defect curable within 90 days, use unaffected | cure at the Landowner's cost; [§6](#6-construction-timeline-and-the-build-obligation) deadlines suspended and time-based rights extended day for day |
 | Holder deprived of use for more than 90 consecutive days | pro-rata abatement for the period |
 | deprivation exceeding 180 days, or incurable defect | termination for the Landowner's default, with payment of unamortised prepayment under Annex E, plus the documented value of Improvements at independent valuation, plus direct loss |
 
@@ -427,7 +427,7 @@ The construction is chosen from, and may combine:
 
 Position taken here, pending confirmation: escrow with the notary up to [threshold] of aggregate exposure, bank guarantee above it; the century-index reserve continues as treasury policy under the spending strategy and is not described to Holders as security. Beneficiary, trigger documents, the enforcement path where the Company does not sign, currency, and tax treatment are settled with counsel before any payment is taken.
 
-This clause secures payments under 6.0.3, 9A.4, 9B.5, 9B.6 and §10.
+This clause secures payments under 6.0.3, 9A.4, 9B.5, 9B.6 and [§10](#10-termination-and-end-of-term).
 
 9B.8 Scope. The warranties in 9B.1 are given without a knowledge qualification save where expressly marked.
 
@@ -468,13 +468,13 @@ Governing law: Indonesian. Escalation: negotiation → mediation → [BANI arbit
 
 ## 12. Taxes, currency and costs
 
-Allocate expressly: PPh on lease value; PPN on the lease and on services; BPHTB and PPh on any title transfer; taxes on assignment under §2.5.10; regional accommodation tax on stay activity under §2.6; notarial and PPAT fees; splitting and conversion costs; annual PBB; service charge. State whether prices are gross or net of tax, and name the withholding agent consistently with Articles of Association Pasal 12(6).
+Allocate expressly: PPh on lease value; PPN on the lease and on services; BPHTB and PPh on any title transfer; taxes on assignment under [§2.5.10](#2-part-a-base-grant-hak-sewa-all-holders); regional accommodation tax on stay activity under [§2.6](#2-part-a-base-grant-hak-sewa-all-holders); notarial and PPAT fees; splitting and conversion costs; annual PBB; service charge. State whether prices are gross or net of tax, and name the withholding agent consistently with Articles of Association Pasal 12(6).
 
-Currency. Obligations may be denominated in the century index; invoicing and settlement are in IDR at JISDOR on the invoice date (UU 7/2011). Any other unit appearing in marketplace or estate systems is a unit of account only.
+Currency. Obligations may be denominated in the century index; invoicing and settlement are in IDR at JISDOR on the invoice date ([[uu 7-2011 mata uang|UU 7/2011]]). Any other unit appearing in marketplace or estate systems is a unit of account only.
 
 ## 13. General provisions ▲
 
-Notices and their language · personal data, covering publication of monitoring results to the ledger under Annex C and entries in the Register · KYC and source-of-funds procedure supporting the §9 representation · entire agreement · severability · counterparts and electronic signature · quiet enjoyment as a positive covenant of the Landowner.
+Notices and their language · personal data, covering publication of monitoring results to the ledger under Annex C and entries in the Register · KYC and source-of-funds procedure supporting the [§9](#9-representations) representation · entire agreement · severability · counterparts and electronic signature · quiet enjoyment as a positive covenant of the Landowner.
 
 ---
 
@@ -489,5 +489,5 @@ Moved to [[open questions]] (`legal/notes/open questions.md`) so that they canno
 ## Notes for counsel / PPAT
 
 - Not legal advice. English is the working language of this skeleton; the executable instrument is drafted RU-EN-ID in parallel columns, with the Indonesian column written alongside the others rather than translated afterwards, and prevailing under Law 24/2009 unless the parties agree otherwise and accept the risk.
-- Arts. 1588–1592 KUHPerdata (area shortfall) are treated here as dispositive; confirm numbering and character before use.
+- Arts. 1588–1592 [[kuhperdata|KUHPerdata]] (area shortfall) are treated here as dispositive; confirm numbering and character before use.
 - Concrete articles and final wording through the notary — preferably not only the notary proposed by the Landowner alone.

@@ -29,14 +29,14 @@ No decision below takes a single power away from the Company under Pasal 12 of t
 
 ## D1 · Freedom of exit and a fee for contribution
 
-Problem: §2.5 is unresolved, there is no secondary market, and a ROFR collapses the resale price.
+Problem: [§2.5](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) is unresolved, there is no secondary market, and a [[rofr|ROFR]] collapses the resale price.
 
 Decision. Assignment is free, without consent. The transfer fee is 2% of the transaction price, reduced for contribution:
 
 | the Holder's position | fee |
 |---|---|
 | base | 2.0% |
-| built within time, SLF issued | 1.5% |
+| built within time, [[slf|SLF]] issued | 1.5% |
 | no unremedied Design Code breach for the whole term | 1.0% |
 | soil and water readings published to the ledger without gaps | 0.5% |
 | referred residents above the threshold | 0% |
@@ -54,7 +54,7 @@ Recommending (a).
 
 Problem: a secondary buyer has nothing with which to check what he is buying.
 
-Decision. Every lease is a particle in cybergraph. An assignment is a cyberlink. The Estate Certificate is issued within 10 working days free of charge and states the remaining term, arrears, the quantities qᵢ and the latest invoice, PBG and SLF status, open breaches, and the status and encumbrances of the master title. It is valid for 30 days and the acquirer may rely on it. Where the graph and the notarial deed diverge, the deed and the register prevail — the same ordering as thesis T8 of the index.
+Decision. Every lease is a particle in cybergraph. An assignment is a cyberlink. The Estate Certificate is issued within 10 working days free of charge and states the remaining term, arrears, the quantities qᵢ and the latest invoice, [[pbg|PBG]] and SLF status, open breaches, and the status and encumbrances of the master title. It is valid for 30 days and the acquirer may rely on it. Where the graph and the notarial deed diverge, the deed and the register prevail — the same ordering as thesis T8 of the index.
 
 Why win-win. The Holder sells faster and higher. The Estate gets the first real application of the graph to a physical asset: the mission of a single knowledge graph stops being a declaration and becomes the thing that lifts the price of its own land.
 
@@ -64,7 +64,7 @@ Recommending (a).
 
 ## D3 · Security over land without fear
 
-Problem: `Pasal 12(3)(b)` of the Articles expressly permits the Company to charge HGB and Hak Pakai. An unregistered hak sewa is extinguished on enforcement.
+Problem: `Pasal 12(3)(b)` of the Articles expressly permits the Company to charge [[hgb|HGB]] and Hak Pakai. An unregistered hak sewa is extinguished on enforcement.
 
 Decision. The Company keeps the right to charge — it is needed for phase 1 infrastructure. But an encumbrance is permitted only on three conditions: the secured party confirms in writing that the leases survive and bind a purchaser at auction; Holders are notified 30 days in advance; the entry appears in the register. In addition, for the period the encumbrance subsists, the area tax for Holders is reduced by an agreed step — a premium for the risk accepted.
 
@@ -78,7 +78,7 @@ Recommending (a).
 
 Problem: the promise to return a prepayment on a title defect is secured by nothing.
 
-Decision. 5% of every payment under instruments A and B goes into a reserve denominated in the century index. It is the same reserve that strategy §9 already described under the rule of tithes off the top and that §11 called the war chest for the second city. It is given a second function: security for payments to Holders along the ladder of remedies. The balance of the fund and its address are published. Disbursement follows the rule in `Pasal 12(4)`: the Director initiates, a Commissioner authorises.
+Decision. 5% of every payment under instruments A and B goes into a reserve denominated in the century index. It is the same reserve that strategy [§9](/cyber-valley/cve/legal/land-rights-agreement#9-representations) already described under the rule of tithes off the top and that [§11](/cyber-valley/cve/legal/land-rights-agreement#11-dispute-resolution) called the war chest for the second city. It is given a second function: security for payments to Holders along the ladder of remedies. The balance of the fund and its address are published. Disbursement follows the rule in `Pasal 12(4)`: the Director initiates, a Commissioner authorises.
 
 Why win-win. The Company does not freeze capital in a bank guarantee and does not pay a fee for one — the money stays inside the perimeter and works as a war chest. The Holder gets an address at which he can see what the promise is backed by. One mechanism closes two tasks instead of two mechanisms closing one each.
 
@@ -88,7 +88,7 @@ Recommending (a), moving to (d) where aggregate obligations exceed the fund's th
 
 ## D5 · The truth in place of the word "registered"
 
-Problem: the product pages sell a "registered lease", while §2.2 of the agreement says honestly that hak sewa is not registered at BPN.
+Problem: the product pages sell a "registered lease", while [§2.2](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) of the agreement says honestly that hak sewa is not registered at [[bpn|BPN]].
 
 Decision. The word goes, and the promise is strengthened. What is sold is what actually exists, with an explanation of why it works:
 
@@ -158,7 +158,7 @@ Decision.
 - Renewal is the Holder's right rather than a negotiation: the price follows the index formula alone, and the Estate cannot refuse while the master title subsists.
 - The status of the master title and the progress of its renewal are published in the register annually. The fear is cured by visibility.
 - Where the HGB is not renewed through no fault of the Holder — compensation: unamortised prepayment plus an independent valuation of the Improvements, secured by the D4 fund.
-- The fate of Improvements on natural expiry without renewal — variant (c) of the draft, transfer against compensation at valuation. The free-of-charge variant contradicts §10 of the strategy.
+- The fate of Improvements on natural expiry without renewal — variant (c) of the draft, transfer against compensation at valuation. The free-of-charge variant contradicts [§10](/cyber-valley/cve/legal/land-rights-agreement#10-termination-and-end-of-term) of the strategy.
 
 Why win-win. The Estate gets a predictable rental flow for the second term with no negotiating cost per Holder. The Holder gets an asset that can be charged, sold and inherited, because he has a horizon.
 
@@ -168,7 +168,7 @@ Recommending (a).
 
 ## D10 · Two sublet products in place of one contested product
 
-Problem: the product page promises bare rails, the strategy promises a management company, and the Articles give the Company KBLI 55199 and 55192, which a foreign Holder cannot hold.
+Problem: the product page promises bare rails, the strategy promises a management company, and the Articles give the Company [[kbli|KBLI]] 55199 and 55192, which a foreign Holder cannot hold.
 
 Decision. Split by horizon and by the presence of a service:
 
@@ -177,7 +177,7 @@ Decision. Split by horizon and by the presence of a service:
 | land-time | day to season, bare land, no accommodation service | the Holder | area tax of 10% or 5%, plus a settlement fee of 1–3% |
 | stay | occupation with an accommodation service | the Estate, KBLI 55199 and 55192 | management fee, the Estate operating |
 
-The Holder chooses the channel. Both settle in IDR at JISDOR on the invoice date, as `UU 7/2011` and thesis T6 of the index require; USDT remains a unit of account and a rail for agent demand rather than a means of payment inside Indonesia.
+The Holder chooses the channel. Both settle in IDR at [[jisdor|JISDOR]] on the invoice date, as `[[uu 7-2011 mata uang|UU 7/2011]]` and thesis T6 of the index require; USDT remains a unit of account and a rail for agent demand rather than a means of payment inside Indonesia.
 
 Why win-win. The Estate takes licence rent where it carries licence risk, and takes nothing extra where it does not. The Holder pays for what he actually receives. And the formula of the `hak sewa` page — the Estate earns on the activity of the city rather than on guarding a door — becomes true for land-time, instead of being a stretch for both cases.
 
@@ -194,7 +194,7 @@ Decision. Do not create an organ that has no corporate force. Give Holders two r
 1. A veto on an amendment to the Design Code that worsens what is already built. Grandfathering plus a supermajority of Holders.
 2. A right of initiative: a proposal reaching a threshold in the graph must be considered by the Direksi, with a reasoned answer published within 30 days. Silence is consent to the proposal.
 
-Voting weight follows stake in the graph rather than heads: this is governance as computation from the manifesto, and the same thing `architecture.md` already described as stake-weighted. The Community Council exists as a contractual construction; a separate legal vehicle (perkumpulan) is created in phase 3 to hold shared infrastructure, when strategy §10 unfolds the community land trust.
+Voting weight follows stake in the graph rather than heads: this is governance as computation from the manifesto, and the same thing `architecture.md` already described as stake-weighted. The Community Council exists as a contractual construction; a separate legal vehicle (perkumpulan) is created in phase 3 to hold shared infrastructure, when strategy [§10](/cyber-valley/cve/legal/land-rights-agreement#10-termination-and-end-of-term) unfolds the community land trust.
 
 Why win-win. The Company loses no power under Pasal 12 and remains the party answerable for the environment, as the preamble requires. The Holder gets what he actually values: the impossibility of his asset being worsened retroactively, and a mandatory answer in place of silence. This is cheaper for the Company than genuine joint governance, and more useful to the Holder than a decorative council.
 
@@ -204,9 +204,9 @@ Recommending (a).
 
 ## D12 · Indemnity as a mirror
 
-Problem: the only indemnity in the agreement — §5A.8 — runs towards the Company alone.
+Problem: the only indemnity in the agreement — [§5A.8](/cyber-valley/cve/legal/land-rights-agreement#5a-construction-control-handover-and-indemnity) — runs towards the Company alone.
 
-Decision. §9B mirrors §5A.8: the Company indemnifies the Holder against loss arising from inaccuracy of the title warranties, third-party rights subsisting at signing, enforcement of security, loss of the master title through no fault of the Holder, and inability to obtain PBG or SLF for reasons on the Company's side. Secured by the D4 fund. The warranties are repeated on each anniversary and on the date of each assignment in favour of the acquirer.
+Decision. [§9B](/cyber-valley/cve/legal/land-rights-agreement#9b-title-warranties-negative-pledge-and-indemnity) mirrors [§5A.8](/cyber-valley/cve/legal/land-rights-agreement#5a-construction-control-handover-and-indemnity): the Company indemnifies the Holder against loss arising from inaccuracy of the title warranties, third-party rights subsisting at signing, enforcement of security, loss of the master title through no fault of the Holder, and inability to obtain PBG or SLF for reasons on the Company's side. Secured by the D4 fund. The warranties are repeated on each anniversary and on the date of each assignment in favour of the acquirer.
 
 Why win-win. Symmetry is a condition of sellability rather than a concession. A one-sided indemnity reads to a buyer as a signal, and the price the Estate pays for that signal in negotiation on every deal is higher than the price of the risk itself. A mutual indemnity closes the question once for everyone.
 
@@ -253,8 +253,8 @@ No Bali leasehold today gives the third of these, and almost none gives the seco
 
 After the sign-off sheet is marked, the base hak sewa deed is assembled in RU-EN-ID with closed brackets where a decision is taken and explicit markers where one is deferred. The draft's open questions are carried out into a separate file so that they do not travel into the signable text.
 
-Outside this sheet, and requiring external confirmation rather than a decision: the remaining term of the master title, the ITR and RDTR status for Buleleng, the absence of LP2B, the admissibility of charging a hak sewa, the article numbering of KUHPerdata in §2.7, and the locational scope of each KBLI under `Pasal 3` of the Articles.
+Outside this sheet, and requiring external confirmation rather than a decision: the remaining term of the master title, the ITR and [[rdtr|RDTR]] status for Buleleng, the absence of [[lp2b|LP2B]], the admissibility of charging a hak sewa, the article numbering of [[kuhperdata|KUHPerdata]] in [§2.7](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders), and the locational scope of each KBLI under `Pasal 3` of the Articles.
 
 ---
 
-This is not legal advice. The constructions above are verified by the notary and PPAT before they enter any signable text.
+This is not legal advice. The constructions above are verified by the notary and [[ppat|PPAT]] before they enter any signable text.
