@@ -47,4 +47,4 @@ Corporate pack index: [[dzin]] · company page: [[cve]]
 
 ## Laws
 
-[[legal/laws/README|Statutes relied on by the pack]] — UU 40/2007, UU 7/2011 and the rest, cited articles bilingual.
+[[laws|Statutes relied on by the pack]] — UU 40/2007, UU 7/2011 and the rest, cited articles bilingual.

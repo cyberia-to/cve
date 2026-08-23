@@ -14,7 +14,7 @@ Official record: [JDIH BPK RI](https://peraturan.bpk.go.id/Details/38661/uu-no-2
 
 The reason every instrument in the pack is executed bilingually and the Indonesian column prevails.
 
-> ⚠ Provenance. The article text below is stated from knowledge, not from a retrieved official source: the BPK record page carries metadata only, and the JDIH full-text and DPR PDF endpoints returned 404 and 403 from this session. Confirm the wording against JDIH before any executed instrument relies on it. Verified sources are used everywhere else in [[legal/laws/README]].
+> ⚠ Provenance. The article text below is stated from knowledge, not from a retrieved official source: the BPK record page carries metadata only, and the JDIH full-text and DPR PDF endpoints returned 404 and 403 from this session. Confirm the wording against JDIH before any executed instrument relies on it. Verified sources are used everywhere else in [[laws]].
 
 ## Pasal 31 — language of agreements
 
@@ -33,6 +33,6 @@ Two practical consequences the pack follows:
 
 **The Indonesian column is the instrument, the English column is for reading.** Every page in the pack carries this note. Indonesian courts have annulled English-only agreements involving an Indonesian party.
 
-**The Indonesian is written alongside, not translated afterwards.** [[legal/notes/land-rights-audit]] §8 records why: divergences between the columns are born at the stage of late translation, and it is those divergences that decide the dispute later.
+**The Indonesian is written alongside, not translated afterwards.** [[land-rights-audit]] §8 records why: divergences between the columns are born at the stage of late translation, and it is those divergences that decide the dispute later.
 
 The parties may agree which language prevails on discrepancy, but should not assume a court will honour a choice of English.
