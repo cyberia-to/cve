@@ -178,4 +178,4 @@ Fork 7 of the main audit (rails or management company) is restated: not a choice
 
 ## Reservation
 
-This is not legal advice. The formulations above are working material for the notary and the PPAT. The Indonesian texts are given as sense-text: the meaning is fixed, and the final wording and references to specific articles rest with the notary. The admissibility of charging a hak sewa (2.5.10) and the exact numbering of the KUHPerdata articles in §2.7 of the draft are confirmed before signature rather than after.
+This is not legal advice. The formulations above are working material for the notary and the PPAT. The Indonesian texts are given as sense-text: the meaning is fixed, and the final wording and references to specific articles rest with the notary. The admissibility of charging a hak sewa (2.5.10) and the exact numbering of the [[kuhperdata|KUHPerdata]] articles in §2.7 of the draft are confirmed before signature rather than after.

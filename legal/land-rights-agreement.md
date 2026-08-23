@@ -38,7 +38,7 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 
 ## 0. Threshold requirements (apply to every track)
 
-Bilingual execution — mandatory. ⚠ Law No. 24/2009 requires agreements involving an Indonesian party to be executed in Bahasa Indonesia. English-only instruments have been annulled by Indonesian courts. Execute bilingual, with an express clause stating which language prevails on discrepancy (Indonesian text customarily prevails; the parties may agree otherwise but should not assume it will be honoured).
+Bilingual execution — mandatory. ⚠ [[uu 24-2009 bahasa|UU 24/2009]] requires agreements involving an Indonesian party to be executed in Bahasa Indonesia. English-only instruments have been annulled by Indonesian courts. Execute bilingual, with an express clause stating which language prevails on discrepancy (Indonesian text customarily prevails; the parties may agree otherwise but should not assume it will be honoured).
 
 Notarial form. Land leases are executed as *akta sewa* before a notary/PPAT. Private signature agreements are enforceable in principle but weak in practice and unusable for any later BPN procedure.
 
@@ -150,11 +150,11 @@ The Holder elects the channel. Both settle in IDR at JISDOR on the invoice date;
 
 *Working English formulation (final wording through the notary):*
 
-> The Object is demised as a single land parcel (*per aversionem* / ad corpus) within the boundaries described in Article […] and Annex B, and not by unit of area. Any figure of approximately [1,000] m² is indicative only. The Parties agree to set aside Articles 1588, 1589, 1590, 1591 and 1592 of the Civil Code (KUHPerdata), and there shall be no price adjustment, compensation, or rescission if a later BPN cadastral survey yields a larger or smaller area.
+> The Object is demised as a single land parcel (*per aversionem* / ad corpus) within the boundaries described in Article […] and Annex B, and not by unit of area. Any figure of approximately [1,000] m² is indicative only. The Parties agree to set aside Articles 1588, 1589, 1590, 1591 and 1592 of the Civil Code ([[kuhperdata|KUHPerdata]]), and there shall be no price adjustment, compensation, or rescission if a later BPN cadastral survey yields a larger or smaller area.
 
 *Indonesian sense-text for notary drafting:*
 
-> Objek disewakan sebagai satu kesatuan bidang tanah (per aversionem) dalam batas-batas sebagaimana diuraikan dalam Pasal … dan Lampiran …, bukan berdasarkan satuan luas. Luas ±[1.000] m² bersifat perkiraan. Para Pihak sepakat mengesampingkan ketentuan Pasal 1588, 1589, 1590, 1591 dan 1592 KUHPerdata, dan tidak ada penyesuaian harga, kompensasi, maupun pembatalan apabila pengukuran kadastral BPN di kemudian hari menghasilkan luas yang lebih besar atau lebih kecil.
+> Objek disewakan sebagai satu kesatuan bidang tanah (per aversionem) dalam batas-batas sebagaimana diuraikan dalam Pasal … dan Lampiran …, bukan berdasarkan satuan luas. Luas ±[1.000] m² bersifat perkiraan. Para Pihak sepakat mengesampingkan ketentuan Pasal 1588, 1589, 1590, 1591 dan 1592 [[kuhperdata|KUHPerdata]], dan tidak ada penyesuaian harga, kompensasi, maupun pembatalan apabila pengukuran kadastral BPN di kemudian hari menghasilkan luas yang lebih besar atau lebih kecil.
 
 Boundary description is mandatory. Without it the clause is empty. Annex B must define boundaries by physical marks (*patok*), adjoining owners by name, and GPS/UTM coordinates; the *peta bidang* / sketch is annexed and initialled by both parties so that the Plot is determinable without reference to area.
 
@@ -489,5 +489,5 @@ Moved to [[open questions]] (`legal/notes/open questions.md`) so that they canno
 ## Notes for counsel / PPAT
 
 - Not legal advice. English is the working language of this skeleton; the executable instrument is drafted RU-EN-ID in parallel columns, with the Indonesian column written alongside the others rather than translated afterwards, and prevailing under Law 24/2009 unless the parties agree otherwise and accept the risk.
-- Arts. 1588–1592 KUHPerdata (area shortfall) are treated here as dispositive; confirm numbering and character before use.
+- Arts. 1588–1592 [[kuhperdata|KUHPerdata]] (area shortfall) are treated here as dispositive; confirm numbering and character before use.
 - Concrete articles and final wording through the notary — preferably not only the notary proposed by the Landowner alone.

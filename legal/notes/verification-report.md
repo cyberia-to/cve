@@ -67,15 +67,15 @@ What went into §2.9 in place of a charge: assignment of the right by way of sec
 
 This also strengthens the argument for a negative pledge. The asymmetry is named directly: the Company may charge the land under `Pasal 12(3)(b)` of the Articles, while the Holder may not charge his right at all. A one-sided power of encumbrance without non-disturbance is not a balance that can be sold.
 
-## 4a. Numbering of the KUHPerdata articles in §2.7
+## 4a. Numbering of the [[kuhperdata|KUHPerdata]] articles in §2.7
 
 Answer: not confirmed. It could not be verified from this session.
 
 Wikisource is unavailable from the environment, Indonesian primary sources return 403 or metadata only, and the search index returns sixteenth-century English statutes for this query.
 
-What is known structurally and does not amount to proof: Buku III KUHPerdata, chapter `Bab VII Sewa Menyewa`, occupies roughly articles 1548–1600, so 1588–1592 fall within the chapter on leases rather than on sale. For a clause about leasing a plot that is an argument for the reference being correct rather than against it. "Rather" is not a basis for signature.
+What is known structurally and does not amount to proof: Buku III [[kuhperdata|KUHPerdata]], chapter `Bab VII Sewa Menyewa`, occupies roughly articles 1548–1600, so 1588–1592 fall within the chapter on leases rather than on sale. For a clause about leasing a plot that is an argument for the reference being correct rather than against it. "Rather" is not a basis for signature.
 
-The precise question for the notary, in one paragraph: confirm that Pasal 1588–1592 KUHPerdata govern the lease of land stated by area and the consequences of a divergence between actual and stated area; that they are dispositive; and that waiving them is permissible where the boundaries are objectively determinable. If the articles are the wrong ones, §2.7 is empty and the whole per aversionem construction rests on nothing.
+The precise question for the notary, in one paragraph: confirm that Pasal 1588–1592 [[kuhperdata|KUHPerdata]] govern the lease of land stated by area and the consequences of a divergence between actual and stated area; that they are dispositive; and that waiving them is permissible where the boundaries are objectively determinable. If the articles are the wrong ones, §2.7 is empty and the whole per aversionem construction rests on nothing.
 
 The item has been added to the document's open questions.
 
@@ -115,7 +115,7 @@ The second consequence of the list, already entered into §2.6: 55199 and 55192 
 | remaining term of the title | not determinable; a single master title is a myth, there are 18 titles, and a further 14% of the area has none | read the 18 certificates, fill in Annex A |
 | ITR / RDTR Buleleng | RTRW is Kawasan Pertanian; PKKPR covers 45.6% of the area | obtain the missing PKKPR, check LP2B for each plot |
 | charging a hak sewa | impossible under UU 4/1996 Pasal 4; replaced by cessie tot zekerheid | confirm the construction with the notary |
-| KUHPerdata 1588–1592 | unconfirmed, sources unavailable | one question to the notary against JDIH |
+| [[kuhperdata|KUHPerdata]] 1588–1592 | unconfirmed, sources unavailable | one question to the notary against JDIH |
 | KBLI scope | absent from the Articles, present in the NIB; the table is set up in Annex A | export from OSS RBA, starting with 68111 |
 
 This is not legal advice. Two items — the charge and the article numbering — are stated from knowledge rather than from a retrieved primary source, and are marked as requiring confirmation. The figures for areas and PKKPR are computed from the `land` spreadsheet and are reproducible.
