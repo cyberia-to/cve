@@ -14,10 +14,10 @@ Moved out of the framework at v0.4.2.
 
 ## Titles and land
 
-- [ ] Read the 18 HGB certificates and enter grant and expiry dates into Annex A — remaining term is not recorded anywhere in the current registry, and everything in the framework is capped by it
+- [ ] Read the 18 [[hgb|HGB]] certificates and enter grant and expiry dates into Annex A — remaining term is not recorded anywhere in the current registry, and everything in the framework is capped by it
 - [ ] Decide the conversion path for the three uncertificated parcels (*Pipil* 450 are, awaiting certification 64 are, agreement 4 are — together 14% of the Estate)
-- [ ] Obtain PKKPR for the parcels that lack it — the registry records PKKPR for 7 parcels of 21, about 46% of the area
-- [ ] Confirm RTRW classification per parcel and the LP2B position — neighbouring land in Gesing is classified *Kawasan Pertanian* and adjoins *Kawasan Lindung*
+- [ ] Obtain [[pkkpr|PKKPR]] for the parcels that lack it — the registry records PKKPR for 7 parcels of 21, about 46% of the area
+- [ ] Confirm [[rtrw|RTRW]] classification per parcel and the [[lp2b|LP2B]] position — neighbouring land in Gesing is classified *Kawasan Pertanian* and adjoins *Kawasan Lindung*
 - [ ] Confirm the third HGB cycle position: acquisitions run 2022–2024, so 30 + 20 years reaches roughly 2072–2074, while a 25 + 25 lease signed in 2026 runs to 2076
 
 ## Term, boundaries and area
@@ -30,7 +30,7 @@ Moved out of the framework at v0.4.2.
 
 ## Upgrade tracks
 
-- [ ] Confirm with BPN Buleleng whether PBG alone (without completed building) satisfies the *rumah tinggal* test for Hak Milik conversion
+- [ ] Confirm with [[bpn|BPN]] Buleleng whether [[pbg|PBG]] alone (without completed building) satisfies the *rumah tinggal* test for Hak Milik conversion
 - [ ] Resolve the §3 fork: hak pakai over land with *pemecahan*, or over the completed structure with the parcel retained
 - [ ] Decide Z1 plot grain together with §4.3 sizing and the 600 m² simplified-route threshold
 - [ ] Decide the covenant mechanism that survives conversion to Hak Milik — this determines whether the community holds together long-term
@@ -38,14 +38,14 @@ Moved out of the framework at v0.4.2.
 ## Licences and characterisation
 
 - [ ] Threshold at which the aggregate activity may be characterised as *perumahan*, triggering the housing-law regime
-- [ ] Verify locational scope of each KBLI in Pasal 3 of the [[articles of association]] across all intended parcels
+- [ ] Verify locational scope of each [[kbli|KBLI]] in Pasal 3 of the [[articles of association]] across all intended parcels
 - [ ] Confirm with counsel that §9A survives a challenge under Art. 1320 [[kuhperdata|KUHPerdata]] (lawful cause)
 - [ ] Decide whether the Community Council, rather than each Holder individually, is the counterparty for Licence Event reporting
 - [ ] Settle the licensing route for stay activity and the regional accommodation tax treatment under §2.6
 
 ## Construction
 
-- [ ] Confirm whether the Landowner needs its own construction KBLI where it applies for PBG but outsources the works — position taken here: no, provided the contractor holds SBU and the Landowner builds on its own land
+- [ ] Confirm whether the Landowner needs its own construction KBLI where it applies for PBG but outsources the works — position taken here: no, provided the contractor holds [[sbu|SBU]] and the Landowner builds on its own land
 - [ ] Decide who appoints the construction supervisor, and whether a single approved-contractor panel is imposed Estate-wide
 
 ## Security and governance

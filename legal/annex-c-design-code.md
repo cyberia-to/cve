@@ -17,7 +17,7 @@ C1.1 Ratios in C2 and C3 are measured per Plot, on the area shown in Annex B.
 
 C1.2 Unused footprint entitlement is transferable to another Plot in the same district through the Register under §7.2 of the deed, against a settlement fee, and only where the district balance in C7 is maintained. Transfers open from Wave 2.
 
-C1.3 The Holder's compliance is measured at SLF and at each periodic SLF renewal, and on any transfer under §2.5.
+C1.3 The Holder's compliance is measured at [[slf|SLF]] and at each periodic SLF renewal, and on any transfer under §2.5.
 
 ## C2. Construction area
 

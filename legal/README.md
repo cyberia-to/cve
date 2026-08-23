@@ -6,7 +6,7 @@ alias: legal, cve legal
 ---
 # legal
 
-PT PMA Cyber Valley Estate — instruments and working notes.
+PT [[pma|PMA]] Cyber Valley Estate — instruments and working notes.
 
 Corporate pack index: [[dzin]] · company page: [[cve]]
 
@@ -18,7 +18,7 @@ Corporate pack index: [[dzin]] · company page: [[cve]]
 | [[share sale entry]] | 1% at par to Director at Closing |
 | [[entry payment side letter]] | private receipt and repayment undertaking between Voinova and Fedorov |
 | [[ceo]] | ops · options · KPI ladder |
-| [[shareholders agreement]] | ROFR, tag-along, moonly dividend cadence, cash waterfall |
+| [[shareholders agreement]] | [[rofr|ROFR]], tag-along, moonly dividend cadence, cash waterfall |
 | [[director-disclosure-indemnity-agreement]] | Owners' personal disclosure & uncapped indemnity to the incoming Director, re: Company/land liabilities |
 
 ## Constitution
@@ -44,6 +44,10 @@ Corporate pack index: [[dzin]] · company page: [[cve]]
 | [[land-rights-audit-addendum]] | addendum |
 | [[holder-protocol-decisions]] | holder protocol |
 | [[verification-report]] | verification |
+
+## Vocabulary
+
+[[terms|Abbreviations used in the pack]] — ROFR, HGB, SLF, PBG and the rest, one page each.
 
 ## Laws
 

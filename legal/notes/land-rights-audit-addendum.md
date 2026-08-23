@@ -21,36 +21,36 @@ What §2.5 lacks, and without which no secondary market will work:
 
 | what is missing | why it breaks the sale |
 |---|---|
-| an Estate Certificate for the buyer | the buyer cannot verify the remaining term, arrears, PBG/SLF status or encumbrances on the master title. Nobody pays for a thing whose condition cannot be confirmed |
-| a choice between a ROFR and a transfer fee | the bracket `[right of first refusal / transfer fee of __%]` is open. An Estate right of first refusal collapses the resale price: an outside buyer will not bid knowing he can be matched at his own price |
+| an Estate Certificate for the buyer | the buyer cannot verify the remaining term, arrears, [[pbg|PBG]]/[[slf|SLF]] status or encumbrances on the master title. Nobody pays for a thing whose condition cannot be confirmed |
+| a choice between a [[rofr|ROFR]] and a transfer fee | the bracket `[right of first refusal / transfer fee of __%]` is open. An Estate right of first refusal collapses the resale price: an outside buyer will not bid knowing he can be matched at his own price |
 | deadlines for the Estate's actions | there is no time limit and no deemed consent. The Estate can strangle a deal simply by answering slowly |
 | indivisibility of the bundle | §5.4 gives the Improvements to the Holder, but §2.5 does not say they travel with the right. A right separated from the house is not a product |
 | carry-over of the CX annex | index thesis T7 says expressly that the annex survives assignment with the same quantities qᵢ; the agreement does not repeat this, so the acquirer does not know what rate he is buying |
 | succession | the death of the Holder is the most frequent transfer of the right over 25 years. The agreement does not mention it at all |
 | charging the right | without the ability to encumber a lease the buyer cannot obtain financing, and the market shrinks to those paying cash |
 | Association membership on assignment | §2.5 requires accession to the Design Code and Community Rules, but not to the Association of §8 |
-| taxes on assignment | §12 covers BPHTB and PPh on a transfer of title and is silent on the assignment of a hak sewa |
+| taxes on assignment | §12 covers [[bphtb|BPHTB]] and PPh on a transfer of title and is silent on the assignment of a hak sewa |
 | the link to the lease register and tokenisation | development charter §10 puts derivatives of residential leases second in the tokenisation queue; the agreement has neither a register nor a rule of priority |
 
 ### Question 2: protection where the land was encumbered, let, or burdened with obligations
 
-Practically none. There is a representation in §9: "valid title, no encumbrances beyond those disclosed, zoning permits the intended use, KKPR status disclosed". After that, nothing.
+Practically none. There is a representation in §9: "valid title, no encumbrances beyond those disclosed, zoning permits the intended use, [[kkpr|KKPR]] status disclosed". After that, nothing.
 
 Three holes, each of which on its own destroys the buyer's peace of mind:
 
 1. An indemnity in favour of the Holder does not exist. The only indemnity article — §5A.8 — runs the other way: the Holder indemnifies the landowner. There is no reciprocal article anywhere in the document. A representation without an indemnity is a sentence from which no money follows.
 
-2. There is no negative pledge, and the Articles expressly permit charging. Anggaran Dasar Pasal 12(3)(b) allows the Company to pledge and encumber its property with hak tanggungan, "including land and any rights over land, in particular Hak Guna Bangunan and Hak Pakai", with the consent of the Dewan Komisaris and the RUPS. In other words the corporate document expressly contemplates that the land beneath the leases may be charged. A Holder of an unregistered hak sewa is left with nothing on enforcement: his right is not on the certificate, and a purchaser at auction is not bound by it. The agreement contains neither a negative pledge, nor a non-disturbance agreement with the secured party, nor even a duty to notify.
+2. There is no negative pledge, and the Articles expressly permit charging. Anggaran Dasar Pasal 12(3)(b) allows the Company to pledge and encumber its property with hak tanggungan, "including land and any rights over land, in particular Hak Guna Bangunan and Hak Pakai", with the consent of the Dewan Komisaris and the [[rups|RUPS]]. In other words the corporate document expressly contemplates that the land beneath the leases may be charged. A Holder of an unregistered hak sewa is left with nothing on enforcement: his right is not on the certificate, and a purchaser at auction is not bound by it. The agreement contains neither a negative pledge, nor a non-disturbance agreement with the secured party, nor even a duty to notify.
 
 3. There is no security for the return of money. §10 mentions a "refund formula" on loss of the master title as an unresolved item, but a promise to return a prepayment is worth exactly as much as the Company has to pay it with. No escrow, no bank guarantee, no shareholder guarantee.
 
-Plus smaller but material gaps: no warranty that the plot has not been previously let or promised under a PPJB; no warranties as to the absence of attachment (sita), disputes, or adat, subak and desa claims; no due diligence pack delivered to the buyer before signing; no obligation to refrain from granting competing rights over the same plot — the classic double-letting risk precisely for an unregistered right; no quiet enjoyment covenant as an obligation (it appears only as a condition in §9A.3); and warranties given once at signing and never repeated.
+Plus smaller but material gaps: no warranty that the plot has not been previously let or promised under a [[ppjb|PPJB]]; no warranties as to the absence of attachment (sita), disputes, or adat, subak and desa claims; no due diligence pack delivered to the buyer before signing; no obligation to refrain from granting competing rights over the same plot — the classic double-letting risk precisely for an unregistered right; no quiet enjoyment covenant as an obligation (it appears only as a condition in §9A.3); and warranties given once at signing and never repeated.
 
 ---
 
 ## Part II — proposed text
 
-Below are formulations for insertion. The English column is the working one; the Indonesian text is given as sense-text for the notary, on the same logic already applied in §2.7 of the draft: final wording and exact article references go through the PPAT.
+Below are formulations for insertion. The English column is the working one; the Indonesian text is given as sense-text for the notary, on the same logic already applied in §2.7 of the draft: final wording and exact article references go through the [[ppat|PPAT]].
 
 ### §2.5 restated — transfer of the right
 
@@ -86,15 +86,15 @@ Below are formulations for insertion. The English column is the working one; the
 
 9B.1 Warranties of the landowner, given at the date of signature and repeated on each anniversary and on the date of each assignment in favour of the acquirer:
 
-- the company is duly incorporated and subsisting, its issued capital is paid, its NIB is valid;
+- the company is duly incorporated and subsisting, its issued capital is paid, its [[nib|NIB]] is valid;
 - the master title is valid, and its type, term and remaining period are disclosed in Schedule A;
 - the plot is free of hak tanggungan, attachment (sita) and other encumbrances; has not previously been let or promised under a lease, PPJB, option or other obligation; and is not in the actual possession of a third party;
 - there are no judicial, administrative or arbitral proceedings, and no asserted adat, subak or desa claims, in respect of the plot;
-- zoning and KKPR permit the intended use; the plot carries no LP2B status and does not fall within a sempadan;
-- PBB is paid and there are no arrears;
+- zoning and KKPR permit the intended use; the plot carries no [[lp2b|LP2B]] status and does not fall within a sempadan;
+- [[pbb|PBB]] is paid and there are no arrears;
 - the chain of title documents is disclosed.
 
-9B.2 A due diligence pack as an annex to the agreement: a certified copy of the master title certificate, Surat Ukur, NIB, PBB receipts, a BPN non-encumbrance search no more than 30 days old at the date of signature, and the KKPR document.
+9B.2 A due diligence pack as an annex to the agreement: a certified copy of the master title certificate, Surat Ukur, NIB, PBB receipts, a [[bpn|BPN]] non-encumbrance search no more than 30 days old at the date of signature, and the KKPR document.
 
 9B.3 Negative pledge. The landowner shall not, without the Holder's written consent: encumber the plot with hak tanggungan or other security; grant competing rights over the same plot; or dispose of the plot otherwise than on terms binding the acquirer to this agreement.
 
@@ -128,7 +128,7 @@ Below are formulations for insertion. The English column is the working one; the
 
 Receiving the Anggaran Dasar closes some forks and opens four new points.
 
-### A1. Licences: the KBLI list is now known and it is wider than in the draft
+### A1. Licences: the [[kbli|KBLI]] list is now known and it is wider than in the draft
 
 Pasal 3(1) of the Articles: 68111 real estate owned or leased · 68200 real estate on a fee or contract basis · 55199 other short-term accommodation · 56101 restaurant · 96122 SPA · 82302 special event organiser · 55192 campgrounds and caravan parks · 93299 other amusement and recreation.
 

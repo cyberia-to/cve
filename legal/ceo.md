@@ -11,7 +11,7 @@ icon: "🧭"
 > **Offer / agreement (one text).** Draft for discussion until signed.  
 > No separate economics annex, no open-items sheet, no long legal novel.
 
-**Company.** PT Cyber Valley Estate (PMA).  
+**Company.** PT Cyber Valley Estate ([[pma|PMA]]).  
 **Mandate.** CEO who grows a **network of cities in Indonesia**, starting from **~37 ha** on **Sanghyang** (Bali): **Bali North Star / Cyber Valley** — nature × technology; mountain tourism + quality of life as tech hub.
 
 **Job in one line.** Capitalise the structure and **decentralise ownership** so **founders (DS + AV) residual ≈ 10%**, with blocks in Indonesian hands, foreign hands (Cyberia holding), and residual for founders + CEO — without wrecking valuation.
@@ -81,9 +81,9 @@ Once per month (or written circular):
 
 | rule | |
 |---|---|
-| **Below market** | Any **HGB** or **hak sewa** below market needs **commissioner** approval |
+| **Below market** | Any **[[hgb|HGB]]** or **hak sewa** below market needs **commissioner** approval |
 | **Market floor** | **USD 3,000 / are (sotka)** — under this = below market unless commissioner signs |
-| **No mortgage** | CEO **cannot** pledge or mortgage Company (or controlled SPV) **real estate** for loans |
+| **No mortgage** | CEO **cannot** pledge or mortgage Company (or controlled [[spv|SPV]]) **real estate** for loans |
 
 ---
 
@@ -98,7 +98,7 @@ Once per month (or written circular):
 | **Independence** | Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
 | **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of CEO and founders |
 | **Source** | **only sale/transfer from founders** — **no new share issue** for this package |
-| **ROFR** | Transfers of option shares under this §6 follow [[shareholders agreement]] Article 1: the other Shareholders have a **3 (three) day** window to take up the shares first; once it passes unexercised, the transfer to the CEO proceeds |
+| **[[rofr|ROFR]]** | Transfers of option shares under this §6 follow [[shareholders agreement]] Article 1: the other Shareholders have a **3 (three) day** window to take up the shares first; once it passes unexercised, the transfer to the CEO proceeds |
 
 Options ≠ KPI ladder (§7). Personal upside for the chair; shares come from founders’ holdings, not dilution by print.
 
@@ -191,7 +191,7 @@ Draft until signed.
 | | |
 |---|---|
 | **Governing law** | Republic of Indonesia — same as [[articles of association]] and [[shareholders agreement]] |
-| **Disputes** | Good-faith negotiation first; unresolved after 30 days → arbitration under BANI rules, seat Bali, in English |
+| **Disputes** | Good-faith negotiation first; unresolved after 30 days → arbitration under [[bani|BANI]] rules, seat Bali, in English |
 
 ---
 
