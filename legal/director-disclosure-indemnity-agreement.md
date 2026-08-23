@@ -235,7 +235,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 | No. | Area, m² | Title & expiry | Registered as | Purchase agreement | PPKPR (Aug 2026) | Transferred to PT? | Status | Key risk / note |
 |---|---|---|---|---|---|---|---|---|
-| 0 | 6,400 | None yet — held on *Pipil*; certification in progress | Not yet issued to the Company | Documents not yet handed over by the seller | None | Yes — purchase price and all taxes paid in full by the Company | RISK | Added by the Owners. All costs of acquisition and all taxes were paid by the Company; the land is in *Pipil* status and the certification route is long, so no certificate and no file have been delivered yet |
+| 0 | 6,400 | *Pipil* at the date of purchase; now in certification at [[bpn|BPN]] | Certificate not yet issued | Documents not yet handed over by the seller | None | Yes — purchase price and all taxes paid in full by the Company | Attention | Added by the Owners. The Company paid the purchase price and all taxes in full. The land was held on *Pipil* when the transaction was made and has since moved into certification; the route is long and the certificate and file have not yet been delivered |
 | 1 | 15,500 (14,750 resurveyed) | [[hgb|HGB]] 00046, until 02.02.2053 | PT Cyber Valley Estate | [[ajb|AJB]] 47/2023 | Not on file | Yes | OK* | Area reduced ~750 m² per 2026 resurvey; no PPKPR on file |
 | 2 | 20,700 | HGB 00047, until 02.02.2053 | PT (per AJB & tax) | AJB 62/2023 | Not on file | Yes (cert. unconfirmed) | OK* | No post-transfer certificate on file; no PPKPR |
 | 3 | 20,000 | HGB 00052, until 12.04.2053 | PT Cyber Valley Estate | AJB 148/2023 | Expired ~10.08.2026 | Yes | Attention | Forest/protected zone — development restrictions |
