@@ -214,7 +214,7 @@ The phase 0 slot is closest to sale and the most exposed: a low ticket, many buy
 - 283 lines — within the ≤500 rule.
 - Bold is used widely, whereas the graph rule bans it: emphasis is a heading, frontmatter or a wiki-link. For legal text, bold clause leaders are a normal convention, so either exempt `legal/` from the rule in CLAUDE.md explicitly or convert the leaders into numbered headings. As things stand the rule is simply broken in silence.
 - Zoning references are inconsistent: `[[zoning system]]` in §7 against `[[cyber-valley/policies/zoning system|zoning code]]` on the product pages. Likewise `[[rent index]]` in strategy §6.1 against `[[century index]]` everywhere else.
-- §2.7 rests on the dispositive character of Arts. 1588–1592 KUHPerdata. That is the clause's only support, and the numbering must be confirmed with the notary before the wording goes into a template: if the articles are the wrong ones, the clause is empty. This item is missing from the open questions.
+- §2.7 rests on the dispositive character of Arts. 1588–1592 [[kuhperdata|KUHPerdata]]. That is the clause's only support, and the numbering must be confirmed with the notary before the wording goes into a template: if the articles are the wrong ones, the clause is empty. This item is missing from the open questions.
 - The open questions (14 checkboxes) are a strong part of the document; keep them in the template too, carried into a separate file so that they do not travel into the signable text.
 
 ## 7. What has to be decided before the template
@@ -260,7 +260,7 @@ legal/
   instrument-option.md          the wave option
 ```
 
-The base deed is written in three parallel columns RU-EN-ID from the start, as chosen. The Indonesian column is written alongside the Russian and English rather than translated afterwards — divergences between languages are born precisely at the stage of late translation, and it is those divergences that later decide the dispute, because under UU 24/2009 priority usually lies with the Indonesian text.
+The base deed is written in three parallel columns RU-EN-ID from the start, as chosen. The Indonesian column is written alongside the Russian and English rather than translated afterwards — divergences between languages are born precisely at the stage of late translation, and it is those divergences that later decide the dispute, because under [[uu 24-2009 bahasa|UU 24/2009]] priority usually lies with the Indonesian text.
 
 ---
 

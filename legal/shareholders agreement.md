@@ -65,7 +65,7 @@ This Article does not set CEO compensation — that is [[ceo]] only.
 
 1. Where [[ceo]] §8 requires a buyout of the CEO's shares upon removal from Director office, the Company shall first apply available capacity under Pasal 37 of [[uu 40-2007 perseroan terbatas|UU 40/2007]] (buyback of own shares, subject to the net-asset and 10%-of-capital limits stated there) to fund the purchase.
 2. Any shortfall between the Company's Article 37 capacity and the amount due under [[ceo]] §8 is funded by the other Shareholders, pro rata to their shareholding at the time of removal, within the timeline set in [[ceo]] §8.
-3. Each Shareholder, by signing this Agreement, accepts the funding obligation in paragraph 2 as a personal contractual commitment to the CEO, enforceable by the CEO as a third-party beneficiary of this Article (Pasal 1317 of the Indonesian Civil Code (KUHPerdata)).
+3. Each Shareholder, by signing this Agreement, accepts the funding obligation in paragraph 2 as a personal contractual commitment to the CEO, enforceable by the CEO as a third-party beneficiary of this Article (Pasal 1317 of the [[kuhperdata|KUHPerdata]]).
 
 ## Article 6 — Miscellaneous
 

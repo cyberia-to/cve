@@ -14,6 +14,8 @@ Every statute the corporate and land documents cite, with the articles actually 
 |---|---|---|
 | [[uu 40-2007 perseroan terbatas]] | limited liability companies | [[articles of association]], [[shareholders agreement]], [[gms director appointment]], [[ceo]] |
 | [[uu 7-2011 mata uang]] | currency, rupiah settlement | [[ceo]], [[shareholders agreement]], [[land-rights-agreement]] |
+| [[uu 24-2009 bahasa]] | language of agreements — the Indonesian-prevails rule | every executed instrument in the pack |
+| [[kuhperdata]] | civil code — third-party benefit, mandate, lease by area | [[shareholders agreement]] Art. 5, [[share sale entry]], [[land-rights-agreement]] §2.7 |
 
 ## Still to add
 
@@ -21,10 +23,8 @@ Cited in the pack, not yet reproduced here:
 
 | law | subject | where cited |
 |---|---|---|
-| UU 24/2009 | flag, language, emblem — the Indonesian-prevails rule | [[articles of association]], [[shareholders agreement]] |
 | UU 4/1996 | Hak Tanggungan — security over land | [[land-rights-agreement]] §2.9, [[legal/notes/verification-report]] |
 | UU 2/2017 | construction services — SBU requirement | [[land-rights-agreement]] §5A.2 |
 | PP 18/2021 | land rights — HGB and Hak Pakai terms | [[land-rights-agreement]] §3.2 |
-| KUHPerdata | civil code — Art. 1317 third-party beneficiary, Arts. 1588–1592 area, Art. 1813 mandate | [[shareholders agreement]] Article 5, [[land-rights-agreement]] §2.7 |
 
 The English column is a working translation for reading. On any executed instrument the Bahasa Indonesia text prevails.

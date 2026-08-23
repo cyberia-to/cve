@@ -26,7 +26,7 @@ Personal instrument from the **Owners** (Alisa Voinova, Dmitry Starodubtsev) to 
 
 - **Disclosed Matters (the whole hinge of the deal).** Only: (a) specific answers in Appendix A, (b) Appendix B particulars, (c) Appendix C rows the Owners actually **confirm or correct and countersign** before signing. A document merely sitting in the data room is **not** disclosure — Article 6 says so twice, deliberately closing the "you had access to the files" defense.
 - **Indemnity (Art. 5).** Joint & several, no cap/basket/threshold, covers full cure cost + diminution in value + legal fees on indemnity basis + Tax gross-up + 12%/year compounded interest. **+20% liquidated uplift** if an Owner knew and didn't disclose (deliberately drafted as "compensation," not "penalty" — see comment 4 below).
-- **Third-party stipulation (Art. 4, KUHPerdata Art. 1317).** Lets Alex/Company extend the same indemnity to a bona fide buyer/lessee/contractor of the Land — this is what makes the agreement useful beyond Alex personally.
+- **Third-party stipulation (Art. 4, [[kuhperdata|KUHPerdata]] Art. 1317).** Lets Alex/Company extend the same indemnity to a bona fide buyer/lessee/contractor of the Land — this is what makes the agreement useful beyond Alex personally.
 - **No knowledge/investigation defense (Art. 6).** Prior review, incl. the audit itself, doesn't limit Owner liability except for confirmed Disclosed Matters.
 - **Survival.** Unlimited for title/Encumbrances, Tax, criminal/corruption matters, and any knowing non-disclosure; 10 years for everything else.
 - **Governing law / forum.** Indonesian law; BANI arbitration, Denpasar, English language; land title/registration carved out to Indonesian courts/BPN regardless (Art. 11.1, 11.4).

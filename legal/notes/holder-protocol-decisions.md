@@ -253,7 +253,7 @@ No Bali leasehold today gives the third of these, and almost none gives the seco
 
 After the sign-off sheet is marked, the base hak sewa deed is assembled in RU-EN-ID with closed brackets where a decision is taken and explicit markers where one is deferred. The draft's open questions are carried out into a separate file so that they do not travel into the signable text.
 
-Outside this sheet, and requiring external confirmation rather than a decision: the remaining term of the master title, the ITR and RDTR status for Buleleng, the absence of LP2B, the admissibility of charging a hak sewa, the article numbering of KUHPerdata in §2.7, and the locational scope of each KBLI under `Pasal 3` of the Articles.
+Outside this sheet, and requiring external confirmation rather than a decision: the remaining term of the master title, the ITR and RDTR status for Buleleng, the absence of LP2B, the admissibility of charging a hak sewa, the article numbering of [[kuhperdata|KUHPerdata]] in §2.7, and the locational scope of each KBLI under `Pasal 3` of the Articles.
 
 ---
 

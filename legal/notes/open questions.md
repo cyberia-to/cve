@@ -25,7 +25,7 @@ Moved out of the framework at v0.4.2.
 - [ ] Set the minimum remaining term under §2.1 below which a Plot is not offered under Part A at all
 - [ ] Settle any already-known area shortfall before locking pure per aversionem under §2.7; then fix ad corpus going forward in the same addendum
 - [ ] Choose full bilateral waiver of Arts. 1588–1592 vs asymmetric floor (e.g. no claim above [850] m²; pro-rata reduction below)
-- [ ] Verify the article numbering of Arts. 1588–1592 KUHPerdata and their dispositive character against JDIH before §2.7 is relied on — §2.7 rests on this alone
+- [ ] Verify the article numbering of Arts. 1588–1592 [[kuhperdata|KUHPerdata]] and their dispositive character against JDIH before §2.7 is relied on — §2.7 rests on this alone
 - [ ] Run boundary description and *Berita Acara Persetujuan Batas* plan with adjoining owners before relying on §2.7
 
 ## Upgrade tracks
@@ -39,7 +39,7 @@ Moved out of the framework at v0.4.2.
 
 - [ ] Threshold at which the aggregate activity may be characterised as *perumahan*, triggering the housing-law regime
 - [ ] Verify locational scope of each KBLI in Pasal 3 of the [[articles of association]] across all intended parcels
-- [ ] Confirm with counsel that §9A survives a challenge under Art. 1320 KUHPerdata (lawful cause)
+- [ ] Confirm with counsel that §9A survives a challenge under Art. 1320 [[kuhperdata|KUHPerdata]] (lawful cause)
 - [ ] Decide whether the Community Council, rather than each Holder individually, is the counterparty for Licence Event reporting
 - [ ] Settle the licensing route for stay activity and the regional accommodation tax treatment under §2.6
 
