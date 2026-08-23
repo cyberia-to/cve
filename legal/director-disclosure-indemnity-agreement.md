@@ -235,7 +235,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 | No. | Area, m² | Title & expiry | Registered as | Purchase agreement | PPKPR (Aug 2026) | Transferred to PT? | Status | Key risk / note |
 |---|---|---|---|---|---|---|---|---|
-| 0 | 6,400 | *Pipil* at the date of purchase; now in certification at [[bpn|BPN]] | Certificate not yet issued | Documents not yet handed over by the seller | None | Yes — purchase price and all taxes paid in full by the Company | Attention | Added by the Owners. The Company paid the purchase price and all taxes in full. The land was held on *Pipil* when the transaction was made and has since moved into certification; the route is long and the certificate and file have not yet been delivered |
+| 0 | 6,800 | *Pipil* at the date of purchase; now in certification at [[bpn|BPN]] | Certificate not yet issued | Invoice "Extra Land", seller Ketut Merta Yasa; purchase Rp 612,000,000 plus Rp 389,320,000 of processing and other costs, Rp 1,001,320,000 in total, paid in full by 4 Dec 2024 | Paid for in the same invoice (registration and validation) | Yes — [[bphtb|BPHTB]] 5% and [[pph|PPh]] 2.5% both paid | Attention | Added by the Owners. Everything is paid, including the AJB and name-change fees and the *penurunan hak* to the Company; the land was on *Pipil* at purchase and is in certification. Certificate and file not yet delivered |
 | 1 | 15,500 (14,750 resurveyed) | [[hgb|HGB]] 00046, until 02.02.2053 | PT Cyber Valley Estate | [[ajb|AJB]] 47/2023 | Not on file | Yes | OK* | Area reduced ~750 m² per 2026 resurvey; no PPKPR on file |
 | 2 | 20,700 | HGB 00047, until 02.02.2053 | PT (per AJB & tax) | AJB 62/2023 | Not on file | Yes (cert. unconfirmed) | OK* | No post-transfer certificate on file; no PPKPR |
 | 3 | 20,000 | HGB 00052, until 12.04.2053 | PT Cyber Valley Estate | AJB 148/2023 | Expired ~10.08.2026 | Yes | Attention | Forest/protected zone — development restrictions |
@@ -244,13 +244,13 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 | 5 | 10,400 | HGB 11/Gesing, until 21.06.2052 | PT Cyber Valley Estate | AJB 146/2022 | Not on file | Yes | OK* | "Forest fund" note on original SHM — verify with BPN |
 | 6 | 11,620 | HGB (NIB 22.04.000007933.0), until 19.08.2054 | PT Cyber Valley Estate | AJB 99/2024 | Not on file | Yes | OK* | Cleanest file in the portfolio; PPKPR recommended |
 | 7 | 2,880 | HGB (NIB 22.04.000001680.0), until 16.08.2054 | PT Cyber Valley Estate | AJB 100/2024 | Valid to ~2027 | Yes | OK | No issues noted |
-| 8 | 5,000 | HGB 00016, until 31.08.2052 | Individual — I Ketut Ceraka | PPJB 32 + POA 33 only; no AJB | None | No (taxes paid) | RISK | [[bphtb|BPHTB]]/[[pph|PPh]] paid 2022, but no final AJB or BPN registration |
+| 8 | 5,000 | HGB 00016, until 31.08.2052 | **PT Cyber Valley Estate** | [[ajb|AJB]] 259/2022 of 24.11.2022, PPAT Komang Nunuk Sulasih SH MKn; registered at [[bpn|BPN]] 28.11.2022, D.I. 301 No. 26144/2022 | None | Yes (taxes paid) | OK | Corrected by the Owners against the certificate. Chain: HM 01620 (I Putu Sarka) → inheritance to Ketut Ceraka → converted to HGB 00016 on 02.09.2022 → sold to the Company. The audit read the *pengecekan* of 13.10.2022, which predates the sale |
 | 9 | 5,700 | HGB 14/Gesing, until 21.06.2052 | PT Cyber Valley Estate | AJB 147/2022 | Not on file | Yes | OK* | No issues other than missing PPKPR |
 | 10 | 19,500 | SHM 01614 on file (pre-conversion); HGB 013 referenced | PT (per AJB & BPHTB) | AJB 184/2022 | Not on file | Yes (cert. unconfirmed) | Attention | No copy of final HGB certificate — verify with BPN; forest-fund zone note |
 | 11 | 18,200 | HGB 00019, until 31.08.2052 | PT (per AJB, unverified) | AJB 260/2022 | None on file | Yes (cert. unconfirmed) | Attention | Transfer registration not documented; no PPKPR |
 | 12 | 44,500 | HGB (KEPMEN 1339/2022), until 27.02.2053 | PT Cyber Valley Estate | AJB 62/2024 | Expired ~09.08.2026 | Yes | Attention | Otherwise clean — taxes paid, title confirmed |
 | 13 | 45,000 | SHM 02167 (11.2023) | Individual — Wayan Rosa | **No transaction documents at all** | Obtained by Company (~to 2028) | No | **CRITICAL** | Land not legally owned by the Company; plantation-use zone (Kawasan Perkebunan) |
-| 14 | 22,260 | HGB 00012, until 21.06.2052 | Individual — Made Suwandana | PPJB 07 only; no AJB | None | No | RISK | No final agreement or BPN registration |
+| 14 | 22,260 | HGB 00012, until 21.06.2052 | **PT Cyber Valley Estate** | [[ajb|AJB]] 183/2022 of 04.08.2022, PPAT Komang Nunuk Sulasih SH MKn; registered at [[bpn|BPN]] 12.08.2022, D.I. 301 No. 16161/2022 | None | Yes | OK | Corrected by the Owners against the certificate. Chain: HM 00856 (Ketut Wirata) → inheritance to Made Suwandana 02.2022 → converted to HGB 00012 on 22.06.2022 → sold to the Company |
 | 15 | 44,500 | HGB 00049, until 27.02.2053 | PT (per AJB 162/2023) | AJB 162/2023 | Expired ~10.08.2026 | Yes | Attention | 2 lawsuits (2023) voluntarily withdrawn; not decided on merits — see Appendix C item 2 |
 | 16 | 11,100 | HGB 17, until 31.08.2052 | PT (per tax data) | AJB 258/2022 | None on file | Yes (cert. unconfirmed) | OK* | No post-transfer certificate; minor PBB arrears |
 | 17 | 9,900 | HGB 18, until 06.09.2052 | PT (confirmed per tax) | AJB 220/2022 | None on file | Yes (cert. unconfirmed) | OK* | Minor PBB arrears (~Rp 243,540 for 2023) |
@@ -259,7 +259,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 **Excluded from the Land — Parcel "21. Green Flow" (Desa Sayan, Kecamatan Ubud, Kabupaten Gianyar):** a separate 25-year leasehold project over land titled (SHM) to local individuals, involving Commissioner Dmitry Starodubtsev, Felix Demin, PT Bali Investment SFG and PT Bali Investments Group personally and/or through affiliated vehicles. **Not** included in the Land, **not** warranted as a Company asset. See Appendix C item 9.
 
-**Portfolio totals (Parcels 0–19, excluding Green Flow):** declared area ≈371,120 m² (≈37.1 ha); ≈292,000 m² (≈29.2 ha) supported by documentation showing registration in the Company's name (subject to the "Attention"/"OK*" caveats above); ≈79,100 m² (≈7.9 ha) — Parcels 0, 3.1, 8, 13 and 14 — remains legally titled to individual sellers or uncertificated and is **not yet Company property**.
+**Portfolio totals (Parcels 0–19, excluding Green Flow):** declared area ≈371,520 m² (≈37.2 ha); ≈319,320 m² (≈31.9 ha) registered in the Company's name (subject to the "Attention"/"OK*" caveats above); ≈52,200 m² (≈5.2 ha) — Parcels 0, 3.1 and 13 — remains legally titled to individual sellers or uncertificated and is **not yet Company property**.
 
 ## Appendix C — Reconciliation of independent audit findings
 
