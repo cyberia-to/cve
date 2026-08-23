@@ -177,7 +177,7 @@ Decision. Split by horizon and by the presence of a service:
 | land-time | day to season, bare land, no accommodation service | the Holder | area tax of 10% or 5%, plus a settlement fee of 1–3% |
 | stay | occupation with an accommodation service | the Estate, KBLI 55199 and 55192 | management fee, the Estate operating |
 
-The Holder chooses the channel. Both settle in IDR at JISDOR on the invoice date, as `UU 7/2011` and thesis T6 of the index require; USDT remains a unit of account and a rail for agent demand rather than a means of payment inside Indonesia.
+The Holder chooses the channel. Both settle in IDR at JISDOR on the invoice date, as `[[uu 7-2011 mata uang|UU 7/2011]]` and thesis T6 of the index require; USDT remains a unit of account and a rail for agent demand rather than a means of payment inside Indonesia.
 
 Why win-win. The Estate takes licence rent where it carries licence risk, and takes nothing extra where it does not. The Holder pays for what he actually receives. And the formula of the `hak sewa` page — the Estate earns on the activity of the city rather than on guarding a door — becomes true for land-time, instead of being a stretch for both cases.
 

@@ -22,7 +22,7 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Depu
 
 1. This Agreement is made to supplement Articles 5 and 7 of the Company's Articles of Association with contractual terms binding between the Shareholders personally, including tag-along rights, a closed list of grounds for withholding consent to a transfer, and the mandatory dividend cadence.
 2. This Agreement is entered into in connection with the transfer of 80 (eighty) shares from Alisa Voinova to Oleksandr Fedorov at par value (Rp 200,000,000.00), as approved by the shareholders' circular resolution and set out in the Share Sale Deed.
-3. Where this Agreement and the Articles of Association conflict on a matter binding third parties or the Company vis-à-vis third parties, the Articles of Association prevail (Law No. 40 of 2007). As between the Shareholders themselves, this Agreement binds as a supplementary contract and must be performed in good faith, including by procuring that the GMS adopts resolutions consistent with it.
+3. Where this Agreement and the Articles of Association conflict on a matter binding third parties or the Company vis-à-vis third parties, the Articles of Association prevail ([[uu 40-2007 perseroan terbatas|UU 40/2007]]). As between the Shareholders themselves, this Agreement binds as a supplementary contract and must be performed in good faith, including by procuring that the GMS adopts resolutions consistent with it.
 
 ## Article 1 — Right of first refusal
 
@@ -63,9 +63,9 @@ This Article does not set CEO compensation — that is [[ceo]] only.
 
 ## Article 5 — Funding of CEO buyout on removal
 
-1. Where [[ceo]] §8 requires a buyout of the CEO's shares upon removal from Director office, the Company shall first apply available capacity under Article 37 of Law No. 40 of 2007 (buyback of own shares, subject to the net-asset and 10%-of-capital limits stated there) to fund the purchase.
+1. Where [[ceo]] §8 requires a buyout of the CEO's shares upon removal from Director office, the Company shall first apply available capacity under Pasal 37 of [[uu 40-2007 perseroan terbatas|UU 40/2007]] (buyback of own shares, subject to the net-asset and 10%-of-capital limits stated there) to fund the purchase.
 2. Any shortfall between the Company's Article 37 capacity and the amount due under [[ceo]] §8 is funded by the other Shareholders, pro rata to their shareholding at the time of removal, within the timeline set in [[ceo]] §8.
-3. Each Shareholder, by signing this Agreement, accepts the funding obligation in paragraph 2 as a personal contractual commitment to the CEO, enforceable by the CEO as a third-party beneficiary of this Article (Article 1317 of the Indonesian Civil Code).
+3. Each Shareholder, by signing this Agreement, accepts the funding obligation in paragraph 2 as a personal contractual commitment to the CEO, enforceable by the CEO as a third-party beneficiary of this Article (Pasal 1317 of the Indonesian Civil Code (KUHPerdata)).
 
 ## Article 6 — Miscellaneous
 

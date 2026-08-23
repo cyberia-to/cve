@@ -72,7 +72,7 @@ Charter, stream 4: rent is indexed through CX. Pages A and B: "extension pre-agr
 
 The agreement mentions CX once in §2.3 by reference, while §2.4 sends the renewal price to "the formula in Schedule E" and itself warns that "to be agreed" is the principal defect of Bali leases. Schedule E is empty. As it stands the agreement contains exactly the defect it warns against.
 
-Fix: Schedule E becomes the CX annex under T1 (weights, t₀ prices, quantities qᵢ, fix sources with fallbacks, collar, floor, one worked invoice), plus the migration into the body of the agreement of T5 (the tenant's right to recompute within 30 days, the recomputation prevailing), T6 (settlement in IDR at JISDOR on the invoice date, UU 7/2011), T7 (the annex surviving assignment, sublease and succession), T8 (the computation from public fixes prevailing over the on-chain fix). Renewal formula: L(T) = L₀ · I(T)/I(t₀).
+Fix: Schedule E becomes the CX annex under T1 (weights, t₀ prices, quantities qᵢ, fix sources with fallbacks, collar, floor, one worked invoice), plus the migration into the body of the agreement of T5 (the tenant's right to recompute within 30 days, the recomputation prevailing), T6 (settlement in IDR at JISDOR on the invoice date, [[uu 7-2011 mata uang|UU 7/2011]]), T7 (the annex surviving assignment, sublease and succession), T8 (the computation from public fixes prevailing over the on-chain fix). Renewal formula: L(T) = L₀ · I(T)/I(t₀).
 
 ### M2. The zoning code is not a covenant
 
@@ -170,7 +170,7 @@ A plot above 600 m² takes an Indonesian buyer out of the simplified route and r
 
 ### C4. Settlement in USDT
 
-`hak sewa`: the marketplace "settles in USDT". Century index T6 honestly fixes the opposite for rent: UU 7/2011 requires settlement in rupiah at JISDOR.
+`hak sewa`: the marketplace "settles in USDT". Century index T6 honestly fixes the opposite for rent: [[uu 7-2011 mata uang|UU 7/2011]] requires settlement in rupiah at JISDOR.
 
 A sublet of land inside Indonesia between parties on Indonesian territory is a payment obligation in a jurisdiction where a crypto asset is not a means of payment. The product is described so that its settlement layer conflicts with currency law. A fork is needed: either USDT is a unit of account only with mandatory settlement in IDR, or settlement is moved outside the perimeter, in which case it must be stated honestly who the party is and where.
 
