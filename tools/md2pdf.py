@@ -21,16 +21,114 @@ import sys
 import tempfile
 
 
+
+PAGES = {}         # normalised page name -> markdown path
+TITLES = {}        # markdown path -> (h1 title, {anchor slug: heading text})
+
+
+def slugify(text):
+    """Reproduce the anchor ids the graph renderer builds from a heading."""
+    t = re.sub(r'\*\*|__|`|\[\[|\]\]', '', text)
+    t = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', t)
+    t = t.split('|')[-1] if '|' in t else t
+    t = re.sub(r'[^0-9a-zA-Z\s-]', '', t.lower())
+    return re.sub(r'-+', '-', re.sub(r'\s+', '-', t.strip())).strip('-')
+
+
+def build_index(root):
+    """Map every markdown page in the tree so footnotes can name their target."""
+    for base, dirs, files in os.walk(root):
+        dirs[:] = [d for d in dirs if not d.startswith('.')]
+        for f in files:
+            if f.endswith('.md'):
+                path = os.path.join(base, f)
+                PAGES.setdefault(f[:-3].lower().replace('-', ' '), path)
+
+
+def headings(path):
+    """(title, {anchor: heading}) for a page, read once and cached."""
+    if path not in TITLES:
+        title, anchors = os.path.basename(path)[:-3], {}
+        try:
+            first = True
+            for line in open(path, encoding='utf-8'):
+                m = re.match(r'^(#{1,6})\s+(.*?)\s*$', line)
+                if not m:
+                    continue
+                text = re.sub(r'\[\[([^\]|]+)\|([^\]]+)\]\]', r'\2', m.group(2))
+                text = re.sub(r'\*\*|\[\[|\]\]', '', text)
+                text = re.sub(r'[\u25b2\u26a0\ufe0f]', '', text).strip()
+                if first and len(m.group(1)) == 1:
+                    title, first = text, False
+                anchors[slugify(text)] = text
+        except OSError:
+            pass
+        TITLES[path] = (title, anchors)
+    return TITLES[path]
+
+
+def resolve(name):
+    return PAGES.get(name.lower().replace('-', ' '))
+
+
+REFS = []          # ordered list of footnote targets for the document being built
+REF_INDEX = {}     # target -> footnote number
+
+
+def words(slug):
+    """`8-exit` -> `Exit`, `articles-of-association` -> `articles of association`."""
+    t = slug.replace('-', ' ').replace('_', ' ').strip()
+    m = re.match(r'^(\d+[a-z]?)\s+(.*)$', t)
+    if m:
+        return "\u00a7" + m.group(1) + " " + m.group(2)
+    return t
+
+
+def where(url, source=None):
+    """Describe a link target the way a reader of paper needs it."""
+    if url.startswith('http'):
+        return url
+    page_part, _, anchor = url.partition('#')
+    page_part = page_part.strip('/')
+    if page_part.startswith('cyber-valley/cve/'):
+        page_part = page_part[len('cyber-valley/cve/'):]
+
+    path = resolve(page_part.rsplit('/', 1)[-1]) if page_part else source
+    title, anchors = headings(path) if path else (words(page_part.rsplit('/', 1)[-1]), {})
+    section = anchors.get(anchor) or (words(anchor) if anchor else '')
+
+    if not page_part:
+        return f"this document, {section}" if section else "this document"
+    return f"{title}, {section}" if section else title
+
+
+SOURCE = [None]    # path of the page being converted, for same-document anchors
+
+
+def ref(target):
+    """Register a footnote and return its number, reusing one per target."""
+    key = where(target, SOURCE[0])
+    if key not in REF_INDEX:
+        REFS.append(key)
+        REF_INDEX[key] = len(REFS)
+    return REF_INDEX[key]
+
+
+def note(text, target):
+    return f'{text}<sup class="ref">{ref(target)}</sup>'
+
+
 def inline(t):
     t = html.escape(t)
-    t = re.sub(r'\[\[([^\]|]+)\|([^\]]+)\]\]', r'\2', t)          # [[slug|text]] -> text
-    t = re.sub(r'\[\[([^\]]+)\]\]', r'\1', t)                      # [[text]] -> text
-    t = re.sub(r'\[([^\]]+)\]\((#[^)]*|/[^)]*)\)', r'\1', t)       # internal links -> text
-    t = re.sub(r'\[([^\]]+)\]\((https?://[^)]+)\)', r'<a href="\2">\1</a>', t)
+    t = re.sub(r'\[\[([^\]|]+)\|([^\]]+)\]\]', lambda m: note(m.group(2), m.group(1)), t)
+    t = re.sub(r'\[\[([^\]]+)\]\]', lambda m: note(m.group(1), m.group(1)), t)
+    t = re.sub(r'\[([^\]]+)\]\((#[^)]*|/[^)]*)\)', lambda m: note(m.group(1), m.group(2)), t)
+    t = re.sub(r'\[([^\]]+)\]\((https?://[^)]+)\)', lambda m: note(m.group(1), m.group(2)), t)
     t = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
     t = re.sub(r'(?<!\*)\*([^*\n]+)\*(?!\*)', r'<em>\1</em>', t)
     t = re.sub(r'`([^`]+)`', r'<code>\1</code>', t)
     return t
+
 
 def row(line):
     cells = [c.strip() for c in line.strip().strip('|').split('|')]
@@ -96,15 +194,32 @@ li { margin-bottom: 3pt; }
 code { font-family: 'Play', monospace; font-size: 9.5pt; }
 hr { border: 0; border-top: .5pt solid #bbb; margin: 10pt 0; }
 a { color: #000; text-decoration: none; }
+sup.ref { font-size: 7.5pt; line-height: 0; vertical-align: super; padding-left: .5pt; }
+.notes { page-break-before: auto; margin-top: 16pt; }
+.notes h2 { font-size: 11pt; }
+.notes ol { list-style: none; padding-left: 0; font-size: 9pt; column-count: 2; column-gap: 14pt; }
+.notes li { margin-bottom: 2.5pt; break-inside: avoid; }
+.notes .n { display: inline-block; min-width: 13pt; font-weight: bold; }
 .footer { margin-top: 14pt; padding-top: 5pt; border-top: .5pt solid #bbb; font-size: 8pt; color: #555; }
 """
 
 
 
-def page(md, title, stamp):
+def page(md, title, stamp, source=None):
+    SOURCE[0] = source
+    REFS.clear()
+    REF_INDEX.clear()
+    body = convert(md)
+    notes = ""
+    if REFS:
+        rows = "".join(
+            f'<li><span class="n">{i}</span> {html.escape(t)}</li>'
+            for i, t in enumerate(REFS, 1))
+        notes = f'<div class="notes"><h2>References</h2><ol>{rows}</ol></div>'
     return (f"<!doctype html><meta charset='utf-8'><title>{html.escape(title)}</title>"
-            f"<style>{CSS}</style>{convert(md)}"
+            f"<style>{CSS}</style>{body}{notes}"
             f"<div class='footer'>PT. Cyber Valley Estate &middot; {html.escape(title)} &middot; {stamp}</div>")
+
 
 BROWSERS = [
     "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser",
@@ -132,12 +247,14 @@ def main():
     os.makedirs(out, exist_ok=True)
     tmp = tempfile.mkdtemp(prefix="md2pdf-")
     exe = browser()
+    build_index(os.path.dirname(os.path.abspath(a.pages[0])) or ".")
+    build_index(".")
 
     for src in a.pages:
         name = os.path.basename(src)[:-3]
         html_path = os.path.join(tmp, name + ".html")
         with open(html_path, "w", encoding="utf-8") as f:
-            f.write(page(open(src, encoding="utf-8").read(), name, stamp))
+            f.write(page(open(src, encoding="utf-8").read(), name, stamp, src))
         pdf = os.path.join(out, name + ".pdf")
         subprocess.run([exe, "--headless", "--disable-gpu", "--no-pdf-header-footer",
                         "--virtual-time-budget=9000", f"--print-to-pdf={pdf}",
