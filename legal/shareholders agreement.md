@@ -55,9 +55,29 @@ Cash received by the Company is applied in the following order before any amount
 3. **distributable cash** — dividends or other distributions to Shareholders;
 4. the approved operating moonly budget (including the operational account under [[ceo]]).
 
-Distributable cash under item 3 is paid out every moon cycle as a mandatory interim dividend under [[articles of association]] Article 18, subject only to the objective tests in its paragraph (3). The split between **dividends** and **retained project treasury** at the annual true-up is decided by the GMS under [[articles of association]] Article 18(4). Working proposal (not binding until GMS resolves): **50/50**.
+**Cadence.** Distributable cash under item 3 is distributed to the Shareholders every moon cycle (one new moon to the next), and in no event less often than once per calendar quarter, as an interim dividend permitted by [[articles of association]] Article 18(2). Distribution is the rule between the Shareholders; retention is the exception and requires their unanimous written agreement.
 
-Each Shareholder shall procure that the organs of the Company adopt and approve every distribution due under Article 18 of the [[articles of association]]. Withholding approval where no test under Article 18(3) has failed is a material breach of this Agreement, actionable by any Shareholder against the withholding party for the dividend so withheld — save where the withholding is made under the statutory-duty exception in Article 18(2)(ii) of the Articles of Association, exercised in good faith, notified in writing, and tabled at the next GMS as required therein, which is not a breach of this Agreement.
+**Mechanics.** Within 10 (ten) business days of the end of each moon cycle each Shareholder shall procure that the Board of Directors resolves, and the Board of Commissioners approves, an interim dividend equal to the distributable cash of that cycle.
+
+**Reserve allocation.** [[articles of association]] Article 19 sets the reserve ceiling at 20% (twenty percent) of the issued and paid-up capital but does not fix the pace of the allocation. Between the Shareholders the pace is fixed: while the reserve stands below that ceiling, 5% (five percent) of the net profit of each profitable financial year is allocated to the reserve and the remaining 95% is distributable cash under item 3. Dividends are payable from the first profitable financial year; the 20% is a ceiling on the reserve and never a precondition for distribution. Once the reserve reaches 20%, allocation stops.
+
+**Tests — the only grounds to withhold.** A distribution may be withheld only where one of the following fails, and the failure is notified in writing stating which test and the figures:
+
+   a. after payment, the net assets of the Company remain at least the issued and paid-up capital plus the statutory reserve accumulated under [[articles of association]] Article 19;
+   b. the Company can meet its debts falling due in the following 3 (three) moon cycles;
+   c. cumulative realised profit for the current financial year is positive.
+
+The figures are certified by the Company's accountant; the tests are arithmetic, not opinion.
+
+**Unforeseen circumstances.** A distribution may also be withheld where a circumstance not accounted for by those tests has arisen after the date of the last financial statements, and the Board of Directors and Board of Commissioners record in writing the circumstance, its date and its effect on the Company's solvency, notify all Shareholders within 3 (three) business days, and table it for ratification at the next GMS. A circumstance known, or that ought to have been known, at the date of those financial statements is not a ground. Beyond the tests above and this paragraph, discretion is not a ground.
+
+**Annual true-up.** The final dividend for a financial year is the net profit after the reserve allocation, less interim dividends already paid during that year, and is distributed at the annual GMS. The split between dividends and retained project treasury is decided by the GMS. Working proposal, not binding until the GMS resolves: **50/50**.
+
+**Clawback.** If a financial year closes at a loss, the interim dividends of that year are returned to the Company as [[articles of association]] Article 18(2) requires; test (c) exists to keep this theoretical.
+
+**Payment.** Pro rata to shareholding, within 5 (five) business days of approval, through the maker and authorizer mandate under [[articles of association]] Article 12(4).
+
+**Enforcement.** Withholding approval where no test has failed and the unforeseen-circumstance paragraph does not apply is a material breach of this Agreement, actionable by any Shareholder against the withholding party for the dividend so withheld.
 
 This Article does not set CEO compensation — that is [[ceo]] only.
 
