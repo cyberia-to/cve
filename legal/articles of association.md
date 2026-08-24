@@ -187,22 +187,16 @@ The Company is established for an unlimited period of time.
 
 ## Article 18 — Dividends
 
-1. Cadence. The Company distributes distributable cash to the shareholders every moon cycle (one new moon to the next; *bulan*), and in no event less often than once per calendar quarter. Distribution is the rule; retention is the exception and requires an affirmative GMS resolution.
-2. Moonly interim dividend — mandatory. Within 10 (ten) business days of the end of each moon cycle the Board of Directors resolves, and the Board of Commissioners approves, an interim dividend equal to the distributable cash of that cycle under Article 4 of the [[shareholders agreement]]. Interim dividends are expressly permitted by these Articles, as [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72 requires. Approval may be withheld only (i) where a test in paragraph (3) of this Article 18 fails, by written notice stating which test and the figures, or (ii) where an unforeseen circumstance has arisen after the date of the last financial statements which the tests in paragraph (3) could not account for, and the Board of Directors and Board of Commissioners record in writing the circumstance, its date and its effect on the Company's solvency — in which case the determination must be notified in writing to all shareholders within 3 (three) business days and tabled for ratification at the next GMS. A circumstance known, or that ought to have been known, at the date of those financial statements is not a ground. Beyond grounds (i) and (ii), discretion is not a ground.
-3. Objective tests — the only lawful grounds to withhold:
-   a. after payment, net assets remain at least the issued and paid-up capital plus the statutory reserve accumulated under Article 19 of these Articles — [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72;
-   b. the Company can meet its debts falling due in the following 3 (three) moon cycles;
-   c. cumulative realised profit for the current financial year is positive.
-   The figures are certified by the Company's accountant; the tests are arithmetic, not opinion.
-4. Annual true-up. The final dividend for a financial year is the net profit after the reserve allocation under Article 19 of these Articles, less interim dividends already paid during that year, and is distributed at the annual GMS unless the GMS resolves otherwise — [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 71.
-5. Statutory clawback. If a financial year closes at a loss, interim dividends of that year are returned by the shareholders — [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72; test (c) of paragraph (3) exists to keep this theoretical. A loss not covered by the reserve carries forward, and the Company is deemed to have made no profit until it is covered.
-6. Payment runs pro rata to shareholding, within 5 (five) business days of approval, through the maker/authorizer mandate of Article 12(4) of these Articles.
+1. The Company's net profit in a financial year, as shown in the balance sheet and profit and loss account ratified by the annual GMS and constituting a positive profit balance, is applied in the manner determined by that GMS, after the allocation to the statutory reserve under Article 19 of these Articles.
+2. Interim dividends are permitted. Before the close of a financial year the Company may distribute an interim dividend on a resolution of the Board of Directors approved by the Board of Commissioners, provided that the net assets of the Company after the distribution are not less than the issued and paid-up capital plus the statutory reserve, and that the distribution does not prejudice the Company's obligations to its creditors — [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72. These Articles place no restriction on how often an interim dividend may be distributed. Where a financial year closes at a loss, the interim dividends distributed during that year are returned by the shareholders to the Company.
+3. If the profit and loss account for a financial year shows a loss that cannot be covered by the reserve fund, the loss shall remain recorded in the profit and loss account, and in subsequent financial years the Company shall be deemed to have made no profit until the loss is covered.
+4. Dividends are paid pro rata to shareholding, through the maker and authorizer mandate under Article 12(4) of these Articles.
 
-## Article 19 — Statutory reserve
+## Article 19 — Use of reserves
 
-1. While the reserve stands below 20% (twenty percent) of the issued and paid-up capital, the Company sets aside 5% (five percent) of the net profit of each profitable financial year into the reserve; the remaining 95% is subject to Article 18 of these Articles. Dividends are payable from the first profitable year — the 20% is a ceiling on the reserve, never a precondition for distribution. Once the reserve reaches 20%, allocation stops — [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 70.
-2. The reserve is used only to cover losses not met by other reserves.
-3. Any excess above 20% is applied as the GMS resolves.
+1. Net profit is set aside as reserves until they reach 20% (twenty percent) of the issued and paid-up capital, and may only be used to cover losses not met by other reserves — [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 70.
+2. If the reserves exceed 20% (twenty percent), the GMS may resolve that the excess be used for the needs of the Company.
+3. Reserves referred to in paragraph (1) not yet used to cover losses, and the excess reserves referred to in paragraph (2) whose use has not been determined by the GMS, shall be managed by the Board of Directors in an appropriate manner in its judgment, after obtaining the approval of the Board of Commissioners and with due observance of laws and regulations, so as to generate profit.
 
 ## Article 20 — Closing provision
 
