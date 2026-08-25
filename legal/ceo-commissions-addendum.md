@@ -6,13 +6,13 @@ crystal-domain: socio
 crystal-size: article
 icon: "💰"
 ---
-# CEO — Commissions & Referral Economics (Addendum to [[ceo]] §9)
+# CEO — Commissions & Referral Economics (Addendum to [[ceo]] [§9](/cyber-valley/cve/legal/ceo#9-not-in-this-deal))
 
 > Addendum, not annex to [[ceo]] — separate cash economics excluded from that
-> page by [[ceo#9. Not in this deal|§9]], surviving departure under
-> [[ceo#17. Survival after departure|§17]]. Draft for discussion until signed.
+> page by [§9](/cyber-valley/cve/legal/ceo#9-not-in-this-deal), surviving departure under
+> [§17](/cyber-valley/cve/legal/ceo#17-survival-after-departure). Draft for discussion until signed.
 
-**"Management company"** — in §5 below, any entity CEO controls and uses to deliver the on-site
+**"Management company"** — in [§5](#5-management-of-existing-property-glamping-carrot-house-vitalik-kitchen-and-other-structures) below, any entity CEO controls and uses to deliver the on-site
 management service described there. All fees in this document are ultimately payable to CEO;
 routing a fee through a management company CEO controls does not change who is entitled to it.
 
@@ -26,7 +26,7 @@ routing a fee through a management company CEO controls does not change who is e
 | **Fee** | **10%** of the deal value actually received by the Company, payable to CEO |
 | **Split** | CEO may share all or part of the 10% with the agent who sourced/worked the deal; split ratio is CEO's call unless a separate agent agreement fixes it |
 | **Base** | gross price actually received, not list price |
-| **Payable** | on receipt of funds in the strategic account |
+| **Payable** | on receipt of funds in the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts)) |
 
 ---
 
@@ -36,7 +36,7 @@ routing a fee through a management company CEO controls does not change who is e
 |---|---|
 | **Trigger** | a later sale to (a) someone already inside the Company (shareholder/holder/team) whom CEO originally brought in, or (b) a repeat/expansion purchase by a holder whose original plot CEO closed |
 | **Fee** | **5%** of that later deal, as single-level ("upper-level") referral — does not chain beyond one hop |
-| **Interaction with §1** | does not stack with §1 on the same deal — if CEO is also the closer of the later deal, §1 applies, not this section |
+| **Interaction with [§1](#1-land-deal-closing-commission)** | does not stack with [§1](#1-land-deal-closing-commission) on the same deal — if CEO is also the closer of the later deal, §1 applies, not this section |
 
 ---
 
@@ -46,7 +46,7 @@ routing a fee through a management company CEO controls does not change who is e
 |---|---|
 | **Trigger** | capital invested into the Company, sourced or introduced by CEO |
 | **Fee** | **10%** of the amount actually invested and received by the Company, payable to CEO |
-| **Scope** | cash fee on capital introduction only — does not touch the cap table or the §7 KPI ladder |
+| **Scope** | cash fee on capital introduction only — does not touch the cap table or the [§7 KPI ladder](/cyber-valley/cve/legal/ceo#7-kpi-ladder-ds-av-10-founders-company-1b) |
 | **Payable** | on receipt of funds |
 
 ---
@@ -55,10 +55,10 @@ routing a fee through a management company CEO controls does not change who is e
 
 | | |
 |---|---|
-| **Base** | on-site operating businesses pay the Company a revenue share of **5–10%** of their activity (per `strategy` §8 participation/revenue-share streams) |
+| **Base** | on-site operating businesses pay the Company a revenue share of **5–10%** of their activity (per [[cyber-valley/strategy|strategy]] [§8.1 revenue map](/cyber-valley/strategy#8-1-revenue-map-what-the-estate-actually-sells)) |
 | **Fee — businesses brought in by CEO** | CEO receives **10% of the amount the Company actually collects** under that revenue share for a business CEO personally brought in — not 10% of the underlying business revenue |
 | **Fee — businesses from other channels** | if a business arrived through another channel (not via CEO), but CEO administers that revenue share (collection, oversight, escalations) — the fee is **5% of the amount the Company actually collects** under that revenue share |
-| **Payable** | on each collection, landing in the strategic account |
+| **Payable** | on each collection, landing in the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts)) |
 
 ---
 
@@ -66,7 +66,7 @@ routing a fee through a management company CEO controls does not change who is e
 
 | | |
 |---|---|
-| **Trigger** | CEO / management company attracts **and** fully runs the event/rental on the Company's existing structures (glamping, Carrot House, Vitalik, kitchen, and other buildings) — not just referring a client, but handling guest comfort and every request on site. A bare referral with no on-site administration falls under §1/§2 instead. |
+| **Trigger** | CEO / management company attracts **and** fully runs the event/rental on the Company's existing structures (glamping, [[carrot house|Carrot House]], [[vitalik|Vitalik]], [[kitchen]], and other buildings) — not just referring a client, but handling guest comfort and every request on site. A bare referral with no on-site administration falls under [§1](#1-land-deal-closing-commission) / [§2](#2-upper-level-referral-commission-warning-open-item-pending-approval) instead. |
 | **Fee** | **30%** of revenue actually received from the rental/event — priced into the rental rate as the management company's share, not charged on top |
 | **Distribution** | management company allocates its 30% among team, referral ladder, and other participants at its own discretion; Company does not participate |
 | **Outside agent/referral** | paid **out of this 30%**, not on top of it |
@@ -78,8 +78,8 @@ routing a fee through a management company CEO controls does not change who is e
 | | |
 |---|---|
 | **Currency** | whichever currency the funds are actually received in by the Company; payable on receipt |
-| **Survival** | confirmed by ceo §17 — payable in full for any deal signed before the departure date, or any deal actively being worked at the time of departure, regardless of when the money actually arrives |
-| **Reporting** | listed monthly in the §3 strategic-gate pack for visibility; no commissioner approval needed to pay out — this is a contractual entitlement, not discretionary spend |
+| **Survival** | confirmed by [[ceo]] [§17](/cyber-valley/cve/legal/ceo#17-survival-after-departure) — payable in full for any deal signed before the departure date, or any deal actively being worked at the time of departure, regardless of when the money actually arrives |
+| **Reporting** | listed monthly in the [§3 strategic-gate](/cyber-valley/cve/legal/ceo#3-strategic-gate-monthly) pack for visibility; no commissioner approval needed to pay out — this is a contractual entitlement, not discretionary spend |
 
 ---
 
