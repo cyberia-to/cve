@@ -16,7 +16,7 @@ The company law our whole corporate pack sits on. Only the articles the pack act
 
 ## Pasal 37 — buyback of own shares
 
-Relied on by: [[shareholders agreement]] Article 5 (funding of a CEO buyout).
+Relied on by: [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit) ("Currency, default & security") — the buyback-capacity layer of the Company's covenant to backstop a Founder buyout shortfall.
 
 | Bahasa Indonesia | English |
 |---|---|
