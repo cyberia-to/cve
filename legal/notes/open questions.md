@@ -15,7 +15,7 @@ Moved out of the framework at v0.4.2.
 ## Titles and land
 
 - [ ] Read the 18 [[hgb|HGB]] certificates and enter grant and expiry dates into Annex A — remaining term is not recorded anywhere in the current registry, and everything in the framework is capped by it
-- [ ] Decide the conversion path for the three uncertificated parcels (*Pipil* 450 are, awaiting certification 64 are, agreement 4 are — together 14% of the Estate)
+- [ ] Decide the conversion path for the three parcels without a certificate — no. 0 (6,400 m², *Pipil* at purchase, now in certification), no. 3.1 (400 m², held on agreement, full price paid), no. 13 (45,000 m², no transaction documents at all). Together about 14% of the Estate
 - [ ] Obtain [[pkkpr|PKKPR]] for the parcels that lack it — the registry records PKKPR for 7 parcels of 21, about 46% of the area
 - [ ] Confirm [[rtrw|RTRW]] classification per parcel and the [[lp2b|LP2B]] position — neighbouring land in Gesing is classified *Kawasan Pertanian* and adjoins *Kawasan Lindung*
 - [ ] Confirm the third HGB cycle position: acquisitions run 2022–2024, so 30 + 20 years reaches roughly 2072–2074, while a 25 + 25 lease signed in 2026 runs to 2076
@@ -24,14 +24,11 @@ Moved out of the framework at v0.4.2.
 
 - [ ] Set the minimum remaining term under [§2.1](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) below which a Plot is not offered under Part A at all
 - [ ] Settle any already-known area shortfall before locking pure per aversionem under [§2.7](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders); then fix ad corpus going forward in the same addendum
-- [ ] Choose full bilateral waiver of Arts. 1588–1592 vs asymmetric floor (e.g. no claim above [850] m²; pro-rata reduction below)
-- [ ] Verify the article numbering of Arts. 1588–1592 [[kuhperdata|KUHPerdata]] and their dispositive character against JDIH before [§2.7](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) is relied on — [§2.7](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) rests on this alone
 - [ ] Run boundary description and *Berita Acara Persetujuan Batas* plan with adjoining owners before relying on [§2.7](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders)
 
 ## Upgrade tracks
 
 - [ ] Confirm with [[bpn|BPN]] Buleleng whether [[pbg|PBG]] alone (without completed building) satisfies the *rumah tinggal* test for Hak Milik conversion
-- [ ] Resolve the [§3](/cyber-valley/cve/legal/land-rights-agreement#3-part-b-track-f-upgrade-to-hak-pakai-foreign-holders) fork: hak pakai over land with *pemecahan*, or over the completed structure with the parcel retained
 - [ ] Decide Z1 plot grain together with [§4.3](/cyber-valley/cve/legal/land-rights-agreement#4-part-b-track-i-upgrade-to-title-indonesian-holders) sizing and the 600 m² simplified-route threshold
 - [ ] Decide the covenant mechanism that survives conversion to Hak Milik — this determines whether the community holds together long-term
 
@@ -50,6 +47,11 @@ Moved out of the framework at v0.4.2.
 
 ## Security and governance
 
-- [ ] Settle the security construction under 9B.7 — escrow, bank guarantee, shareholder guarantee or a combination; beneficiary, trigger documents, the enforcement path where the Company does not sign, currency and tax treatment
 - [ ] Confirm the assignment-by-way-of-security construction in [§2.9](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders), hak sewa being outside UU 4/1996 Pasal 4
 - [ ] Settle voting weight in [§8.1](/cyber-valley/cve/legal/land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge): by Plot or by stake in the graph
+
+## Numbers still to obtain
+
+- [ ] Read from the current Peraturan Menteri the limits a foreign Holder is subject to under [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 72 — minimum price, land area, number of parcels — and enter them in [§3.2](/cyber-valley/cve/legal/land-rights-agreement#3-part-b-track-f-upgrade-to-hak-pakai-foreign-holders)
+- [ ] Fix R₀ per Plot, the fiat floor leg F, and the 365-day TWAP for each of the eight legs at signing, for [[annex-e-century-index|Annex E]] §4
+- [ ] Confirm with the notary how far KUHPerdata Pasal 1493 allows the seller's warranties to be excluded, and what the following articles preserve
