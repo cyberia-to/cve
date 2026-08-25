@@ -288,7 +288,7 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 
 ## 7. Design Code (Annex C)
 
-Binding on all Holders, all tracks, all zones. [[annex-c-design-code|Annex C]] states the zoning code as numbers — footprint and floor multiplier, light balance allocation, species density, and the sound, water, light, air and soil limits with their monitoring and publication duties — rather than by cross-reference.
+Binding on all Holders, all tracks, all zones. [[annex-c-design-code|Annex C]] states the zoning code as numbers — footprint and floor multiplier, light balance allocation, species density, and the sound, water, light, air and soil limits with their monitoring and publication duties — rather than by cross-reference. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds, and it is the version-locked one under 7.4.
 
 ⚠ Bali-specific overlays bind regardless of what the Design Code says: provincial building-height limits, architectural requirements, slope and ravine setbacks, water-catchment restrictions. Estate policy stack: [[cyber-valley/policies/zoning system|zoning code]], [[soil policy]], [[water policy]], [[light policy]], [[sound policy]], [[air policy]], [[carbon policy]].
 
