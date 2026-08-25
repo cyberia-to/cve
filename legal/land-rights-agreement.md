@@ -182,15 +182,21 @@ Confirm the construction with the notary before use. Note the asymmetry this cre
 
 ## 3. Part B — Track F: upgrade to Hak Pakai (Foreign Holders)
 
-⚠ Blocking fork, unresolved. This section and the product page describe two incompatible constructions: hak pakai over land, which requires *pemecahan* of the Plot out of the master title, and a right attaching to a completed structure with the parcel remaining with the Landowner. The parcel cannot both separate and remain. Instrument D is not offered until one construction is chosen, drafted here and described on the product page in the same words.
+The construction is settled: the Plot is split out of the Landowner's master title and the Holder takes a *hak pakai* over it. The Plot leaves the Landowner's [[hgb|HGB]]; the Holder's obligations under this deed stay with him by contract, not by title.
 
-3.1 Eligibility. ⚠ Requires the Holder to hold a valid KITAS/KITAP for the duration of the right, and the transaction to meet the regional minimum-value threshold. If the permit lapses and is not renewed, the title is exposed.
+3.1 Route. In order: *pemecahan* of the Plot out of the master certificate at [[bpn|BPN]]; release of the Landowner's HGB over the separated Plot (*pelepasan hak*), on which it becomes Tanah Negara; grant of *hak pakai* to the Holder by decision of the Minister. This is the only basis open to a foreign individual — [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 51(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-51-land-that-may-carry-hak-pakai) lists State land, hak milik land and Hak Pengelolaan land, and [Pasal 71(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-71-what-a-foreigner-may-own) repeats the same three for a foreigner's landed house. A hak pakai cannot be carved out of an HGB that stays in place.
 
-3.2 Mechanics. [To be settled per the fork above.] Term cycles and extensions under PP 18/2021.
+3.2 Eligibility. The Holder holds a valid KITAS or KITAP for the life of the right and the immigration documents required by [Pasal 69](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-69-who-qualifies). The transaction meets the minimum price, area and parcel-count limits set under [Pasal 72](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-72-the-limits) — those figures live in the Peraturan Menteri and are read at the date of each grant, not fixed here. Where the permit lapses and is not renewed, [Pasal 50](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-50-losing-eligibility) gives the Holder one year to transfer the right to a qualifying party, failing which it lapses by operation of law.
 
-3.3 Trade-offs to be disclosed. Hak Pakai is a registered right and stronger on paper, but: it is residency-dependent; the resale pool is limited to foreigners who themselves qualify, or requires reconversion to a citizen-held title; and it removes the flexibility of [§2.5](#2-part-a-base-grant-hak-sewa-all-holders). Many Holders are better served by the base lease. This section exists so the choice is informed, not assumed.
+3.3 Term. Hak pakai over State land runs for at most 30 years, extended by at most 20 and renewed by at most 30 — [Pasal 52(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-52-the-term). Renewal is a priority for the former holder on stated conditions, not an entitlement. The Holder is told this in the same words before signing.
 
-3.4 Costs. Splitting, conversion, [[bphtb|BPHTB]], notarial and administrative costs borne by the Holder. Upgrade fee to Landowner: [amount].
+3.4 What the Landowner keeps. Nothing in the title: the Plot is gone from the master certificate. Everything else survives by contract — the Design Code under [§7](#7-design-code-annex-c), the service charge and Community Council under [§8](#8-community-council-shared-infrastructure-and-service-charge), the build obligation under [§6](#6-construction-timeline-and-the-build-obligation), and the transfer mechanics of [§2.5](#2-part-a-base-grant-hak-sewa-all-holders) as they apply to an owner rather than a lessee. The Holder accedes to those covenants in the upgrade deed, and they bind his successors by express covenant registered against the new title where BPN permits.
+
+3.5 Trade-offs to be disclosed. Hak pakai is a registered right and stronger on paper, and it is residency-dependent: the resale pool is limited to foreigners who themselves qualify, or requires reconversion to a citizen-held title. It removes the flexibility of [§2.5](#2-part-a-base-grant-hak-sewa-all-holders). Many Holders are better served by the base lease. The upgrade is offered on request, not as the default product.
+
+3.6 Costs. Splitting, release, conversion, [[bphtb|BPHTB]], notarial, [[ppat|PPAT]] and administrative costs are borne by the Holder. Upgrade fee to the Landowner: [amount], settled before the *pelepasan* is signed.
+
+3.7 Order of steps. No release of the Landowner's HGB happens before the Holder's eligibility is confirmed in writing by [[bpn|BPN]] and the upgrade fee is received. The Landowner does not surrender a right over the Plot against a promise.
 
 ---
 
