@@ -14,13 +14,13 @@ The Indonesian Civil Code, descended from the Dutch Burgerlijk Wetboek. Cited in
 
 ## Pasal 1317 — stipulation for the benefit of a third party
 
-Relied on by: [[shareholders agreement]] Article 5 — the CEO's right to enforce the buyout funding obligation against the shareholders personally.
+Relied on by: [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit) ("Currency, default & security") — the CEO's right, as beneficiary of the escrow/bank guarantee instrument established there, to claim on it despite not being a party to the escrow or guarantee contract itself (that contract runs between the Company, the notary or bank, and is established by GMS resolution).
 
 | Bahasa Indonesia | English |
 |---|---|
 | Dapat pula perjanjian diadakan untuk kepentingan pihak ketiga, bila suatu perjanjian yang dibuat untuk diri sendiri, atau suatu pemberian kepada orang lain, mengandung syarat semacam itu. Siapa pun yang telah menentukan suatu syarat, tidak boleh menariknya kembali, jika pihak ketiga telah menyatakan akan mempergunakan syarat itu. | An agreement may also be made for the benefit of a third party, where an agreement made for oneself, or a grant to another, contains such a stipulation. Whoever has made such a stipulation may not withdraw it once the third party has declared that it will make use of it. |
 
-This is the article that turns a promise between shareholders into a right the CEO can sue on directly, without going through the Company. The second sentence matters: once he has declared reliance, the promise cannot be withdrawn by the shareholders who gave it.
+This is the article that turns the Company's establishment of the CEO as beneficiary of the escrow/guarantee under [[ceo]] §8 into a right he can sue on directly, without being a party to that escrow or guarantee contract. The second sentence matters: once he has declared reliance, the designation cannot be withdrawn by the Company.
 
 ## Pasal 1813 — irrevocability of a mandate
 
