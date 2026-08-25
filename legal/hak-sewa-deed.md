@@ -307,7 +307,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
     weight = √(area) × contribution × (1 + links)
 
 - **area** — the Plot area in m². The square root keeps a large Plot ahead of a small one without letting it dominate;
-- **contribution** — the product of four factors, each 1.0 when satisfied and 0.85 when not: [[slf|SLF]] issued for the Improvements; no unremedied Design Code breach; soil and water results published to the ledger without gaps; service charge and area revenue charge paid to date. The product ranges from about 0.52 to 1.0;
+- **contribution** — the product of four factors, each 1.0 when satisfied and 0.85 when not: the build obligation in [Part 9](#part-9-the-build-obligation) is met — commenced and completed within time, or within any extension for a suspension under [9.2](#part-9-the-build-obligation), the clock being read as it stands rather than by reference to a permit the Landowner applies for; no unremedied Design Code breach; soil and water results published to the ledger without gaps; service charge and area revenue charge paid to date. The product ranges from about 0.52 to 1.0;
 - **links** — the Holder's share of residents referred into the district, counted at full value for a direct referral and at half for a referral made by someone that Holder referred. No further steps count.
 
 Weights are normalised across the district so that they sum to 1.
