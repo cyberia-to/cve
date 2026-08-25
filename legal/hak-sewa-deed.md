@@ -302,26 +302,26 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 11.1 Contractual body. ▲ Membership is compulsory for all Holders and survives assignment and title upgrade. A *perkumpulan* is constituted in Phase 3 to hold shared infrastructure.
 
-11.1.1 Voting weight. ▲ Weight is fixed on entry. On the day a Holder joins — the day the deed is signed, or the day an assignee accedes — the Holder's weight is computed from the stake acquired:
+11.1.1 Voting weight. ▲ Weight is fixed on entry and counts both stakes a participant may hold — the land and the shares. Land and shares are bought separately and neither is consideration for the other, which is what keeps [0.3](#part-0-conditions-of-execution) intact.
 
-    weight = √(area of the Plot)
+    base = √(area ÷ area of the district) + √(shares ÷ issued shares)
 
-The square root keeps a large Plot ahead of a small one without letting it dominate. Weights are normalised across the district so that they sum to 1, and no Holder carries more than 10% of the district.
+Each stake is measured against its own total, so the two are comparable and no conversion rate between metres and shares is needed. The square root keeps a large stake ahead of a small one without letting it dominate. A participant holding only land, or only shares, carries the term it has.
 
-11.1.2 Base and bonus. The entry weight is the base and is never reduced. A Holder who does more carries more:
+11.1.2 Base and bonus. The entry base is never reduced. A participant who does more carries more:
 
-    weight = √(area) × (1 + bonus)
+    weight = base × (1 + bonus)
 
-Bonus is the sum of the increments earned, each ○ [0.25] as this draft proposes:
+Bonus is the sum of the increments earned in the cycle, each ○ [0.25] as this draft proposes:
 
-- no unremedied Design Code breach in the cycle;
-- soil and water results published to the ledger without gaps in the cycle;
+- no unremedied Design Code breach;
+- soil and water results published to the ledger without gaps;
 - service charge and area revenue charge paid to date;
 - the build obligation in [Part 9](#part-9-the-build-obligation) met within time, or within an extension for a suspension under [9.2](#part-9-the-build-obligation).
 
-A Holder who has earned nothing is multiplied by 1 and keeps the full entry weight. Nothing here is a penalty: failing a condition forgoes an increment and takes nothing away.
+A participant who has earned nothing is multiplied by 1 and keeps the full base. Failing a condition forgoes an increment and takes nothing away.
 
-11.1.2.1 What changes the base. Entry weight moves only when the stake moves: a further Plot taken, a Plot assigned away, a Plot split or merged.
+11.1.2.1 What changes the base. The base moves only when a stake moves: a further Plot taken, a Plot assigned away, a Plot split or merged, shares bought or sold. Weights are normalised across the district so that they sum to 1, and no participant carries more than 10% of the district.
 
 11.1.3 Recomputation. ▲ Normalisation is recomputed every moon cycle, so that entries and exits since the last cycle are reflected, and published in the Register with the inputs that produced it. A Holder may challenge an input within 30 days and the correction applies from the next cycle.
 
@@ -600,7 +600,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [10.6.3](#part-10-design-code) | cure window | 30 days | framework [7.4.6](#part-7-building-rights-and-permits) | settled |
 | [10.6.5](#part-10-design-code) | invocation window | 90 days | framework [7.4.8](#part-7-building-rights-and-permits) | settled |
 | [11.2](#part-11-community-council) | veto threshold | two thirds of affected Holders | D11 | settled |
-| [11.1.1](#part-11-community-council) | voting weight formula | √(area of the Plot), fixed on entry | this draft | proposed |
+| [11.1.1](#part-11-community-council) | voting weight base | √(area share) + √(shareholding), fixed on entry | this draft | proposed |
 | [11.1.2](#part-11-community-council) | bonus increment | 0.25 each, four conditions | this draft | proposed |
 | [11.1.2](#part-11-community-council) | weight cap per Holder | 10% of the district | this draft | proposed |
 | [11.1.3](#part-11-community-council) | recomputation | every moon cycle | settled | settled |
