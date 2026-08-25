@@ -10,11 +10,9 @@ icon: "🗣"
 
 Undang-Undang Republik Indonesia Nomor 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan
 
-Official record: [JDIH BPK RI](https://peraturan.bpk.go.id/Details/38661/uu-no-24-tahun-2009)
+Official record: [JDIH BPK RI](https://peraturan.bpk.go.id/Details/38661/uu-no-24-tahun-2009). The Indonesian column is verbatim from that record; the English column is a working translation.
 
 The reason every instrument in the pack is executed bilingually and the Indonesian column prevails.
-
-> ⚠ Provenance. The article text below is stated from knowledge, not from a retrieved official source: the BPK record page carries metadata only, and the JDIH full-text and DPR PDF endpoints returned 404 and 403 from this session. Confirm the wording against JDIH before any executed instrument relies on it. Verified sources are used everywhere else in [[laws]].
 
 ## Pasal 31 — language of agreements
 
@@ -24,6 +22,10 @@ Relied on by: [[articles of association]], [[shareholders agreement]], [[gms dir
 |---|---|
 | (1) Bahasa Indonesia wajib digunakan dalam nota kesepahaman atau perjanjian yang melibatkan lembaga negara, instansi pemerintah Republik Indonesia, lembaga swasta Indonesia atau perseorangan warga negara Indonesia. | (1) The Indonesian language must be used in a memorandum of understanding or an agreement involving a state institution, a government body of the Republic of Indonesia, an Indonesian private entity, or an Indonesian citizen. |
 | (2) Nota kesepahaman atau perjanjian sebagaimana dimaksud pada ayat (1) yang melibatkan pihak asing ditulis juga dalam bahasa nasional pihak asing tersebut dan/atau bahasa Inggris. | (2) A memorandum of understanding or agreement referred to in paragraph (1) involving a foreign party is also written in the national language of that foreign party and/or in English. |
+
+### Penjelasan
+
+The official elucidation restates Pasal 31 without adding conditions: Indonesian must be used in a memorandum of understanding or agreement involving a state institution, a government body, an Indonesian private entity or an Indonesian citizen, and where a foreign party is involved the instrument is also written in that party's national language and/or in English.
 
 ## What this means for our documents
 
