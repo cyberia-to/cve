@@ -43,5 +43,4 @@ No external answer needed.
 
 - [ ] Audit the term of every Title from the certificates: grant date, expiry, cycle position, and the date by which an extension must be filed; enter into Annex A and the title calendar under 9B.9
 - [ ] Find the current Peraturan Menteri limits on a foreign Holder — minimum price, land area, number of parcels — under [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 72, and enter them in [§3.2](/cyber-valley/cve/legal/land-rights-agreement#3-part-b-track-f-upgrade-to-hak-pakai-foreign-holders)
-- [ ] Model the voting weight for [§8.1](/cyber-valley/cve/legal/land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge) on the cyberrank principle — weight flowing through the graph rather than one vote per Plot — and bring the model back for approval
 - [ ] Settle any already-known area shortfall before locking pure per aversionem under [§2.7](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders)

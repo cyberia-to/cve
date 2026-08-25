@@ -300,7 +300,23 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 ## Part 11. Community Council
 
-11.1 Contractual body. ▲ Membership is compulsory for all Holders and survives assignment and title upgrade. ○ Voting weight follows stake in the graph rather than heads; the measure stands open in the release gate. A *perkumpulan* is constituted in Phase 3 to hold shared infrastructure.
+11.1 Contractual body. ▲ Membership is compulsory for all Holders and survives assignment and title upgrade. A *perkumpulan* is constituted in Phase 3 to hold shared infrastructure.
+
+11.1.1 Voting weight. ▲ Weight follows what a Holder has built and contributed, not the number of heads and not raw area. For each Holder in a district:
+
+    weight = √(area) × contribution × (1 + links)
+
+- **area** — the Plot area in m². The square root keeps a large Plot ahead of a small one without letting it dominate;
+- **contribution** — the product of four factors, each 1.0 when satisfied and 0.85 when not: [[slf|SLF]] issued for the Improvements; no unremedied Design Code breach; soil and water results published to the ledger without gaps; service charge and area revenue charge paid to date. The product ranges from about 0.52 to 1.0;
+- **links** — the Holder's share of residents referred into the district, counted at full value for a direct referral and at half for a referral made by someone that Holder referred. No further steps count.
+
+Weights are normalised across the district so that they sum to 1.
+
+11.1.2 Cap. ▲ No Holder carries more than 10% of the voting weight of its district. Weight above the cap is redistributed pro rata among the remaining Holders.
+
+11.1.3 Recomputation. ▲ Weights are recomputed every moon cycle and published in the Register with the inputs that produced them, so that any Holder can reproduce the calculation. A Holder may challenge an input within 30 days and the corrected weight applies from the next cycle.
+
+○ The factor values in 11.1.1 and the cap in 11.1.2 are this draft's proposal and are confirmed before the Council is constituted.
 
 11.2 Veto on deterioration. ▲ An amendment to the Design Code or the Community Rules that worsens the position of already-completed Improvements requires the consent of two thirds of Holders whose Improvements are affected.
 
@@ -577,6 +593,9 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [10.6.3](#part-10-design-code) | cure window | 30 days | framework [7.4.6](#part-7-building-rights-and-permits) | settled |
 | [10.6.5](#part-10-design-code) | invocation window | 90 days | framework [7.4.8](#part-7-building-rights-and-permits) | settled |
 | [11.2](#part-11-community-council) | veto threshold | two thirds of affected Holders | D11 | settled |
+| [11.1.1](#part-11-community-council) | voting weight formula | √(area) × contribution × (1 + links) | this draft | proposed |
+| [11.1.2](#part-11-community-council) | weight cap per Holder | 10% of the district | this draft | proposed |
+| [11.1.3](#part-11-community-council) | recomputation | every moon cycle | settled | settled |
 | [11.3](#part-11-community-council) | initiative threshold | — | D11 | open |
 | [12.2.1](#part-12-upgrade-tracks) | simplified route ceiling | 600 m² | Indonesian practice | settled |
 | [12.2.1](#part-12-upgrade-tracks) | aggregate holdings ceiling | 5 parcels or 5,000 m² | Indonesian practice | settled |
