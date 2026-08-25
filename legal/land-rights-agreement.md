@@ -241,7 +241,7 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 
 5A.2 Contractor qualification. ⚠ Under UU 2/2017 on Construction Services, construction services must be performed by a qualified provider (*penyedia jasa*) holding a valid [[sbu|SBU]] and the corresponding KBLI, and the client (*pengguna jasa*) is obliged to engage such a provider. The Holder shall engage only a contractor meeting this standard and shall furnish copies of SBU, licences and the construction contract before commencement.
 
-5A.3 Supervision. An independent construction supervisor (*pengawas* / MK) is appointed [by the Landowner, at the Holder's cost / by the Holder from a Landowner-approved panel], with authority to inspect, to require rectification, and to stop works on material non-compliance. Stage inspections at: foundation, structure, roof, MEP, completion.
+5A.3 Supervision. An independent construction supervisor (*pengawas* / MK) is appointed by the Landowner at the Holder's cost. The supervisor is an Indonesian company independent of both parties, holding the qualification the works require; neither the Landowner nor the Holder may appoint an affiliate, with authority to inspect, to require rectification, and to stop works on material non-compliance. Stage inspections at: foundation, structure, roof, MEP, completion.
 
 5A.4 Insurance. For the construction period, procured by the Holder, naming the Landowner as co-insured / loss payee: Contractors' All Risks (CAR/EAR), third-party liability, workers' accident cover (BPJS Ketenagakerjaan for the workforce). Certificates delivered before commencement; lapse is a stop-work event. From SLF onward the Holder maintains property and public liability cover on the Improvements for the term.
 
