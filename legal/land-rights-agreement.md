@@ -25,7 +25,7 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 | `legal/notes/open questions.md` | release gate and every open item, deliberately outside the signable text |
 | Annex A | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw|RTRW]] classification, [[pkkpr|PKKPR]] number or its absence, [[lp2b|LP2B]] status; plus the KBLI × location table under [§9A.1](#9a-licences-warranty-and-licence-event-regime) |
 | Annex B | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
-| [[annex-c-design-code\|Annex C]] | Design Code — the zoning code as numbers |
+| [Annex C](/cyber-valley/cve/legal/annex-c-design-code) | Design Code — the zoning code as numbers |
 | Annex D | Community Rules |
 | Annex E | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, collar, floor, worked invoice; also the unamortised-return formula |
 | Annex F | Utilities, access and mobility specification |
