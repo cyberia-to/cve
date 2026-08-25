@@ -61,7 +61,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 2.2.1 Automatic extension. On each *perpanjangan* or *pembaruan* of the Title, this deed extends by the lesser of 25 years and the new remaining term less the same buffer, without further consideration beyond the price formula in Annex E and without renegotiation.
 
-2.2.2 Floor. ○ Where the remaining term less the buffer falls below [___] years, the Plot is not granted under this deed. The floor is open in the release gate and is set before the first execution.
+2.2.2 Extension covenant. ▲ The Landowner applies for extension and, where extension is exhausted, for renewal of each Title within the windows PP 18/2021 Pasal 41 allows, pursues each application diligently at its own cost, and reports progress in the Register. The outcome is not warranted: after the extension cycle the land returns to the State and the former holder holds a priority on stated conditions under Pasal 37(4), not a right. The recitals state for the Plot the date to which the Term is certain and the date to which it depends on renewal.
 
 2.2.3 ⚠ Acquisitions run 2022–2024 and the [[hgb|HGB]] cycle of 30 + 20 years reaches approximately 2072–2074, while 25 + 25 years from 2026 reaches 2076. The lease outruns the title by two to four years. The buffer in [2.2](#part-2-the-grant) and the duty in [15.6](#part-15-title-warranties-negative-pledge-indemnity) exist for this. Counsel confirms the arithmetic against each certificate before execution.
 
@@ -208,7 +208,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 8.2 Contractor qualification. ⚠ Under UU 2/2017 works are performed by a provider holding a valid [[sbu|SBU]] and the corresponding KBLI. Copies of SBU, licences and the construction contract are furnished before commencement.
 
-8.3 Supervision. ○ An independent supervisor (*pengawas* / MK) is appointed, with authority to inspect, require rectification and stop works on material non-compliance. Stage inspections at foundation, structure, roof, MEP and completion. Who appoints, and whether an Estate-wide approved-contractor panel is imposed, stands open in the release gate.
+8.3 Supervision. ▲ An independent supervisor (*pengawas* / MK) is appointed by the Landowner at the Holder's cost — an Indonesian company independent of both parties and holding the qualification the works require, neither party appointing an affiliate — with authority to inspect, require rectification and stop works on material non-compliance. Stage inspections at foundation, structure, roof, MEP and completion. Whether an Estate-wide approved-contractor panel is imposed stands open in the release gate.
 
 8.4 Insurance. Procured by the Holder for the construction period, naming the Landowner as co-insured: Contractors' All Risks, third-party liability, and BPJS Ketenagakerjaan for the workforce. Certificates delivered before commencement; lapse is a stop-work event. From SLF the Holder maintains property and public liability cover for the Term.
 
@@ -324,13 +324,13 @@ The distinction is practical rather than verbal. A deed promising that the lease
 
 Where this deed, a product page or any other estate document describes the upgrade as a conversion of the lease, it is read as referring to the procedure in this Part. The wording alters neither the mechanism nor the remedies.
 
-12.1.1 The mechanism. Subject to [12.1.2](#part-12-upgrade-tracks) and to confirmation of local practice under [12.1.13](#part-12-upgrade-tracks), the route from the present structure to a Hak Pakai registered in the Holder's name consists of:
+12.1.1 The mechanism. One route, in this order:
 
-1. *pemecahan sertifikat* — the Plot is split out of the master [[hgb|HGB]] as a separate parcel with its own certificate and *Surat Ukur*;
-2. *perubahan hak* — the right over that parcel is changed from HGB to Hak Pakai, a foreign natural person being ineligible to hold HGB at any moment of the chain;
-3. the deed of acquisition required by the land office is executed before the [[ppat|PPAT]], and the Hak Pakai is registered in the Holder's name.
+1. the Holder pays the upgrade fee under [12.1.14](#part-12-upgrade-tracks) and the costs of the procedure;
+2. *pemecahan sertifikat* at [[bpn|BPN]] — the Plot is split out of the master [[hgb|HGB]] as a separate parcel with its own certificate and *Surat Ukur*, and a new HGB certificate is issued to the Landowner for the remainder of the master parcel;
+3. *perubahan hak* over the split parcel from HGB to Hak Pakai, a foreign natural person being ineligible to hold HGB at any moment of the chain, and the Hak Pakai is registered in the Holder's name on the deed executed before the [[ppat|PPAT]].
 
-⚠ The order of steps 1 to 3, and whether the change of right precedes or accompanies the acquisition, follows the practice of the Kantor Pertanahan of Buleleng. The Landowner obtains that practice in writing before the first application and annexes it as Annex K. The Holder receives no undertaking that the sequence stated above is the sequence the office will require.
+⚠ The Landowner obtains the office's practice on the sequence in writing before the first application and annexes it as Annex K. Where the office requires a different order of the same steps, the order follows the office; the steps themselves do not change.
 
 12.1.2 Statutory conditions on the Holder. ⚠ These are conditions of law which the Landowner neither controls nor warrants. Under PP 18/2021 Pasal 142 a foreign natural person may hold Hak Pakai only while holding a valid Indonesian residence permit. Under Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 a landed house acquired by a foreign national in the Province of Bali must reach a minimum value of Rp 5,000,000,000, fall within the luxury category, sit on no more than 2,000 m², and be limited to one parcel per person or family.
 
@@ -434,6 +434,8 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 12.2 Track I — title for Indonesian Holders. On request the Landowner procures *pemecahan sertifikat* and transfers the resulting HGB by [[ajb|AJB]] before the PPAT, at a price credited in whole or in part against sums already paid.
 
 12.2.1 ⚠ The Holder may then apply to convert HGB to Hak Milik. This is the Holder's own application; the Landowner facilitates documents and warrants no outcome. Conditions: Indonesian citizenship, natural person; use as *rumah tinggal* evidenced by PBG or a *keterangan* from the village head, a bare plot not qualifying; plots up to 600 m² on the simplified route, above which a *constatering* report is required; a declaration of no more than 5 residential parcels or 5,000 m² in aggregate.
+
+⚠ Where the Holder is an Indonesian citizen married to a foreign national, PP 18/2021 Pasal 70 allows the same land rights as any other citizen only where the right is not joint marital property, evidenced by a notarial separation-of-assets agreement between the spouses. The agreement is produced before the upgrade is started; without it the application is refused.
 
 ○ Whether PBG alone satisfies the *rumah tinggal* test is confirmed with BPN Buleleng before this is promised to anyone. Plot sizing and the Z1 grain are decided together with the 600 m² threshold; the strategy contemplates 5 to 15 are.
 
@@ -543,14 +545,12 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 |---|---|---|---|---|
 | [2.2](#part-2-the-grant) | term | 25 years | leasehold upfront, instrument A | settled |
 | [2.2](#part-2-the-grant) | extension buffer | 18 months | framework [2.1](#part-2-the-grant) | proposed |
-| [2.2.2](#part-2-the-grant) | minimum remaining term | — | release gate | open |
 | [3.1](#part-3-consideration) | minimum deposit, scheduled form | 30% | annual leasehold | settled |
 | [3.2](#part-3-consideration) | deferral fee | 0.5% + 5% × (1 − deposit) | annual leasehold, appendix B | settled |
 | [3.2](#part-3-consideration) | land floor | 3% real over the index | annual leasehold | settled |
 | [3.3.1](#part-3-consideration) | annual collar | +35 / −15 percent | D6 | settled |
 | [3.3.2](#part-3-consideration) | recomputation window | 30 days | framework [2.3](#part-2-the-grant) | settled |
 | [3.5](#part-3-consideration) | Guarantee Fund share | 1% of consideration on each grant, assignment or upgrade | D4 | settled |
-| [3.5](#part-3-consideration) | escrow threshold | — | release gate 9B.7 | open |
 | [4.3](#part-4-transfer) | notice of assignment | 7 days | framework [2.5.3](#part-2-the-grant) | settled |
 | [4.5](#part-4-transfer) | transfer fee scale | [2.0](#part-2-the-grant) / [1.5](#part-1-parties-plot-and-definitions) / [1.0](#part-1-parties-plot-and-definitions) / [0.5](#part-0-conditions-of-execution) / 0% | D1 | settled |
 | [4.5.1](#part-4-transfer) | ROFR response | 30 days | Pasal 7 of the Articles | settled |
