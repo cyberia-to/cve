@@ -428,9 +428,9 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 
 9B.7 Guarantee Fund. The Landowner's payment obligations under 6.0.3, 9A.4, 9B.5, 9B.6 and [§10](#10-termination-and-end-of-term) are met from a Guarantee Fund held on a separate Company account, ring-fenced from operating money and used for no other purpose.
 
-9B.7.1 Funding. On each grant, assignment or upgrade of a Plot the Landowner pays [__]% of the consideration received into the Fund, before any other application of that money and ahead of the operating budget. The Fund is topped up to the level in 9B.7.2 within 30 days of any payment out of it.
+9B.7.1 Funding. On each grant, assignment or upgrade of a Plot the Landowner pays [__]% of the consideration received into the Fund, before any other application of that money and ahead of the operating budget. Contributions continue on every subsequent grant and assignment, whether or not a payment has been made out of the Fund.
 
-9B.7.2 Level. The Fund is maintained at not less than [__]% of the Landowner's aggregate exposure under the clauses named above, recomputed at each anniversary and published in the Register under 10.3. Where the Fund falls below that level, no new Plot is granted until it is restored.
+9B.7.2 Level. The Fund is whatever has accumulated under 9B.7.1 less payments properly made out of it. There is no separate target and no obligation on the Landowner to top it up from other money: the Fund grows with sales and is replenished by the contributions from subsequent grants and assignments. Its balance at any date is a fact, published under 9B.7.5, and the Holder's expectation is measured by that fact and not by the size of the obligation it answers.
 
 9B.7.3 Denomination. The Fund is denominated in the [[cx|century index]] under [[annex-e-century-index|Annex E]], so that its value tracks the obligations it answers rather than the rupiah.
 
