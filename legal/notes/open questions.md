@@ -34,7 +34,7 @@ Answered by the land office in writing. Neither blocks the first lease.
 Commercial decisions. Nobody else can take them.
 
 - [ ] Set the minimum remaining term under [§2.1](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) below which a Plot is not offered under Part A at all
-- [ ] Decide the Z1 plot grain together with [§4.3](/cyber-valley/cve/legal/land-rights-agreement#4-part-b-track-i-upgrade-to-title-indonesian-holders) sizing and the 600 m² simplified-route threshold
+- [ ] Decide the [Z1](/cyber-valley/strategy#4-land-use-plan-eight-zones) plot grain together with [§4.3](/cyber-valley/cve/legal/land-rights-agreement#4-part-b-track-i-upgrade-to-title-indonesian-holders) sizing and the 600 m² simplified-route threshold
 - [ ] Decide the covenant mechanism that survives conversion to Hak Milik — this determines whether the community holds together long-term
 
 ## Our own work
