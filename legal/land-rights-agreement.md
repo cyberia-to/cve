@@ -426,20 +426,21 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 | Holder deprived of use for more than 90 consecutive days | pro-rata abatement for the period |
 | deprivation exceeding 180 days, or incurable defect | termination for the Landowner's default, with payment of unamortised prepayment under Annex E, plus the documented value of Improvements at independent valuation, plus direct loss |
 
-9B.7 Security for the Landowner's payment obligations. ⚠ Open, and the weakest point in this framework. A reserve held on the Company's own account is not insolvency-remote: it is the Company's asset and ranks with its other creditors, and its release requires two signatures that are both the Company's under Articles of Association Pasal 12(4). Denominating it in the [[century index]] does not cure either defect, and settlement must in any event be in IDR.
+9B.7 Guarantee Fund. The Landowner's payment obligations under 6.0.3, 9A.4, 9B.5, 9B.6 and [§10](#10-termination-and-end-of-term) are met from a Guarantee Fund held on a separate Company account, ring-fenced from operating money and used for no other purpose.
 
-The construction is chosen from, and may combine:
+9B.7.1 Funding. On each grant, assignment or upgrade of a Plot the Landowner pays [__]% of the consideration received into the Fund, before any other application of that money and ahead of the operating budget. The Fund is topped up to the level in 9B.7.2 within 30 days of any payment out of it.
 
-| instrument | strength | cost |
-|---|---|---|
-| bank guarantee or standby LC in favour of each Holder | independent of the Company's solvency; called on stated documents | bank limit and annual fee |
-| escrow with the notary, released on an arbitral award or agreed trigger | outside the Company's estate; neutral releaser | escrow fee, slower release |
-| shareholder guarantee | only as good as the guarantor; requires disclosed financials | cheap, weak |
-| reserve on the Company's account | treasury policy, not security | none |
+9B.7.2 Level. The Fund is maintained at not less than [__]% of the Landowner's aggregate exposure under the clauses named above, recomputed at each anniversary and published in the Register under 10.3. Where the Fund falls below that level, no new Plot is granted until it is restored.
 
-Position taken here, pending confirmation: escrow with the notary up to [threshold] of aggregate exposure, bank guarantee above it; the century-index reserve continues as treasury policy under the spending strategy and is not described to Holders as security. Beneficiary, trigger documents, the enforcement path where the Company does not sign, currency, and tax treatment are settled with counsel before any payment is taken.
+9B.7.3 Denomination. The Fund is denominated in the [[cx|century index]] under [[annex-e-century-index|Annex E]], so that its value tracks the obligations it answers rather than the rupiah.
 
-This clause secures payments under 6.0.3, 9A.4, 9B.5, 9B.6 and [§10](#10-termination-and-end-of-term).
+9B.7.4 Control and payment out. Money leaves the Fund only to pay a Holder a sum due under the clauses named above, on the maker and authorizer mandate in [[articles of association]] Article 12(4). Payment is made within [30] days of a claim supported by the documents listed in Annex [__], or within [10] days of an arbitral award under [§11](#11-dispute-resolution). No commissioner approval is required to pay a Holder from the Fund; approval is required to take money out of it for anything else, and the only permitted other use is a return of surplus above the 9B.7.2 level.
+
+9B.7.5 Reporting. The Landowner publishes the Fund balance, movements and the exposure calculation in the Register at each anniversary, and on the written request of any Holder within 10 working days. An Estate Certificate issued under 2.5.6 states the Fund balance at its date.
+
+9B.7.6 What this is and is not. ⚠ The Fund is the Company's own asset. It is not insolvency-remote: on the Company's insolvency it ranks with other assets and Holders rank as unsecured creditors. It is disclosed to every Holder in these words, and no marketing material describes it as a bank guarantee, escrow or insurance.
+
+9B.7.7 Shareholder who is also a Holder. Where a Holder is also a shareholder of the Landowner, he takes no part in any decision of the Company concerning his own claim on the Fund, and his claim is paid on the same terms as any other Holder's.
 
 9B.8 Scope. The warranties in 9B.1 are given without a knowledge qualification save where expressly marked.
 
