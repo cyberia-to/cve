@@ -176,17 +176,17 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 6.1 Per aversionem. ⚠ The Plot is demised as one contiguous parcel defined by its boundaries, not by a certified area number.
 
-> The Object is demised as a single land parcel (*per aversionem* / ad corpus) within the boundaries described in Article […] and Annex B, and not by unit of area. Any figure of approximately [___] m² is indicative only. The Parties agree to set aside Articles 1588, 1589, 1590, 1591 and 1592 of the Civil Code ([[kuhperdata|KUHPerdata]]), and there shall be no price adjustment, compensation, or rescission if a later BPN cadastral survey yields a larger or smaller area.
+> The Object is demised as a single land parcel (*per aversionem* / ad corpus) within the boundaries described in Article […] and Annex B, and not by unit of area. Any figure of approximately [___] m² is indicative only. The Parties agree, as Article 1486 of the Civil Code ([[kuhperdata|KUHPerdata]]) permits in its closing words, that the stated measure gives neither Party any claim and that the one-twentieth threshold in that Article does not apply between them. Article 1588 is set aside to the same effect for the lease, and Articles 1589 to 1592, which govern an agricultural tenancy, do not apply to this demise. There shall be no price adjustment, compensation or rescission if a later BPN cadastral survey yields a larger or smaller area, and any claim that would otherwise arise is barred one year after delivery under Article 1489.
 
-> Objek disewakan sebagai satu kesatuan bidang tanah (per aversionem) dalam batas-batas sebagaimana diuraikan dalam Pasal … dan Lampiran …, bukan berdasarkan satuan luas. Luas ±[___] m² bersifat perkiraan. Para Pihak sepakat mengesampingkan ketentuan Pasal 1588, 1589, 1590, 1591 dan 1592 KUHPerdata, dan tidak ada penyesuaian harga, kompensasi, maupun pembatalan apabila pengukuran kadastral BPN di kemudian hari menghasilkan luas yang lebih besar atau lebih kecil.
+> Objek disewakan sebagai satu kesatuan bidang tanah (per aversionem) dalam batas-batas sebagaimana diuraikan dalam Pasal … dan Lampiran …, bukan berdasarkan satuan luas. Luas ±[___] m² bersifat perkiraan. Sebagaimana dimungkinkan oleh kalimat penutup Pasal 1486 KUHPerdata, Para Pihak sepakat bahwa penyebutan ukuran tidak menimbulkan tuntutan apa pun bagi masing-masing Pihak dan bahwa batas seperdua puluh dalam Pasal tersebut tidak berlaku di antara mereka. Pasal 1588 dikesampingkan dengan akibat yang sama untuk sewa ini, dan Pasal 1589 sampai dengan Pasal 1592, yang mengatur sewa tanah pertanian, tidak berlaku terhadap sewa ini. Tidak ada penyesuaian harga, kompensasi, maupun pembatalan apabila pengukuran kadastral BPN di kemudian hari menghasilkan luas yang lebih besar atau lebih kecil, dan setiap tuntutan yang mungkin timbul gugur satu tahun setelah penyerahan berdasarkan Pasal 1489.
 
 6.2 Boundary description is a condition of this Part. Without Annex B in the form required by [1.3](#part-1-parties-plot-and-definitions) the clause is empty.
 
 6.3 Limits of the clause. It binds neither BPN nor third parties, and it creates no land. *Surat Ukur* will carry whatever BPN measures; overlap with a neighbour, *sempadan sungai*, *subak* or *jalan desa* falls outside it; if the ground is physically smaller, the Holder receives what is there.
 
-6.4 Order of operations. ⚠ ○ A known area shortfall is settled before this Part is executed — by price recompute, term extension or conversion costs — and per aversionem is fixed going forward in the same instrument. Four items in the release gate stand against this Part: the known shortfall, the choice between full waiver and an asymmetric floor, verification of the article numbering of Arts. 1588–1592 against JDIH, and the *Berita Acara Persetujuan Batas* with adjoining owners.
+6.4 Order of operations. ⚠ ○ A known area shortfall is settled before this Part is executed — by price recompute, term extension or conversion costs — and per aversionem is fixed going forward in the same instrument. This is the one item in the release gate still standing against this Part.
 
-6.5 Asymmetric alternative. Revision excluded on area increase; on decrease only down to a floor of [850] m², below which a pro-rata reduction is retained. Proposed as the variant a Landowner accepts more readily than a full bilateral waiver.
+6.5 Where the Plot is sold rather than leased. Under [Part 12](#part-12-upgrade-tracks) the same articles apply directly: Pasal 1486 as the rule, Pasal 1487 for the buyer's election on excess, Pasal 1489 for the one-year cut-off, and Pasal 1490 where two Plots pass under one instrument. Pasal 1490 settles price between the two; it does not affect any statutory limit on the number of parcels a person may hold.
 
 ---
 
@@ -208,7 +208,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 8.2 Contractor qualification. ⚠ Under UU 2/2017 works are performed by a provider holding a valid [[sbu|SBU]] and the corresponding KBLI. Copies of SBU, licences and the construction contract are furnished before commencement.
 
-8.3 Supervision. ▲ An independent supervisor (*pengawas* / MK) is appointed by the Landowner at the Holder's cost — an Indonesian company independent of both parties and holding the qualification the works require, neither party appointing an affiliate — with authority to inspect, require rectification and stop works on material non-compliance. Stage inspections at foundation, structure, roof, MEP and completion. Whether an Estate-wide approved-contractor panel is imposed stands open in the release gate.
+8.3 Supervision. ▲ An independent supervisor (*pengawas* / *manajemen konstruksi*, MK) is appointed by the Landowner at the Holder's cost — an Indonesian company independent of both parties and holding the qualification the works require, neither party appointing an affiliate — with authority to inspect, require rectification and stop works on material non-compliance. Stage inspections at foundation, structure, roof, MEP and completion. Whether an Estate-wide approved-contractor panel is imposed stands open in the release gate.
 
 8.4 Insurance. Procured by the Holder for the construction period, naming the Landowner as co-insured: Contractors' All Risks, third-party liability, and BPJS Ketenagakerjaan for the workforce. Certificates delivered before commencement; lapse is a stop-work event. From SLF the Holder maintains property and public liability cover for the Term.
 
@@ -219,9 +219,9 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 | # | document | between | what moves |
 |---|---|---|---|
 | 1 | BAST Lahan | Landowner → Holder | possession for construction; site safety and security |
-| 2 | PHO | Contractor → Holder | practical completion; starts the defects period of 12 months with retention of 5% |
+| 2 | PHO — *provisional hand over* | Contractor → Holder | practical completion; starts the defects period of 12 months with retention of 5% |
 | 3 | SLF | authority → applicant | confirmation that the building may be occupied |
-| 4 | FHO | Contractor → Holder | end of defects period; retention released |
+| 4 | FHO — *final hand over* | Contractor → Holder | end of defects period; retention released |
 | 5 | BAST Operasional | Holder ↔ Operator | day-to-day operation, maintenance, guest liability |
 | 6 | BAST Pengembalian | Holder → Landowner | condition on return, measured against Annex H |
 
@@ -583,7 +583,6 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [5.1](#part-5-subletting) | area revenue charge | 10%, or 5% net-exporter | D10 | settled |
 | [5.1](#part-5-subletting) | settlement fee | 1 to 3% | D10 | settled |
 | [6.1](#part-6-the-plot-as-a-single-unit) | indicative area | per Plot | Annex B | per deal |
-| [6.5](#part-6-the-plot-as-a-single-unit) | asymmetric floor | 850 m² | framework [2.7](#part-2-the-grant) | proposed |
 | [8.1](#part-8-construction-control) | approval window | 10 working days | framework 5A.1 | settled |
 | [8.5](#part-8-construction-control) | completion security | — | framework 5A.5 | open |
 | [8.6](#part-8-construction-control) | defects period, retention | 12 months, 5% | framework 5A.6 | proposed |
@@ -634,12 +633,12 @@ Count: 36 settled, 18 proposed, 14 open. Three of the settled figures are set by
 
 ## Schedule 2. What blocks execution
 
-Twelve items in [[open questions]] stand against clauses of this deed. Grouped by what they block:
+The items in [[open questions]] that stand against clauses of this deed. Grouped by what they block:
 
 | blocks | items | consequence if executed anyway |
 |---|---|---|
-| [2.2](#part-2-the-grant) the Term | grant and expiry dates of the 18 HGB certificates; the three uncertificated parcels; PKKPR for the parcels lacking it; RTRW and LP2B; the third-cycle arithmetic | the Term has no verified upper bound and [2.2.3](#part-2-the-grant) is unresolved |
-| 6 the Plot | known area shortfall; full waiver against asymmetric floor; article numbering of Arts. 1588–1592; the boundary *Berita Acara* | [Part 6](#part-6-the-plot-as-a-single-unit) rests on an unverified statutory reference and may donate a known shortfall |
+| [2.2](#part-2-the-grant) the Term | grant and expiry dates of the certificates; the three parcels without a certificate; the LP2B check | the Term has no verified upper bound and [2.2.3](#part-2-the-grant) is unresolved |
+| 6 the Plot | the known area shortfall | [Part 6](#part-6-the-plot-as-a-single-unit) may donate a shortfall the parties already know about |
 | 5 subletting | licensing route for stay and the accommodation tax | the Holder's channel election has no priced consequence |
 | [4.11](#part-4-transfer) security | admissibility of assignment by way of security | a financier cannot rely on the construction |
 | [12.1](#part-12-upgrade-tracks) Track F | the sequence of pemecahan and perubahan hak at the Kantor Pertanahan of Buleleng; the construction stage at which an application is accepted; enforceability of the irrevocable power in [12.1.9](#part-12-upgrade-tracks) | the Hak Pakai machinery is drafted against assumed practice and [12.1.13](#part-12-upgrade-tracks) has to close before the first Notice |
