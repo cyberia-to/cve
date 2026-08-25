@@ -215,7 +215,7 @@ The construction is settled: the Plot is split out of the Landowner's master tit
 
 4.2a Married to a foreigner. Where the Holder is an Indonesian citizen married to a foreign national, [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 70](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-70-indonesian-married-to-a-foreigner) allows the same land rights as any other citizen only where the right is not joint marital property, evidenced by a notarial separation-of-assets agreement between the spouses. The agreement is produced before the upgrade is started; without it the application is refused and the Plot sits in limbo between the two regimes.
 
-4.3 Plot sizing. ⚠ Open. The strategy contemplates plots of 5–15 are (500–1,500 m²) and has not settled the Z1 grain; anything above 600 m² leaves the simplified regime and weakens instrument E. Sizing and the grain decision are taken together, not separately.
+4.3 Plot sizing. ⚠ Open. The strategy contemplates plots of 5–15 are (500–1,500 m²) and has not settled the [Z1](/cyber-valley/strategy#4-land-use-plan-eight-zones) grain; anything above 600 m² leaves the simplified regime and weakens instrument E. Sizing and the grain decision are taken together, not separately.
 
 4.4 Continuing obligations. ⚠ Conversion to Hak Milik does not release the Holder from the Design Code, Community Rules or Community Council membership. These must therefore be secured by instruments that survive the title change — covenants recorded in the AJB, easements over access and utilities, and Council membership as a condition of the sale. Draft this before the first sale; it cannot be imposed retroactively.
 
