@@ -131,7 +131,7 @@ Right of first refusal exists only in Wave 1 and only until the build obligation
 
 2.5.7 Deadlines and deemed consent. Every act of the Landowner under this clause is due within 10 working days. Failure to act within that period is deemed consent and confirmation.
 
-2.5.8 Register. The Landowner maintains a register of leases; the entry is evidence of the Holder's rights. Entries may be represented in [[cyber/cybergraph|cybergraph]] as particles, with assignments as cyberlinks; state of a lease is public, identity of the Holder is not. On divergence the notarial deed and the Register prevail over the on-chain representation, on the pattern of thesis T8.
+2.5.8 Register. The Landowner maintains a register of leases; the entry is evidence of the Holder's rights. Entries may be represented in [[soft3/cybergraph|cybergraph]] as particles, with assignments as cyberlinks; state of a lease is public, identity of the Holder is not. On divergence the notarial deed and the Register prevail over the on-chain representation, on the pattern of thesis T8.
 
 2.5.9 Partial assignment and subdivision of the Plot require written consent and compliance with the Design Code.
 

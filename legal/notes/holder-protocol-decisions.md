@@ -112,7 +112,7 @@ Problem: page B promises "fixed yearly rent, locked on day one", and the index d
 Decision. Three steps:
 
 1. State what is actually fixed: the quantities qᵢ, the collar of +35/−15 per year, the double floor. Show the historical path from the backtest in the calculator, rather than only a smooth exponential.
-2. Sell the narrow-corridor option: the Holder may buy a narrowing of the annual collar for a premium on R₀. The Estate sells insurance, the Holder buys calm.
+2. Sell the narrow-corridor option: the Holder may buy a narrowing of the annual collar — to +25/−10 or +20/−10 — for a premium on R₀, for a fixed 10 years, after which the collar reverts to +35/−15. The premium is priced from what the narrowing costs the Estate, never as a round percentage: on the 2020→2025 backtest in [[cyberia/protocol/century-index|century index]] §4 a ±20 percent corridor surrenders roughly a quarter of the index path. The Estate sells insurance, the Holder buys calm.
 3. Grant a right of early redemption: a Holder on B may at any time pay the remainder under the formula and become an A.
 
 Why win-win. The Estate gets a new product and early money. The Holder gets a choice between cheaper-with-risk and dearer-with-calm, instead of a promise that will not survive the first year.

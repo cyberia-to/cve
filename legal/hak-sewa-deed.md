@@ -92,7 +92,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ, the collar and the floor — not the amount of any future invoice. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor and one worked invoice, and prevails over prose.
 
-3.3.1 Collar. ▲ The annual collar is +35/−15 percent. The Holder may buy a narrowing of the collar against a premium on R₀.
+3.3.1 Collar. ▲ The annual collar is +35/−15 percent, metered in sats. The Holder may buy a narrowing of the collar — to +25/−10 or +20/−10 percent — against a premium on R₀, for a fixed term of 10 years from the Commencement Date, after which the collar reverts to +35/−15. The premium is priced from what the narrowing costs the Landowner, never as a round percentage of R₀ chosen at large: on the 2020→2025 backtest in [[cyberia/protocol/century-index|century index]] §4 a ±20 percent corridor surrenders roughly a quarter of the index path. The elected corridor, its term and the premium are entered in [[annex-e-century-index|Annex E]], which prevails over this clause.
 
 3.3.2 Recomputation. The Holder may recompute any invoice from public sources within 30 days, and the recomputation prevails.
 
@@ -139,7 +139,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 4.7 Deemed consent. Every act of the Landowner under this Part is due within 10 working days. Failure to act within that period is consent and confirmation.
 
-4.8 Register. ▲ The Landowner maintains a register of leases; the entry is evidence of the Holder's rights. Entries may be represented in [[cyber/cybergraph|cybergraph]] as particles and assignments as cyberlinks; the state of a lease is public and the identity of the Holder is not. On divergence the notarial deed and the Register prevail.
+4.8 Register. ▲ The Landowner maintains a register of leases; the entry is evidence of the Holder's rights. Entries may be represented in [[soft3/cybergraph|cybergraph]] as particles and assignments as cyberlinks; the state of a lease is public and the identity of the Holder is not. On divergence the notarial deed and the Register prevail.
 
 4.9 Partial assignment and subdivision require written consent and compliance with the Design Code. Taxes on assignment are allocated under [Part 18](#part-18-taxes-currency-general).
 
@@ -572,6 +572,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [3.2](#part-3-consideration) | deferral fee | 0.5% + 5% × (1 − deposit) | annual leasehold, appendix B | settled |
 | [3.2](#part-3-consideration) | land floor | 3% real over the index | annual leasehold | settled |
 | [3.3.1](#part-3-consideration) | annual collar | +35 / −15 percent | D6 | settled |
+| [3.3.1](#part-3-consideration) | collar narrowing option | +25/−10 or +20/−10 for 10 years, premium priced off the surrendered index path | D6 | settled |
 | [3.3.2](#part-3-consideration) | recomputation window | 30 days | framework [2.3](#part-2-the-grant) | settled |
 | [3.5](#part-3-consideration) | Guarantee Fund share | 1% of consideration on each grant, assignment or upgrade | D4 | settled |
 | [4.3](#part-4-transfer) | notice of assignment | 7 days | framework [2.5.3](#part-2-the-grant) | settled |
