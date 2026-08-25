@@ -61,7 +61,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 2.2.1 Automatic extension. On each *perpanjangan* or *pembaruan* of the Title, this deed extends by the lesser of 25 years and the new remaining term less the same buffer, without further consideration beyond the price formula in Annex E and without renegotiation.
 
-2.2.2 Extension covenant. ▲ The Landowner applies for extension and, where extension is exhausted, for renewal of each Title within the windows PP 18/2021 Pasal 41 allows, pursues each application diligently at its own cost, and reports progress in the Register. The outcome is not warranted: after the extension cycle the land returns to the State and the former holder holds a priority on stated conditions under Pasal 37(4), not a right. The recitals state for the Plot the date to which the Term is certain and the date to which it depends on renewal.
+2.2.2 Extension covenant. ▲ The Landowner applies for extension and, where extension is exhausted, for renewal of each Title within the windows [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 41 allows, pursues each application diligently at its own cost, and reports progress in the Register. The outcome is not warranted: after the extension cycle the land returns to the State and the former holder holds a priority on stated conditions under Pasal 37(4), not a right. The recitals state for the Plot the date to which the Term is certain and the date to which it depends on renewal.
 
 2.2.3 ⚠ Acquisitions run 2022–2024 and the [[hgb|HGB]] cycle of 30 + 20 years reaches approximately 2072–2074, while 25 + 25 years from 2026 reaches 2076. The lease outruns the title by two to four years. The buffer in [2.2](#part-2-the-grant) and the duty in [15.6](#part-15-title-warranties-negative-pledge-indemnity) exist for this. Counsel confirms the arithmetic against each certificate before execution.
 
@@ -332,11 +332,11 @@ Where this deed, a product page or any other estate document describes the upgra
 
 ⚠ The Landowner obtains the office's practice on the sequence in writing before the first application and annexes it as Annex K. Where the office requires a different order of the same steps, the order follows the office; the steps themselves do not change.
 
-12.1.2 Statutory conditions on the Holder. ⚠ These are conditions of law which the Landowner neither controls nor warrants. Under PP 18/2021 Pasal 142 a foreign natural person may hold Hak Pakai only while holding a valid Indonesian residence permit. Under Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 a landed house acquired by a foreign national in the Province of Bali must reach a minimum value of Rp 5,000,000,000, fall within the luxury category, sit on no more than 2,000 m², and be limited to one parcel per person or family.
+12.1.2 Statutory conditions on the Holder. ⚠ These are conditions of law which the Landowner neither controls nor warrants. Under [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 49(2)(e)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-49-who-may-hold-it) a foreign individual may hold hak pakai with a term, and under [Pasal 69(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-69-who-qualifies) only while holding the immigration documents the law requires. [Pasal 50](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-50-losing-eligibility) gives one year to transfer if he ceases to qualify, after which the right lapses by operation of law. Under Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 a landed house acquired by a foreign national in the Province of Bali must reach a minimum value of Rp 5,000,000,000, fall within the luxury category, sit on no more than 2,000 m², and be limited to one parcel per person or family.
 
 ⚠ The Rp 5 billion floor applies to land and completed house together. A Plot priced below that figure reaches the threshold only once the Improvements are built and valued. The Landowner discloses this figure, in figures and against this Plot, before the Holder signs, and states plainly that a Holder who does not build to that value cannot reach Track F.
 
-12.1.3 Term of the Hak Pakai. Under PP 18/2021 a Hak Pakai for a foreign natural person runs 30 years, extendable by 20 and renewable by 30. ⚠ Each cycle is capped by the remaining term of the underlying state land position and is granted by the land office, not by this deed.
+12.1.3 Term of the Hak Pakai. Under [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 52(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-52-the-term) a hak pakai over State land runs 30 years, extendable by 20 and renewable by 30. ⚠ Each cycle is capped by the remaining term of the underlying state land position and is granted by the land office, not by this deed.
 
 12.1.4 Trigger. The Holder may serve a Hak Pakai Notice requiring the Landowner to begin, at any time after all of the following have occurred:
 
@@ -435,7 +435,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 12.2.1 ⚠ The Holder may then apply to convert HGB to Hak Milik. This is the Holder's own application; the Landowner facilitates documents and warrants no outcome. Conditions: Indonesian citizenship, natural person; use as *rumah tinggal* evidenced by PBG or a *keterangan* from the village head, a bare plot not qualifying; plots up to 600 m² on the simplified route, above which a *constatering* report is required; a declaration of no more than 5 residential parcels or 5,000 m² in aggregate.
 
-⚠ Where the Holder is an Indonesian citizen married to a foreign national, PP 18/2021 Pasal 70 allows the same land rights as any other citizen only where the right is not joint marital property, evidenced by a notarial separation-of-assets agreement between the spouses. The agreement is produced before the upgrade is started; without it the application is refused.
+⚠ Where the Holder is an Indonesian citizen married to a foreign national, [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 70 allows the same land rights as any other citizen only where the right is not joint marital property, evidenced by a notarial separation-of-assets agreement between the spouses. The agreement is produced before the upgrade is started; without it the application is refused.
 
 ○ Whether PBG alone satisfies the *rumah tinggal* test is confirmed with BPN Buleleng before this is promised to anyone. Plot sizing and the Z1 grain are decided together with the 600 m² threshold; the strategy contemplates 5 to 15 are.
 
@@ -592,7 +592,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 
 | [12.1.2](#part-12-upgrade-tracks) | minimum value, rumah tapak in Bali | Rp 5,000,000,000 | Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 | settled by law |
 | [12.1.2](#part-12-upgrade-tracks) | maximum area, one parcel per person or family | 2,000 m² | Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 | settled by law |
-| [12.1.3](#part-12-upgrade-tracks) | Hak Pakai term for a foreign natural person | 30 + 20 + 30 years | PP 18/2021 | settled by law |
+| [12.1.3](#part-12-upgrade-tracks) | Hak Pakai term for a foreign natural person | 30 + 20 + 30 years | PP 18/2021 Pasal 52(1) | settled by law |
 | [12.1.6](#part-12-upgrade-tracks) | acknowledgement of the Notice | 10 working days | this draft | proposed |
 | [12.1.6](#part-12-upgrade-tracks) | filing of pemecahan | 60 days | this draft | proposed |
 | [12.1.6](#part-12-upgrade-tracks) | filing of perubahan hak | 30 days | this draft | proposed |
@@ -629,6 +629,6 @@ Assembled from [[land-rights-agreement]] v0.4.3, which holds the reasoning for e
 
 Annex K, the written practice of the Kantor Pertanahan of Buleleng and counsel's confirmation under [12.1.13](#part-12-upgrade-tracks), is a new annex introduced by this revision and does not yet exist.
 
-Statutory sources relied on in Part [12.1](#part-12-upgrade-tracks): PP 18/2021 on Hak Pengelolaan, Hak Atas Tanah, Satuan Rumah Susun dan Pendaftaran Tanah, Pasal 142 for the residence-permit condition and the term; Permen ATR/BPN 18/2021 on the procedure for establishing land rights, Pasal 187 and the surrounding articles for the modes by which a foreign national acquires; Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 for the minimum value, the area ceiling and the one-parcel limit. ⚠ Each is verified against JDIH and against the current practice of the office before execution; the figures above were read from secondary sources and not from the instruments themselves.
+Statutory sources relied on in Part [12.1](#part-12-upgrade-tracks): [[pp 18-2021 hak atas tanah|PP 18/2021]], Pasal 49(2)(e) and 69(1) for the eligibility of a foreign individual, Pasal 51 for the land that may carry a hak pakai, Pasal 52(1) for the term, read from the official PDF. The regulation runs to Pasal 104; an earlier draft of this deed cited a Pasal 142, which does not exist. Pasal 103 repeals PP 40/1996 and PP 103/2015, so any figure taken from those is out of date; Permen ATR/BPN 18/2021 on the procedure for establishing land rights, Pasal 187 and the surrounding articles for the modes by which a foreign national acquires; Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 for the minimum value, the area ceiling and the one-parcel limit. ⚠ Each is verified against JDIH and against the current practice of the office before execution; the figures above were read from secondary sources and not from the instruments themselves.
 
 This is not legal advice. Every construction here is verified by the notary and PPAT before it enters a signable text.
