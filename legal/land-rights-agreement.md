@@ -64,7 +64,7 @@ Signing authority. Under Articles of Association Pasal 12(2)(c) the Director sig
 | Improvements | any building or structure erected by the Holder on the Plot |
 | Design Code | Annex C, as amended under [§7](#7-design-code-annex-c) |
 | Community Rules | Annex D |
-| Index Annex | Annex E, the century index annex referred to in [§2.3](#2-part-a-base-grant-hak-sewa-all-holders) and [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) |
+| Index Annex | [[annex-e-century-index|Annex E]], the century index annex referred to in [§2.3](#2-part-a-base-grant-hak-sewa-all-holders) and [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Register | the register of leases maintained by the Landowner under [§2.5.8](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Estate Certificate | the statement of lease status issued under [§2.5.6](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Guarantee Fund | the reserve constituted under [§9B.7](#9b-title-warranties-negative-pledge-and-indemnity) |
