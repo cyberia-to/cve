@@ -18,13 +18,7 @@ Every statute the corporate and land documents cite, with the articles actually 
 | [[kuhperdata]] | civil code — third-party benefit, mandate, lease by area | [[shareholders agreement]], [[share sale entry]], [[land-rights-agreement]] §2.7 |
 | [[uu 4-1996 hak tanggungan]] | security over land — which rights can be mortgaged | [[land-rights-agreement]] §2.9, [[verification-report]] |
 | [[pp 18-2021 hak atas tanah]] | land rights — HGB and hak pakai terms, duties, foreign dwellings | [[land-rights-agreement]] §3, §6 |
-
-## Still to add
-
-Cited in the pack, not yet reproduced here:
-
-| law | subject | where cited |
-|---|---|---|
-| UU 2/2017 | construction services — SBU requirement | [[land-rights-agreement]] §5A.2 |
+| [[uu 2-2017 jasa konstruksi]] | construction services — the SBU requirement | [[land-rights-agreement]] §5A.2 |
+| [[uu 11-2020 cipta kerja]] | omnibus law — amends the two above | cited as the amending instrument |
 
 The English column is a working translation for reading. On any executed instrument the Bahasa Indonesia text prevails.
