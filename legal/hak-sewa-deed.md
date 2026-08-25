@@ -102,9 +102,11 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 3.4 Early redemption. ▲ A Holder on the scheduled form may at any time pay the remainder under the formula and stand as a Holder on the upfront form.
 
-3.5 Guarantee Fund. ▲ 5% of every payment under this deed enters a reserve denominated in the century index, whose balance and address are published. It secures the payments named in [16.4](#part-16-termination-and-end-of-term). Disbursement follows Pasal 12(4): the Director initiates, a Commissioner authorises.
+3.5 Guarantee Fund. ▲ 1% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex-e-century-index|Annex E]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
 
-○ The reserve on the Company's own account is not insolvency-remote. The security construction is settled with counsel before any payment is taken: escrow with the notary up to a threshold of aggregate exposure, bank guarantee above it, is the position taken pending confirmation.
+The Fund is whatever has accumulated less payments properly made out of it: there is no target level and no obligation on the Landowner to top it up from other money. Money leaves the Fund only to pay a Holder a sum due, on the maker and authorizer mandate under [[articles of association]] Article 12(4), within 30 days of a supported claim or 10 days of an arbitral award. No commissioner approval is needed to pay a Holder; approval is needed to take money out for anything else, and the only permitted other use is a return of surplus.
+
+○ The Fund is the Company's own asset and is not insolvency-remote: on insolvency the Holder ranks as an unsecured creditor. This is disclosed in these words, and no marketing material describes the Fund as a bank guarantee, escrow or insurance. Where a Holder is also a shareholder of the Landowner, he takes no part in any decision concerning his own claim on the Fund.
 
 3.6 Renewal price. ▲ On renewal under [2.2.1](#part-2-the-grant) the price is L(T) = L₀ · I(T)/I(t₀) under the Index Annex. ⚠ The formula is arithmetic and complete; a renewal clause pointing at an empty annex reproduces the defect it exists to cure.
 
@@ -547,7 +549,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [3.2](#part-3-consideration) | land floor | 3% real over the index | annual leasehold | settled |
 | [3.3.1](#part-3-consideration) | annual collar | +35 / −15 percent | D6 | settled |
 | [3.3.2](#part-3-consideration) | recomputation window | 30 days | framework [2.3](#part-2-the-grant) | settled |
-| [3.5](#part-3-consideration) | Guarantee Fund share | 5% of every payment | D4 | settled |
+| [3.5](#part-3-consideration) | Guarantee Fund share | 1% of consideration on each grant, assignment or upgrade | D4 | settled |
 | [3.5](#part-3-consideration) | escrow threshold | — | release gate 9B.7 | open |
 | [4.3](#part-4-transfer) | notice of assignment | 7 days | framework [2.5.3](#part-2-the-grant) | settled |
 | [4.5](#part-4-transfer) | transfer fee scale | [2.0](#part-2-the-grant) / [1.5](#part-1-parties-plot-and-definitions) / [1.0](#part-1-parties-plot-and-definitions) / [0.5](#part-0-conditions-of-execution) / 0% | D1 | settled |
