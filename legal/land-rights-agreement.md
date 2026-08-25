@@ -83,7 +83,7 @@ The default product. Available to Foreign and Indonesian Holders alike, with no 
 - on each extension (*perpanjangan*) or renewal (*pembaruan*) of the Title, this deed extends automatically by the lesser of [25] years and the new remaining term less the same buffer, with no consideration beyond the price formula in Annex E and no further negotiation;
 - the recitals state the certificate number, its expiry date, and the resulting term as a date, not as a duration.
 
-⚠ Where the remaining term less the buffer falls below [__] years, the Plot is not offered under Part A at all until the Title is extended.
+The Landowner covenants to apply for extension and, where extension is exhausted, for renewal of each Title within the windows in [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 41](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-41-when-to-apply), and to pursue the application diligently at its own cost. What the Landowner cannot promise is the outcome: after the extension cycle the land returns to the State and the former holder has a priority on stated conditions under [Pasal 37(4)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-37-the-term), not a right. The Holder is told this in those words before signing, and the deed states for the Plot the date to which the term is certain and the date to which it depends on renewal.
 
 2.1.1 Where the term lives. The term is a property of the Plot, not of the product. The shared product pages describe the shape of the instrument; the term as a date appears in three places only — the recitals of this deed, the Register under 2.5.8, and the Estate Certificate under 2.5.6. Price per are is set for the Plot with its term known, so that two Plots on differently-dated Titles are not priced as if identical.
 
@@ -217,7 +217,14 @@ The construction is settled: the Plot is split out of the Landowner's master tit
 
 4.3 Plot sizing. ⚠ Open. The strategy contemplates plots of 5–15 are (500–1,500 m²) and has not settled the [Z1](/cyber-valley/strategy#4-land-use-plan-eight-zones) grain; anything above 600 m² leaves the simplified regime and weakens instrument E. Sizing and the grain decision are taken together, not separately.
 
-4.4 Continuing obligations. ⚠ Conversion to Hak Milik does not release the Holder from the Design Code, Community Rules or Community Council membership. These must therefore be secured by instruments that survive the title change — covenants recorded in the AJB, easements over access and utilities, and Council membership as a condition of the sale. Draft this before the first sale; it cannot be imposed retroactively.
+4.4 Continuing obligations. Conversion to Hak Milik does not release the Holder from the Design Code, the Community Rules or membership of the Community Council. They survive the title change through a bundle registered against the new title, in this order of strength:
+
+- an easement (*hak servitut* under KUHPerdata Pasal 674 and following) over access, water, power and drainage running with the land, granted by the Landowner and registered at [[bpn|BPN]] against the Plot at the moment of conversion, its terms conditioned on observance of the Design Code and payment of the service charge;
+- connection to the estate's roads, water, power and waste is supplied under that easement and is suspended while the Holder is in uncured breach — the easement is the instrument, the connection is the leverage;
+- membership of the Community Council as a condition of the easement, binding successors, so that a buyer of the Plot takes the seat and the obligations with it;
+- the covenants repeated in the AJB of any onward sale, and the Landowner's right to be notified of that sale.
+
+The easement is drafted and registered as part of the conversion, not afterwards. A conversion completed without it leaves the Plot inside the community by contract only, and that contract does not bind the next buyer.
 
 ---
 
