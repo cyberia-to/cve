@@ -73,8 +73,9 @@ Hypothetical year-1 TWAP fixes: BTC $75,000 · ETH $2,200 · GOLD $4,400 · CU $
 
 1. Mark the quantities to market: I(t₁) = Σ qᵢ · Pᵢ = **$108,503.30**
 2. Price in bitcoin: S(t₁) = 108,503.30 / 75,000 = **1.446711 BTC**
-3. Dual floor: max(S₀ = 1.596781, F / X = 100,000 / 75,000 = 1.333333) = **1.596781 → the floor binds**
-4. R(t₁) = 1.596781 BTC = 159,678,089 sats, converted to IDR at JISDOR on the invoice date
+3. Apply the floor: max(S(t₁) = 1.446711, S₀ = 1.596781, F / X = 100,000 / 75,000 = 1.333333) = **1.596781 → the sat leg of the floor binds**
+4. R(t₁) = 1.596781 BTC = 159,678,089 sats
+5. Settle: 1.596781 × 75,000 = **$119,758.57**, converted at JISDOR 19,000 = **IDR 2,275,412,925** on the invoice date
 
 The worked example is part of the annex, not an illustration. Where a calculation is disputed, it is the template the parties follow.
 

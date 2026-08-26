@@ -52,14 +52,14 @@ Cash received by the Company is applied in the following order before any amount
 
 1. taxes and mandatory payments;
 2. direct costs of the relevant transaction or project;
-3. **distributable cash** — dividends or other distributions to Shareholders;
-4. the approved operating moonly budget (including the operational account under [[ceo]]).
+3. the approved operating moonly budget (including the operational account under [[ceo]]);
+4. **distributable cash** — dividends or other distributions to Shareholders.
 
-**Cadence.** Distributable cash under item 3 is distributed to the Shareholders every moon cycle (one new moon to the next), and in no event less often than once per calendar quarter, as an interim dividend permitted by [[articles of association]] Article 18(2). Distribution is the rule between the Shareholders; retention is the exception and requires their unanimous written agreement.
+**Cadence.** Distributable cash under item 4 is distributed to the Shareholders every moon cycle (one new moon to the next), and in no event less often than once per calendar quarter, as an interim dividend permitted by [[articles of association]] Article 18(2). Distribution is the rule between the Shareholders; retention is the exception and requires their unanimous written agreement.
 
 **Mechanics.** Within 10 (ten) business days of the end of each moon cycle each Shareholder shall procure that the Board of Directors resolves, and the Board of Commissioners approves, an interim dividend equal to the distributable cash of that cycle.
 
-**Reserve allocation.** [[articles of association]] Article 19 sets the reserve ceiling at 20% (twenty percent) of the issued and paid-up capital but does not fix the pace of the allocation. Between the Shareholders the pace is fixed: while the reserve stands below that ceiling, 5% (five percent) of the net profit of each profitable financial year is allocated to the reserve and the remaining 95% is distributable cash under item 3. Dividends are payable from the first profitable financial year; the 20% is a ceiling on the reserve and never a precondition for distribution. Once the reserve reaches 20%, allocation stops.
+**Reserve allocation.** [[articles of association]] Article 19 sets the reserve ceiling at 20% (twenty percent) of the issued and paid-up capital but does not fix the pace of the allocation. Between the Shareholders the pace is fixed: while the reserve stands below that ceiling, 5% (five percent) of the net profit of each profitable financial year is allocated to the reserve and the remaining 95% is distributable cash under item 4. Dividends are payable from the first profitable financial year; the 20% is a ceiling on the reserve and never a precondition for distribution. Once the reserve reaches 20%, allocation stops.
 
 **Tests — the only grounds to withhold.** A distribution may be withheld only where one of the following fails, and the failure is notified in writing stating which test and the figures:
 
