@@ -139,11 +139,17 @@ def convert(md):
     out, lines, i = [], md.split('\n'), 0
     while i < len(lines):
         L = lines[i]
-        if re.match(r'^\s*\|', L) and i+1 < len(lines) and re.match(r'^\s*\|[\s:|-]+\|?\s*$', lines[i+1]):
-            head = row(L); i += 2; body = []
+        if re.match(r'^\s*\|', L):
+            has_header = i+1 < len(lines) and re.match(r'^\s*\|[\s:|-]+\|?\s*$', lines[i+1])
+            head = row(L) if has_header else None
+            i += 2 if has_header else 1
+            body = [] if has_header else [row(L)]
             while i < len(lines) and re.match(r'^\s*\|', lines[i]):
                 body.append(row(lines[i])); i += 1
-            out.append('<table><thead><tr>' + ''.join(f'<th>{inline(c)}</th>' for c in head) + '</tr></thead><tbody>')
+            out.append('<table>')
+            if head:
+                out.append('<thead><tr>' + ''.join(f'<th>{inline(c)}</th>' for c in head) + '</tr></thead>')
+            out.append('<tbody>')
             for r in body:
                 out.append('<tr>' + ''.join(f'<td>{inline(c)}</td>' for c in r) + '</tr>')
             out.append('</tbody></table>')
@@ -172,6 +178,8 @@ def convert(md):
             i += 1; continue
         buf = []
         while i < len(lines) and lines[i].strip() and not re.match(r'^(#{1,6}\s|\s*\||>|\s*([-*+]|\d+\.)\s)', lines[i]):
+            buf.append(lines[i].rstrip()); i += 1
+        if not buf:
             buf.append(lines[i].rstrip()); i += 1
         out.append('<p>' + inline(' '.join(buf)) + '</p>')
     return '\n'.join(out)

@@ -86,13 +86,11 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 | form | at signing | thereafter |
 |---|---|---|
 | upfront | 100% of the Plot price | nothing beyond the area revenue charge, service charge and taxes |
-| scheduled | 30% minimum deposit | annual instalments for the Term, indexed under Annex E |
+| scheduled | 30% minimum deposit | annual instalments for the Term, at a fixed rate under [3.2](#part-3-consideration) |
 
-3.2 Deferral fee. The fee for paying later is 0.5% + 5% × (1 − deposit share), giving 4.0% at a 30% deposit and 1.0% at 90%. The unpaid part grows with the century index plus a land floor of 3% real.
+3.2 Deferral fee. The fee for paying later is 0.5% + 5% × (1 − deposit share), giving 4.0% at a 30% deposit and 1.0% at 90%. The unpaid part is a fixed obligation, not indexed: it grows at 3% real per year (nominal rate = 3% + the prior year's official Indonesian CPI), instalments equal, over the deferral period. The century index and Annex E apply only to the annual rent, not to this deferred purchase balance.
 
-3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ, the collar and the floor — not the amount of any future invoice. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor and one worked invoice, and prevails over prose.
-
-3.3.1 Collar. ▲ The annual collar is +35/−15 percent, metered in sats. The Holder may buy a narrowing of the collar — to +25/−10 or +20/−10 percent — against a premium on R₀, for a fixed term of 10 years from the Commencement Date, after which the collar reverts to +35/−15. The premium is priced from what the narrowing costs the Landowner, never as a round percentage of R₀ chosen at large: on the 2020→2025 backtest in [[cyberia/protocol/century-index|century index]] §4 a ±20 percent corridor surrenders roughly a quarter of the index path. The elected corridor, its term and the premium are entered in [[annex-e-century-index|Annex E]], which prevails over this clause.
+3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ and the floor — not the amount of any future invoice. R(t) tracks the basket uncapped, subject only to the floor. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, floor and one worked invoice, and prevails over prose.
 
 3.3.2 Recomputation. The Holder may recompute any invoice from public sources within 30 days, and the recomputation prevails.
 
@@ -571,8 +569,6 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [3.1](#part-3-consideration) | minimum deposit, scheduled form | 30% | annual leasehold | settled |
 | [3.2](#part-3-consideration) | deferral fee | 0.5% + 5% × (1 − deposit) | annual leasehold, appendix B | settled |
 | [3.2](#part-3-consideration) | land floor | 3% real over the index | annual leasehold | settled |
-| [3.3.1](#part-3-consideration) | annual collar | +35 / −15 percent | D6 | settled |
-| [3.3.1](#part-3-consideration) | collar narrowing option | +25/−10 or +20/−10 for 10 years, premium priced off the surrendered index path | D6 | settled |
 | [3.3.2](#part-3-consideration) | recomputation window | 30 days | framework [2.3](#part-2-the-grant) | settled |
 | [3.5](#part-3-consideration) | Guarantee Fund share | 1% of consideration on each grant, assignment or upgrade | D4 | settled |
 | [4.3](#part-4-transfer) | notice of assignment | 7 days | framework [2.5.3](#part-2-the-grant) | settled |
