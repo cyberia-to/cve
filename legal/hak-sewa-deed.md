@@ -88,19 +88,19 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 | upfront | 100% of the Plot price | nothing beyond the area revenue charge, service charge and taxes |
 | scheduled | 30% minimum deposit | annual instalments for the Term, at a fixed rate under [3.2](#part-3-consideration) |
 
-3.2 Deferral fee. The fee for paying later is 0.5% + 5% × (1 − deposit share), giving 4.0% at a 30% deposit and 1.0% at 90%. The unpaid part is a fixed obligation, not indexed: it grows at 3% real per year (nominal rate = 3% + the prior year's official Indonesian CPI), instalments equal, over the deferral period. The century index and Annex E apply only to the annual rent, not to this deferred purchase balance.
+3.2 Deferral fee. The fee for paying later is 0.5% + 5% × (1 − deposit share), giving 4.0% at a 30% deposit and 1.0% at 90%. The unpaid part carries a real rate of 3% per year over the official Indonesian consumer price index: the nominal rate for each year is 3% plus the prior calendar year's published CPI, applied to the outstanding balance, and the instalment is re-amortised at each reset so that the balance is retired by the end of the Term. It is not linked to the century index: Annex E governs the annual rent only, never this deferred purchase balance.
 
 3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ and the floor — not the amount of any future invoice. R(t) tracks the basket uncapped, subject only to the floor. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, floor and one worked invoice, and prevails over prose.
 
-3.3.2 Recomputation. The Holder may recompute any invoice from public sources within 30 days, and the recomputation prevails.
+3.3.1 Recomputation. The Holder may recompute any invoice from public sources within 30 days, and the recomputation prevails.
 
-3.3.3 Settlement. In IDR at [[jisdor|JISDOR]] on the invoice date, per [[uu 7-2011 mata uang|UU 7/2011]]. Any other unit appearing in estate or marketplace systems is a unit of account.
+3.3.2 Settlement. In IDR at [[jisdor|JISDOR]] on the invoice date, per [[uu 7-2011 mata uang|UU 7/2011]]. Any other unit appearing in estate or marketplace systems is a unit of account.
 
-3.3.4 Divergence. Where an on-chain fix diverges from the annex computation, the annex computation prevails.
+3.3.3 Divergence. Where an on-chain fix diverges from the annex computation, the annex computation prevails.
 
 3.4 Early redemption. ▲ A Holder on the scheduled form may at any time pay the remainder under the formula and stand as a Holder on the upfront form.
 
-3.5 Guarantee Fund. ▲ 1% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex-e-century-index|Annex E]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
+3.5 Guarantee Fund. ▲ 5% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex-e-century-index|Annex E]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
 
 The Fund is whatever has accumulated less payments properly made out of it: there is no target level and no obligation on the Landowner to top it up from other money. Money leaves the Fund only to pay a Holder a sum due, on the maker and authorizer mandate under [[articles of association]] Article 12(4), within 30 days of a supported claim or 10 days of an arbitral award. No commissioner approval is needed to pay a Holder; approval is needed to take money out for anything else, and the only permitted other use is a return of surplus.
 
@@ -131,7 +131,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 | referred residents above the threshold in Annex D | 0% |
 | succession under [4.10](#part-4-transfer) | 0% |
 
-4.5.1 Right of first refusal. ▲ Exists only in Wave 1 and only until the build obligation is discharged; it lapses permanently on [[slf|SLF]]. Its mechanics mirror Articles of Association Pasal 7: notice stating price and terms, 30 days to respond, right to withdraw the offer thereafter.
+4.5.1 Right of first refusal. ▲ Exists only in Wave 1 and only until the build obligation is discharged; it lapses permanently on [[slf|SLF]]. Its mechanics mirror the share [[rofr|ROFR]] of the pack: a notice stating price and terms, a 30-day offer period and a 3-day window to take up the offer as [[shareholders agreement|the shareholders agreement]] [Article 1](/cyber-valley/cve/legal/shareholders-agreement#article-1-right-of-first-refusal) sets them, the 3 days matching [[articles of association]] [Article 7(4)](/cyber-valley/cve/legal/articles-of-association#article-7-transfer-of-shares); right to withdraw the offer thereafter.
 
 4.6 Estate Certificate. ▲ On written request the Landowner issues, free of charge and within 10 working days, a certificate stating: remaining term; confirmation of payments and absence of arrears; quantities qᵢ and the latest invoice; [[pbg|PBG]] and SLF status; unremedied Design Code breaches or confirmation of none; status of the Title and of any encumbrance at that date. Valid 30 days, and a prospective assignee may rely on it.
 
@@ -247,7 +247,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 9.3 Symmetry. While the clock is stopped no holding charge accrues, and the Design Envelope lock extends by the same period.
 
-9.4 Long stop. If the Conditions Precedent are not satisfied within 12 months of signing, the Holder may terminate and recover all sums paid with index adjustment under Annex E, secured under [3.5](#part-3-consideration).
+9.4 Long stop. If the Conditions Precedent are not satisfied within 12 months of signing, the Holder may terminate and recover all sums paid, the deferred purchase balance carrying the rate under [3.2](#part-3-consideration) and any indexed rent under Annex E, secured under [3.5](#part-3-consideration).
 
 9.5 Timing. Commence within 12 months of the Commencement Certificate; complete within 36 months of it.
 
@@ -568,12 +568,12 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [2.2](#part-2-the-grant) | extension buffer | 18 months | framework [2.1](#part-2-the-grant) | proposed |
 | [3.1](#part-3-consideration) | minimum deposit, scheduled form | 30% | annual leasehold | settled |
 | [3.2](#part-3-consideration) | deferral fee | 0.5% + 5% × (1 − deposit) | annual leasehold, appendix B | settled |
-| [3.2](#part-3-consideration) | land floor | 3% real over the index | annual leasehold | settled |
-| [3.3.2](#part-3-consideration) | recomputation window | 30 days | framework [2.3](#part-2-the-grant) | settled |
-| [3.5](#part-3-consideration) | Guarantee Fund share | 1% of consideration on each grant, assignment or upgrade | D4 | settled |
+| [3.2](#part-3-consideration) | deferred balance rate | 3% real over Indonesian CPI; not linked to the century index | annual leasehold | settled |
+| [3.3.1](#part-3-consideration) | recomputation window | 30 days | framework [2.3](#part-2-the-grant) | settled |
+| [3.5](#part-3-consideration) | Guarantee Fund share | 5% of consideration on each grant, assignment or upgrade | D4 | settled |
 | [4.3](#part-4-transfer) | notice of assignment | 7 days | framework [2.5.3](#part-2-the-grant) | settled |
 | [4.5](#part-4-transfer) | transfer fee scale | [2.0](#part-2-the-grant) / [1.5](#part-1-parties-plot-and-definitions) / [1.0](#part-1-parties-plot-and-definitions) / [0.5](#part-0-conditions-of-execution) / 0% | D1 | settled |
-| [4.5.1](#part-4-transfer) | ROFR response | 30 days | Pasal 7 of the Articles | settled |
+| [4.5.1](#part-4-transfer) | ROFR response | 30-day offer, 3-day take-up | [[shareholders agreement]] Art 1; Articles Art 7(4) | settled |
 | [4.6](#part-4-transfer) | Estate Certificate issue | 10 working days, valid 30 days | D2 | settled |
 | [4.7](#part-4-transfer) | deemed consent | 10 working days | D2 | settled |
 | [4.10](#part-4-transfer) | heirs' accession | 12 months | framework [2.8](#part-2-the-grant) | proposed |
@@ -626,7 +626,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [12.1.14](#part-12-upgrade-tracks) | upgrade fee on Track F | — | decided with [4.5](#part-4-transfer) | open |
 | [12.1.15](#part-12-upgrade-tracks) | refund on registration | none | this draft | proposed |
 
-Count: 36 settled, 18 proposed, 14 open. Three of the settled figures are set by Indonesian law rather than by decision and move only when that law moves.
+Count: 29 settled, 3 settled by law, 17 proposed, 10 open, 1 per deal. Three of the settled figures are set by Indonesian law rather than by decision and move only when that law moves.
 
 ## Schedule 2. What blocks execution
 

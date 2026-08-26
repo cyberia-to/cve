@@ -125,7 +125,7 @@ No marketing material may describe this instrument as a registered lease.
 | referred residents above the threshold in Annex D | [0]% |
 | succession under [§2.8](#2-part-a-base-grant-hak-sewa-all-holders) | [0]% |
 
-Right of first refusal exists only in Wave 1 and only until the build obligation under [§6](#6-construction-timeline-and-the-build-obligation) is discharged; it lapses permanently on SLF. Where it applies, its mechanics mirror Articles of Association Pasal 7 for shares: notice stating price and terms, 30 days to respond, right to withdraw the offer after that period.
+Right of first refusal exists only in Wave 1 and only until the build obligation under [§6](#6-construction-timeline-and-the-build-obligation) is discharged; it lapses permanently on SLF. Where it applies, its mechanics mirror the share [[rofr|ROFR]] of the pack: a notice stating price and terms, a 30-day offer period and a 3-day window to take up the offer as [[shareholders agreement|the shareholders agreement]] [Article 1](/cyber-valley/cve/legal/shareholders-agreement#article-1-right-of-first-refusal) sets them, the 3 days matching [[articles of association]] [Article 7(4)](/cyber-valley/cve/legal/articles-of-association#article-7-transfer-of-shares); right to withdraw the offer thereafter.
 
 2.5.6 Estate Certificate. On the Holder's written request the Landowner issues, free of charge and within 10 working days, a certificate stating: remaining term; confirmation of payments and absence of arrears; quantities qᵢ and the latest invoice under the Index Annex; [[pbg|PBG]] and SLF status; any unremedied Design Code breaches, or confirmation that there are none; status of the master title and of any encumbrance over it at that date. The certificate is valid for 30 days and is a statement on which a prospective assignee may rely.
 
@@ -435,7 +435,7 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 
 9B.7 Guarantee Fund. The Landowner's payment obligations under 6.0.3, 9A.4, 9B.5, 9B.6 and [§10](#10-termination-and-end-of-term) are met from a Guarantee Fund held on a separate Company account, ring-fenced from operating money and used for no other purpose.
 
-9B.7.1 Funding. On each grant, assignment or upgrade of a Plot the Landowner pays 1% (one percent) of the consideration received into the Fund, before any other application of that money and ahead of the operating budget. Contributions continue on every subsequent grant and assignment, whether or not a payment has been made out of the Fund.
+9B.7.1 Funding. On each grant, assignment or upgrade of a Plot the Landowner pays 5% (five percent) of the consideration received into the Fund, before any other application of that money and ahead of the operating budget. Contributions continue on every subsequent grant and assignment, whether or not a payment has been made out of the Fund.
 
 9B.7.2 Level. The Fund is whatever has accumulated under 9B.7.1 less payments properly made out of it. There is no separate target and no obligation on the Landowner to top it up from other money: the Fund grows with sales and is replenished by the contributions from subsequent grants and assignments. Its balance at any date is a fact, published under 9B.7.5, and the Holder's expectation is measured by that fact and not by the size of the obligation it answers.
 
