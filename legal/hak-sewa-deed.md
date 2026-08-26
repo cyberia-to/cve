@@ -86,9 +86,9 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 | form | at signing | thereafter |
 |---|---|---|
 | upfront | 100% of the Plot price | nothing beyond the area revenue charge, service charge and taxes |
-| scheduled | 30% minimum deposit | annual instalments for the Term, at a fixed rate under [3.2](#part-3-consideration) |
+| scheduled | 30% minimum deposit of the elected price | equal instalments over 1 or 5 years, no interest, under [3.2](#part-3-consideration) |
 
-3.2 Deferral fee. The fee for paying later is 0.5% + 5% × (1 − deposit share), giving 4.0% at a 30% deposit and 1.0% at 90%. The unpaid part carries a real rate of 3% per year over the official Indonesian consumer price index: the nominal rate for each year is 3% plus the prior calendar year's published CPI, applied to the outstanding balance, and the instalment is re-amortised at each reset so that the balance is retired by the end of the Term. It is not linked to the century index: Annex E governs the annual rent only, never this deferred purchase balance.
+3.2 Instalments. ▲ On the scheduled form the Holder pays a deposit of at least 30% of the Plot price at signing and clears the balance in equal instalments over the elected period, with no interest and no deferral fee. Two periods are offered: **1 (one) year at the upfront price**, and **5 (five) years at 115% of the upfront price**, the deposit being computed on the price of the elected form. Nothing else is added: the balance carries no rate and no index — [[annex-e-century-index|Annex E]] governs indexed rent only, never this balance. An instalment unpaid 30 (thirty) days after its due date, and not cured within a further 14 (fourteen) days of written notice, entitles the Landowner to terminate; on termination the deposit and every instalment paid are retained, and the Plot returns to the Landowner free of the Holder's interest.
 
 3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ and the floor — not the amount of any future invoice. R(t) tracks the basket uncapped, subject only to the floor. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, floor and one worked invoice, and prevails over prose.
 
@@ -349,7 +349,10 @@ Where this deed, a product page or any other estate document describes the upgra
 
 1. the Holder pays the upgrade fee under [12.1.14](#part-12-upgrade-tracks) and the costs of the procedure;
 2. *pemecahan sertifikat* at [[bpn|BPN]] — the Plot is split out of the master [[hgb|HGB]] as a separate parcel with its own certificate and *Surat Ukur*, and a new HGB certificate is issued to the Landowner for the remainder of the master parcel;
-3. *perubahan hak* over the split parcel from HGB to Hak Pakai, a foreign natural person being ineligible to hold HGB at any moment of the chain, and the Hak Pakai is registered in the Holder's name on the deed executed before the [[ppat|PPAT]].
+3. *pelepasan hak* — the Landowner surrenders its HGB over the split parcel, which thereby becomes *Tanah Negara*. [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 51(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-51--land-that-may-carry-hak-pakai) lists State land, *hak milik* land and *Hak Pengelolaan* land as the land that may carry a hak pakai for a term; HGB is not on that list, so a hak pakai cannot be carved directly out of the master HGB and the surrender is the step that makes the grant possible;
+4. grant of a fresh Hak Pakai over that State land in the Holder's name, registered on the deed executed before the [[ppat|PPAT]], a foreign natural person being ineligible to hold HGB at any moment of the chain.
+
+⚠ Between step 3 and step 4 the parcel is State land and neither party holds a registered right over it. The Landowner does not execute the *pelepasan* until the Holder's eligibility under [12.1.2](#part-12-upgrade-tracks) is confirmed in writing and the application for the grant is lodged, and the Landowner bears the risk and the cost of restoring its own position if the grant is refused.
 
 ⚠ The Landowner obtains the office's practice on the sequence in writing before the first application and annexes it as Annex K. Where the office requires a different order of the same steps, the order follows the office; the steps themselves do not change.
 
@@ -567,8 +570,9 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [2.2](#part-2-the-grant) | term | 25 years | leasehold upfront, instrument A | settled |
 | [2.2](#part-2-the-grant) | extension buffer | 18 months | framework [2.1](#part-2-the-grant) | proposed |
 | [3.1](#part-3-consideration) | minimum deposit, scheduled form | 30% | annual leasehold | settled |
-| [3.2](#part-3-consideration) | deferral fee | 0.5% + 5% × (1 − deposit) | annual leasehold, appendix B | settled |
-| [3.2](#part-3-consideration) | deferred balance rate | 3% real over Indonesian CPI; not linked to the century index | annual leasehold | settled |
+| [3.2](#part-3-consideration) | instalment periods | 1 year at price; 5 years at 115% | leasehold upfront | settled |
+| [3.2](#part-3-consideration) | minimum deposit | 30% of the elected price | leasehold upfront | settled |
+| [3.2](#part-3-consideration) | default on instalments | 30 days + 14-day cure, then termination, no refund | leasehold upfront | settled |
 | [3.3.1](#part-3-consideration) | recomputation window | 30 days | framework [2.3](#part-2-the-grant) | settled |
 | [3.5](#part-3-consideration) | Guarantee Fund share | 5% of consideration on each grant, assignment or upgrade | D4 | settled |
 | [4.3](#part-4-transfer) | notice of assignment | 7 days | framework [2.5.3](#part-2-the-grant) | settled |
@@ -652,6 +656,6 @@ Assembled from [[land-rights-agreement]] v0.4.3, which holds the reasoning for e
 
 Annex K, the written practice of the Kantor Pertanahan of Buleleng and counsel's confirmation under [12.1.13](#part-12-upgrade-tracks), is a new annex introduced by this revision and does not yet exist.
 
-Statutory sources relied on in Part [12.1](#part-12-upgrade-tracks): [[pp 18-2021 hak atas tanah|PP 18/2021]], Pasal 49(2)(e) and 69(1) for the eligibility of a foreign individual, Pasal 51 for the land that may carry a hak pakai, Pasal 52(1) for the term, read from the official PDF. The regulation runs to Pasal 104; an earlier draft of this deed cited a Pasal 142, which does not exist. Pasal 103 repeals PP 40/1996 and PP 103/2015, so any figure taken from those is out of date; Permen ATR/BPN 18/2021 on the procedure for establishing land rights, Pasal 187 and the surrounding articles for the modes by which a foreign national acquires; Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 for the minimum value, the area ceiling and the one-parcel limit. ⚠ Each is verified against JDIH and against the current practice of the office before execution; the figures above were read from secondary sources and not from the instruments themselves.
+Statutory sources relied on in Part [12.1](#part-12-upgrade-tracks): [[pp 18-2021 hak atas tanah|PP 18/2021]], Pasal 49(2)(e) and 69(1) for the eligibility of a foreign individual, Pasal 51 for the land that may carry a hak pakai — which is why the route runs through *pelepasan*, HGB not being on that list, Pasal 52(1) for the term, read from the official PDF. The regulation runs to Pasal 104; an earlier draft of this deed cited a Pasal 142, which does not exist. Pasal 103 repeals PP 40/1996 and PP 103/2015, so any figure taken from those is out of date; Permen ATR/BPN 18/2021 on the procedure for establishing land rights, Pasal 187 and the surrounding articles for the modes by which a foreign national acquires; Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 for the minimum value, the area ceiling and the one-parcel limit. ⚠ Each is verified against JDIH and against the current practice of the office before execution; the figures above were read from secondary sources and not from the instruments themselves.
 
 This is not legal advice. Every construction here is verified by the notary and PPAT before it enters a signable text.
