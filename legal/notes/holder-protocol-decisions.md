@@ -105,19 +105,21 @@ Variants: (a) as above · (b) keep "registered" with a qualification in small pr
 
 Recommending (a). Variant (b) is unacceptable: it is exactly the case where "looks right" replaces "is right".
 
-## D6 · A corridor in place of the illusion of a fix
+## D6 · No collar — the illusion of a fix, dropped honestly
 
 Problem: page B promises "fixed yearly rent, locked on day one", and the index does not work that way.
 
-Decision. Three steps:
+Decision. The collar and the corridor-narrowing product are dropped. Reasons: a cap needs a counterparty pricing the cap correctly, which turns a land deed into a derivatives desk — wrong complexity for this product, on both sides of the table.
 
-1. State what is actually fixed: the quantities qᵢ, the collar of +35/−15 per year, the double floor. Show the historical path from the backtest in the calculator, rather than only a smooth exponential.
-2. Sell the narrow-corridor option: the Holder may buy a narrowing of the annual collar — to +25/−10 or +20/−10 — for a premium on R₀, for a fixed 10 years, after which the collar reverts to +35/−15. The premium is priced from what the narrowing costs the Estate, never as a round percentage: on the 2020→2025 backtest in [[cyberia/protocol/century-index|century index]] §4 a ±20 percent corridor surrenders roughly a quarter of the index path. The Estate sells insurance, the Holder buys calm.
-3. Grant a right of early redemption: a Holder on B may at any time pay the remainder under the formula and become an A.
+What replaces it:
 
-Why win-win. The Estate gets a new product and early money. The Holder gets a choice between cheaper-with-risk and dearer-with-calm, instead of a promise that will not survive the first year.
+1. State what is actually fixed: the quantities qᵢ and the floor — nothing about the year-on-year move is fixed. Show the historical path from the backtest in the calculator, rather than only a smooth exponential.
+2. The floor alone is the promise: the Holder never pays less than year-0 value. Above the floor, the invoice moves with the basket, uncapped, both ways.
+3. Grant a right of early redemption: a Holder on the scheduled plan may at any time pay the remainder under the formula and become fully paid.
 
-Variants: (a) all three steps · (b) step 1 only · (c) steps 1 and 3.
+Why this is cleaner. One promise (the floor), not two products to explain and price against each other. No corridor pricing table, no re-election on extension, no argument about whose model of drift is right.
+
+Variants: (a) floor + early redemption · (b) floor only.
 
 Recommending (a).
 
@@ -225,7 +227,7 @@ Recommending (c): a cap at the amount paid plus the valuation of Improvements, w
 | D3 | charging with non-disturbance and notice | (a) the right survives, under conditions | ☐ | ☐ | ☐ |
 | D4 | guarantee fund of 5% in the century index | (a), moving to (d) above the threshold | ☐ | ☐ | ☐ |
 | D5 | drop "registered", sell the ladder | (a) | ☐ | ☐ | ☐ |
-| D6 | corridor, collar-narrowing option, early redemption | (a) all three steps | ☐ | ☐ | ☐ |
+| D6 | drop the collar, floor + early redemption | (a) | ☐ | ☐ | ☐ |
 | D7 | 10% per plot plus a market in density | (a), opening from the second wave | ☐ | ☐ | ☐ |
 | D8 | holding charge → buy-back → reversion | (a) | ☐ | ☐ | ☐ |
 | D9 | renewal as of right, compensation at valuation | (a) | ☐ | ☐ | ☐ |

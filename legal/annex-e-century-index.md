@@ -38,19 +38,17 @@ Every price enters as a trailing 365-day average of daily fixes. The index publi
 ## 3. Machine
 
     S(t) = I(t) / X(t)                              basket priced in bitcoin
-    R(t) = clamp( S(t), R(t−1) · [0.85, 1.35] )     collared in sats
-    floor: R(t) ≥ max( S₀, F / X(t) )               dual floor
+    floor: R(t) = max( S(t), S₀, F / X(t) )          dual floor, no cap
 
 | parameter | value |
 |---|---|
-| collar | +35% / −15% per year, in sats |
 | numéraire | BTC, fixes USD-quoted |
 | reset | annual anniversary; the TWAP window ends 30 days before payment |
 | settlement | IDR at [[jisdor|JISDOR]] on the invoice date, as [[uu 7-2011 mata uang|UU 7/2011]] requires |
 
-The collar meters the year-on-year move in satoshi. Conversion into the settlement currency happens after the collar and is never capped: a devaluation of the rupiah flows through in full, which is the point of denominating in the index at all.
+R(t) tracks the basket uncapped. Conversion into the settlement currency is never capped either: a devaluation of the rupiah flows through in full, which is the point of denominating in the index at all.
 
-The floor has two legs. The sat leg guarantees the Landowner no fewer satoshi than year 0. The fiat leg guarantees the year-0 dollar value. The Holder pays the higher of the two.
+The floor has two legs. The sat leg guarantees the Landowner no fewer satoshi than year 0. The fiat leg guarantees the year-0 dollar value. The Holder pays the higher of S(t) and the floor.
 
 ## 4. Quantities — completed at signing
 
@@ -75,9 +73,8 @@ Hypothetical year-1 TWAP fixes: BTC $75,000 · ETH $2,200 · GOLD $4,400 · CU $
 
 1. Mark the quantities to market: I(t₁) = Σ qᵢ · Pᵢ = **$108,503.30**
 2. Price in bitcoin: S(t₁) = 108,503.30 / 75,000 = **1.446711 BTC**
-3. Collar: [S₀ · 0.85, S₀ · 1.35] = [1.357264, 2.155654] → 1.446711 passes unclamped
-4. Dual floor: max(S₀ = 1.596781, F / X = 100,000 / 75,000 = 1.333333) = **1.596781 → the floor binds**
-5. R(t₁) = 1.596781 BTC = 159,678,089 sats, converted to IDR at JISDOR on the invoice date
+3. Dual floor: max(S₀ = 1.596781, F / X = 100,000 / 75,000 = 1.333333) = **1.596781 → the floor binds**
+4. R(t₁) = 1.596781 BTC = 159,678,089 sats, converted to IDR at JISDOR on the invoice date
 
 The worked example is part of the annex, not an illustration. Where a calculation is disputed, it is the template the parties follow.
 

@@ -8,7 +8,7 @@ icon: "🤝"
 ---
 # Shareholders' Agreement — PT. Cyber Valley Estate (merged draft)
 
-Working draft · CVE/SHA/2026-02 · supersedes nothing until executed
+Working draft of CVE/SHA/2026-01 · supersedes nothing until executed
 
 > Draft status. This merges the executed-form text of [[shareholders agreement]] with the machinery imported from the accountant's master template (`Master-Shareholder Agreement.pdf`, PT Smart Advisory Solutions). Article-by-article provenance is at the end. Not Indonesian legal advice — before signature have Indonesian-licensed counsel review Articles 8, 13 and 15.
 
@@ -16,7 +16,7 @@ English text · supplementary to [Articles 5](/cyber-valley/cve/legal/articles-o
 
 ## Parties
 
-This Agreement is made on [date] by and between: (1) ALISA VOINOVA, Deputy President Director-designate, holder of 3,940 shares; (2) DMITRY STARODUBTSEV, President Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, President Director-designate, holder of 80 shares; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it.
+This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Deputy President Director-designate, holder of 3,940 shares following the transfer referred to in paragraph 2; (2) DMITRY STARODUBTSEV, President Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, President Director-designate, holder of 80 shares following the transfer; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it.
 
 ## Preamble
 
@@ -85,7 +85,7 @@ This Article does not set CEO compensation — that is [[ceo]] only.
 
 1. On the death, permanent disability, terminal or mental illness of a Shareholder, the heirs or the legally authorised representatives of that Shareholder may elect either to keep the shares and accede to this Agreement under [Article 5(2)](/cyber-valley/cve/legal/articles-of-association#article-5-shares) of the [[articles of association|Articles of Association]], or to exit the Company.
 2. Where the election is to exit, the other Shareholders have a preferential right to purchase the shares, in proportion to their shareholding or as they otherwise agree among themselves. The election is notified to the other Shareholders under Article 12 of this Agreement and the preferential right is exercised within 60 (sixty) days of that notice.
-3. The price is the price agreed between the heirs and the purchasing Shareholders. Failing agreement within 30 (thirty) days of the election, the price is the fair market value of the shares determined by an independent valuer, being an accounting or valuation firm accepted by both sides or, failing acceptance, appointed by [[bani|BANI]] on the application of either side. The valuer's determination is final; its cost is shared equally.
+3. The price is the price agreed between the heirs and the purchasing Shareholders. Failing agreement within 30 (thirty) days of the election, the price is the fair market value of the shares determined by an independent public appraiser (Kantor Jasa Penilai Publik, licensed by the Ministry of Finance) agreed between the sides. Failing agreement within 14 (fourteen) days, each side nominates one such appraiser and the two nominees appoint a third, whose determination is final. The cost is shared equally.
 4. Until the shares are transferred or the preferential right lapses, the heirs or representatives exercise the voting rights attaching to the shares.
 
 ## Article 6 — No shareholder financing
@@ -103,7 +103,7 @@ This Article does not set CEO compensation — that is [[ceo]] only.
 ## Article 8 — Convening a general meeting
 
 1. Each Shareholder may request an extraordinary GMS by written notice to the other Shareholders and to the Board of Directors, stating the matters to be placed on the agenda. The request is sent under Article 12 of this Agreement; messaging applications are not a valid means of request.
-2. Each Shareholder shall procure that the Board of Directors issues the notice of the GMS within 15 (fifteen) days of receipt of the request ([[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 79(5)), and shall attend or be represented at that meeting so that the quorum under [Article 10](/cyber-valley/cve/legal/articles-of-association#article-10-quorum-voting-rights-and-resolutions-of-the-gms) of the [[articles of association|Articles of Association]] is met.
+2. Each Shareholder shall procure that the Board of Directors issues the notice of the GMS within the period required by law, and shall attend or be represented at that meeting so that the quorum under [Article 10](/cyber-valley/cve/legal/articles-of-association#article-10-quorum-voting-rights-and-resolutions-of-the-gms) of the [[articles of association|Articles of Association]] is met.
 3. Failure to procure the convening, or absence defeating the quorum twice on the same agenda, is a material breach of this Agreement.
 
 ## Article 9 — Warranties
@@ -140,7 +140,7 @@ A Shareholder that ceases to satisfy paragraph (2) or (3) shall notify the other
 
 1. The Shareholders shall use their best efforts to settle amicably any dispute arising out of or in connection with this Agreement, including as to its existence, validity or termination.
 2. Failing settlement within 30 (thirty) days of written notice of the dispute, the dispute is finally resolved by arbitration administered by [[bani|BANI]] under its rules in force when the arbitration commences.
-3. Seat: Denpasar, Bali. Language: English, with a sworn Indonesian translation of the award and key documents arranged by the party seeking enforcement where required locally. Arbitrators: one, or three where the amount in dispute exceeds Rp 5,000,000,000.00. Failing agreement on a sole arbitrator within 10 (ten) days, each side appoints one arbitrator and those two appoint a third, who chairs.
+3. Seat: Denpasar, Bali. Language: English, with a sworn Indonesian translation of the award and key documents arranged by the party seeking enforcement where required locally. Arbitrators: [one (1) / three (3)] under the BANI rules, elected at signing as in [[director-disclosure-indemnity-agreement]] Art 11.3. Where three are elected and the dispute has two sides, each side appoints one and those two appoint a third, who chairs. Where the dispute has more than two sides — including a dispute among all three Shareholders — all arbitrators are appointed by BANI on the application of any Shareholder.
 4. The award is final and binding. Costs are shared equally unless the tribunal directs otherwise.
 5. This Article is severable from the rest of this Agreement and survives its termination.
 6. Nothing in this Article prevents a Shareholder from seeking urgent interim relief from a court of competent jurisdiction pending the tribunal's decision. Title to, and registration of, land is in all cases governed by Indonesian law and subject to the competent Indonesian land and court authorities.
@@ -164,7 +164,7 @@ A Shareholder that ceases to satisfy paragraph (2) or (3) shall notify the other
 
 ## Article 17 — Non-waiver
 
-1. Failure or delay in enforcing a provision of this Agreement does not waive that provision or the right to enforce it later. In particular, a distribution not demanded in one or more cycles under Article 4 does not vary the cadence set by that Article.
+1. Failure or delay in enforcing a provision of this Agreement does not waive that provision or the right to enforce it later. In particular, a distribution not resolved in one or more cycles under Article 4 does not vary the cadence set by that Article.
 2. A waiver is effective only if in writing signed by the waiving Shareholder, and a waiver on one occasion is not a waiver on any other.
 3. Rights and remedies under this Agreement are cumulative and additional to those available at law.
 
@@ -186,6 +186,7 @@ A Shareholder that ceases to satisfy paragraph (2) or (3) shall notify the other
 | [[director-disclosure-indemnity-agreement]] | owners' disclosure and indemnity to the incoming Director |
 | [[land-rights-agreement]] | land instruments |
 | [[preemption waiver letter]] | waiver for specific transfers |
+| [[gms director appointment]] | circular resolution appointing the Board of Directors |
 
 ## Provenance
 
