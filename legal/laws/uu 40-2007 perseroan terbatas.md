@@ -59,4 +59,4 @@ These two are the basis on which a director can be held personally liable — an
 
 Relied on by: [[gms director appointment]].
 
-Shareholders may adopt binding resolutions outside a meeting, provided all shareholders are notified in writing and all approve and sign. This is the basis of the Sirkular used for the CEO entry package.
+Shareholders may adopt binding resolutions outside a meeting, provided all shareholders are notified in writing and all approve and sign. This is the basis of the Sirkular used for the President Director entry package.

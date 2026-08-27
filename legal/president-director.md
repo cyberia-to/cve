@@ -1,20 +1,20 @@
 ---
-tags: cyber valley, cyberia, legal, ceo, offer, draft, dzin
-alias: cve ceo, ceo offer, ceo agreement, ceo pack, ceo commissions, ceo commissions addendum
+tags: cyber valley, cyberia, legal, president director, offer, draft, dzin
+alias: president director, presdir, cve ceo, ceo, ceo offer, ceo agreement, ceo pack, ceo commissions, ceo commissions addendum
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article
 icon: "🧭"
 ---
-# CEO — PT Cyber Valley Estate
+# President Director — PT Cyber Valley Estate
 
 > **Offer / agreement (one text).** Draft for discussion until signed.  
 > No separate economics annex, no open-items sheet, no long legal novel.
 
 **Company.** PT Cyber Valley Estate ([[pma|PMA]]).  
-**Mandate.** CEO who grows a **network of cities in Indonesia**, starting from **~37 ha** on **Sanghyang** (Bali): **Bali North Star / Cyber Valley** — nature × technology; mountain tourism + quality of life as tech hub.
+**Mandate.** President Director (**PD** below — per GMS the office is President Director; there is no PD title) who grows a **network of cities in Indonesia**, starting from **~37 ha** on **Sanghyang** (Bali): **Bali North Star / Cyber Valley** — nature × technology; mountain tourism + quality of life as tech hub.
 
-**Job in one line.** Capitalise the structure and **decentralise ownership** so **founders (DS + AV) residual ≈ 10%**, with blocks in Indonesian hands, foreign hands (Cyberia holding), and residual for founders + CEO — without wrecking valuation.
+**Job in one line.** Capitalise the structure and **decentralise ownership** so **founders (DS + AV) residual ≈ 10%**, with blocks in Indonesian hands, foreign hands (Cyberia holding), and residual for founders + PD — without wrecking valuation.
 
 ---
 
@@ -31,7 +31,7 @@ Cannot unglue:
 No completed purchase → **no President Director**. No appointment → **sale does not complete**.
 
 Same-day package with [[shareholders agreement]] accession as needed; the price actually paid for the entry stake is receipted in the [[entry payment side letter]].  
-This page is **how the CEO works and is paid in options + ladder** after entry. Entry itself is GMS + share sale.
+This page is **how the PD works and is paid in options + ladder** after entry. Entry itself is GMS + share sale.
 
 ---
 
@@ -63,7 +63,7 @@ Revenue lands on **strategic** only. No silent mixing.
 
 Once per month (or written circular):
 
-- CEO tables **proposals** (props) for strategic spend and material decisions  
+- PD tables **proposals** (props) for strategic spend and material decisions  
 - **One commissioner** approval is enough  
 - Ops inside the approved monthly envelope needs no commissioner each time  
 
@@ -83,7 +83,7 @@ Once per month (or written circular):
 |---|---|
 | **Below market** | Any **[[hgb|HGB]]** or **hak sewa** below market needs **commissioner** approval |
 | **Market floor** | **USD 3,000 / are (sotka)** — under this = below market unless commissioner signs |
-| **No mortgage** | CEO **cannot** pledge or mortgage Company (or controlled [[spv|SPV]]) **real estate** for loans |
+| **No mortgage** | PD **cannot** pledge or mortgage Company (or controlled [[spv|SPV]]) **real estate** for loans |
 
 ---
 
@@ -96,9 +96,9 @@ Once per month (or written circular):
 | **Tranche A** | **5%** · exercise within **2 years** of start |
 | **Tranche B** | **5%** · exercise within **7 years** of start |
 | **Independence** | Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
-| **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of CEO and founders |
+| **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of PD and founders |
 | **Source** | **only sale/transfer from founders** — **no new share issue** for this package. Option shares count against the cumulative total on the [§7](#7-kpi-ladder--ds--av--10-founders--company--1b) ladder, so the founders' ~10% residual is measured after both the ladder and this package |
-| **[[rofr|ROFR]]** | Transfers of option shares under this [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) follow [[shareholders agreement]] Article 1: the other Shareholders have a **3 (three) day** window to take up the shares first; once it passes unexercised, the transfer to the CEO proceeds |
+| **[[rofr|ROFR]]** | Transfers of option shares under this [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) follow [[shareholders agreement]] Article 1: the other Shareholders have a **3 (three) day** window to take up the shares first; once it passes unexercised, the transfer to the PD proceeds |
 
 Options ≠ KPI ladder ([§7](#7-kpi-ladder-ds-av-10-founders-company-1b)). Personal upside for the chair; shares come from founders’ holdings, not dilution by print.
 
@@ -119,12 +119,12 @@ Options ≠ KPI ladder ([§7](#7-kpi-ladder-ds-av-10-founders-company-1b)). Pers
 | | |
 |---|---|
 | **Package** | `step` of company equity leaving founders |
-| **CEO** | **10% × step** (equity) |
+| **PD** | **10% × step** (equity) |
 | **Buyers** | **90% × step** (pay cash) |
 | **Cash** | `0.90 × step × val` |
 
-**Seed (1% @ $4M):** no CEO cut · cash = `1% × val` · not a CEO sale.  
-**First CEO sale:** **10%** cum. @ **$10M**.
+**Seed (1% @ $4M):** no PD cut · cash = `1% × val` · not a PD sale.  
+**First PD sale:** **10%** cum. @ **$10M**.
 
 ### Target hands
 
@@ -133,11 +133,11 @@ Options ≠ KPI ladder ([§7](#7-kpi-ladder-ds-av-10-founders-company-1b)). Pers
 | Package 1 | Indonesian holders |
 | Package 2 | Foreign / Cyberia holding |
 | Residual ~10% | Founders |
-| CEO | ladder ~**8.9%** + options ≤10% @ $4M from founders — **both inside the 90% that leaves founders, never on top of it** |
+| PD | ladder ~**8.9%** + options ≤10% @ $4M from founders — **both inside the 90% that leaves founders, never on top of it** |
 
 ### Table
 
-| sold cum. | step | val (USD) | CEO step | CEO cum. | cash step (USD) |
+| sold cum. | step | val (USD) | PD step | PD cum. | cash step (USD) |
 |---:|---:|---:|---:|---:|---:|
 | **1%** | 1% | **4,000,000** | **—** | **0%** | **40,000** |
 | **10%** | 9% | **10,000,000** | **0.90%** | **0.90%** | **810,000** |
@@ -157,12 +157,12 @@ Between rows: log-interpolate val.
 
 ## 8. Exit
 
-Shares held by the CEO are ordinary shares under the [[articles of association]] and the [[shareholders agreement]] — [[rofr|ROFR]] and tag-along apply to any sale, the same as for every shareholder.
+Shares held by the PD are ordinary shares under the [[articles of association]] and the [[shareholders agreement]] — [[rofr|ROFR]] and tag-along apply to any sale, the same as for every shareholder.
 
 | trigger | rule |
 |---|---|
-| **Removal from Director office** (by resolution of the shareholders) | Removal takes effect **immediately** and ends the office — nothing more. **No buyout, no buyback**: every share the CEO owns — the entry stake, exercised option shares, ladder equity — stays his, as ordinary shares under the rules above. Cause of removal changes nothing. |
-| **CEO's own decision to leave** | Same treatment: he keeps everything he owns, and may hold the shares and receive dividends, or sell — founders and other shareholders first under the [[rofr|ROFR]], then third parties. |
+| **Removal from Director office** (by resolution of the shareholders) | Removal takes effect **immediately** and ends the office — nothing more. **No buyout, no buyback**: every share the PD owns — the entry stake, exercised option shares, ladder equity — stays his, as ordinary shares under the rules above. Cause of removal changes nothing. |
+| **PD's own decision to leave** | Same treatment: he keeps everything he owns, and may hold the shares and receive dividends, or sell — founders and other shareholders first under the [[rofr|ROFR]], then third parties. |
 | **Unexercised options** | Lapse on departure, however it comes. Exercised options are shares already, and stay. |
 | **Commissions & fees** | Survive departure per [§17](#17-survival-after-departure), on their own terms. |
 
@@ -173,13 +173,13 @@ Shares held by the CEO are ordinary shares under the [[articles of association]]
 Cash economics of the role — one page, no separate annex. Survival on
 departure per [§17](#17-survival-after-departure).
 
-**"Management company"** — in [9.3](#9-3-asset-management) below, any entity CEO participates in
+**"Management company"** — in [9.3](#9-3-asset-management) below, any entity PD participates in
 that delivers on-site management of the estate's assets. Fees earned by such a company under
 the [[property management]] offer belong to that company on the offer's terms.
 
 ### 9.1 Land-deal closing commission
 
-Only for deals CEO closes himself. CEO is entitled to participate in the
+Only for deals PD closes himself. PD is entitled to participate in the
 estate-wide [[leasehold referrals]] program on the same terms as any other
 referrer — 10% of amounts the Company actually receives, never the contract
 sum — and holds no exclusivity: the program stays open to everyone, with no
@@ -190,14 +190,14 @@ the strategic account ([§2](#2-dual-accounts)).
 
 | | |
 |---|---|
-| **Trigger** | capital invested into the Company, sourced or introduced by CEO |
-| **Fee** | **5%** of the amount actually invested and received by the Company, payable to CEO |
+| **Trigger** | capital invested into the Company, sourced or introduced by PD |
+| **Fee** | **5%** of the amount actually invested and received by the Company, payable to PD |
 | **Scope** | cash fee on capital introduction only — does not touch the cap table or the [§7 KPI ladder](#7-kpi-ladder-ds-av-10-founders-company-1b) |
 | **Payable** | on receipt of funds |
 
 ### 9.3 Asset management
 
-CEO is entitled to participate in companies that manage the estate's assets —
+PD is entitled to participate in companies that manage the estate's assets —
 on the same footing as any other bidder. Management companies are appointed by
 open tender, with no exclusivity attached to the role; deep-infrastructure
 tenders (energy, water, data, computing, robotics) follow the same rule. The
@@ -208,7 +208,7 @@ glamping at 30% of revenue actually received — is published at
 ### 9.4 Monthly salary — revenue ladder
 
 Salary follows cumulative revenue actually received by the Company since
-CEO's appointment. A ladder, not a discretionary number:
+PD's appointment. A ladder, not a discretionary number:
 
 | cumulative revenue since appointment | monthly salary |
 |---|---|
@@ -246,7 +246,7 @@ multi-page indemnification.
 | PT Cyber Valley Estate | company | |
 | Commissioners | strategic gate | |
 | Founders (DS / AV) | option sellers | |
-| CEO | offer | |
+| President Director | offer | |
 
 Draft until signed.
 
@@ -265,8 +265,8 @@ Draft until signed.
 
 | | |
 |---|---|
-| **Shield** | CEO bears no contractual liability to the Company or Shareholders for acts, obligations, breaches or facts arising **before** the date of appointment, unless CEO personally participated in them |
-| **Basis** | Company and Shareholders confirm disclosure to CEO of all known material debts, contracts (incl. MoUs, side letters, material oral arrangements), guarantees, judicial/administrative proceedings, tax exposure, land encumbrances, related-party arrangements and other liabilities as of the appointment date |
+| **Shield** | PD bears no contractual liability to the Company or Shareholders for acts, obligations, breaches or facts arising **before** the date of appointment, unless PD personally participated in them |
+| **Basis** | Company and Shareholders confirm disclosure to PD of all known material debts, contracts (incl. MoUs, side letters, material oral arrangements), guarantees, judicial/administrative proceedings, tax exposure, land encumbrances, related-party arrangements and other liabilities as of the appointment date |
 
 ---
 
@@ -274,9 +274,9 @@ Draft until signed.
 
 | | |
 |---|---|
-| **Scope** | Company advances CEO's reasonable legal defence costs, and indemnifies CEO, for third-party claims (incl. tax penalties/interest) traceable to (a) facts pre-dating appointment, (b) inaccuracy of the [§12](#12-pre-appointment-liability) disclosure, or (c) an error or omission by the Company's appointed accountant/tax adviser where CEO relied on them in good faith with no actual knowledge of the error — to the extent permitted by Indonesian law, save for CEO's own fraud, wilful misconduct or gross negligence |
+| **Scope** | Company advances PD's reasonable legal defence costs, and indemnifies PD, for third-party claims (incl. tax penalties/interest) traceable to (a) facts pre-dating appointment, (b) inaccuracy of the [§12](#12-pre-appointment-liability) disclosure, or (c) an error or omission by the Company's appointed accountant/tax adviser where PD relied on them in good faith with no actual knowledge of the error — to the extent permitted by Indonesian law, save for PD's own fraud, wilful misconduct or gross negligence |
 | **Advance, not reimbursement** | Costs are advanced as incurred, not repaid after the fact |
-| **Carve-out from [§9](#9-commissions-salary-asset-management)** | Narrows, not reopens, [§9](#9-commissions-salary-asset-management)'s residual exclusion of "multi-page indemnification" — a single-purpose defence-cost clause, not general indemnity for CEO's own acts in office |
+| **Carve-out from [§9](#9-commissions-salary-asset-management)** | Narrows, not reopens, [§9](#9-commissions-salary-asset-management)'s residual exclusion of "multi-page indemnification" — a single-purpose defence-cost clause, not general indemnity for PD's own acts in office |
 
 ---
 
@@ -284,7 +284,7 @@ Draft until signed.
 
 | | |
 |---|---|
-| **Refusal** | CEO may decline to execute any instruction or sign any transaction that shows reasonable signs of illegality, lack of required corporate authority, or unjustified personal-liability risk to CEO |
+| **Refusal** | PD may decline to execute any instruction or sign any transaction that shows reasonable signs of illegality, lack of required corporate authority, or unjustified personal-liability risk to PD |
 | **Documentation** | Material shareholder instructions outside ordinary operations must be given in writing |
 
 ---
@@ -293,7 +293,7 @@ Draft until signed.
 
 | | |
 |---|---|
-| **Prohibited** | Unjustified dilution of CEO's stake; artificial suppression of company value ahead of termination; below-market transfer of land, projects or other assets to related parties; manufactured debt or obligations — any act aimed at defeating CEO's economic rights under this page |
+| **Prohibited** | Unjustified dilution of PD's stake; artificial suppression of company value ahead of termination; below-market transfer of land, projects or other assets to related parties; manufactured debt or obligations — any act aimed at defeating PD's economic rights under this page |
 | **Remedy** | Value for [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) options and [§7](#7-kpi-ladder-ds-av-10-founders-company-1b) ladder is computed **as if** the prohibited act had not occurred |
 
 ---
@@ -303,7 +303,7 @@ Draft until signed.
 | | |
 |---|---|
 | **Trigger** | Sale of the Company, or of a controlling stake, to a third party. Sales of land, plots or individual projects are the Company's ordinary business and are not a change of control |
-| **CEO rights** | Tag-along already applies as an ordinary shareholder ([[shareholders agreement]] Art. 2); unvested [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) options accelerate to fully vested; unbanked [§7](#7-kpi-ladder-ds-av-10-founders-company-1b) ladder steps in progress at signing are paid out at the transaction valuation |
+| **PD rights** | Tag-along already applies as an ordinary shareholder ([[shareholders agreement]] Art. 2); unvested [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) options accelerate to fully vested; unbanked [§7](#7-kpi-ladder-ds-av-10-founders-company-1b) ladder steps in progress at signing are paid out at the transaction valuation |
 
 ---
 
@@ -311,8 +311,8 @@ Draft until signed.
 
 | | |
 |---|---|
-| **Survival** | [§12](#12-pre-appointment-liability) shield and [§13](#13-legal-defence-narrow-indemnification) defence-cost advance continue after CEO's departure, for the periods they cover, regardless of when a claim is brought |
-| **Acts in office** | Extends to CEO's good-faith acts within authority under [§14](#14-right-to-refuse) while in office, on the same defence-cost-advance basis as [§13](#13-legal-defence-narrow-indemnification) |
-| **[[do|D&O]] cover** | Company maintains directors & officers insurance naming CEO, continuing for a tail period after departure |
+| **Survival** | [§12](#12-pre-appointment-liability) shield and [§13](#13-legal-defence-narrow-indemnification) defence-cost advance continue after PD's departure, for the periods they cover, regardless of when a claim is brought |
+| **Acts in office** | Extends to PD's good-faith acts within authority under [§14](#14-right-to-refuse) while in office, on the same defence-cost-advance basis as [§13](#13-legal-defence-narrow-indemnification) |
+| **[[do|D&O]] cover** | Company maintains directors & officers insurance naming PD, continuing for a tail period after departure |
 | **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission under [§9](#9-commissions-salary-asset-management) survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
 

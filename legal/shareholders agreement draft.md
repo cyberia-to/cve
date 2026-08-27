@@ -31,7 +31,7 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Depu
 2. Within 3 (three) days of the date of the Offer Notice, the other Shareholders shall have the right — but not the obligation — to purchase all (not part) of the offered shares at the same price and on the same terms, in proportion to their shareholding or as they otherwise agree among themselves (the "Matching Right").
 3. If the Matching Right is not exercised over all of the offered shares within that period, the Selling Shareholder may sell the offered shares to a third party within the following 60 (sixty) days, at a price no lower and on terms no more favourable to the buyer than those stated in the Offer Notice, subject to Article 3 of this Agreement and [Article 5(2)](/cyber-valley/cve/legal/articles-of-association#article-5-shares) and [7(8)](/cyber-valley/cve/legal/articles-of-association#article-7-transfer-of-shares) of the [[articles of association|Articles of Association]].
 4. If the sale to a third party is not completed within the 60 (sixty)-day period referred to in paragraph (3), the Matching Right procedure under this Article resets and applies in full before the Selling Shareholder may re-offer its shares.
-5. A transfer of shares from a Shareholder to the CEO implementing the option package under [[ceo]] [§6](/cyber-valley/cve/legal/ceo#6-options-up-to-10-at-4m-sale-from-founders-only) is subject to this Article. The other Shareholders keep the Matching Right and have the 3 (three) day window under paragraph 2 to take up the shares first; where the window passes unexercised, the transfer to the CEO proceeds and no further approval under this Article is required.
+5. A transfer of shares from a Shareholder to the President Director implementing the option package under [[president director]] [§6](/cyber-valley/cve/legal/president-director#6-options-up-to-10-at-4m-sale-from-founders-only) is subject to this Article. The other Shareholders keep the Matching Right and have the 3 (three) day window under paragraph 2 to take up the shares first; where the window passes unexercised, the transfer to the President Director proceeds and no further approval under this Article is required.
 
 ## Article 2 — Tag-along rights
 
@@ -53,7 +53,7 @@ Cash received by the Company is applied in the following order before any amount
 
 1. taxes and mandatory payments;
 2. direct costs of the relevant transaction or project;
-3. the approved operating moonly budget (including the operational account under [[ceo]]);
+3. the approved operating moonly budget (including the operational account under [[president director]]);
 4. **distributable cash** — dividends or other distributions to Shareholders.
 
 **Cadence.** Distributable cash under item 4 is distributed to the Shareholders every moon cycle (one new moon to the next), and in no event less often than once per calendar quarter, as an interim dividend permitted by [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72. Distribution is the rule between the Shareholders; retention is the exception and requires their unanimous written agreement.
@@ -80,7 +80,7 @@ The figures are certified by the Company's accountant; the tests are arithmetic,
 
 **Enforcement.** Withholding approval where no test has failed and the unforeseen-circumstance paragraph does not apply is a material breach of this Agreement, actionable by any Shareholder against the withholding party for the dividend so withheld.
 
-This Article does not set CEO compensation — that is [[ceo]] only.
+This Article does not set President Director compensation — that is [[president director]] only.
 
 ## Article 5 — Accession and eligibility
 
@@ -195,8 +195,8 @@ A Shareholder that ceases to satisfy paragraph (2) or (3) shall notify the other
 | instrument | what it carries |
 |---|---|
 | [[articles of association]] | the constitution; prevails on any matter binding the Company or third parties |
-| [[ceo]] | ops, options, KPI ladder |
-| [[ceo]] §9 | land commissions, raise fee, asset management, salary ladder |
+| [[president director]] | ops, options, KPI ladder |
+| [[president director]] §9 | land commissions, raise fee, asset management, salary ladder |
 | [[entry payment side letter]] | receipt and repayment undertaking between Voinova and Fedorov |
 | [[share sale entry]] | the 80-share transfer at par |
 | [[director-disclosure-indemnity-agreement]] | owners' disclosure and indemnity to the incoming Director |

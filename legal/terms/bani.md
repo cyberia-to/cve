@@ -12,7 +12,7 @@ Indonesia's principal arbitration institution.
 
 ## Where it appears
 
-[[ceo]] §11 (disputes), [[land-rights-agreement]] §11.
+[[president director]] §11 (disputes), [[land-rights-agreement]] §11.
 
 ## Why it matters
 
