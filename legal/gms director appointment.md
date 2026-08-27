@@ -39,10 +39,10 @@ Effective only upon Closing under [§4](#4-closing-single-condition-package):
 | person | office |
 |---|---|
 | **Oleksandr Fedorov** | appointed **President Director** for the term under the Articles |
-| **Alisa Voinova** | resigns as Director; appointed **Deputy President Director** |
-| **Dmitry Starodubtsev** | designated **President Commissioner** |
+| **Alisa Voinova** | Director; appointed **Deputy President Director** |
+| **Dmitry Starodubtsev** | remains **President Commissioner** |
 
-One person may not sit on both organs; Voinova's seat on the Board of Commissioners ends as her seat on the Board of Directors begins. The Board of Commissioners continues with Starodubtsev as its sole member under Articles 15(4).
+One person may not sit on both organs. Voinova sits on the Board of Directors before and after Closing; her office changes to Deputy President Director. The composition of the Board of Commissioners does not change: Starodubtsev continues as its sole member under Articles 15(4).
 
 **3.2 Dual accounts.**  
 To confirm the dual-account regime in [[president director]] [§§2–4](/cyber-valley/cve/legal/president-director#2-dual-accounts): strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **one Commissioner or the Deputy President Director**; monthly funding transfer strategic → operational.
@@ -79,8 +79,8 @@ Neither side may demand performance of one without the other.
 
 | | |
 |---|---|
-| Alisa Voinova | shareholder / President Commissioner (until Closing); Deputy President Director from Closing |
-| Dmitry Starodubtsev | shareholder / President Commissioner from Closing |
+| Alisa Voinova | shareholder / Director (until Closing); Deputy President Director from Closing |
+| Dmitry Starodubtsev | shareholder / President Commissioner |
 | Oleksandr Fedorov | accepts the office of President Director **at Closing only** |
 
 Bahasa Indonesia prevails on the notarial form if executed bilingually.
