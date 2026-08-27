@@ -224,7 +224,10 @@ the strategic account ([§2](#2-dual-accounts)).
 The PD is entitled to participate in companies that manage the estate's assets —
 on the same footing as any other bidder. Management companies are appointed by
 open tender, with no exclusivity attached to the role; deep-infrastructure
-tenders (energy, water, data, computing, robotics) follow the same rule. The
+tenders (energy, water, data, computing, robotics) follow the same rule.
+**First two years from the PD's appointment: a tender is not obligatory** —
+operators may be appointed directly, to simplify and speed up development;
+the open-tender rule binds after that. The
 current offer — [[carrot house]], [[banya]], [[soft]], [[satoshi]] and
 glamping at 30% of revenue actually received — is published at
 [[property management]].
