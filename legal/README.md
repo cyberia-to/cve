@@ -27,7 +27,7 @@ Corporate pack index: [[dzin]] · company page: [[cve]]
 |-----|------|
 | [[articles of association]] | Anggaran Dasar (bilingual text: [[articles of association.bilingual]]) |
 | [[preemption waiver letter]] | waiver for specific transfers |
-| [strategy](/cyber-valley/strategy/README) | what the estate sells and how it sequences (not shareholder cash split) |
+| [strategy](/cyber-valley/strategy/) | what the estate sells and how it sequences (not shareholder cash split) |
 
 ## Land
 
