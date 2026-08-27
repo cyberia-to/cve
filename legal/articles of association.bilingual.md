@@ -10,7 +10,7 @@ icon: "📜"
 
 Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07-2025
 
-> The Bahasa Indonesia column for Articles 1–2, 4, 6–11, 13–20 is the language of Akta Pendirian No. 01 (04 January 2022), notary Dewa Ayu Agung Dewi Utami, S.H., M.Kn. Articles 3, 5 and 12 carry amended or new text, marked ⚠, pending review by Indonesian-licensed counsel and the notary. The notarial deed is the executable instrument.
+> The Bahasa Indonesia column for Articles 1–4, 6–11, 13–20 is the language of the notarial deeds — Akta Pendirian No. 01 (04 January 2022) for the unamended Articles, Akta Pernyataan Keputusan Rapat No. 02 (01 July 2025) for Article 3. Articles 5 and 12 carry amended or new text, marked ⚠, pending review by Indonesian-licensed counsel and the notary. The notarial deed is the executable instrument.
 
 ## Pasal 1 — Nama dan Tempat Kedudukan
 
@@ -29,8 +29,8 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 | Bahasa Indonesia | English |
 |---|---|
-| ⚠ 1. Maksud dan tujuan Perseroan ialah: a. Real Estat Yang Dimiliki Sendiri Atau Disewa (KBLI 68111); b. Real Estat Atas Dasar Balas Jasa (Fee) Atau Kontrak (KBLI 68200); c. Penyediaan Akomodasi Jangka Pendek Lainnya (KBLI 55199); d. Restoran (KBLI 56101); e. Aktivitas SPA (KBLI 96122); f. Aktivitas Perusahaan Penyelenggara Pertemuan (KBLI 82302); g. Bumi Perkemahan, Karavan, Dan Taman Karavan (KBLI 55192); h. Aktivitas Hiburan Dan Rekreasi Lainnya (KBLI 93299). | 1. The purpose and objectives of the Company are: a. Real estate owned or leased (KBLI 68111); b. Real estate on a fee or contract basis (KBLI 68200); c. Other short-term accommodation (KBLI 55199); d. Restaurant (KBLI 56101); e. SPA activities (Sante Par Aqua) (KBLI 96122); f. Special event organiser services (KBLI 82302); g. Campgrounds, caravan stops and caravan parks (KBLI 55192); h. Other amusement and recreation activities n.e.c. (KBLI 93299). |
-| ⚠ 2. Untuk mencapai maksud dan tujuan tersebut di atas, Perseroan melaksanakan kegiatan usaha sesuai dengan uraian masing-masing KBLI sebagaimana termuat dalam Akta Pernyataan Keputusan Rapat No. 02 tanggal 1 Juli 2025. | 2. To achieve the above purpose and objectives, the Company carries out business activities in accordance with the description of each KBLI as set out in Deed of Meeting Resolutions No. 02 dated 1 July 2025. |
+| 1. Maksud dan tujuan Perseroan ialah: a. Real Estat Yang Dimiliki Sendiri Atau Disewa (KBLI 68111); b. Real Estat Atas Dasar Balas Jasa (Fee) Atau Kontrak (KBLI 68200); c. Penyediaan Akomodasi Jangka Pendek Lainnya (KBLI 55199); d. Restoran (KBLI 56101); e. Aktivitas SPA (Sante Par Aqua) (KBLI 96122); f. Jasa Penyelenggara Event Khusus (Special Event) (KBLI 82302); g. Bumi Perkemahan, Persinggahan Karavan dan Taman Karavan (KBLI 55192); h. Aktivitas Hiburan dan Rekreasi Lainnya Ytdl (KBLI 93299). | 1. The purpose and objectives of the Company are: a. Real estate owned or leased (KBLI 68111); b. Real estate on a fee or contract basis (KBLI 68200); c. Other short-term accommodation (KBLI 55199); d. Restaurant (KBLI 56101); e. SPA activities (Sante Par Aqua) (KBLI 96122); f. Special event organiser services (KBLI 82302); g. Campgrounds, caravan stops and caravan parks (KBLI 55192); h. Other amusement and recreation activities n.e.c. (KBLI 93299). |
+| 2. Untuk mencapai maksud dan tujuan tersebut, Perseroan melaksanakan kegiatan usaha sesuai uraian masing-masing KBLI sebagaimana dimuat dalam Akta Pernyataan Keputusan Rapat No. 02 tanggal 01-07-2025. | 2. To achieve the above purpose and objectives, the Company carries out business activities in accordance with the description of each KBLI as set out in Deed of Meeting Resolutions No. 02 dated 1 July 2025. |
 
 ## Pasal 4 — Modal
 
