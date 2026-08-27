@@ -57,13 +57,13 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 2.1 Grant. The Landowner grants the Holder the right to use and occupy the Plot for [residential / mixed] purposes for the Term.
 
-2.2 Term. ▲ The Term is the lesser of 25 years and the remaining term of the Title at signing, less a buffer of 18 months for the extension procedure. It is stated in the recitals as a date.
+2.2 Term. ▲ The Term is the lesser of 25 years and the remaining term of the Title at signing, less a buffer of 12 months for the extension procedure — matching the filing deadline [15.6](#part-15-title-warranties-negative-pledge-indemnity) sets for the Landowner, so the buffer costs the Holder no more term than the procedure it covers actually needs. It is stated in the recitals as a date.
 
 2.2.1 Automatic extension. On each *perpanjangan* or *pembaruan* of the Title, this deed extends by the lesser of 25 years and the new remaining term less the same buffer, without further consideration beyond the price formula in Annex E and without renegotiation.
 
 2.2.2 Extension covenant. ▲ The Landowner applies for extension and, where extension is exhausted, for renewal of each Title within the windows [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 41 allows, pursues each application diligently at its own cost, and reports progress in the Register. The outcome is not warranted: after the extension cycle the land returns to the State and the former holder holds a priority on stated conditions under Pasal 37(4), not a right. The recitals state for the Plot the date to which the Term is certain and the date to which it depends on renewal.
 
-2.2.3 ⚠ Acquisitions run 2022–2024 and the [[hgb|HGB]] cycle of 30 + 20 years reaches approximately 2072–2074, while 25 + 25 years from 2026 reaches 2076. The lease outruns the title by two to four years. The buffer in [2.2](#part-2-the-grant) and the duty in [15.6](#part-15-title-warranties-negative-pledge-indemnity) exist for this. Counsel confirms the arithmetic against each certificate before execution.
+2.2.3 ⚠ The buffer in [2.2](#part-2-the-grant) makes the opposite true by construction: the Term can never reach 25 + 25 years, and never outruns the Title. On a Title granted in 2022 (30-year HGB, expiring 2052), signing in 2026 leaves 26 years less the 12-month buffer — Term 1 = 25 years, to 2051. Extending the Title to 2072 leaves 21 years at that point less the buffer — Term 2 = 20 years, to 2071, a year inside the Title. The true, undisclosed effect: the second Term is shorter than the first by the amount the buffer removes, so "25 + 25" is not a figure the deed can deliver on any parcel; the real number depends on the grant date of each Title and is computed per certificate. Counsel confirms the arithmetic against each certificate before execution.
 
 2.3 Nature of the right. ▲ ⚠ Hak sewa is a contractual right under Indonesian civil law. It is not registered at [[bpn|BPN]], does not appear on the certificate, and is stated in the recitals in those words. No marketing material describes this instrument as a registered lease.
 
@@ -568,7 +568,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | clause | figure | value | source | status |
 |---|---|---|---|---|
 | [2.2](#part-2-the-grant) | term | 25 years | leasehold upfront, instrument A | settled |
-| [2.2](#part-2-the-grant) | extension buffer | 18 months | framework [2.1](#part-2-the-grant) | proposed |
+| [2.2](#part-2-the-grant) | extension buffer | 12 months, matching the [15.6](#part-15-title-warranties-negative-pledge-indemnity) filing deadline | framework [2.1](#part-2-the-grant) | settled |
 | [3.1](#part-3-consideration) | minimum deposit, scheduled form | 30% | annual leasehold | settled |
 | [3.2](#part-3-consideration) | instalment periods | 1 year at price; 5 years at 115% | leasehold upfront | settled |
 | [3.2](#part-3-consideration) | minimum deposit | 30% of the elected price | leasehold upfront | settled |
