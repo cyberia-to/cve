@@ -62,11 +62,13 @@ Variants: (a) public register with personal data kept private, the state of a le
 
 Recommending (a).
 
-## D3 · Security over land without fear
+## D3 · Security over land without fear — superseded
 
-Problem: `Pasal 12(3)(b)` of the Articles expressly permits the Company to charge [[hgb|HGB]] and Hak Pakai. An unregistered hak sewa is extinguished on enforcement.
+Problem (as it stood): `Pasal 12(3)(b)` of the Articles expressly permitted the Company to charge [[hgb|HGB]] and Hak Pakai. An unregistered hak sewa is extinguished on enforcement.
 
-Decision. The Company keeps the right to charge — it is needed for phase 1 infrastructure. But an encumbrance is permitted only on three conditions: the secured party confirms in writing that the leases survive and bind a purchaser at auction; Holders are notified 30 days in advance; the entry appears in the register. In addition, for the period the encumbrance subsists, the area tax for Holders is reduced by an agreed step — a premium for the risk accepted.
+Original decision (superseded): the Company keeps the right to charge for phase 1 infrastructure, gated by three Holder protections.
+
+⚠ Reversed: Articles of Association Article 12(3) now prohibits the Company from borrowing or encumbering its assets at all, by the nature of its constitution — not gated, absolute. Phase 1 infrastructure financing needs a route that does not run through pledging Company land; the three Holder-protection conditions below are moot since there is no encumbrance to protect against, but hak-sewa-deed 15.2 / land-rights-agreement 9B.3 keep the negative pledge as a contractual backstop in case the Articles are ever amended.
 
 Why win-win. A bank accepts non-disturbance readily: the rental flow is what makes the security valuable, and a bank that destroys the leases destroys the asset it lends against. The Company keeps access to financing and pays for it out of future flow rather than out of cash. The Holder stops fearing the thing he fears most.
 
@@ -78,7 +80,7 @@ Recommending (a).
 
 Problem: the promise to return a prepayment on a title defect is secured by nothing.
 
-Decision. 5% of every payment under instruments A and B goes into a reserve denominated in the century index. It is the same reserve that strategy [§9](/cyber-valley/cve/legal/land-rights-agreement#9-representations) already described under the rule of tithes off the top and that [§11](/cyber-valley/cve/legal/land-rights-agreement#11-dispute-resolution) called the war chest for the second city. It is given a second function: security for payments to Holders along the ladder of remedies. The balance of the fund and its address are published. Disbursement follows the rule in `Pasal 12(4)`: the Director initiates, a Commissioner authorises.
+Decision. 5% of every payment under instruments A and B goes into a reserve denominated in the century index. It is the same reserve that strategy [§9](/cyber-valley/cve/legal/land-rights-agreement#9-representations) already described under the rule of tithes off the top and that [§11](/cyber-valley/cve/legal/land-rights-agreement#11-dispute-resolution) called the war chest for the second city. It is given a second function: security for payments to Holders along the ladder of remedies. The balance of the fund and its address are published. Disbursement follows the rule in [[shareholders agreement]] Article 6: the Director initiates, a Commissioner authorises.
 
 Why win-win. The Company does not freeze capital in a bank guarantee and does not pay a fee for one — the money stays inside the perimeter and works as a war chest. The Holder gets an address at which he can see what the promise is backed by. One mechanism closes two tasks instead of two mechanisms closing one each.
 

@@ -40,7 +40,7 @@ Three holes, each of which on its own destroys the buyer's peace of mind:
 
 1. An indemnity in favour of the Holder does not exist. The only indemnity article — [§5A.8](/cyber-valley/cve/legal/land-rights-agreement#5a-construction-control-handover-and-indemnity) — runs the other way: the Holder indemnifies the landowner. There is no reciprocal article anywhere in the document. A representation without an indemnity is a sentence from which no money follows.
 
-2. There is no negative pledge, and the Articles expressly permit charging. Anggaran Dasar Pasal 12(3)(b) allows the Company to pledge and encumber its property with hak tanggungan, "including land and any rights over land, in particular Hak Guna Bangunan and Hak Pakai", with the consent of the Dewan Komisaris and the [[rups|RUPS]]. In other words the corporate document expressly contemplates that the land beneath the leases may be charged. A Holder of an unregistered hak sewa is left with nothing on enforcement: his right is not on the certificate, and a purchaser at auction is not bound by it. The agreement contains neither a negative pledge, nor a non-disturbance agreement with the secured party, nor even a duty to notify.
+2. ✅ Resolved. Anggaran Dasar Pasal 12(3) now prohibits the Company from pledging or encumbering its property, including land, by the nature of its constitution — not merely with consent of the Dewan Komisaris and the RUPS as an earlier draft had it. hak-sewa-deed 15.2 and land-rights-agreement 9B.3 sit on top of that as the Holder's own contractual backstop.
 
 3. There is no security for the return of money. [§10](/cyber-valley/cve/legal/land-rights-agreement#10-termination-and-end-of-term) mentions a "refund formula" on loss of the master title as an unresolved item, but a promise to return a prepayment is worth exactly as much as the Company has to pay it with. No escrow, no bank guarantee, no shareholder guarantee.
 
@@ -98,7 +98,7 @@ Below are formulations for insertion. The English column is the working one; the
 
 9B.3 Negative pledge. The landowner shall not, without the Holder's written consent: encumber the plot with hak tanggungan or other security; grant competing rights over the same plot; or dispose of the plot otherwise than on terms binding the acquirer to this agreement.
 
-⚠ A direct seam with the Articles. Anggaran Dasar Pasal 12(3)(b) permits the Company to encumber land and rights over it with the consent of the Dewan Komisaris, and under letters (a), (b), (f) also with the consent of the RUPS. Until a negative pledge sits in the lease, the Articles allow the land beneath the Holders to be charged without the Holder ever finding out.
+✅ Resolved. Anggaran Dasar Pasal 12(3) now prohibits the Company from encumbering land at all, by the nature of its constitution, independent of any negative pledge in the lease.
 
 9B.4 Non-disturbance agreement. If an encumbrance is nonetheless granted, it is permitted only where the secured party confirms in writing that this agreement survives enforcement and binds a purchaser at auction. The Holder is notified no later than 30 days before the encumbrance is granted.
 
@@ -112,7 +112,7 @@ Below are formulations for insertion. The English column is the working one; the
 | Holder deprived of use for more than 90 consecutive days | proportionate reduction of the payment for the period |
 | deprivation exceeding 180 days, or an incurable defect | termination for the landowner's default with payment of: unamortised prepayment under Schedule E, plus the documented value of the Improvements at independent valuation, plus direct loss |
 
-9B.7 Security for payment. ⚠ Without this, 9B.5 and 9B.6 remain paper. Choose between: escrow of part of the prepayment until completion; a bank guarantee; a shareholder corporate guarantee; security in favour of a pool of Holders. Account here for Anggaran Dasar Pasal 12(4): a disbursement from the principal account requires two roles — the Director initiates, a Commissioner authorises, and one person cannot hold both roles for the same transaction. Payment deadlines in the agreement must accommodate this, or the Estate will breach its own contract because of its own bank mandate.
+9B.7 Security for payment. ⚠ Without this, 9B.5 and 9B.6 remain paper. Choose between: escrow of part of the prepayment until completion; a bank guarantee; a shareholder corporate guarantee; security in favour of a pool of Holders. Account here for [[shareholders agreement]] Article 6: a disbursement from the principal account requires two roles — the Director initiates, a Commissioner authorises, and one person cannot hold both roles for the same transaction. Payment deadlines in the agreement must accommodate this, or the Estate will breach its own contract because of its own bank mandate.
 
 9B.8 Scope of the warranties. The warranties are given without a knowledge qualification save where expressly marked. The limitation period for claims under 9B.5 is __ years after termination.
 
@@ -151,10 +151,9 @@ A decision is needed before the template: the Association is either a separate l
 ### A4. Signing authority — into the signature block of the template
 
 - Pasal 12(2)(c): the Director signs lease agreements and land-rights transfer agreements within 68111 and 68200 without prior consent. The base lease is signed by the Director — confirmed by the Articles.
-- Pasal 12(3)(b): encumbrance of land — consent of the Dewan Komisaris and the RUPS. The basis for [§9B.3](/cyber-valley/cve/legal/land-rights-agreement#9b-title-warranties-negative-pledge-and-indemnity).
-- Pasal 12(3)(d): disposal of fixed assets outside the activities in Pasal 3 — consent of the Dewan Komisaris.
-- Pasal 12(3)(e): establishing a new business or participating in another company — consent of the Dewan Komisaris. Instrument C (joint venture) is not concluded without a commissioners' resolution: that is a condition precedent in the JV template.
-- Pasal 12(4): maker and authorizer on disbursements. To be reflected in the timing of refunds, the release of retention under [§5A.5](/cyber-valley/cve/legal/land-rights-agreement#5a-construction-control-handover-and-indemnity) and payments under [§9A.4](/cyber-valley/cve/legal/land-rights-agreement#9a-licences-warranty-and-licence-event-regime).
+- Pasal 12(3): the Company does not borrow or encumber its assets, land included, at all — prohibited by nature, not gated by consent.
+- Pasal 12(3): establishing a new business or participating in another company — consent of the Dewan Komisaris. Instrument C (joint venture) is not concluded without a commissioners' resolution: that is a condition precedent in the JV template.
+- [[shareholders agreement]] Article 6: maker and authorizer on disbursements. To be reflected in the timing of refunds, the release of retention under [§5A.5](/cyber-valley/cve/legal/land-rights-agreement#5a-construction-control-handover-and-indemnity) and payments under [§9A.4](/cyber-valley/cve/legal/land-rights-agreement#9a-licences-warranty-and-licence-event-regime).
 - Pasal 1: domicile Gesing, Banjar, Buleleng. This confirms the choice of PN Singaraja in [§11](/cyber-valley/cve/legal/land-rights-agreement#11-dispute-resolution) and is consistent with Pasal 10(1)(f) of the Articles.
 
 ### A5. The preamble as a norm — the anchor for a covenant

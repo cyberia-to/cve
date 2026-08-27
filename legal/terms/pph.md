@@ -12,7 +12,7 @@ Indonesian income tax, including withholding on lease payments and on transfers 
 
 ## Where it appears
 
-[[land-rights-agreement]] §2.3 and §12; [[articles of association]] Article 12(6) (the Director's responsibility).
+[[land-rights-agreement]] §2.3 and §12; [[shareholders agreement]] Article 7 (the Director's responsibility).
 
 ## Why it matters
 
