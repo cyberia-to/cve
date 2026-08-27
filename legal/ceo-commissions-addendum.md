@@ -12,9 +12,9 @@ icon: "💰"
 > page by [§9](/cyber-valley/cve/legal/ceo#9-not-in-this-deal), surviving departure under
 > [§17](/cyber-valley/cve/legal/ceo#17-survival-after-departure). Draft for discussion until signed.
 
-**"Management company"** — in [§3](#3-management-of-existing-property-glamping-carrot-house-vitalik-kitchen-and-other-structures) below, any entity CEO controls and uses to deliver the on-site
-management service described there. All fees in this document are ultimately payable to CEO;
-routing a fee through a management company CEO controls does not change who is entitled to it.
+**"Management company"** — in [§3](#3-asset-management) below, any entity CEO participates in
+that delivers on-site management of the estate's assets. Fees earned by such a company under
+the [[property management]] offer belong to that company on the offer's terms.
 
 ---
 
@@ -40,14 +40,15 @@ the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts
 
 ---
 
-## 3. Management of existing property (glamping, Carrot House, Vitalik, kitchen, and other structures)
+## 3. Asset management
 
-| | |
-|---|---|
-| **Trigger** | CEO / management company attracts **and** fully runs the event/rental on the Company's existing structures (glamping, [[carrot house|Carrot House]], [[vitalik|Vitalik]], [[kitchen]], and other buildings) — not just referring a client, but handling guest comfort and every request on site. A bare referral with no on-site administration falls under [§1](#1-land-deal-closing-commission) instead. |
-| **Fee** | **30%** of revenue actually received from the rental/event — priced into the rental rate as the management company's share, not charged on top |
-| **Distribution** | management company allocates its 30% among team, referral ladder, and other participants at its own discretion; Company does not participate |
-| **Outside agent/referral** | paid **out of this 30%**, not on top of it |
+CEO is entitled to participate in companies that manage the estate's assets —
+on the same footing as any other bidder. Management companies are appointed by
+open tender, with no exclusivity attached to the role; deep-infrastructure
+tenders (energy, water, data, computing, robotics) follow the same rule. The
+current offer — [[carrot house]], [[banya]], [[soft]], [[satoshi]] and
+glamping at 30% of revenue actually received — is published at
+[[property management]].
 
 ---
 
