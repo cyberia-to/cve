@@ -20,13 +20,9 @@ routing a fee through a management company CEO controls does not change who is e
 
 ## 1. Land-deal closing commission
 
-| | |
-|---|---|
-| **Trigger** | Company sale/lease of land or plots where CEO is the closer of the deal |
-| **Fee** | **10%** of the deal value actually received by the Company, payable to CEO |
-| **Split** | CEO may share all or part of the 10% with the agent who sourced/worked the deal; split ratio is CEO's call unless a separate agent agreement fixes it |
-| **Base** | gross price actually received, not list price |
-| **Payable** | on receipt of funds in the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts)) |
+Runs on the estate-wide [[leasehold referrals]] program — 10% of amounts the
+Company actually receives, never the contract sum. Payable on each receipt
+into the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts)).
 
 ---
 
