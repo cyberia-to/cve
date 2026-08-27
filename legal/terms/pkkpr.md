@@ -12,7 +12,7 @@ The issued approval of [[kkpr|KKPR]] for a specific parcel and use.
 
 ## Where it appears
 
-[[land-rights-agreement]] §0, Annex A; [[legal/notes/verification-report]] §2.
+[[land rights agreement]] §0, Annex A; [[legal/notes/verification-report]] §2.
 
 ## Why it matters
 

@@ -12,7 +12,7 @@ The building permit, successor to IMB. Issued to the holder of the land title, n
 
 ## Where it appears
 
-[[land-rights-agreement]] §5.2, §5A (construction control).
+[[land rights agreement]] §5.2, §5A (construction control).
 
 ## Why it matters
 

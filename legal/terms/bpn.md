@@ -12,7 +12,7 @@ The Indonesian land registry. Registers titles, issues certificates, conducts ca
 
 ## Where it appears
 
-[[land-rights-agreement]] §2.2 (hak sewa is not registered at BPN), 9B.2 (the non-encumbrance search).
+[[land rights agreement]] §2.2 (hak sewa is not registered at BPN), 9B.2 (the non-encumbrance search).
 
 ## Why it matters
 

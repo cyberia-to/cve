@@ -156,7 +156,7 @@ A Shareholder that ceases to satisfy paragraph (2) or (3) shall notify the other
 
 1. The Shareholders shall use their best efforts to settle amicably any dispute arising out of or in connection with this Agreement, including as to its existence, validity or termination.
 2. Failing settlement within 30 (thirty) days of written notice of the dispute, the dispute is finally resolved by arbitration administered by [[bani|BANI]] under its rules in force when the arbitration commences.
-3. Seat: Denpasar, Bali. Language: English, with a sworn Indonesian translation of the award and key documents arranged by the party seeking enforcement where required locally. Arbitrators: [one (1) / three (3)] under the BANI rules, elected at signing as in [[director-disclosure-indemnity-agreement]] Art 11.3. Where three are elected and the dispute has two sides, each side appoints one and those two appoint a third, who chairs. Where the dispute has more than two sides — including a dispute among all three Shareholders — all arbitrators are appointed by BANI on the application of any Shareholder.
+3. Seat: Denpasar, Bali. Language: English, with a sworn Indonesian translation of the award and key documents arranged by the party seeking enforcement where required locally. Arbitrators: [one (1) / three (3)] under the BANI rules, elected at signing as in [[director disclosure indemnity agreement]] Art 11.3. Where three are elected and the dispute has two sides, each side appoints one and those two appoint a third, who chairs. Where the dispute has more than two sides — including a dispute among all three Shareholders — all arbitrators are appointed by BANI on the application of any Shareholder.
 4. The award is final and binding. Costs are shared equally unless the tribunal directs otherwise.
 5. This Article is severable from the rest of this Agreement and survives its termination.
 6. Nothing in this Article prevents a Shareholder from seeking urgent interim relief from a court of competent jurisdiction pending the tribunal's decision. Title to, and registration of, land is in all cases governed by Indonesian law and subject to the competent Indonesian land and court authorities.
@@ -200,8 +200,8 @@ A Shareholder that ceases to satisfy paragraph (2) or (3) shall notify the other
 | [[president director]] §10 | land commissions, raise fee, asset management |
 | [[entry payment side letter]] | receipt and repayment undertaking between Voinova and Fedorov |
 | [[share sale entry]] | the 80-share transfer at par |
-| [[director-disclosure-indemnity-agreement]] | owners' disclosure and indemnity to the incoming Director |
-| [[land-rights-agreement]] | land instruments |
+| [[director disclosure indemnity agreement]] | owners' disclosure and indemnity to the incoming Director |
+| [[land rights agreement]] | land instruments |
 | [[preemption waiver letter]] | waiver for specific transfers |
 | [[gms director appointment]] | circular resolution appointing the Board of Directors |
 

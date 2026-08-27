@@ -12,7 +12,7 @@ A dated, signed record transferring risk or possession from one party to another
 
 ## Where it appears
 
-[[land-rights-agreement]] §5A.6 — the six-document handover chain from site handover to redelivery.
+[[land rights agreement]] §5A.6 — the six-document handover chain from site handover to redelivery.
 
 ## Why it matters
 

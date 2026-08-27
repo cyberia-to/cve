@@ -12,7 +12,7 @@ A preliminary sale agreement used before a title can be transferred.
 
 ## Where it appears
 
-[[land-rights-agreement]] 9B.1 (warranty that the plot is not already promised under a PPJB).
+[[land rights agreement]] 9B.1 (warranty that the plot is not already promised under a PPJB).
 
 ## Why it matters
 

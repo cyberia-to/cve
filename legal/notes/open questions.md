@@ -8,7 +8,7 @@ icon: "🚧"
 ---
 # Open drafting questions — release gate
 
-Held outside [[land-rights-agreement]] deliberately, so that an open item cannot travel into a signable text. Nothing is drafted for execution while an item here is open against the clause being drafted.
+Held outside [[land rights agreement]] deliberately, so that an open item cannot travel into a signable text. Nothing is drafted for execution while an item here is open against the clause being drafted.
 
 Moved out of the framework at v0.4.2.
 

@@ -12,7 +12,7 @@ The single business identity number issued through the OSS system, carrying the 
 
 ## Where it appears
 
-[[land-rights-agreement]] §9A.1 (the licence warranty), Annex A (the KBLI × location table).
+[[land rights agreement]] §9A.1 (the licence warranty), Annex A (the KBLI × location table).
 
 ## Why it matters
 

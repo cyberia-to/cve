@@ -12,7 +12,7 @@ The notarial deed transferring land rights before a [[ppat|PPAT]].
 
 ## Where it appears
 
-[[land-rights-agreement]] §4.1 and §4.4.
+[[land rights agreement]] §4.1 and §4.4.
 
 ## Why it matters
 

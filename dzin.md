@@ -21,7 +21,7 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 | 3 | [[president director]] | how the president director runs ops + options + KPI ladder after entry |
 | 4 | [[shareholders agreement]] | ROFR, tag-along, consent list, moonly dividend cadence among shareholders |
 | 5 | [[entry payment side letter]] | private receipt fixing the real entry price (Voinova–Fedorov) |
-| 6 | [[director-disclosure-indemnity-agreement]] | Owners' full disclosure + uncapped indemnity to the incoming Director |
+| 6 | [[director disclosure indemnity agreement]] | Owners' full disclosure + uncapped indemnity to the incoming Director |
 
 **Rule:** buy 1% ↔ become President Director. No buy → no appointment. No appointment → no sale.
 
@@ -38,8 +38,8 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 
 | page | what |
 |---|---|
-| [[land-rights-agreement]] | drafting framework — the whole land-rights system |
-| [[hak-sewa-deed]] | base deed — the signable *akta sewa* |
-| annexes | [[annex-a-estate-registry|A registry]] · [[annex-b-plot-boundary|B boundary]] · [[annex-c-design-code|C design code]] · [[annex-d-community-rules|D community]] · [[annex-e-century-index|E century index]] · [[annex-f-utilities-access-mobility|F utilities]] · [[annex-g-permitted-use|G permitted use]] · [[annex-h-handover-condition|H handover]] · [[annex-i-due-diligence-pack|I due diligence]] · [[annex-j-offer-of-record|J offer of record]] |
+| [[land rights agreement]] | drafting framework — the whole land-rights system |
+| [[hak sewa deed]] | base deed — the signable *akta sewa* |
+| annexes | [[annex a estate registry|A registry]] · [[annex b plot boundary|B boundary]] · [[annex c design code|C design code]] · [[annex d community rules|D community]] · [[annex e century index|E century index]] · [[annex f utilities access mobility|F utilities]] · [[annex g permitted use|G permitted use]] · [[annex h handover condition|H handover]] · [[annex i due diligence pack|I due diligence]] · [[annex j offer of record|J offer of record]] |
 
 {{query (and [[dzin]])}}

@@ -12,7 +12,7 @@ The permit confirming a completed building may lawfully be occupied. Issued afte
 
 ## Where it appears
 
-[[land-rights-agreement]] §5A.7, §7.4.2 (the Design Envelope lock runs to SLF plus 12 months), §2.5.5 (transfer fee reduction on SLF).
+[[land rights agreement]] §5A.7, §7.4.2 (the Design Envelope lock runs to SLF plus 12 months), §2.5.5 (transfer fee reduction on SLF).
 
 ## Why it matters
 

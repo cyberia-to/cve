@@ -12,7 +12,7 @@ Bank Indonesia's official daily USD/IDR reference rate.
 
 ## Where it appears
 
-[[shareholders agreement]] Article 4, [[land-rights-agreement]] §2.3 and §12, [[century index]] thesis T6.
+[[shareholders agreement]] Article 4, [[land rights agreement]] §2.3 and §12, [[century index]] thesis T6.
 
 ## Why it matters
 

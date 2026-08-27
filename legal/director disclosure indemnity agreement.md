@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, draft, dzin
-alias: director disclosure indemnity agreement, full disclosure agreement, indemnification agreement, cve indemnity
+alias: director disclosure indemnity agreement, full disclosure agreement, indemnification agreement, cve indemnity, director-disclosure-indemnity-agreement
 crystal-type: entity
 crystal-domain: socio
 crystal-size: deep
@@ -306,10 +306,10 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 - **Alex's equity isn't in this document, by design.** The 1% (80/8,040 shares) he receives at Closing is priced and conditioned entirely in [[share sale entry]] (par, Rp 200,000,000) and bound to this appointment via [[gms director appointment]] §3.4/§4; the real consideration actually paid ($40,000) is receipted in [[entry payment side letter]] — no repayment or re-transfer attaches to the shares ([[president director]] §8). Post-Closing the cap table is Alisa 49% / Dmitry 50% / Alex 1% — this Agreement's own "Owners" vs. "Incoming Director" framing (Parties, above) doesn't reflect that, since Alex gives no indemnity here and isn't an "Owner" for its purposes, even though he ends up a shareholder from the same Closing.
 - **Effective Date vs. Closing.** This Agreement's Effective Date (Drafting Note 2) is a standalone placeholder, not explicitly pinned to the four-part Closing package in [[gms director appointment]] §4 (GMS resolution + share sale + register update + acceptance of office). Worth adding a clause tying them together, so Alex is never in office without the indemnity in force, or vice versa.
-- **president-director.md §13 overlap.** [[president director]] §13 ("Shield") independently states a softer, less formal disclosure/liability standard for the pre-appointment period. Article 6 here is deliberately strict (only Appendix A/B/C-confirmed items count as disclosed); §13's looser wording is worth narrowing to defer to this Agreement's definition, so the two don't offer competing standards for what counts as "disclosed".
+- **president director.md §13 overlap.** [[president director]] §13 ("Shield") independently states a softer, less formal disclosure/liability standard for the pre-appointment period. Article 6 here is deliberately strict (only Appendix A/B/C-confirmed items count as disclosed); §13's looser wording is worth narrowing to defer to this Agreement's definition, so the two don't offer competing standards for what counts as "disclosed".
 
 ---
 
 ## Related
 
-[[gms director appointment]] · [[share sale entry]] · [[president director]] · [[shareholders agreement]] · [[articles of association]] · notes: [[land-rights-audit]] · [[verification-report]] · [[open questions]]
+[[gms director appointment]] · [[share sale entry]] · [[president director]] · [[shareholders agreement]] · [[articles of association]] · notes: [[land rights audit]] · [[verification report]] · [[open questions]]

@@ -16,7 +16,7 @@ The reason every instrument in the pack is executed bilingually and the Indonesi
 
 ## Pasal 31 — language of agreements
 
-Relied on by: [[articles of association]], [[shareholders agreement]], [[gms director appointment]], [[share sale entry]], [[land-rights-agreement]] §0.
+Relied on by: [[articles of association]], [[shareholders agreement]], [[gms director appointment]], [[share sale entry]], [[land rights agreement]] §0.
 
 | Bahasa Indonesia | English |
 |---|---|
@@ -35,6 +35,6 @@ Two practical consequences the pack follows:
 
 **The Indonesian column is the instrument, the English column is for reading.** Every page in the pack carries this note. Indonesian courts have annulled English-only agreements involving an Indonesian party.
 
-**The Indonesian is written alongside, not translated afterwards.** [[land-rights-audit]] §8 records why: divergences between the columns are born at the stage of late translation, and it is those divergences that decide the dispute later.
+**The Indonesian is written alongside, not translated afterwards.** [[land rights audit]] §8 records why: divergences between the columns are born at the stage of late translation, and it is those divergences that decide the dispute later.
 
 The parties may agree which language prevails on discrepancy, but should not assume a court will honour a choice of English.

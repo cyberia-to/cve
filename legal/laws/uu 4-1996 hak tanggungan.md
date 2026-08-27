@@ -16,7 +16,7 @@ The law that decides which land rights can be mortgaged — and therefore why a 
 
 ## Pasal 4 — the rights that may be encumbered
 
-Relied on by: [[land-rights-agreement]] §2.9 and [[verification-report]].
+Relied on by: [[land rights agreement]] §2.9 and [[verification report]].
 
 | Bahasa Indonesia | English |
 |---|---|
@@ -28,7 +28,7 @@ Relied on by: [[land-rights-agreement]] §2.9 and [[verification-report]].
 
 ## What this means for the Estate
 
-*Hak sewa* — the lease granted to a Holder under Part A — is absent from the list. A lease therefore cannot be mortgaged, whatever the parties agree. This is the reason [[land-rights-agreement]] §2.9 reaches for an assignment by way of security (*cessie tot zekerheid*) instead of a charge. Article 12(3) of the [[articles of association]] now prohibits the Landowner from encumbering its own [[hgb|HGB]] at all, by the nature of its constitution — so the remaining asymmetry is narrower than it once was: the Holder can encumber nothing, and the Landowner is constitutionally barred from encumbering its HGB either.
+*Hak sewa* — the lease granted to a Holder under Part A — is absent from the list. A lease therefore cannot be mortgaged, whatever the parties agree. This is the reason [[land rights agreement]] §2.9 reaches for an assignment by way of security (*cessie tot zekerheid*) instead of a charge. Article 12(3) of the [[articles of association]] now prohibits the Landowner from encumbering its own [[hgb|HGB]] at all, by the nature of its constitution — so the remaining asymmetry is narrower than it once was: the Holder can encumber nothing, and the Landowner is constitutionally barred from encumbering its HGB either.
 
 Paragraph (4) matters in the other direction. Improvements built by the Holder belong to the Holder for the term under §5.4, so they fall under paragraph (5), not (4): the Landowner cannot sweep them into its own security without the Holder signing. §9B.3–9B.4 rely on that.
 

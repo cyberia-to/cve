@@ -1,13 +1,13 @@
 ---
 tags: cyber valley, cyberia, legal, strategy
-alias: holder protocol, holder protocol decisions, decision sheet
+alias: holder protocol, holder protocol decisions, decision sheet, holder-protocol-decisions
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🤝"
 ---
 # Holder protocol — decisions for agreement
 
-Date: 2026-08-13 · input: `land-rights-audit.md`, `land-rights-audit-addendum.md`, Anggaran Dasar PT CVE of 12.08.2026 · output: 12 decisions, each with variants and a recommendation
+Date: 2026-08-13 · input: `land rights audit.md`, `land rights audit addendum.md`, Anggaran Dasar PT CVE of 12.08.2026 · output: 12 decisions, each with variants and a recommendation
 
 ---
 
@@ -239,7 +239,7 @@ Recommending (c): a cap at the amount paid plus the valuation of Improvements, w
 
 The figures in the scales and thresholds — 2%, 5%, 30 days, 10 working days — are set as working values so that the construction is visible as a whole. They change in one move, and the construction does not break when they do.
 
-⚠ The decision map in [[land-rights-agreement]] also cites D13 → 7.4, the Design Envelope lock introduced at v0.4.1. That decision postdates this sheet and is not written up here; it needs adding before the sheet is treated as complete.
+⚠ The decision map in [[land rights agreement]] also cites D13 → 7.4, the Design Envelope lock introduced at v0.4.1. That decision postdates this sheet and is not written up here; it needs adding before the sheet is treated as complete.
 
 ---
 

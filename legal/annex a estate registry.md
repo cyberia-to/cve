@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, dzin
-alias: annex a, estate registry, title registry
+alias: annex a, estate registry, title registry, annex-a-estate-registry
 crystal-type: measure
 crystal-domain: socio
 crystal-size: article
@@ -9,7 +9,7 @@ icon: "🗺"
 
 # Annex A — Estate Registry
 
-Annexed to [[land-rights-agreement]]. One row per land title held or claimed by the Company, as required by the [[land-rights-agreement|framework]] package map. Source: the Company's land files as reconciled in the independent audit of 21 August 2026 and recorded in [[director-disclosure-indemnity-agreement]] Appendix B, cross-checked against the certificates the Owners produced. On any conflict between this annex and Appendix B, this annex prevails as the current registry; Appendix B is the audit snapshot it was built from.
+Annexed to [[land rights agreement]]. One row per land title held or claimed by the Company, as required by the [[land rights agreement|framework]] package map. Source: the Company's land files as reconciled in the independent audit of 21 August 2026 and recorded in [[director disclosure indemnity agreement]] Appendix B, cross-checked against the certificates the Owners produced. On any conflict between this annex and Appendix B, this annex prevails as the current registry; Appendix B is the audit snapshot it was built from.
 
 **What is not yet in this annex.** [RTRW](/cyber-valley/cve/legal/terms/rtrw) and [LP2B](/cyber-valley/cve/legal/terms/lp2b) status are not in the source audit for any parcel and are left blank below, not guessed.
 

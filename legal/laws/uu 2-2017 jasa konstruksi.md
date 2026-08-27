@@ -12,7 +12,7 @@ Undang-Undang Republik Indonesia Nomor 2 Tahun 2017 tentang Jasa Konstruksi, as 
 
 Source: [JDIH ATR/BPN](https://jdih.atrbpn.go.id/peraturan/detail/258/undang-undang-nomor-11-tahun-2020) — the amending law; the text below is Pasal 30 in its amended form.
 
-The law behind the contractor qualification requirement in [[land-rights-agreement]] §5A.2: nobody builds on the Estate without a [[sbu|Sertifikat Badan Usaha]].
+The law behind the contractor qualification requirement in [[land rights agreement]] §5A.2: nobody builds on the Estate without a [[sbu|Sertifikat Badan Usaha]].
 
 ## Pasal 30 — Sertifikat Badan Usaha
 
@@ -28,6 +28,6 @@ The law behind the contractor qualification requirement in [[land-rights-agreeme
 
 ## What this means for the Estate
 
-The requirement bites on the builder, not on the Holder and not on the Company. [[land-rights-agreement]] §5A.2 makes it a condition of approval that the Holder's contractor holds a valid SBU of the right classification and qualification for the work — the four items in ayat (3) are what the Estate checks before construction starts.
+The requirement bites on the builder, not on the Holder and not on the Company. [[land rights agreement]] §5A.2 makes it a condition of approval that the Holder's contractor holds a valid SBU of the right classification and qualification for the work — the four items in ayat (3) are what the Estate checks before construction starts.
 
 An unqualified builder on site is not only the Holder's problem: the works sit on land whose title the Company still holds until any upgrade completes.

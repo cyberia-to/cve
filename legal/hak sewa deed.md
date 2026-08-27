@@ -1,13 +1,13 @@
 ---
 tags: cyber valley, cyberia, legal, draft
-alias: hak sewa deed, hak sewa draft, base lease, akta sewa draft
+alias: hak sewa deed, hak sewa draft, base lease, akta sewa draft, hak-sewa-deed
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "📜"
 ---
 # Hak Sewa — base deed
 
-d0.1 · draft for counsel and [[ppat|PPAT]] · assembled from [[land-rights-agreement|Land Rights Agreement]] v0.4.3 under the rule in [[holder-protocol-decisions|holder protocol]]
+d0.1 · draft for counsel and [[ppat|PPAT]] · assembled from [[land rights agreement|Land Rights Agreement]] v0.4.3 under the rule in [[holder protocol decisions|holder protocol]]
 
 > Status. This is the operative text, written to be marked up by an Indonesian notary and counsel. Where the framework reasons, this deed instructs. Nothing here is legal advice, and no version of this text is executed while any item in [[open questions]] stands open against the clause being executed.
 
@@ -87,11 +87,11 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 |---|---|---|
 | upfront | 100% of the Plot price | nothing beyond the area revenue charge, service charge and taxes |
 | scheduled | 30% minimum deposit of the elected price | equal instalments over 1 or 5 years, no interest, under [3.2](#part-3-consideration) |
-| rent | none | annual rent under a separate written agreement between the Landowner and the specific Holder; where elected, [[annex-e-century-index|Annex E]] governs the rent in full and this Part applies only to the extent the rent agreement adopts it |
+| rent | none | annual rent under a separate written agreement between the Landowner and the specific Holder; where elected, [[annex e century index|Annex E]] governs the rent in full and this Part applies only to the extent the rent agreement adopts it |
 
 The rent form carries no path to any of the rights, titles or upgrade tracks elsewhere in this deed; it is occupation for the agreed term only, and is offered where the Landowner elects to let rather than sell a Plot — a Holder not yet eligible for [12.1.2](#part-12-upgrade-tracks), or occupation by season or by event, or a Plot the Landowner is not yet ready to sell.
 
-3.2 Instalments. ▲ On the scheduled form the Holder pays a deposit of at least 30% of the Plot price at signing and clears the balance in equal instalments over the elected period, with no interest and no deferral fee. Two periods are offered: **1 (one) year at the upfront price**, and **5 (five) years at 115% of the upfront price**, the deposit being computed on the price of the elected form. Nothing else is added: the balance carries no rate and no index — [[annex-e-century-index|Annex E]] governs indexed rent only, never this balance. An instalment unpaid 30 (thirty) days after its due date, and not cured within a further 14 (fourteen) days of written notice, entitles the Landowner to terminate; on termination the deposit and every instalment paid are retained, and the Plot returns to the Landowner free of the Holder's interest.
+3.2 Instalments. ▲ On the scheduled form the Holder pays a deposit of at least 30% of the Plot price at signing and clears the balance in equal instalments over the elected period, with no interest and no deferral fee. Two periods are offered: **1 (one) year at the upfront price**, and **5 (five) years at 115% of the upfront price**, the deposit being computed on the price of the elected form. Nothing else is added: the balance carries no rate and no index — [[annex e century index|Annex E]] governs indexed rent only, never this balance. An instalment unpaid 30 (thirty) days after its due date, and not cured within a further 14 (fourteen) days of written notice, entitles the Landowner to terminate; on termination the deposit and every instalment paid are retained, and the Plot returns to the Landowner free of the Holder's interest.
 
 3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ and the floor — not the amount of any future invoice. R(t) tracks the basket uncapped, subject only to the floor. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, floor and one worked invoice, and prevails over prose.
 
@@ -103,7 +103,7 @@ The rent form carries no path to any of the rights, titles or upgrade tracks els
 
 3.4 Early redemption. ▲ A Holder on the scheduled form may at any time pay the remainder under the formula and stand as a Holder on the upfront form.
 
-3.5 Guarantee Fund. ▲ 5% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex-e-century-index|Annex E]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
+3.5 Guarantee Fund. ▲ 5% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex e century index|Annex E]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
 
 The Fund is whatever has accumulated less payments properly made out of it: there is no target level and no obligation on the Landowner to top it up from other money. Money leaves the Fund only to pay a Holder a sum due, on the maker and authorizer mandate under [[shareholders agreement]] Article 6, within 30 days of a supported claim or 10 days of an arbitral award. No commissioner approval is needed to pay a Holder; approval is needed to take money out for anything else, and the only permitted other use is a return of surplus.
 
@@ -653,7 +653,7 @@ Parts [12.1](#part-12-upgrade-tracks), [8.3](#part-8-construction-control), [11.
 
 ## Provenance
 
-Assembled from [[land-rights-agreement]] v0.4.3, which holds the reasoning for every clause here; [[holder-protocol-decisions]] D1–D12, which settle the values marked settled; [[open questions]], which holds the release gate; [Annex C](/cyber-valley/cve/legal/annex-c-design-code) and its informal counterpart [[cyber-valley/policies/zoning system|land usage policy]]; and the product pages [[cyber-valley/strategy/leasehold-upfront|leasehold upfront]], [[cyber-valley/strategy/annual-leasehold|annual leasehold]] and [[cyber-valley/strategy/hak-sewa|hak sewa]], whose commercial terms are annexed as the offer of record.
+Assembled from [[land rights agreement]] v0.4.3, which holds the reasoning for every clause here; [[holder protocol decisions]] D1–D12, which settle the values marked settled; [[open questions]], which holds the release gate; [Annex C](/cyber-valley/cve/legal/annex-c-design-code) and its informal counterpart [[cyber-valley/policies/zoning system|land usage policy]]; and the product pages [[cyber-valley/strategy/leasehold-upfront|leasehold upfront]], [[cyber-valley/strategy/annual-leasehold|annual leasehold]] and [[cyber-valley/strategy/hak-sewa|hak sewa]], whose commercial terms are annexed as the offer of record.
 
 ⚠ D13, the Design Envelope lock at [10.6](#part-10-design-code), postdates the decision sheet and is not written up there. It is added to the sheet before the sheet is treated as complete.
 

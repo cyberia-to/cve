@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, draft
-alias: land rights agreement, hak sewa agreement, sewa template, land lease draft
+alias: land rights agreement, hak sewa agreement, sewa template, land lease draft, land-rights-agreement
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "⚖️"
@@ -11,7 +11,7 @@ v0.4.3 · working skeleton, not an executable document
 
 *Changelog: v0.1 initial skeleton · v0.2 [§9A](#9a-licences-warranty-and-licence-event-regime) Licence Event regime · v0.3 [§5A](#5a-construction-control-handover-and-indemnity) construction control, [[bast|BAST]] handover chain and indemnity · v0.3.1 [§2.7](#2-part-a-base-grant-hak-sewa-all-holders) plot as per aversionem (ad corpus) · v0.4 holder protocol folded in — [§2.5](#2-part-a-base-grant-hak-sewa-all-holders) free assignability and the Register, [§9B](#9b-title-warranties-negative-pledge-and-indemnity) title warranties, negative pledge, non-disturbance and mirror indemnity, [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) renewal by right, [§2.6](#2-part-a-base-grant-hak-sewa-all-holders) split into land-time and stay, [§6](#6-construction-timeline-and-the-build-obligation) three-tier build remedy, [§8](#8-community-council-shared-infrastructure-and-service-charge) veto and initiative in place of an Association, [§9A](#9a-licences-warranty-and-licence-event-regime) full [[kbli|KBLI]] list from the Articles of Association, [§10A](#10a-force-majeure) force majeure, [§10B](#10b-adat-subak-and-desa) adat, [§2.8](#2-part-a-base-grant-hak-sewa-all-holders) succession, [§13](#13-general-provisions) general provisions; Design Code moved to Annex C; clause leaders unbolded per the graph style rule · v0.4.1 [§7.4](#7-design-code-annex-c) Design Envelope lock — the signing-to-SLF window, with the Landowner's cure right and exit in both fault and no-fault cases · v0.4.2 [§6.0](#6-construction-timeline-and-the-build-obligation) conditions precedent and the Commencement Certificate — the construction clock starts there, stops when a condition falls away, and carries a long stop; 9B.2 adds pengecekan sertifikat on the day of signing; 9B.7 rewritten as a choice of real security instruments; open questions moved to `legal/notes/open questions.md` · v0.4.3 [§2.1](#2-part-a-base-grant-hak-sewa-all-holders) term derived from the Title with automatic extension, 2.1.1–2.1.2 where the term lives and the offer of record, 9B.9 duty to extend Titles in time.*
 
-> Status. Structural draft for discussion with an Indonesian notary ([[ppat|PPAT]]) and counsel. Nothing here is legal advice. Every clause marked ⚠ carries a known Indonesian-law constraint that must be verified against the current regulations and the actual master title before any version of this is signed. Every clause marked ▲ implements a decision from `holder-protocol-decisions.md` and reverts cleanly if that decision is changed.
+> Status. Structural draft for discussion with an Indonesian notary ([[ppat|PPAT]]) and counsel. Nothing here is legal advice. Every clause marked ⚠ carries a known Indonesian-law constraint that must be verified against the current regulations and the actual master title before any version of this is signed. Every clause marked ▲ implements a decision from `holder protocol decisions.md` and reverts cleanly if that decision is changed.
 
 Corporate source of authority: Anggaran Dasar / Articles of Association PT. Cyber Valley Estate, 12 August 2026 (Akta Pendirian No. 01, 04-01-2022; PKR No. 13, 14-04-2025; PKR No. 02, 01-07-2025). Where this framework and the Articles diverge, the Articles prevail and this framework is corrected.
 
@@ -23,16 +23,16 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 |---|---|
 | this file | framework and operative structure |
 | `legal/notes/open questions.md` | release gate and every open item, deliberately outside the signable text |
-| [[annex-a-estate-registry|Annex A]] | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw|RTRW]] classification, [[pkkpr|PKKPR]] number or its absence, [[lp2b|LP2B]] status; plus the KBLI × location table under [§9A.1](#9a-licences-warranty-and-licence-event-regime) |
-| [[annex-b-plot-boundary|Annex B]] | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
-| [[annex-c-design-code|Annex C]] | Design Code — the zoning code as numbers |
-| [[annex-d-community-rules|Annex D]] | Community Rules |
-| [[annex-e-century-index|Annex E]] | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, floor, worked invoice; also the unamortised-return formula |
-| [[annex-f-utilities-access-mobility|Annex F]] | Utilities, access and mobility specification |
-| [[annex-g-permitted-use|Annex G]] | Permitted-use matrix by Holder class, zone and track |
-| [[annex-h-handover-condition|Annex H]] | Condition schedule at site handover (baseline for redelivery, 5A.6 #6) |
-| [[annex-i-due-diligence-pack|Annex I]] | Due diligence pack under 9B.2 |
-| [[annex-j-offer-of-record|Annex J]] | Offer of record under 2.1.2 — the product page and price schedule as they stood, by commit hash and date |
+| [[annex a estate registry|Annex A]] | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw|RTRW]] classification, [[pkkpr|PKKPR]] number or its absence, [[lp2b|LP2B]] status; plus the KBLI × location table under [§9A.1](#9a-licences-warranty-and-licence-event-regime) |
+| [[annex b plot boundary|Annex B]] | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
+| [[annex c design code|Annex C]] | Design Code — the zoning code as numbers |
+| [[annex d community rules|Annex D]] | Community Rules |
+| [[annex e century index|Annex E]] | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, floor, worked invoice; also the unamortised-return formula |
+| [[annex f utilities access mobility|Annex F]] | Utilities, access and mobility specification |
+| [[annex g permitted use|Annex G]] | Permitted-use matrix by Holder class, zone and track |
+| [[annex h handover condition|Annex H]] | Condition schedule at site handover (baseline for redelivery, 5A.6 #6) |
+| [[annex i due diligence pack|Annex I]] | Due diligence pack under 9B.2 |
+| [[annex j offer of record|Annex J]] | Offer of record under 2.1.2 — the product page and price schedule as they stood, by commit hash and date |
 
 ---
 
@@ -62,9 +62,9 @@ Signing authority. Under Articles of Association Pasal 12(2)(c) the Director sig
 | Estate | the land parcel(s) under the master title, described in Annex A |
 | Plot | the demarcated area allocated to the Holder, described by coordinates and site plan in Annex B |
 | Improvements | any building or structure erected by the Holder on the Plot |
-| Design Code | [[annex-c-design-code|Annex C]], as amended under [§7](#7-design-code-annex-c) |
-| Community Rules | [[annex-d-community-rules|Annex D]] |
-| Index Annex | [[annex-e-century-index|Annex E]], the century index annex referred to in [§2.3](#2-part-a-base-grant-hak-sewa-all-holders) and [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) |
+| Design Code | [[annex c design code|Annex C]], as amended under [§7](#7-design-code-annex-c) |
+| Community Rules | [[annex d community rules|Annex D]] |
+| Index Annex | [[annex e century index|Annex E]], the century index annex referred to in [§2.3](#2-part-a-base-grant-hak-sewa-all-holders) and [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Register | the register of leases maintained by the Landowner under [§2.5.8](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Estate Certificate | the statement of lease status issued under [§2.5.6](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Guarantee Fund | the reserve constituted under [§9B.7](#9b-title-warranties-negative-pledge-and-indemnity) |
@@ -305,7 +305,7 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 
 ## 7. Design Code (Annex C)
 
-Binding on all Holders, all tracks, all zones. [[annex-c-design-code|Annex C]] states the zoning code as numbers — footprint and floor multiplier, light balance allocation, species density, and the sound, water, light, air and soil limits with their monitoring and publication duties — rather than by cross-reference. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds, and it is the version-locked one under 7.4.
+Binding on all Holders, all tracks, all zones. [[annex c design code|Annex C]] states the zoning code as numbers — footprint and floor multiplier, light balance allocation, species density, and the sound, water, light, air and soil limits with their monitoring and publication duties — rather than by cross-reference. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds, and it is the version-locked one under 7.4.
 
 ⚠ Bali-specific overlays bind regardless of what the Design Code says: provincial building-height limits, architectural requirements, slope and ravine setbacks, water-catchment restrictions. Estate policy stack: [[cyber-valley/policies/zoning system|zoning code]], [[soil policy]], [[water policy]], [[light policy]], [[sound policy]], [[air policy]], [[carbon policy]].
 
@@ -439,7 +439,7 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 
 9B.7.2 Level. The Fund is whatever has accumulated under 9B.7.1 less payments properly made out of it. There is no separate target and no obligation on the Landowner to top it up from other money: the Fund grows with sales and is replenished by the contributions from subsequent grants and assignments. Its balance at any date is a fact, published under 9B.7.5, and the Holder's expectation is measured by that fact and not by the size of the obligation it answers.
 
-9B.7.3 Denomination. The Fund is denominated in the [[cx|century index]] under [[annex-e-century-index|Annex E]], so that its value tracks the obligations it answers rather than the rupiah.
+9B.7.3 Denomination. The Fund is denominated in the [[cx|century index]] under [[annex e century index|Annex E]], so that its value tracks the obligations it answers rather than the rupiah.
 
 9B.7.4 Control and payment out. Money leaves the Fund only to pay a Holder a sum due under the clauses named above, on the maker and authorizer mandate in [[shareholders agreement]] Article 6. Payment is made within [30] days of a claim supported by the documents listed in Annex [__], or within [10] days of an arbitral award under [§11](#11-dispute-resolution). No commissioner approval is required to pay a Holder from the Fund; approval is required to take money out of it for anything else, and the only permitted other use is a return of surplus above the 9B.7.2 level.
 
@@ -504,7 +504,7 @@ Moved to [[open questions]] (`legal/notes/open questions.md`) so that they canno
 
 ## Decision map
 
-▲ clauses implement `holder-protocol-decisions.md`: D1 → 2.5.1–2.5.5 · D2 → 2.5.6–2.5.8 · D3 → 9B.3–9B.4 · D4 → 9B.7 · D5 → 2.2 · D6 → 2.3 · D7 → 7.1–7.2 · D8 → 6.2 · D9 → 2.4, 10.2, 10.3 · D10 → 2.6 · D11 → 8.1–8.3 · D12 → 9B.5 · D13 → 7.4. Recommended variants are drafted; changing a decision changes only the clauses listed against it.
+▲ clauses implement `holder protocol decisions.md`: D1 → 2.5.1–2.5.5 · D2 → 2.5.6–2.5.8 · D3 → 9B.3–9B.4 · D4 → 9B.7 · D5 → 2.2 · D6 → 2.3 · D7 → 7.1–7.2 · D8 → 6.2 · D9 → 2.4, 10.2, 10.3 · D10 → 2.6 · D11 → 8.1–8.3 · D12 → 9B.5 · D13 → 7.4. Recommended variants are drafted; changing a decision changes only the clauses listed against it.
 
 ## Notes for counsel / PPAT
 

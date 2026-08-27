@@ -1,13 +1,13 @@
 ---
 tags: cyber valley, cyberia, legal, audit
-alias: audit addendum, transfer and title protection
+alias: audit addendum, transfer and title protection, land-rights-audit-addendum
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🔍"
 ---
 # Audit addendum: transfer of a lease and protection against prior rights
 
-Date: 2026-08-13 · supplements `land-rights-audit.md` · occasion: the Articles were received — Anggaran Dasar / Articles of Association PT. Cyber Valley Estate, bilingual ID-EN, 12 August 2026, Akta Pendirian No. 01 of 04-01-2022, PKR No. 13 of 14-04-2025, PKR No. 02 of 01-07-2025
+Date: 2026-08-13 · supplements `land rights audit.md` · occasion: the Articles were received — Anggaran Dasar / Articles of Association PT. Cyber Valley Estate, bilingual ID-EN, 12 August 2026, Akta Pendirian No. 01 of 04-01-2022, PKR No. 13 of 14-04-2025, PKR No. 02 of 01-07-2025
 
 ---
 

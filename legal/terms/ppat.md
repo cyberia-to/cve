@@ -12,7 +12,7 @@ A notary authorised to draw up deeds transferring land rights.
 
 ## Where it appears
 
-[[land-rights-agreement]] §0 (notarial form), 9B.2 (pengecekan sertifikat on the day of signing).
+[[land rights agreement]] §0 (notarial form), 9B.2 (pengecekan sertifikat on the day of signing).
 
 ## Why it matters
 

@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, draft, dzin
-alias: annex e, index annex, century index annex
+alias: annex e, index annex, century index annex, annex-e-century-index
 crystal-type: measure
 crystal-domain: socio
 crystal-size: article
@@ -8,9 +8,9 @@ icon: "📈"
 ---
 # Annex E — Index Annex
 
-Annexed to [[land-rights-agreement]]. Referred to in [§2.3](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) as the unit of account for indexed consideration, and in §2.4 as the renewal formula. On any conflict between this annex and the prose of the deed, this annex prevails.
+Annexed to [[land rights agreement]]. Referred to in [§2.3](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) as the unit of account for indexed consideration, and in §2.4 as the renewal formula. On any conflict between this annex and the prose of the deed, this annex prevails.
 
-The unit is the [[cx|century index]] — a fixed basket of eight world assets. What is fixed at signing is the set of quantities; what moves is their price. General protocol and basket rationale: [[cyberia/protocol/century-index|century index]] — that page still documents the collar as the general design; this annex is the CVE-specific implementation and the collar does not apply here (§3). Where the two disagree on the machine itself, this annex governs for any deed under [[land-rights-agreement]].
+The unit is the [[cx|century index]] — a fixed basket of eight world assets. What is fixed at signing is the set of quantities; what moves is their price. General protocol and basket rationale: [[cyberia/protocol/century-index|century index]] — that page still documents the collar as the general design; this annex is the CVE-specific implementation and the collar does not apply here (§3). Where the two disagree on the machine itself, this annex governs for any deed under [[land rights agreement]].
 
 ## 1. What the Holder owes
 
