@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, law, dzin
-alias: kuhperdata, civil code, burgerlijk wetboek, гражданский кодекс
+alias: kuhperdata, civil code, burgerlijk wetboek
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article

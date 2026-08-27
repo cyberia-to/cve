@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, law, dzin
-alias: uu 24/2009, uu 24 2009, bahasa, language law, закон о языке
+alias: uu 24/2009, uu 24 2009, bahasa, language law
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article

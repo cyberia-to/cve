@@ -56,9 +56,16 @@ Source: [[air policy]].
 - biochar retort/TLUD kilns and controlled land-clearing burns are permitted only with 48-hour prior notice to neighbours within 100 m, smoke-free secondary combustion for retorts, and wind direction carrying smoke away from residential zones for land-clearing burns
 - cooking and processing fires: dry, untreated hardwood or coconut shell only; rocket stove or gasifier preferred
 
-## D6. Carbon — ⚠ open
+## D6. Carbon
 
-[[carbon policy]] exists as a two-line stub ("we must be example of carbon negative society" plus three linked factors: energy and water system, energy efficiency, biochar production) and carries no measurable standard — no limit, no ratio, no enforcement mechanism comparable to D1–D5. [Annex C §5](/cyber-valley/cve/legal/annex-c-design-code) lists five source pages, not six, for the same reason: there is nothing yet to bind. This section is a placeholder until the policy page is written with the same specificity as water, light, soil, sound and air. Until then, no carbon obligation is binding on a Holder under this annex beyond what D1–D5 already impose as side effects (soil carbon from D3, combustion limits from D5).
+Source: [[carbon policy]].
+
+- no petrol or diesel vehicles on estate roads and paths; internal movement is electric or human-powered, charged from the estate's own generation
+- exception: construction/heavy-lift machinery with no electric equivalent, for the duration of a specific build, with 48-hour prior notice to residents within 100 m; no idling outside active work
+- no venting of exhaust or particulate smoke into occupied or residential zones from any vehicle, generator or machine; backup diesel generators only, monthly-tested to 15 minutes maximum
+- removal side: soil carbon building under D3, biochar production from estate organic waste as the primary removal pathway, forest/canopy cover held to Annex C's footprint limits
+
+[Annex C §5](/cyber-valley/cve/legal/annex-c-design-code) should be updated to list six source pages, not five, now that this one carries a standard.
 
 ## D7. Enforcement and relation to the deed
 

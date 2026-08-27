@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, law, dzin
-alias: laws, statutes, законы
+alias: laws, statutes
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article

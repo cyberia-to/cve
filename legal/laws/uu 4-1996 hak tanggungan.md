@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, law, dzin
-alias: uu 4/1996, uu 4 1996, hak tanggungan, закон о залоге земли
+alias: uu 4/1996, uu 4 1996, hak tanggungan
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article
