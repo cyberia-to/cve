@@ -12,7 +12,7 @@ icon: "💰"
 > page by [§9](/cyber-valley/cve/legal/ceo#9-not-in-this-deal), surviving departure under
 > [§17](/cyber-valley/cve/legal/ceo#17-survival-after-departure). Draft for discussion until signed.
 
-**"Management company"** — in [§4](#4-management-of-existing-property-glamping-carrot-house-vitalik-kitchen-and-other-structures) below, any entity CEO controls and uses to deliver the on-site
+**"Management company"** — in [§3](#3-management-of-existing-property-glamping-carrot-house-vitalik-kitchen-and-other-structures) below, any entity CEO controls and uses to deliver the on-site
 management service described there. All fees in this document are ultimately payable to CEO;
 routing a fee through a management company CEO controls does not change who is entitled to it.
 
@@ -29,17 +29,7 @@ the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts
 
 ---
 
-## 2. Upper-level referral commission — ⚠ open item, pending approval
-
-| | |
-|---|---|
-| **Trigger** | a later sale to (a) someone already inside the Company (shareholder/holder/team) whom CEO originally brought in, or (b) a repeat/expansion purchase by a holder whose original plot CEO closed |
-| **Fee** | **5%** of that later deal, as single-level ("upper-level") referral — does not chain beyond one hop |
-| **Interaction with [§1](#1-land-deal-closing-commission)** | does not stack with [§1](#1-land-deal-closing-commission) on the same deal — if CEO is also the closer of the later deal, §1 applies, not this section |
-
----
-
-## 3. Investment-raise fee
+## 2. Investment-raise fee
 
 | | |
 |---|---|
@@ -50,18 +40,18 @@ the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts
 
 ---
 
-## 4. Management of existing property (glamping, Carrot House, Vitalik, kitchen, and other structures)
+## 3. Management of existing property (glamping, Carrot House, Vitalik, kitchen, and other structures)
 
 | | |
 |---|---|
-| **Trigger** | CEO / management company attracts **and** fully runs the event/rental on the Company's existing structures (glamping, [[carrot house|Carrot House]], [[vitalik|Vitalik]], [[kitchen]], and other buildings) — not just referring a client, but handling guest comfort and every request on site. A bare referral with no on-site administration falls under [§1](#1-land-deal-closing-commission) / [§2](#2-upper-level-referral-commission-warning-open-item-pending-approval) instead. |
+| **Trigger** | CEO / management company attracts **and** fully runs the event/rental on the Company's existing structures (glamping, [[carrot house|Carrot House]], [[vitalik|Vitalik]], [[kitchen]], and other buildings) — not just referring a client, but handling guest comfort and every request on site. A bare referral with no on-site administration falls under [§1](#1-land-deal-closing-commission) instead. |
 | **Fee** | **30%** of revenue actually received from the rental/event — priced into the rental rate as the management company's share, not charged on top |
 | **Distribution** | management company allocates its 30% among team, referral ladder, and other participants at its own discretion; Company does not participate |
 | **Outside agent/referral** | paid **out of this 30%**, not on top of it |
 
 ---
 
-## 5. Discretionary monthly performance salary
+## 4. Discretionary monthly performance salary
 
 | | |
 |---|---|
@@ -76,7 +66,7 @@ the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts
 
 ---
 
-## 6. Common mechanics
+## 5. Common mechanics
 
 | | |
 |---|---|
@@ -86,7 +76,7 @@ the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts
 
 ---
 
-## 7. Acceptance
+## 6. Acceptance
 
 | party | role | sign / date |
 |---|---|---|
