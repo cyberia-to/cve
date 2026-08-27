@@ -64,9 +64,11 @@ Source: [[carbon policy]].
 - exception: construction/heavy-lift machinery with no electric equivalent, for the duration of a specific build, with 48-hour prior notice to residents within 100 m; no idling outside active work
 - no venting of exhaust or particulate smoke into occupied or residential zones from any vehicle, generator or machine; backup diesel generators only, monthly-tested to 15 minutes maximum
 - removal side: soil carbon building under D3, biochar production from estate organic waste as the primary removal pathway, forest/canopy cover held to Annex C's footprint limits
+- first instance of a breach — remediation (a combustion vehicle brought back into compliance, or removed from the estate); second instance — lease review under [[hak-sewa-deed]] Part 16, the same two-strike rule D3 uses
+- the estate-wide carbon-negative claim is a target, not yet a certified fact: it is confirmed only once a first full year of the annual accounting the source page describes exists. Until then, the transport and combustion rules above are the binding standard on their own terms
 
 [Annex C §5](/cyber-valley/cve/legal/annex-c-design-code) should be updated to list six source pages, not five, now that this one carries a standard.
 
 ## D7. Enforcement and relation to the deed
 
-A breach of D1–D5 is a breach of [[annex-c-design-code|Annex C]] under the Design Code procedure it sets, not a separate cause of action. Where a specific Part of [[hak-sewa-deed]] names a consequence for a category of breach (e.g. Part 16 for a soil violation under D3), that Part's mechanism applies; this annex states the standard, the deed states what happens when it is broken.
+A breach of D1–D6 is a breach of [[annex-c-design-code|Annex C]] under the Design Code procedure it sets, not a separate cause of action. Where a specific Part of [[hak-sewa-deed]] names a consequence for a category of breach (e.g. Part 16 for a soil violation under D3, or for D6 above), that Part's mechanism applies; this annex states the standard, the deed states what happens when it is broken.

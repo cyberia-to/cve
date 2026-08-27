@@ -25,7 +25,7 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 | `legal/notes/open questions.md` | release gate and every open item, deliberately outside the signable text |
 | [[annex-a-estate-registry|Annex A]] | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw|RTRW]] classification, [[pkkpr|PKKPR]] number or its absence, [[lp2b|LP2B]] status; plus the KBLI × location table under [§9A.1](#9a-licences-warranty-and-licence-event-regime) |
 | [[annex-b-plot-boundary|Annex B]] | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
-| [Annex C](/cyber-valley/cve/legal/annex-c-design-code) | Design Code — the zoning code as numbers |
+| [[annex-c-design-code|Annex C]] | Design Code — the zoning code as numbers |
 | [[annex-d-community-rules|Annex D]] | Community Rules |
 | [[annex-e-century-index|Annex E]] | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, floor, worked invoice; also the unamortised-return formula |
 | [[annex-f-utilities-access-mobility|Annex F]] | Utilities, access and mobility specification |
@@ -62,7 +62,7 @@ Signing authority. Under Articles of Association Pasal 12(2)(c) the Director sig
 | Estate | the land parcel(s) under the master title, described in Annex A |
 | Plot | the demarcated area allocated to the Holder, described by coordinates and site plan in Annex B |
 | Improvements | any building or structure erected by the Holder on the Plot |
-| Design Code | Annex C, as amended under [§7](#7-design-code-annex-c) |
+| Design Code | [[annex-c-design-code|Annex C]], as amended under [§7](#7-design-code-annex-c) |
 | Community Rules | [[annex-d-community-rules|Annex D]] |
 | Index Annex | [[annex-e-century-index|Annex E]], the century index annex referred to in [§2.3](#2-part-a-base-grant-hak-sewa-all-holders) and [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Register | the register of leases maintained by the Landowner under [§2.5.8](#2-part-a-base-grant-hak-sewa-all-holders) |
