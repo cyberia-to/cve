@@ -32,7 +32,7 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 | [[articles of association]] | Anggaran Dasar — capital, pre-emption, GMS powers, director authority |
 | [[shareholders agreement]] | ROFR, tag-along, **moonly dividend cadence**, cash waterfall among shareholders |
 | [[preemption waiver letter]] | if a specific transfer still needs waiver |
-| [strategy](/cyber-valley/strategy/README) | what the estate sells and how it sequences (not shareholder cash split) |
+| [strategy](/cyber-valley/strategy/) | what the estate sells and how it sequences (not shareholder cash split) |
 
 ## Land
 
