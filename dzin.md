@@ -18,10 +18,11 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 |---|---|---|
 | 1 | [[gms director appointment]] | GMS seats the board — Fedorov President Director, Voinova Deputy President Director, Starodubtsev President Commissioner — **effective only at Closing** |
 | 2 | [[share sale entry]] | founder sells **1% (80 shares) at par** to the President Director — **only at Closing** |
-| 3 | [[president director]] | how the president director runs ops + options + KPI ladder after entry |
-| 4 | [[shareholders agreement]] | ROFR, tag-along, consent list, moonly dividend cadence among shareholders |
-| 5 | [[entry payment side letter]] | private receipt fixing the real entry price (Voinova–Fedorov) |
-| 6 | [[director disclosure indemnity agreement]] | Owners' full disclosure + uncapped indemnity to the incoming Director |
+| 3 | [[preemption waiver letter]] | Starodubtsev waives the [[rofr|ROFR]] over the entry shares (Form B) |
+| 4 | [[president director]] | how the president director runs ops + options + KPI ladder after entry |
+| 5 | [[shareholders agreement]] | ROFR, tag-along, consent list, moonly dividend cadence among shareholders |
+| 6 | [[entry payment side letter]] | private receipt fixing the real entry price (Voinova–Fedorov) |
+| 7 | [[director disclosure indemnity agreement]] | Owners' full disclosure + uncapped indemnity to the incoming Director |
 
 **Rule:** buy 1% ↔ become President Director. No buy → no appointment. No appointment → no sale.
 
@@ -31,7 +32,6 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 |---|---|
 | [[articles of association]] | Anggaran Dasar — capital, pre-emption, GMS powers, director authority |
 | [[shareholders agreement]] | ROFR, tag-along, **moonly dividend cadence**, cash waterfall among shareholders |
-| [[preemption waiver letter]] | if a specific transfer still needs waiver |
 | [strategy](/cyber-valley/strategy/) | what the estate sells and how it sequences (not shareholder cash split) |
 
 ## Land
