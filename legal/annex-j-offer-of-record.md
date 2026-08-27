@@ -20,7 +20,7 @@ At signing, the Landowner records: the file(s) that made up the product page and
 | field | value |
 |---|---|
 | Files | `strategy/README.md`, `strategy/annual-leasehold.md` |
-| Commit | `d2b33e1c6b504b18142e083be85638439ebd529e` |
+| Commit | `2f4d487cb6fdc9bf4f9a7a8a4bac4b826cd3ce84` |
 | Date | 2026-08-27 |
 | What the Holder was shown | Instrument B (annual leasehold): 30% down, balance in equal instalments over 1 or 5 years, no interest, no index |
 | Binding vs informational | The instalment mechanic and the no-rate, no-index treatment of the balance are commitments — [2.1.2] says they "change only through this deed and the decision record." Wave pricing, KPI figures and the pricer widget's live output are current-state information and are not frozen by this entry. |
