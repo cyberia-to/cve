@@ -10,7 +10,7 @@ icon: "🤝"
 
 Working draft of CVE/SHA/2026-01 · supersedes nothing until executed
 
-> Draft status. This merges the executed-form text of [[shareholders agreement]] with the machinery imported from the accountant's master template (`Master-Shareholder Agreement.pdf`, PT Smart Advisory Solutions). Article-by-article provenance is at the end. Not Indonesian legal advice — before signature have Indonesian-licensed counsel review Articles 8, 13 and 15.
+> Draft status. This merges the executed-form text of [[shareholders agreement]] with the machinery imported from the accountant's master template (`Master-Shareholder Agreement.pdf`, PT Smart Advisory Solutions). Article-by-article provenance is at the end. Not Indonesian legal advice — before signature have Indonesian-licensed counsel review Articles 8, 13 and 15. ⚠ The executed [[shareholders agreement]] has since gained Article 5 (Accession), Article 6 (Maker/authorizer) and Article 7 (Tax compliance) — this draft's own numbering (5 Death/incapacity onward) has not yet absorbed them; references below point at the executed instrument's articles until this draft is resynced.
 
 English text · supplementary to [Articles 5](/cyber-valley/cve/legal/articles-of-association#article-5-shares) and [7](/cyber-valley/cve/legal/articles-of-association#article-7-transfer-of-shares) of the [[articles of association]] · to be executed bilingually, the Bahasa Indonesia column prevailing ([[uu 24-2009 bahasa|UU 24/2009]] Pasal 31).
 
@@ -41,7 +41,7 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Depu
 
 1. Approval of the GMS for a transfer of shares to a party that is not a Shareholder, as referred to in [Article 7(8)](/cyber-valley/cve/legal/articles-of-association#article-7-transfer-of-shares) of the [[articles of association|Articles of Association]], may only be withheld on one or more of the following grounds, exhaustively (a closed list):
    a. the prospective transferee fails screening under the Investment Priority List and/or applicable international sanctions screening binding on the Company;
-   b. the prospective transferee has not delivered a written accession to the Articles of Association and to this Agreement as required by [Article 5(2)](/cyber-valley/cve/legal/articles-of-association#article-5-shares) of the [[articles of association|Articles of Association]];
+   b. the prospective transferee has not delivered a written accession to the Articles of Association and to this Agreement as required by [[shareholders agreement]] Article 5;
    c. the prospective transferee is a direct business competitor of the Company in residential community estate development and management; or
    d. the prospective transferee, or the transferring Shareholder, has an unresolved obligation owed to the Company.
 2. Outside those four grounds, GMS approval of a transfer that satisfies Articles 1 and 2 of this Agreement and [Article 5(2)](/cyber-valley/cve/legal/articles-of-association#article-5-shares) of the [[articles of association|Articles of Association]] shall not be withheld, unreasonably delayed, or made subject to additional conditions.
@@ -75,7 +75,7 @@ The figures are certified by the Company's accountant; the tests are arithmetic,
 
 **Clawback.** If a financial year closes at a loss, the interim dividends of that year are returned to the Company as [[articles of association]] [Article 18(2)](/cyber-valley/cve/legal/articles-of-association#article-18-dividends) requires; test (c) exists to keep this theoretical.
 
-**Payment.** Pro rata to shareholding, within 5 (five) business days of approval, through the maker and authorizer mandate under [[articles of association]] [Article 12(4)](/cyber-valley/cve/legal/articles-of-association#article-12-duties-and-authority-of-the-board-of-directors).
+**Payment.** Pro rata to shareholding, within 5 (five) business days of approval, through the maker and authorizer mandate now in [[shareholders agreement]] Article 6 — not yet folded into this draft's own numbering.
 
 **Enforcement.** Withholding approval where no test has failed and the unforeseen-circumstance paragraph does not apply is a material breach of this Agreement, actionable by any Shareholder against the withholding party for the dividend so withheld.
 
@@ -83,7 +83,7 @@ This Article does not set CEO compensation — that is [[ceo]] only.
 
 ## Article 5 — Death, incapacity and other unforeseeable events
 
-1. On the death, permanent disability, terminal or mental illness of a Shareholder, the heirs or the legally authorised representatives of that Shareholder may elect either to keep the shares and accede to this Agreement under [Article 5(2)](/cyber-valley/cve/legal/articles-of-association#article-5-shares) of the [[articles of association|Articles of Association]], or to exit the Company.
+1. On the death, permanent disability, terminal or mental illness of a Shareholder, the heirs or the legally authorised representatives of that Shareholder may elect either to keep the shares and accede to this Agreement under [[shareholders agreement]] Article 5, or to exit the Company.
 2. Where the election is to exit, the other Shareholders have a preferential right to purchase the shares, in proportion to their shareholding or as they otherwise agree among themselves. The election is notified to the other Shareholders under Article 12 of this Agreement and the preferential right is exercised within 60 (sixty) days of that notice.
 3. The price is the price agreed between the heirs and the purchasing Shareholders. Failing agreement within 30 (thirty) days of the election, the price is the fair market value of the shares determined by an independent public appraiser (Kantor Jasa Penilai Publik, licensed by the Ministry of Finance) agreed between the sides. Failing agreement within 14 (fourteen) days, each side nominates one such appraiser and the two nominees appoint a third, whose determination is final. The cost is shared equally.
 4. Until the shares are transferred or the preferential right lapses, the heirs or representatives exercise the voting rights attaching to the shares.
@@ -111,7 +111,7 @@ This Article does not set CEO compensation — that is [[ceo]] only.
 Each Shareholder warrants to the others, on the date of this Agreement and on each date it acquires or transfers shares:
 
 1. that it has the legal capacity and authority to enter into this Agreement and to perform it;
-2. that it satisfies the requirements of [Article 5(2)](/cyber-valley/cve/legal/articles-of-association#article-5-shares) of the [[articles of association|Articles of Association]], including the foreign investment provisions of the Investment Priority List applicable to the Company's business activities;
+2. that it satisfies the requirements of [[articles of association]] Article 5(2), including the foreign investment provisions of the Investment Priority List applicable to the Company's business activities;
 3. that it is not subject to any international sanctions binding on the Company, and that the funds used to acquire its shares are of lawful origin;
 4. that it has made and will make all reports and disclosures required of it by any government authority in connection with its shareholding, including tax and beneficial-ownership reporting; and
 5. that the information it has provided to the Company or to the other Shareholders for those purposes is true and accurate.
@@ -127,7 +127,7 @@ A Shareholder that ceases to satisfy paragraph (2) or (3) shall notify the other
 ## Article 11 — Assignment
 
 1. A Shareholder may not assign its rights or obligations under this Agreement separately from the shares to which they attach.
-2. An assignment together with a transfer of shares is permitted only where the transfer complies with Articles 1, 2 and 3 of this Agreement and the transferee accedes in writing under [Article 5(2)](/cyber-valley/cve/legal/articles-of-association#article-5-shares) of the [[articles of association|Articles of Association]].
+2. An assignment together with a transfer of shares is permitted only where the transfer complies with Articles 1, 2 and 3 of this Agreement and the transferee accedes in writing under [[shareholders agreement]] Article 5.
 3. Where shares are held by an entity controlled by a Shareholder, a change of control of that entity is treated as a transfer of those shares and engages Articles 1, 2 and 3. "Control" means the power to determine the direction of management or material policies, whether through voting shares, contract or otherwise; direct or indirect beneficial ownership of at least 50% of the voting shares is deemed control.
 
 ## Article 12 — Notices
@@ -170,7 +170,7 @@ A Shareholder that ceases to satisfy paragraph (2) or (3) shall notify the other
 
 ## Article 18 — Miscellaneous
 
-1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee who has acceded to it under [Article 5(2)](/cyber-valley/cve/legal/articles-of-association#article-5-shares) of the [[articles of association|Articles of Association]].
+1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee who has acceded to it under [[shareholders agreement]] Article 5.
 2. This Agreement is governed by the laws of the Republic of Indonesia.
 3. This Agreement is executed in Bahasa Indonesia and English. On any discrepancy the Bahasa Indonesia text prevails ([[uu 24-2009 bahasa|UU 24/2009]] Pasal 31).
 

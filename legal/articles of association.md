@@ -12,11 +12,7 @@ English text of the Anggaran Dasar, 12 August 2026 · Akta Pendirian No. 01, 04-
 
 > Source: bilingual edition `cveanggarandasarIDEN`. The Bahasa Indonesia text prevails on any discrepancy ([[uu 24-2009 bahasa|UU 24/2009]]). This page carries the English column only, for reading and reference; the executable instrument is the notarial deed.
 
-## Preamble
-
-The Company is established to build and operate Cyber Valley — the first city of Cyberia — in Bali: a residential community estate on land administered by the Company, where every resident lives under the terms and values set by the Company.
-
-Cyber Valley is built as an environment that optimises the use of energy and resources in the widest sense — time, knowledge, experience, water, electricity, land and air — and unites its residents in a single community and a shared knowledge graph. As the first city, Cyber Valley is the foothold of the wider vision of Cyberia: long-term resilience and a habitat for human development.
+> Text conformed to Akta Pendirian No. 01 (04-01-2022): every clause below matches the notarial original, with one exception — Article 12(3) tightens the original's approval-gated borrowing and pledging into an outright prohibition, by decision, not by legal requirement. The Company's mission, the accession requirement, the maker/authorizer mandate, the tax-compliance duty and the interim-dividend regime live in [[shareholders agreement]] instead — see that document's Preamble and Articles 5–7. Article 12(2) carries a checklist marker pending review before signing.
 
 ## Article 1 — Name and domicile
 
@@ -39,7 +35,6 @@ The Company is established for an unlimited period of time.
    g. Campgrounds, caravan stops and caravan parks (KBLI 55192);
    h. Other amusement and recreation activities n.e.c. (KBLI 93299).
 2. To achieve the above purpose and objectives, the Company carries out business activities in accordance with the description of each KBLI as set out in Deed of Meeting Resolutions No. 02 dated 1 July 2025.
-3. The business activities of the Company are conducted in line with the founding purpose stated in the preamble: building a residential community estate that optimises the use of energy and resources and serves as an environment of long-term resilience, under the terms and values set by the Company for every resident.
 
 ## Article 4 — Capital
 
@@ -50,7 +45,7 @@ The Company is established for an unlimited period of time.
 ## Article 5 — Shares
 
 1. All shares issued by the Company are registered shares.
-2. Shares may be owned and their rights exercised only by individuals and/or legal entities that: (a) satisfy the applicable laws and regulations, including the foreign investment provisions (Investment Priority List) applicable to the Company's business activities; and (b) have declared in writing their accession to these Articles of Association and to the Company's shareholders agreement, if any.
+2. Shares may be owned and their rights exercised only by individuals and/or legal entities that satisfy the applicable laws and regulations, including the foreign investment provisions (Investment Priority List) applicable to the Company's business activities. Written accession by a shareholder is governed by [[shareholders agreement]] Article 5.
 3. Evidence of share ownership may take the form of a share certificate. Where the Company does not issue share certificates, ownership may be evidenced by a statement or record issued by the Company.
 4. If share certificates are issued, one certificate is issued for each share. A collective share certificate may be issued as evidence of ownership of 2 (two) or more shares held by one shareholder.
 5. A share certificate shall state at least: a. the name and address of the shareholder; b. the certificate number; c. the nominal value of the share; d. the date of issue. A collective certificate shall in addition state the share numbers and the number of shares.
@@ -125,12 +120,10 @@ The Company is established for an unlimited period of time.
 
 ## Article 12 — Duties and authority of the Board of Directors
 
-1. The Board of Directors is entitled to represent the Company in and out of court in all matters and events, to bind the Company to other parties and other parties to the Company, and to perform all acts of both management and ownership, subject to the limitations set out in paragraphs (3) and (4) of this Article.
-2. The Board of Directors is authorised, without prior approval, to: a. hire and dismiss employees of the Company and determine the organisational structure and remuneration; b. open, operate and close bank accounts in the name of the Company; c. sign lease agreements and agreements transferring land rights within the scope of business activities KBLI 68111 and 68200, subject to paragraph (3); d. conduct the day-to-day operations of the Company.
-3. The following legal acts may be performed by the Board of Directors only with the prior written approval of the Board of Commissioners, and for letters a, b and f also with the approval of the GMS: a. borrowing money or obtaining credit facilities in the name of the Company in any form; b. pledging, collateralising, encumbering with security title (hak tanggungan) or otherwise giving as security the assets of the Company, including land and/or any land rights (inter alia Right to Build ([[hgb|HGB]]) and Right to Use (Hak Pakai)) owned or controlled by the Company; c. lending the Company's money or issuing corporate guarantees to third parties; d. transferring or disposing of fixed assets of the Company outside the business activities referred to in Article 3; e. establishing a new business or participating in another company, whether domestic or foreign; f. changing the principal business activities of the Company.
-4. Every disbursement of funds from the Company's principal revenue account requires two separate roles: (i) the party initiating the payment (the "maker") and (ii) the party authorising the payment (the "authorizer"). The Director acts as maker and is not authorised to authorise disbursements. Authorisation is performed by the President Commissioner and/or a member of the Board of Commissioners designated by that Board. One person may not hold both roles for the same transaction. This provision shall be reflected in the Company's bank mandate.
-5. The President Director is entitled and authorised to act for and on behalf of the Board of Directors and to represent the Company. If the President Director is absent or unavailable for any reason whatsoever, which need not be proven to third parties, another member of the Board of Directors is entitled and authorised to act for and on behalf of the Board of Directors and to represent the Company.
-6. The Director shall ensure that the Company maintains proper tax compliance — including registration, computation, withholding, payment and reporting of the Company's taxes to the competent tax authorities of the Republic of Indonesia at the Company's tax domicile — during his term of office. In discharging this duty, the Director may rely in good faith on the advice and work product of the Company's appointed accountant and/or tax adviser, and such good-faith reliance shall not, by itself, constitute a breach of this Article. This duty does not extend to tax obligations, filings or liabilities arising, or relating to periods, before the date of his appointment, which remain the responsibility of the previous management. Members of the Board of Commissioners are not personally liable for the Company's operational taxes to the extent they did not participate in the violation.
+1. The Board of Directors is entitled to represent the Company in and out of court in all matters and events, to bind the Company to other parties and other parties to the Company, and to perform all acts of both management and ownership, subject to the limitations set out in paragraph (3) of this Article.
+2. ☐ *For review before signing — not yet a settled clause.* The Board of Directors is authorised, without prior approval, to: a. hire and dismiss employees of the Company and determine the organisational structure and remuneration; b. open, operate and close bank accounts in the name of the Company; c. sign lease agreements and agreements transferring land rights within the scope of business activities KBLI 68111 and 68200, subject to paragraph (3); d. conduct the day-to-day operations of the Company.
+3. The Company does not borrow money or obtain credit facilities in any form, and does not pledge, collateralise, encumber with security title (hak tanggungan) or otherwise give as security its assets — including land and any land rights (inter alia Right to Build ([[hgb|HGB]]) and Right to Use (Hak Pakai)) — in any form. These are prohibited by the nature of the Company, not merely subject to approval. Establishing a new business or participating in another company, whether domestic or foreign, may be performed by the Board of Directors only with the prior written approval of the Board of Commissioners.
+4. The President Director is entitled and authorised to act for and on behalf of the Board of Directors and to represent the Company. If the President Director is absent or unavailable for any reason whatsoever, which need not be proven to third parties, another member of the Board of Directors is entitled and authorised to act for and on behalf of the Board of Directors and to represent the Company.
 
 ## Article 13 — Meetings of the Board of Directors
 
@@ -188,9 +181,9 @@ The Company is established for an unlimited period of time.
 ## Article 18 — Dividends
 
 1. The Company's net profit in a financial year, as shown in the balance sheet and profit and loss account ratified by the annual GMS and constituting a positive profit balance, is applied in the manner determined by that GMS, after the allocation to the statutory reserve under Article 19 of these Articles.
-2. Interim dividends are permitted. Before the close of a financial year the Company may distribute an interim dividend on a resolution of the Board of Directors approved by the Board of Commissioners, provided that the net assets of the Company after the distribution are not less than the issued and paid-up capital plus the statutory reserve, and that the distribution does not prejudice the Company's obligations to its creditors — [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72. These Articles place no restriction on how often an interim dividend may be distributed. Where a financial year closes at a loss, the interim dividends distributed during that year are returned by the shareholders to the Company.
-3. If the profit and loss account for a financial year shows a loss that cannot be covered by the reserve fund, the loss shall remain recorded in the profit and loss account, and in subsequent financial years the Company shall be deemed to have made no profit until the loss is covered.
-4. Dividends are paid pro rata to shareholding, through the maker and authorizer mandate under Article 12(4) of these Articles.
+2. If the profit and loss account for a financial year shows a loss that cannot be covered by the reserve fund, the loss shall remain recorded in the profit and loss account, and in subsequent financial years the Company shall be deemed to have made no profit until the loss is covered.
+
+Interim dividends, their cadence and the mechanics of payment are governed by [[shareholders agreement]] Article 4, within the limit [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72 sets.
 
 ## Article 19 — Use of reserves
 

@@ -35,7 +35,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 0.4 Title condition. ⚠ This deed is executed only where the Plot sits on a certificated [[hgb|HGB]] parcel listed in Annex A and a [[pkkpr|PKKPR]] covering the intended use subsists for that parcel. Parcels recorded as *Pipil*, held on agreement, or awaiting certification are outside this deed until converted.
 
-0.5 Signing authority. The Director signs under Articles of Association Pasal 12(2)(c), within [[kbli|KBLI]] 68111 and 68200, without prior approval. Payment dates in this deed accommodate the separate maker and authorizer roles required by Pasal 12(4).
+0.5 Signing authority. The Director signs under Articles of Association Pasal 12(2)(c), within [[kbli|KBLI]] 68111 and 68200, without prior approval. Payment dates in this deed accommodate the separate maker and authorizer roles required by [[shareholders agreement]] Article 6.
 
 ---
 
@@ -105,7 +105,7 @@ The rent form carries no path to any of the rights, titles or upgrade tracks els
 
 3.5 Guarantee Fund. ▲ 5% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex-e-century-index|Annex E]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
 
-The Fund is whatever has accumulated less payments properly made out of it: there is no target level and no obligation on the Landowner to top it up from other money. Money leaves the Fund only to pay a Holder a sum due, on the maker and authorizer mandate under [[articles of association]] Article 12(4), within 30 days of a supported claim or 10 days of an arbitral award. No commissioner approval is needed to pay a Holder; approval is needed to take money out for anything else, and the only permitted other use is a return of surplus.
+The Fund is whatever has accumulated less payments properly made out of it: there is no target level and no obligation on the Landowner to top it up from other money. Money leaves the Fund only to pay a Holder a sum due, on the maker and authorizer mandate under [[shareholders agreement]] Article 6, within 30 days of a supported claim or 10 days of an arbitral award. No commissioner approval is needed to pay a Holder; approval is needed to take money out for anything else, and the only permitted other use is a return of surplus.
 
 ○ The Fund is the Company's own asset and is not insolvency-remote: on insolvency the Holder ranks as an unsecured creditor. This is disclosed in these words, and no marketing material describes the Fund as a bank guarantee, escrow or insurance. Where a Holder is also a shareholder of the Landowner, he takes no part in any decision concerning his own claim on the Fund.
 
@@ -152,7 +152,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 - the Landowner acknowledges the financier, issues the Estate Certificate to it, and notifies it of any material breach before terminating, allowing it the Holder's cure period;
 - on enforcement the financier takes the whole bundle and accedes under [4.4](#part-4-transfer); no transfer fee is charged on enforcement, and [4.5](#part-4-transfer) applies on the financier's onward sale.
 
-○ Confirm the construction with the notary before use. Note the asymmetry it creates: the Landowner may charge the land under Pasal 12(3)(b) while the Holder cannot charge its lease.
+○ Confirm the construction with the notary before use. Neither side can charge easily: [[articles of association]] Article 12(3) now prohibits the Company from pledging or encumbering its land by the nature of its constitution, not merely subject to approval, and the Holder cannot charge its lease at all — the asymmetry this clause used to describe is closed at the constitutional level; this clause is the Holder's route to raise finance against the position it does hold.
 
 ---
 
@@ -381,7 +381,7 @@ The acts within the Landowner's power include, without limitation:
 - applying for and procuring *pemecahan* of the Plot from the master HGB, including the cadastral survey, the *Surat Ukur* and the boundary process with adjoining owners;
 - applying for the *perubahan hak* over the split parcel;
 - executing before the PPAT every deed, application, consent, declaration, power of attorney, statement and affidavit required by the PPAT, ATR/BPN or any other authority;
-- procuring the corporate authorisations its own constitution requires, including any approval of the Board of Commissioners or the [[gms|GMS]] under Articles of Association Pasal 12(3);
+- procuring the corporate authorisations its own constitution requires, including any approval of the Board of Commissioners under Articles of Association Article 12(3) for establishing a new business where the route involves one;
 - delivering the certificate, *Surat Ukur*, [[pbb|PBB]] receipts, [[nib|NIB]], tax documents and every other instrument in its possession that the application requires;
 - procuring the release or the written non-objection of any secured party whose right touches the parcel;
 - appearing, or procuring the appearance of its authorised representative, at every stage at which the office requires the registered holder to appear;
@@ -514,7 +514,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 15.1.1 Due diligence and the search at signing. Annex I is delivered before signing: certified copy of the Title, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR. As a condition of execution the PPAT performs *pengecekan sertifikat* on the day of signing and the result is recited. The Landowner warrants that nothing has been created over the Plot between search and signing.
 
-15.2 Negative pledge. ▲ For a Plot under a Hak Pakai Notice the standstill in [12.1.7](#part-12-upgrade-tracks) applies in addition and, where stricter, in place of this clause. The Landowner shall not, without the Holder's written consent, encumber the Plot with *hak tanggungan* or other security, grant competing rights over it, or dispose of it otherwise than subject to this deed, the transferee taking bound. ⚠ Pasal 12(3)(b) permits the Company to encumber land with the approval of the Board of Commissioners and the GMS; without this clause the corporate constitution allows the land beneath the leases to be charged without the Holder being told.
+15.2 Negative pledge. ▲ For a Plot under a Hak Pakai Notice the standstill in [12.1.7](#part-12-upgrade-tracks) applies in addition and, where stricter, in place of this clause. The Landowner shall not, without the Holder's written consent, encumber the Plot with *hak tanggungan* or other security, grant competing rights over it, or dispose of it otherwise than subject to this deed, the transferee taking bound. [[articles of association]] Article 12(3) independently prohibits the Company from pledging or encumbering its land at all, by the nature of its constitution; this clause is the Holder's own contractual right on top of that constitutional prohibition, and controls if the Articles are ever amended to permit encumbrance again.
 
 15.3 Non-disturbance. ▲ ○ Where an encumbrance is nevertheless granted it is permitted only if the secured party confirms in writing that this deed survives enforcement and binds a purchaser at auction. Holders are notified no later than 30 days before it is granted and the Register is updated. For the period it subsists, the area revenue charge is reduced by [___] percentage points.
 

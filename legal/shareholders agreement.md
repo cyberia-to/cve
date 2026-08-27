@@ -23,6 +23,7 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Depu
 1. This Agreement is made to supplement Articles 5 and 7 of the Company's Articles of Association with contractual terms binding between the Shareholders personally, including tag-along rights, a closed list of grounds for withholding consent to a transfer, and the mandatory dividend cadence.
 2. This Agreement is entered into in connection with the transfer of 80 (eighty) shares from Alisa Voinova to Oleksandr Fedorov at par value (Rp 200,000,000.00), as approved by the shareholders' circular resolution and set out in the Share Sale Deed.
 3. Where this Agreement and the Articles of Association conflict on a matter binding third parties or the Company vis-à-vis third parties, the Articles of Association prevail ([[uu 40-2007 perseroan terbatas|UU 40/2007]]). As between the Shareholders themselves, this Agreement binds as a supplementary contract and must be performed in good faith, including by procuring that the GMS adopts resolutions consistent with it.
+4. The Company is established to build and operate Cyber Valley — the first city of Cyberia — in Bali: a residential community estate on land administered by the Company, where every resident lives under the terms and values set by the Company. Cyber Valley is built as an environment that optimises the use of energy and resources in the widest sense — time, knowledge, experience, water, electricity, land and air — and unites its residents in a single community and a shared knowledge graph. As the first city, Cyber Valley is the foothold of the wider vision of Cyberia: long-term resilience and a habitat for human development. The Company's business activities under Article 3 of the Articles of Association are conducted in line with this purpose.
 
 ## Article 1 — Right of first refusal
 
@@ -73,17 +74,33 @@ The figures are certified by the Company's accountant; the tests are arithmetic,
 
 **Annual true-up.** The final dividend for a financial year is the net profit after the reserve allocation, less interim dividends already paid during that year, and is distributed at the annual GMS. The split between dividends and retained project treasury is decided by the GMS. Working proposal, not binding until the GMS resolves: **50/50**.
 
-**Clawback.** If a financial year closes at a loss, the interim dividends of that year are returned to the Company as [[articles of association]] Article 18(2) requires; test (c) exists to keep this theoretical.
+**Clawback.** If a financial year closes at a loss, the interim dividends of that year are returned to the Company, as [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72 requires of any interim dividend; test (c) exists to keep this theoretical.
 
-**Payment.** Pro rata to shareholding, within 5 (five) business days of approval, through the maker and authorizer mandate under [[articles of association]] Article 12(4).
+**Payment.** Pro rata to shareholding, within 5 (five) business days of approval, through the maker and authorizer mandate under Article 6 of this Agreement.
 
 **Enforcement.** Withholding approval where no test has failed and the unforeseen-circumstance paragraph does not apply is a material breach of this Agreement, actionable by any Shareholder against the withholding party for the dividend so withheld.
 
 This Article does not set CEO compensation — that is [[ceo]] only.
 
-## Article 5 — Miscellaneous
+## Article 5 — Accession and eligibility
 
-1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee of shares who has acceded to it under Article 5(2) of the Articles of Association.
+1. A person or entity becomes bound by this Agreement, and may hold or continue to hold shares in the Company, only once it has declared in writing its accession to the Articles of Association and to this Agreement. [[articles of association]] Article 5(2) states the eligibility conditions under law (including the Investment Priority List); this Article states the accession mechanism that gives those conditions effect between the Shareholders.
+2. Accession is delivered to the Company and to the other Shareholders before, or simultaneously with, registration of the relevant shares in the Register of Shareholders. A transferee who has not acceded is not a Shareholder for the purposes of this Agreement, whatever its position in the Register.
+3. Every reference in this Agreement, in the Articles of Association, or in any other instrument of the pack, to a party having "acceded under Article 5(2) of the Articles of Association" means accession under this Article.
+
+## Article 6 — Maker and authorizer mandate
+
+1. Every disbursement of funds from the Company's principal revenue account requires two separate roles: (i) the party initiating the payment (the "maker") and (ii) the party authorising the payment (the "authorizer"). The Director acts as maker and is not authorised to authorise disbursements. Authorisation is performed by the President Commissioner and/or a member of the Board of Commissioners designated by that Board. One person may not hold both roles for the same transaction. This provision shall be reflected in the Company's bank mandate.
+2. Every reference in this pack to "the maker and authorizer mandate under Article 12(4) of the Articles of Association" means this Article.
+
+## Article 7 — Tax compliance
+
+1. The Director shall ensure that the Company maintains proper tax compliance — including registration, computation, withholding, payment and reporting of the Company's taxes to the competent tax authorities of the Republic of Indonesia at the Company's tax domicile — during his term of office. In discharging this duty, the Director may rely in good faith on the advice and work product of the Company's appointed accountant and/or tax adviser, and such good-faith reliance shall not, by itself, constitute a breach of this Article.
+2. This duty does not extend to tax obligations, filings or liabilities arising, or relating to periods, before the date of his appointment, which remain the responsibility of the previous management. Members of the Board of Commissioners are not personally liable for the Company's operational taxes to the extent they did not participate in the violation.
+
+## Article 8 — Miscellaneous
+
+1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee of shares who has acceded to it under Article 5 of this Agreement.
 2. Amendments to this Agreement are valid only if made in writing and signed by all Shareholders.
 3. This Agreement is governed by the laws of the Republic of Indonesia.
 

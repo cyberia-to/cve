@@ -94,4 +94,4 @@ Signed by the shareholder who is not selling. Covers both the entry sale of 80 s
 - Signed by both existing shareholders under Form A, since Article 4(3) gives the right to each of them; by the non-selling shareholder alone under Form B.
 - Handed to the notary with the amendment; not recited in the body of the Articles.
 - Scoped by purpose, so one letter serves every tranche and no further waiver is needed later.
-- The Director's own accession under Article 5(2) is a separate document and is unaffected.
+- The Director's own accession under [[shareholders agreement]] Article 5 is a separate document and is unaffected.

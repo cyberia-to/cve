@@ -65,7 +65,7 @@ Provenance, resolved on 24 August 2026: the primary text was retrieved from [JDI
 
 What went into [§2.9](#2-itr-and-buleleng) in place of a charge: assignment of the right by way of security (`cessie tot zekerheid`) by notarial deed on notice to the Estate; the Estate acknowledges the secured creditor, issues it the Estate Certificate, and notifies it of a material breach before terminating, granting the same cure period as the Holder; on enforcement the creditor takes the whole bundle under 2.5.2 and accedes under 2.5.4, with no transfer fee — the fee is taken on its subsequent sale.
 
-This also strengthens the argument for a negative pledge. The asymmetry is named directly: the Company may charge the land under `Pasal 12(3)(b)` of the Articles, while the Holder may not charge his right at all. A one-sided power of encumbrance without non-disturbance is not a balance that can be sold.
+This also strengthens the argument for a negative pledge, though the underlying asymmetry has since narrowed: Articles of Association Article 12(3) now prohibits the Company from charging its land at all, by the nature of its constitution, not merely with consent as this section originally described. The Holder still may not charge his right at all — the negative pledge in the deed is the Holder's own backstop, not the only thing standing between him and an encumbrance.
 
 ## 4a. Numbering of the [[kuhperdata|KUHPerdata]] articles in [§2.7](#2-itr-and-buleleng)
 
