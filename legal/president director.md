@@ -64,7 +64,7 @@ Revenue lands on **strategic** only. No silent mixing.
 Once per month (or written circular):
 
 - PD tables **proposals** (props) for strategic spend and material decisions  
-- **One commissioner** approval is enough  
+- Approval by **one commissioner or the Deputy President Director** is enough  
 - Ops inside the approved monthly envelope needs no commissioner each time  
 
 ---
@@ -81,9 +81,12 @@ Once per month (or written circular):
 
 | rule | |
 |---|---|
-| **Below market** | Any **[[hgb|HGB]]** or **hak sewa** below market needs **commissioner** approval |
-| **Market floor** | **USD 3,000 / are (sotka)** — under this = below market unless commissioner signs |
+| **HGB — board only** | Any **[[hgb|HGB]]** grant, transfer or disposal goes **only through the board** — approval required at any price, market or not |
+| **Leasehold — PD's course** | **Hak sewa** (leasehold) is the PD's ordinary business — no approval needed, except **below market** deals, which require approval |
+| **Market floor** | **USD 3,000 / are (sotka)** — under this = below market unless approved |
+| **Contracts above 2%** | Any contract with a value above **2% of the issued capital (modal ditempatkan)** requires approval |
 | **No mortgage** | PD **cannot** pledge or mortgage Company (or controlled [[spv|SPV]]) **real estate** for loans |
+| **Approval quorum** | for every approval this document requires: **one commissioner or the Deputy President Director** is enough |
 
 ---
 

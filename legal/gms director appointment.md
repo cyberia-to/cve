@@ -45,10 +45,10 @@ Effective only upon Closing under [§4](#4-closing-single-condition-package):
 One person may not sit on both organs; Voinova's seat on the Board of Commissioners ends as her seat on the Board of Directors begins. The Board of Commissioners continues with Starodubtsev as its sole member under Articles 15(4).
 
 **3.2 Dual accounts.**  
-To confirm the dual-account regime in [[president director]] [§§2–4](/cyber-valley/cve/legal/president-director#2-dual-accounts): strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **one Commissioner**; monthly funding transfer strategic → operational.
+To confirm the dual-account regime in [[president director]] [§§2–4](/cyber-valley/cve/legal/president-director#2-dual-accounts): strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **one Commissioner or the Deputy President Director**; monthly funding transfer strategic → operational.
 
 **3.3 Land and credit limits.**  
-To bind the President Director to [[president director]] [§5](/cyber-valley/cve/legal/president-director#5-land-and-credit-hard-limits): commissioner approval for [[hgb|HGB]] / hak sewa below **USD 3,000 per are**; **no power** to mortgage Company real estate for loans.
+To bind the President Director to [[president director]] [§5](/cyber-valley/cve/legal/president-director#5-land-and-credit-hard-limits): [[hgb|HGB]] grants, transfers and disposals **only with approval**; hak sewa below **USD 3,000 per are** needs approval; any contract above **2% of the issued capital** needs approval — one Commissioner or the Deputy President Director is enough in each case; **no power** to mortgage Company real estate for loans.
 
 **3.4 Entry equity.**  
 To approve the transfer of **80 shares (1%)** from Alisa Voinova to the President Director at **Rp 200,000,000** — the price at the agreed company valuation of Rp 20,100,000,000 (the issued and fully paid capital, Rp 2,500,000 per share) — under [[share sale entry]], as part of the same Closing.
