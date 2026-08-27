@@ -194,8 +194,6 @@ each a "Party" and together the "Parties".
 
 ## Appendix A — Owners' due diligence questionnaire and answers (English translation)
 
-*Originally completed by the Owners in Russian; if the translation and the Russian original diverge, the Owners' actual intended meaning, as reasonably understood by both Parties, controls.*
-
 **1. Clarifying questions**
 
 - **Nominee shareholders / beneficial owners / informal arrangements?** No.
