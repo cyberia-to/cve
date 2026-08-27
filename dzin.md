@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, dzin
-alias: dzin, dzin pack, cve corporate pack
+alias: dzin, dzin pack, appointment package
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article
@@ -8,11 +8,9 @@ icon: "🗂"
 ---
 # dzin
 
-Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on executed deeds (Law No. 24/2009).
-
-## Closing order — President Director entry
-
-**One condition package** (same day):
+The appointment of the President Director of PT. Cyber Valley Estate —
+**one atomic package**, seven documents, closed the same day. English
+text; Bahasa prevails on executed deeds (Law No. 24/2009).
 
 | # | document | what |
 |---|---|---|
@@ -26,20 +24,4 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 
 **Rule:** buy 1% ↔ become President Director. No buy → no appointment. No appointment → no sale.
 
-## Company constitution
-
-| page | what |
-|---|---|
-| [[articles of association]] | Anggaran Dasar — capital, pre-emption, GMS powers, director authority |
-| [[shareholders agreement]] | ROFR, tag-along, **moonly dividend cadence**, cash waterfall among shareholders |
-| [strategy](/cyber-valley/strategy/) | what the estate sells and how it sequences (not shareholder cash split) |
-
-## Land
-
-| page | what |
-|---|---|
-| [[land rights agreement]] | drafting framework — the whole land-rights system |
-| [[hak sewa deed]] | base deed — the signable *akta sewa* |
-| annexes | [[annex a estate registry|A registry]] · [[annex b plot boundary|B boundary]] · [[annex c design code|C design code]] · [[annex d community rules|D community]] · [[annex e century index|E century index]] · [[annex f utilities access mobility|F utilities]] · [[annex g permitted use|G permitted use]] · [[annex h handover condition|H handover]] · [[annex i due diligence pack|I due diligence]] · [[annex j offer of record|J offer of record]] |
-
-{{query (and [[dzin]])}}
+Everything else — constitution, land, notes, vocabulary, laws — lives at [[legal]].
