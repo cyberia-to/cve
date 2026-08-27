@@ -260,7 +260,7 @@ legal/
   instrument-option.md          the wave option
 ```
 
-The base deed is written in three parallel columns RU-EN-ID from the start, as chosen. The Indonesian column is written alongside the Russian and English rather than translated afterwards — divergences between languages are born precisely at the stage of late translation, and it is those divergences that later decide the dispute, because under [[uu 24-2009 bahasa|UU 24/2009]] priority usually lies with the Indonesian text.
+The base deed is written in two parallel columns EN-ID from the start. The Indonesian column is written alongside the English rather than translated afterwards — divergences between languages are born precisely at the stage of late translation, and it is those divergences that later decide the dispute, because under [[uu 24-2009 bahasa|UU 24/2009]] priority usually lies with the Indonesian text.
 
 ---
 

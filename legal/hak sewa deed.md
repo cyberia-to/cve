@@ -27,7 +27,6 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 0.1 Bilingual execution. ⚠ This deed is executed in Bahasa Indonesia and English in parallel columns, the Indonesian column drafted alongside the English rather than translated after it. [[uu 24-2009 bahasa|UU 24/2009]] requires an agreement involving an Indonesian party to be executed in Bahasa Indonesia, and English-only instruments have been annulled. The Indonesian text prevails on discrepancy.
 
-○ The framework's note for counsel contemplates a third column in Russian. The Russian duplicate of the framework was removed on 22 August 2026 and the estate now keeps repository text in English. Confirm before execution whether a Russian column is required for the Holder's comprehension; if it is, it is a courtesy translation without prevailing force.
 
 0.2 Notarial form. Executed as an *akta sewa* before a notary and [[ppat|PPAT]]. A privately signed instrument is unusable for any later [[bpn|BPN]] procedure.
 
