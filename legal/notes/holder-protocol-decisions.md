@@ -68,7 +68,7 @@ Problem (as it stood): `Pasal 12(3)(b)` of the Articles expressly permitted the 
 
 Original decision (superseded): the Company keeps the right to charge for phase 1 infrastructure, gated by three Holder protections.
 
-⚠ Reversed: Articles of Association Article 12(3) now prohibits the Company from borrowing or encumbering its assets at all, by the nature of its constitution — not gated, absolute. Phase 1 infrastructure financing needs a route that does not run through pledging Company land; the three Holder-protection conditions below are moot since there is no encumbrance to protect against, but hak-sewa-deed 15.2 / land-rights-agreement 9B.3 keep the negative pledge as a contractual backstop in case the Articles are ever amended.
+Reversed: infrastructure was never meant to run on debt — it runs on profit, per [[strategy/README|strategy]] §4 Z4 ("self-funded... capex comes from Phase 0 proceeds"). Articles of Association Article 12(3) now prohibits the Company from borrowing or encumbering its assets at all, by the nature of its constitution — closing an option that was never the actual plan, not opening a gap. The three Holder-protection conditions below are moot since there is no encumbrance to protect against; hak-sewa-deed 15.2 / land-rights-agreement 9B.3 keep the negative pledge as a contractual backstop in case the Articles are ever amended.
 
 Why win-win. A bank accepts non-disturbance readily: the rental flow is what makes the security valuable, and a bank that destroys the leases destroys the asset it lends against. The Company keeps access to financing and pays for it out of future flow rather than out of cash. The Holder stops fearing the thing he fears most.
 
