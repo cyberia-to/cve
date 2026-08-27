@@ -52,18 +52,26 @@ glamping at 30% of revenue actually received — is published at
 
 ---
 
-## 4. Discretionary monthly performance salary
+## 4. Monthly salary — revenue ladder
+
+Salary follows cumulative revenue actually received by the Company since
+CEO's appointment. A ladder, not a discretionary number:
+
+| cumulative revenue since appointment | monthly salary |
+|---|---|
+| below $100k | — |
+| $100k reached | **$2,000** |
+| $500k reached | **$5,000** |
+| $2M reached (~[[sinwood]] sales done) | **$10,000** |
 
 | | |
 |---|---|
-| **Basis** | CEO proposes his own salary each month under [[ceo]] §3 (strategic gate), in good faith, based on that month's results and workload |
-| **Calculation model** | the proposed amount is based on **7%** of that month's profit — the reference formula the proposal is built around, not a number CEO is free to disregard without reason |
-| **Profit (this section only)** | cash remaining in the operational account for the month under the approved budget, after operating expenses — computed at the same point in the cycle as [[shareholders agreement]] Article 4 item 3 (operating budget), before item 4 (distributable cash) is reached; this section never draws on money already earmarked for dividends |
-| **Floor** | Company accounts must hold **no less than USD 10,000** after the salary is paid — no salary, or a reduced one, if paying it in full would breach that floor |
-| **Approval** | tabled as a proposal under [[ceo]] §3 — **one commissioner's** sign-off is enough, same as any other strategic-gate item |
-| **Interaction with [[ceo]] §1** | Gives the formula behind the "ops-proposal" fixed salary already referenced there — sizing and floor are defined here, the §3 approval step is unchanged |
-| **Payable** | from the operational account ([[ceo]] §2), once per month, once approved |
-| **Reporting** | CEO reports the operational account balance for the closed month at the next moonly shareholders meeting under [[shareholders agreement]] Article 4 Cadence — actuals against the approved envelope, this salary, and what remains. Reported for the period just ended, same cadence as the dividend cycle it sits next to. |
+| **Base** | revenue = amounts actually received by the Company — the same doctrine as every fee in this document |
+| **Step** | the salary steps up in the month a milestone is crossed and never steps down |
+| **Floor** | Company accounts must hold **no less than USD 10,000** after the salary is paid — reduced or skipped if paying in full would breach that floor |
+| **Interaction with [[ceo]] §1** | this ladder is the number behind the "ops-proposal" fixed salary referenced there — with the ladder in place, no monthly proposal cycle is needed |
+| **Payable** | from the operational account ([[ceo]] §2), once per month |
+| **Reporting** | operational-account actuals for the closed month, the milestone standing, and this salary — at the moonly shareholders meeting under [[shareholders agreement]] Article 4 Cadence |
 
 ---
 
