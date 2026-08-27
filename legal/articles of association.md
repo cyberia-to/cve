@@ -38,7 +38,7 @@ The Company is established for an unlimited period of time.
 
 1. The authorised capital of the Company is Rp 20,100,000,000.00 (twenty billion one hundred million Rupiah), divided into 8,040 (eight thousand and forty) shares, each with a nominal value of Rp 2,500,000.00 (two million five hundred thousand Rupiah).
 2. Of the authorised capital, 100% (one hundred percent), being 8,040 shares with an aggregate nominal value of Rp 20,100,000,000.00, has been issued and fully paid by the shareholders.
-3. Shares held in reserve shall be issued according to the Company's capital needs with the approval of the General Meeting of Shareholders (GMS). Shareholders recorded in the Register of Shareholders have a pre-emptive right to subscribe for shares to be issued within 14 (fourteen) days from the offer date, in proportion to their shareholding. If after that period shares remain unsubscribed, the Board of Directors may offer the remainder to third parties.
+3. Shares held in reserve shall be issued according to the Company's capital needs with the approval of the General Meeting of Shareholders (GMS). Shareholders recorded in the Register of Shareholders have a pre-emptive right to subscribe for shares to be issued within 14 (fourteen) days from the offer date, in proportion both to their own entitlement and to any remainder not taken up by the other shareholders. If after that 14 (fourteen) day offer period shares still remain unsubscribed, the Board of Directors may offer the remainder to third parties.
 
 ## Article 5 — Shares
 
