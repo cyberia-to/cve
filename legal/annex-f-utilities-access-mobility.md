@@ -9,7 +9,7 @@ icon: "🔌"
 
 # Annex F — Utilities, Access and Mobility Specification
 
-Annexed to [[land-rights-agreement]]. Referred to at [[hak-sewa-deed]] [7.4.1](/cyber-valley/cve/legal/hak-sewa-deed#part-7-annexes) as part of the Design Envelope of a Plot: "so much of the access and connection specification in Annex F as applies to the Plot." Source: the Estate's current installed base (`cve.md` asset schedule) and [[cyber-valley/strategy|strategy]] §4 Z4.
+Annexed to [[land-rights-agreement]]. Referred to at [[hak-sewa-deed]] [10.6](/cyber-valley/cve/legal/hak-sewa-deed#part-10-design-code) as part of the Design Envelope of a Plot: "so much of the access and connection specification in Annex F as applies to the Plot." Source: the Estate's current installed base (`cve.md` asset schedule) and [[cyber-valley/strategy|strategy]] §4 Z4.
 
 ## F1. Installed capacity, current state
 
@@ -24,10 +24,10 @@ Figures above describe the Estate as a whole at the date of this annex; they are
 
 ## F2. Access and mobility
 
-- **The core is car-free.** Combustion vehicles stop at the Z4 mobility hub on the estate perimeter — [[carbon policy]] and [[strategy/README|strategy]] §4 make this a design rule, not a suggestion. Internal movement is on foot, by e-mobility, or by shuttle.
+- **The core is car-free.** Combustion vehicles stop at the Z4 mobility hub on the estate perimeter — [[carbon policy]] and [[cyber-valley/strategy|strategy]] §4 make this a design rule, not a suggestion. Internal movement is on foot, by e-mobility, or by shuttle.
 - **Z4 mobility hub**: ~350 car slots and ~1,800 motorbike slots at the perimeter, run by a management company on a fee-of-revenue contract. A Holder's own vehicle, if combustion-powered, parks here, not on the Plot — consistent with [[annex-d-community-rules|Annex D]] D6.
 - **External access**: representative travel time to Singaraja is approximately 50 minutes by car from the estate's western district; travel time varies by district and is not separately warranted per Plot.
-- **Internal roads**: estate-internal roads and the private access corridors serving individual districts are Company infrastructure under [Z4](/cyber-valley/cyber-valley/strategy#4-land-use-plan-eight-zones) — ownership is retained, per [[land-rights-agreement]] §9A and the Z4 rule that all Z4 structures revert to the Landowner.
+- **Internal roads**: estate-internal roads and the private access corridors serving individual districts are Company infrastructure under [Z4](/cyber-valley/strategy#4-land-use-plan-eight-zones) — ownership is retained, per [[cyber-valley/strategy|strategy]] §4 and [[annex-g-permitted-use|Annex G]] G3, which state that all Z4 structures revert to the Landowner.
 
 ## F3. What is not yet specified — populate per district
 

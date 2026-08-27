@@ -9,7 +9,7 @@ icon: "🔑"
 
 # Annex H — Condition Schedule at Handover
 
-Annexed to [[land-rights-agreement]]. Referred to at [§5A.6](/cyber-valley/cve/legal/land-rights-agreement#5a-construction-supervision-insurance-security-and-handover) item 6, *BAST Pengembalian* (redelivery): condition on return at Term end is measured against this annex. One Annex H is completed per Plot, at BAST Lahan (site handover, item 1 of the chain) — this page carries the form.
+Annexed to [[land-rights-agreement]]. Referred to at [§5A.6](/cyber-valley/cve/legal/land-rights-agreement#5a-construction-control-handover-and-indemnity) item 6, *BAST Pengembalian* (redelivery): condition on return at Term end is measured against this annex. One Annex H is completed per Plot, at BAST Lahan (site handover, item 1 of the chain) — this page carries the form.
 
 ## Form
 
@@ -23,4 +23,4 @@ Annexed to [[land-rights-agreement]]. Referred to at [§5A.6](/cyber-valley/cve/
 
 ## What "baseline" means for redelivery
 
-The Holder returns the Plot in the condition this annex records, adjusted for: (a) fair wear from the permitted use over the Term; (b) Improvements the Holder is entitled to leave or is required to remove under the deed's own end-of-term provisions; (c) soil condition, which is expected to have improved under Annex D D3, not merely been preserved. A dispute over redelivery condition is resolved by the independent supervisor under [5A.3](/cyber-valley/cve/legal/land-rights-agreement#5a-construction-supervision-insurance-security-and-handover), comparing the current state to this annex.
+The Holder returns the Plot in the condition this annex records, adjusted for: (a) fair wear from the permitted use over the Term; (b) Improvements the Holder is entitled to leave or is required to remove under the deed's own end-of-term provisions; (c) soil condition, which is expected to have improved under Annex D D3, not merely been preserved. A dispute over redelivery condition is resolved by the independent supervisor under [5A.3](/cyber-valley/cve/legal/land-rights-agreement#5a-construction-control-handover-and-indemnity), comparing the current state to this annex.

@@ -15,7 +15,7 @@ Annexed to [[land-rights-agreement]]. One row per land title held or claimed by 
 
 ## 1. Registered titles — remaining term at signing
 
-Remaining term is computed under [hak-sewa-deed §2.2](/cyber-valley/cve/legal/hak-sewa-deed#part-2-the-grant): the lesser of 25 years and (years to the certificate's expiry, less the 12-month extension buffer), from a signing date of 27 August 2026. Every title below clears 25 years without the buffer cutting into it — the shortest remaining runway in the portfolio is Parcels 5, 9, 13 (as HGB), 10, 14 at ~25.8 years, still above the 25-year ceiling after the buffer.
+Remaining term is computed under [hak-sewa-deed §2.2](/cyber-valley/cve/legal/hak-sewa-deed#part-2-the-grant): the lesser of 25 years and (years to the certificate's expiry, less the 12-month extension buffer), from a signing date of 27 August 2026. Fourteen of the eighteen titles clear the full 25 years; the buffer trims Parcels 5, 9, 10 and 14 — all expiring 21.06.2052, the shortest runway in the portfolio at 25.8 years — to **24.8 years**.
 
 | Parcel | Title | Area, m² | Expiry | Years remaining | Term 1 deliverable | RTRW | PKKPR |
 |---|---|---:|---|---:|---:|---|---|
@@ -23,15 +23,15 @@ Remaining term is computed under [hak-sewa-deed §2.2](/cyber-valley/cve/legal/h
 | 2 | HGB 00047 | 20,700 | 02.02.2053 | 26.4 | 25.0 | open | not on file |
 | 3 | HGB 00052 | 20,000 | 12.04.2053 | 26.6 | 25.0 | open | up for renewal |
 | 4 | HGB 00048 | 40,000 | 02.02.2053 | 26.4 | 25.0 | open | up for renewal |
-| 5 | HGB 11/Gesing | 10,400 | 21.06.2052 | 25.8 | 25.0 | open | not on file |
+| 5 | HGB 11/Gesing | 10,400 | 21.06.2052 | 25.8 | 24.8 | open | not on file |
 | 6 | HGB, NIB 22.04.000007933.0 | 11,620 | 19.08.2054 | 28.0 | 25.0 | open | not on file |
 | 7 | HGB, NIB 22.04.000001680.0 | 2,880 | 16.08.2054 | 28.0 | 25.0 | open | valid to ~2027 |
 | 8 | HGB 00016 | 5,000 | 31.08.2052 | 26.0 | 25.0 | open | none |
-| 9 | HGB 14/Gesing | 5,700 | 21.06.2052 | 25.8 | 25.0 | open | not on file |
-| 10 | HGB 00013 | 19,500 | 21.06.2052 | 25.8 | 25.0 | open | not on file |
+| 9 | HGB 14/Gesing | 5,700 | 21.06.2052 | 25.8 | 24.8 | open | not on file |
+| 10 | HGB 00013 | 19,500 | 21.06.2052 | 25.8 | 24.8 | open | not on file |
 | 11 | HGB 00019 | 18,200 | 31.08.2052 | 26.0 | 25.0 | open | none on file |
 | 12 | HGB, KEPMEN 1339/2022 | 44,500 | 27.02.2053 | 26.5 | 25.0 | open | up for renewal |
-| 14 | HGB 00012 | 22,260 | 21.06.2052 | 25.8 | 25.0 | open | none |
+| 14 | HGB 00012 | 22,260 | 21.06.2052 | 25.8 | 24.8 | open | none |
 | 15 | HGB 00049 | 44,500 | 27.02.2053 | 26.5 | 25.0 | open | up for renewal; two 2023 suits withdrawn, see §2 |
 | 16 | HGB 17 | 11,100 | 31.08.2052 | 26.0 | 25.0 | open | none on file |
 | 17 | HGB 18 | 9,900 | 06.09.2052 | 26.0 | 25.0 | open | none on file |
@@ -46,7 +46,7 @@ Remaining term is computed under [hak-sewa-deed §2.2](/cyber-valley/cve/legal/h
 | 3.1 | [[shm|SHM]] mother title, no *pemecahan* | ~400–450 m² of a 27,800 m² mother parcel; PPJB only, no AJB, held by an individual (Gede Redita). Not Company property — no lease can be granted from it yet. |
 | 13 | SHM 02167 (11.2023) | 45,000 m², titled to Wayan Rosa; no purchase documentation exists. Not Company property. |
 
-Portfolio total across the 17 titles with a computed Term 1: **252,570 m² (≈25.26 ha)**, every one deliverable at the full 25-year ceiling today.
+Portfolio total across the 18 titles with a computed Term 1: **318,570 m² (≈31.86 ha)** — matching the 319,320 m² Appendix B reports as registered, less the 750 m² Parcel 1 resurvey delta. Fourteen titles deliver the full 25-year ceiling today; Parcels 5, 9, 10 and 14 (57,860 m² combined) deliver 24.8 years.
 
 ## 2. Notes carried over from the audit
 
@@ -68,7 +68,7 @@ From the Company's OSS RBA record. Project code identifies the row where the NIB
 | 202308-0817-1322-4247-065 | 68111v2025 | Aktivitas Pengembangan Bangunan dan Lahan Hunian | Menengah Rendah | Gesing, Kab. Buleleng, Bali | 10,010,000,000 |
 | 202308-0817-5238-4856-874 | 68111v2025 | Aktivitas Pengembangan Bangunan dan Lahan Hunian | Menengah Rendah | Gesing, Kab. Buleleng, Bali | 10,010,000,000 |
 
-⚠ The first two rows (generic "Kab. Buleleng, Bali") and the three Gesing-specific rows carry the same 68111-family activity under two different address formats on the same NIB — this is the discrepancy [9A.1](/cyber-valley/cve/legal/hak-sewa-deed#part-9a-licences-warranty-and-licence-event-regime) already flags as resolved before any lease is signed.
+⚠ The first two rows (generic "Kab. Buleleng, Bali") and the three Gesing-specific rows carry the same 68111-family activity under two different address formats on the same NIB — this is the discrepancy [9A.1](/cyber-valley/cve/legal/land-rights-agreement#9a-licences-warranty-and-licence-event-regime) already flags as resolved before any lease is signed.
 
 **Inactive** (superseded or lapsed — not currently relied on):
 
