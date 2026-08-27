@@ -31,6 +31,7 @@ shareholders-agreement accession · entry payment side letter · disclosure
 |-----|------|
 | [[land rights agreement]] | drafting framework — the whole land-rights system, reasons and options |
 | [[hak sewa deed]] | base deed — the signable *akta sewa*, assembled from the framework |
+| [[hak sewa simple]] | minimal lease, eight clauses — 30% at signing, balance within a year or it reprices to the [[annex e century index|century index]] |
 | [[annex a estate registry]] | Annex A — estate registry, one row per title |
 | [[annex b plot boundary]] | Annex B — plot boundary: *patok*, GPS/UTM, *peta bidang* |
 | [[annex c design code]] | Annex C — design code as numbers |
