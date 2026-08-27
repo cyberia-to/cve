@@ -10,23 +10,19 @@ PT [[pma|PMA]] Cyber Valley Estate — instruments and working notes.
 
 Corporate pack index: [[dzin]] · company page: [[cve]]
 
-## Closing (President Director entry)
+## dzin — the appointment package
 
-| doc | what |
-|-----|------|
-| [[gms director appointment]] | GMS appoints Director at Closing |
-| [[share sale entry]] | 1% at par to Director at Closing |
-| [[entry payment side letter]] | private receipt between Voinova and Fedorov fixing the real entry price |
-| [[president director]] | ops · options · KPI ladder |
-| [[shareholders agreement]] | [[rofr|ROFR]], tag-along, moonly dividend cadence, cash waterfall (bilingual text: [[shareholders agreement.bilingual]]) |
-| [[director disclosure indemnity agreement]] | Owners' personal disclosure & uncapped indemnity to the incoming Director, re: Company/land liabilities |
+The President Director entry is **one atomic package** and lives at [[dzin]]:
+GMS appointment · share sale · preemption waiver · president director ·
+shareholders-agreement accession · entry payment side letter · disclosure
+& indemnity agreement.
 
 ## Constitution
 
 | doc | what |
 |-----|------|
 | [[articles of association]] | Anggaran Dasar (bilingual text: [[articles of association.bilingual]]) |
-| [[preemption waiver letter]] | waiver for specific transfers |
+| [[shareholders agreement]] | [[rofr|ROFR]], tag-along, moonly dividend cadence, cash waterfall (bilingual text: [[shareholders agreement.bilingual]]) |
 | [strategy](/cyber-valley/strategy/) | what the estate sells and how it sequences (not shareholder cash split) |
 
 ## Land
