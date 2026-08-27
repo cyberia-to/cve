@@ -20,9 +20,12 @@ routing a fee through a management company CEO controls does not change who is e
 
 ## 1. Land-deal closing commission
 
-Runs on the estate-wide [[leasehold referrals]] program — 10% of amounts the
-Company actually receives, never the contract sum. Payable on each receipt
-into the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts)).
+Only for deals CEO closes himself. CEO is entitled to participate in the
+estate-wide [[leasehold referrals]] program on the same terms as any other
+referrer — 10% of amounts the Company actually receives, never the contract
+sum — and holds no exclusivity: the program stays open to everyone, with no
+priority and no territory attached to the role. Payable on each receipt into
+the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts)).
 
 ---
 
