@@ -12,7 +12,7 @@ Insurance answering personal claims against directors and commissioners for deci
 
 ## Where it appears
 
-[[president director]] §17 — the Company maintains D&O cover naming the President Director, continuing for a tail period after departure.
+[[president director]] §18 — the Company maintains D&O cover naming the President Director, continuing for a tail period after departure.
 
 ## Why it matters
 

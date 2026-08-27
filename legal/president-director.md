@@ -44,7 +44,7 @@ This page is **how the PD works and is paid in options + ladder** after entry. E
 
 **Success metric.** Sales of **DS + AV** founder equity on the ladder in [§7](#7-kpi-ladder-ds-av-10-founders-company-1b). No other KPI stack.
 
-Monthly salary is set by the revenue ladder in [§9.4](#9-4-monthly-salary-revenue-ladder) — formulaic, no monthly proposal cycle.
+Monthly salary is set by the revenue ladder in [§9](#9-monthly-salary-revenue-ladder) — formulaic, no monthly proposal cycle.
 
 ---
 
@@ -164,51 +164,14 @@ Shares held by the PD are ordinary shares under the [[articles of association]] 
 | **Removal from Director office** (by resolution of the shareholders) | Removal takes effect **immediately** and ends the office — nothing more. **No buyout, no buyback**: every share the PD owns — the entry stake, exercised option shares, ladder equity — stays his, as ordinary shares under the rules above. Cause of removal changes nothing. |
 | **PD's own decision to leave** | Same treatment: he keeps everything he owns, and may hold the shares and receive dividends, or sell — founders and other shareholders first under the [[rofr|ROFR]], then third parties. |
 | **Unexercised options** | Lapse on departure, however it comes. Exercised options are shares already, and stay. |
-| **Commissions & fees** | Survive departure per [§17](#17-survival-after-departure), on their own terms. |
+| **Commissions & fees** | Survive departure per [§18](#18-survival-after-departure), on their own terms. |
 
 ---
 
-## 9. Commissions, salary & asset management
-
-Cash economics of the role — one page, no separate annex. Survival on
-departure per [§17](#17-survival-after-departure).
-
-**"Management company"** — in [9.3](#9-3-asset-management) below, any entity PD participates in
-that delivers on-site management of the estate's assets. Fees earned by such a company under
-the [[property management]] offer belong to that company on the offer's terms.
-
-### 9.1 Land-deal closing commission
-
-Only for deals PD closes himself. PD is entitled to participate in the
-estate-wide [[leasehold referrals]] program on the same terms as any other
-referrer — 10% of amounts the Company actually receives, never the contract
-sum — and holds no exclusivity: the program stays open to everyone, with no
-priority and no territory attached to the role. Payable on each receipt into
-the strategic account ([§2](#2-dual-accounts)).
-
-### 9.2 Investment-raise fee
-
-| | |
-|---|---|
-| **Trigger** | capital invested into the Company, sourced or introduced by PD |
-| **Fee** | **5%** of the amount actually invested and received by the Company, payable to PD |
-| **Scope** | cash fee on capital introduction only — does not touch the cap table or the [§7 KPI ladder](#7-kpi-ladder-ds-av-10-founders-company-1b) |
-| **Payable** | on receipt of funds |
-
-### 9.3 Asset management
-
-PD is entitled to participate in companies that manage the estate's assets —
-on the same footing as any other bidder. Management companies are appointed by
-open tender, with no exclusivity attached to the role; deep-infrastructure
-tenders (energy, water, data, computing, robotics) follow the same rule. The
-current offer — [[carrot house]], [[banya]], [[soft]], [[satoshi]] and
-glamping at 30% of revenue actually received — is published at
-[[property management]].
-
-### 9.4 Monthly salary — revenue ladder
+## 9. Monthly salary — revenue ladder
 
 Salary follows cumulative revenue actually received by the Company since
-PD's appointment. A ladder, not a discretionary number:
+the PD's appointment. A ladder, not a discretionary number:
 
 | cumulative revenue since appointment | monthly salary |
 |---|---|
@@ -226,12 +189,52 @@ PD's appointment. A ladder, not a discretionary number:
 | **Payable** | from the operational account ([§2](#2-dual-accounts)), once per month |
 | **Reporting** | operational-account actuals for the closed month, the milestone standing, and this salary — at the moonly shareholders meeting under [[shareholders agreement]] Article 4 Cadence |
 
-### 9.5 Common mechanics
+---
+
+## 10. Other remuneration — commissions & asset management
+
+Cash economics of the role beyond the [§9](#9-monthly-salary-revenue-ladder)
+salary — one page, no separate annex. Survival on departure per
+[§18](#18-survival-after-departure).
+
+**"Management company"** — in [10.3](#10-3-asset-management) below, any entity the PD participates in
+that delivers on-site management of the estate's assets. Fees earned by such a company under
+the [[property management]] offer belong to that company on the offer's terms.
+
+### 10.1 Land-deal closing commission
+
+Only for deals the PD closes himself. The PD is entitled to participate in the
+estate-wide [[leasehold referrals]] program on the same terms as any other
+referrer — 10% of amounts the Company actually receives, never the contract
+sum — and holds no exclusivity: the program stays open to everyone, with no
+priority and no territory attached to the role. Payable on each receipt into
+the strategic account ([§2](#2-dual-accounts)).
+
+### 10.2 Investment-raise fee
+
+| | |
+|---|---|
+| **Trigger** | capital invested into the Company, sourced or introduced by the PD |
+| **Fee** | **5%** of the amount actually invested and received by the Company, payable to the PD |
+| **Scope** | cash fee on capital introduction only — does not touch the cap table or the [§7 KPI ladder](#7-kpi-ladder-ds-av-10-founders-company-1b) |
+| **Payable** | on receipt of funds |
+
+### 10.3 Asset management
+
+The PD is entitled to participate in companies that manage the estate's assets —
+on the same footing as any other bidder. Management companies are appointed by
+open tender, with no exclusivity attached to the role; deep-infrastructure
+tenders (energy, water, data, computing, robotics) follow the same rule. The
+current offer — [[carrot house]], [[banya]], [[soft]], [[satoshi]] and
+glamping at 30% of revenue actually received — is published at
+[[property management]].
+
+### 10.4 Common mechanics
 
 | | |
 |---|---|
 | **Currency** | whichever currency the funds are actually received in by the Company; payable on receipt |
-| **Survival** | confirmed by [§17](#17-survival-after-departure) — payable in full for any deal signed before the departure date, or any deal actively being worked at the time of departure, regardless of when the money actually arrives |
+| **Survival** | confirmed by [§18](#18-survival-after-departure) — payable in full for any deal signed before the departure date, or any deal actively being worked at the time of departure, regardless of when the money actually arrives |
 | **Reporting** | listed monthly in the [§3 strategic-gate](#3-strategic-gate-monthly) pack for visibility; no commissioner approval needed to pay out — this is a contractual entitlement, not discretionary spend |
 
 Still not in this deal: DevelopmentCo menus, sub-project referral stacks,
@@ -239,7 +242,7 @@ multi-page indemnification.
 
 ---
 
-## 10. Acceptance
+## 11. Acceptance
 
 | party | role | sign / date |
 |---|---|---|
@@ -252,7 +255,7 @@ Draft until signed.
 
 ---
 
-## 11. Law & disputes
+## 12. Law & disputes
 
 | | |
 |---|---|
@@ -261,7 +264,7 @@ Draft until signed.
 
 ---
 
-## 12. Pre-appointment liability
+## 13. Pre-appointment liability
 
 | | |
 |---|---|
@@ -270,17 +273,17 @@ Draft until signed.
 
 ---
 
-## 13. Legal defence — narrow indemnification
+## 14. Legal defence — narrow indemnification
 
 | | |
 |---|---|
-| **Scope** | Company advances PD's reasonable legal defence costs, and indemnifies PD, for third-party claims (incl. tax penalties/interest) traceable to (a) facts pre-dating appointment, (b) inaccuracy of the [§12](#12-pre-appointment-liability) disclosure, or (c) an error or omission by the Company's appointed accountant/tax adviser where PD relied on them in good faith with no actual knowledge of the error — to the extent permitted by Indonesian law, save for PD's own fraud, wilful misconduct or gross negligence |
+| **Scope** | Company advances PD's reasonable legal defence costs, and indemnifies PD, for third-party claims (incl. tax penalties/interest) traceable to (a) facts pre-dating appointment, (b) inaccuracy of the [§13](#13-pre-appointment-liability) disclosure, or (c) an error or omission by the Company's appointed accountant/tax adviser where PD relied on them in good faith with no actual knowledge of the error — to the extent permitted by Indonesian law, save for PD's own fraud, wilful misconduct or gross negligence |
 | **Advance, not reimbursement** | Costs are advanced as incurred, not repaid after the fact |
-| **Carve-out from [§9](#9-commissions-salary-asset-management)** | Narrows, not reopens, [§9](#9-commissions-salary-asset-management)'s residual exclusion of "multi-page indemnification" — a single-purpose defence-cost clause, not general indemnity for PD's own acts in office |
+| **Carve-out from [§10](#10-other-remuneration-commissions-asset-management)** | Narrows, not reopens, [§10](#10-other-remuneration-commissions-asset-management)'s residual exclusion of "multi-page indemnification" — a single-purpose defence-cost clause, not general indemnity for PD's own acts in office |
 
 ---
 
-## 14. Right to refuse
+## 15. Right to refuse
 
 | | |
 |---|---|
@@ -289,7 +292,7 @@ Draft until signed.
 
 ---
 
-## 15. Anti-circumvention
+## 16. Anti-circumvention
 
 | | |
 |---|---|
@@ -298,7 +301,7 @@ Draft until signed.
 
 ---
 
-## 16. Change of control
+## 17. Change of control
 
 | | |
 |---|---|
@@ -307,12 +310,12 @@ Draft until signed.
 
 ---
 
-## 17. Survival after departure
+## 18. Survival after departure
 
 | | |
 |---|---|
-| **Survival** | [§12](#12-pre-appointment-liability) shield and [§13](#13-legal-defence-narrow-indemnification) defence-cost advance continue after PD's departure, for the periods they cover, regardless of when a claim is brought |
-| **Acts in office** | Extends to PD's good-faith acts within authority under [§14](#14-right-to-refuse) while in office, on the same defence-cost-advance basis as [§13](#13-legal-defence-narrow-indemnification) |
+| **Survival** | [§13](#13-pre-appointment-liability) shield and [§14](#14-legal-defence-narrow-indemnification) defence-cost advance continue after PD's departure, for the periods they cover, regardless of when a claim is brought |
+| **Acts in office** | Extends to PD's good-faith acts within authority under [§15](#15-right-to-refuse) while in office, on the same defence-cost-advance basis as [§14](#14-legal-defence-narrow-indemnification) |
 | **[[do|D&O]] cover** | Company maintains directors & officers insurance naming PD, continuing for a tail period after departure |
-| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission under [§9](#9-commissions-salary-asset-management) survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
+| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission under [§10](#10-other-remuneration-commissions-asset-management) survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
 
