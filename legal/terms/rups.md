@@ -12,10 +12,10 @@ The supreme organ of an Indonesian limited liability company. It appoints and di
 
 ## Where it appears
 
-[[articles of association]] Articles 8–10 (convening, quorum, resolutions), [[gms director appointment]] (the circular resolution admitting the CEO).
+[[articles of association]] Articles 8–10 (convening, quorum, resolutions), [[gms director appointment]] (the circular resolution admitting the President Director).
 
 ## Why it matters
 
-Resolutions may be taken without a meeting — by circular written consent of all shareholders — under [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 91. That is how the CEO entry package is executed.
+Resolutions may be taken without a meeting — by circular written consent of all shareholders — under [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 91. That is how the President Director entry package is executed.
 
 Part of [[legal/terms/README|the pack's vocabulary]].

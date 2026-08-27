@@ -16,6 +16,6 @@ The right of existing shareholders to buy shares before an outsider can. A share
 
 ## Why it matters
 
-It is the reason no stranger can appear on the register without the existing shareholders having had first refusal — and the reason the option package in [[ceo]] §6 needs the window to pass before shares reach the CEO.
+It is the reason no stranger can appear on the register without the existing shareholders having had first refusal — and the reason the option package in [[president director]] §6 needs the window to pass before shares reach the President Director.
 
 Part of [[legal/terms/README|the pack's vocabulary]].

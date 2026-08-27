@@ -12,7 +12,7 @@ A company formed for one project or one holding, separate from the main operatin
 
 ## Where it appears
 
-[[ceo]] §5 (the CEO may not mortgage Company or controlled-SPV real estate).
+[[president director]] §5 (the President Director may not mortgage Company or controlled-SPV real estate).
 
 ## Why it matters
 
