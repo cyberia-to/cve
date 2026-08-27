@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, dzin
+tags: cyber valley, cyberia, legal
 alias: articles of association, anggaran dasar, cve articles, company charter
 crystal-type: entity
 crystal-domain: socio

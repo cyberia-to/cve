@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, law, dzin
+tags: cyber valley, cyberia, legal, law
 alias: uu 2/2017, uu 2 2017, jasa konstruksi, construction services law
 crystal-type: entity
 crystal-domain: socio

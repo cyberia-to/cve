@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: kkpr, kesesuaian kegiatan pemanfaatan ruang
 crystal-type: entity
 crystal-domain: socio

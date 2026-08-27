@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, dzin
+tags: cyber valley, cyberia, legal
 alias: annex d, community rules, annex-d-community-rules
 crystal-type: measure
 crystal-domain: socio

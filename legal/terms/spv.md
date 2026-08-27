@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: spv, special purpose vehicle
 crystal-type: entity
 crystal-domain: socio

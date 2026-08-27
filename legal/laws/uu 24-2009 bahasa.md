@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, law, dzin
+tags: cyber valley, cyberia, legal, law
 alias: uu 24/2009, uu 24 2009, bahasa, language law
 crystal-type: entity
 crystal-domain: socio

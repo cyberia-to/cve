@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, dzin
+tags: cyber valley, cyberia, legal
 alias: annex j, offer of record, annex-j-offer-of-record
 crystal-type: measure
 crystal-domain: socio

@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: rofr, right of first refusal
 crystal-type: entity
 crystal-domain: socio

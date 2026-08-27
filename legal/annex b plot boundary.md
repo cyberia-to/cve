@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, dzin
+tags: cyber valley, cyberia, legal
 alias: annex b, plot boundary, annex-b-plot-boundary
 crystal-type: measure
 crystal-domain: socio

@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, draft, dzin
+tags: cyber valley, cyberia, legal, draft
 alias: annex e, index annex, century index annex, annex-e-century-index
 crystal-type: measure
 crystal-domain: socio

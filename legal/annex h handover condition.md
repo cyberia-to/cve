@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, dzin
+tags: cyber valley, cyberia, legal
 alias: annex h, condition schedule, handover baseline, annex-h-handover-condition
 crystal-type: measure
 crystal-domain: socio

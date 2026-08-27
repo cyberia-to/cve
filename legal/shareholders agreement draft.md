@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, dzin
+tags: cyber valley, cyberia, legal
 alias: shareholders agreement draft, sha draft, cve sha draft
 crystal-type: entity
 crystal-domain: socio

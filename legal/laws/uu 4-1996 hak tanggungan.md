@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, law, dzin
+tags: cyber valley, cyberia, legal, law
 alias: uu 4/1996, uu 4 1996, hak tanggungan
 crystal-type: entity
 crystal-domain: socio

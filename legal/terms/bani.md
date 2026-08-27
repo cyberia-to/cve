@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: bani, badan arbitrase nasional indonesia
 crystal-type: entity
 crystal-domain: socio

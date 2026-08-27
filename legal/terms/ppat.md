@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: ppat, pejabat pembuat akta tanah
 crystal-type: entity
 crystal-domain: socio

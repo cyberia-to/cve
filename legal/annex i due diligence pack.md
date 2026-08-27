@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, dzin
+tags: cyber valley, cyberia, legal
 alias: annex i, due diligence pack, annex-i-due-diligence-pack
 crystal-type: measure
 crystal-domain: socio

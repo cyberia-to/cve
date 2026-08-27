@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: rups, rapat umum pemegang saham
 crystal-type: entity
 crystal-domain: socio
