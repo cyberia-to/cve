@@ -84,7 +84,7 @@ routing a fee through a management company CEO controls does not change who is e
 | **Approval** | tabled as a proposal under [[ceo]] §3 — **one commissioner's** sign-off is enough, same as any other strategic-gate item |
 | **Interaction with [[ceo]] §1** | Gives the formula behind the "ops-proposal" fixed salary already referenced there — sizing and floor are defined here, the §3 approval step is unchanged |
 | **Payable** | from the operational account ([[ceo]] §2), once per month, once approved |
-| **Sweep-back** | whatever remains in the operational account after this salary is paid returns to the strategic account within 5 business days of month-end; it does not carry over as a larger operational balance for the next month, and re-enters [[shareholders agreement]] Article 4 as distributable cash for the next cycle, subject to the item 4 tests. This is what stops the salary base from being grown by simply underspending the approved envelope: the residual reaches the shareholders' dividend tests, not the CEO's own account. |
+| **Reporting** | CEO reports the operational account balance for the closed month at the next moonly shareholders meeting under [[shareholders agreement]] Article 4 Cadence — actuals against the approved envelope, this salary, and what remains. Reported for the period just ended, same cadence as the dividend cycle it sits next to. |
 
 ---
 
