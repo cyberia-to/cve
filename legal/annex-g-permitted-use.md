@@ -16,7 +16,7 @@ Annexed to [[land-rights-agreement]]. Source: [[cyber-valley/strategy|strategy]]
 | Instrument | Mechanics | Governing deed |
 |---|---|---|
 | **A** — [[leasehold upfront]] | 100% at signing, [[hak sewa]], 25-year Term | [[hak-sewa-deed]] §3.1 "upfront" |
-| **B** — [[annual leasehold]] | 30% down, balance in equal instalments at 3% real over CPI | [[hak-sewa-deed]] §3.1 "scheduled" |
+| **B** — [[annual leasehold]] | 30% down, balance in equal instalments over 1 or 5 years, no interest, no index | [[hak-sewa-deed]] §3.1 "scheduled" |
 | **B-rent** — annual rent | No transfer of right; occupation only, by separate agreement | [[hak-sewa-deed]] §3.1 "rent"; [[annex-e-century-index|Annex E]] |
 | **C** — [[joint venture]] | Lease contributed to an OpCo for an equity stake, 40–60% split | separate JV agreement, not this deed |
 | **D** — [[hak pakai]] | Right-of-use title on a completed structure, registered to the Holder | [[hak-sewa-deed]] Track F, [12.1](/cyber-valley/cve/legal/hak-sewa-deed#part-12-upgrade-tracks) |
