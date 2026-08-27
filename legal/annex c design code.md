@@ -74,41 +74,13 @@ Minimum 20 plant species per hectare, pro rata for smaller Plots, counted at SLF
 
 Informal counterpart: pollution in [[cyber-valley/policies/zoning system|land usage policy]], which routes each limit to its own policy page.
 
-Pollution is a resource in the wrong place. Each type is governed by its policy; compliance is a condition of land use.
-
-Sound — [[sound policy]]:
-
-- residential zones: 55 dB(A) day, 40 dB(A) night at the Plot boundary
-- forest and conservation zones: 45 dB(A) day, 35 dB(A) night
-- dawn chorus window 05:00–07:00: no amplified sound anywhere
-- amplified events: 48 hours' notice to neighbours within 300 m
-
-Water — [[water policy]]:
-
-- supply pipes: PPR only; no PVC, no galvanised steel
-- greywater: on-site treatment to BOD below 30 mg/L before soil discharge
-- blackwater: closed composting or biodigester; no direct soil discharge
-- spring buffer 15 m: no construction, no chemical inputs
-
-Light — [[light policy]]:
-
-- outdoor lighting: 2200 K or warmer, full cutoff, zero upward emission
-- non-essential outdoor lights off by 23:00
-- conservation buffer unlit, 0 lux
-- estate target sky quality: SQM above 21.0 mag/arcsec² at zenith on new moon nights
-
-Air — [[air policy]]:
-
-- open burning of synthetics: prohibited at all times
-- biochar kilns: permitted with smoke-free secondary combustion
-- diesel generators: emergency backup only, maximum 4 hours per day
-- indoor materials: zero-VOC finishes only in occupied spaces
-
-Soil — [[soil policy]]:
-
-- synthetic pesticides, herbicides and mineral fertilisers: unconditional prohibition
-- bare soil: prohibited beyond 30 days; mulch or living cover required
-- biochar: minimum 0.5 t/ha/year in food-production zones
+Pollution is a resource in the wrong place. Each type is governed by its
+policy page — [[sound policy]], [[water policy]], [[light policy]],
+[[air policy]], [[soil policy]], [[carbon policy]] — and compliance is a
+condition of land use. The limits are not restated here: the pages are
+incorporated by reference and version-locked at signing through
+[[annex d community rules|Annex D]], which also carries the two-strike
+enforcement and the routing into [[hak sewa deed]].
 
 ## C6. Monitoring and publication
 
