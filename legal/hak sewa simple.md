@@ -11,7 +11,7 @@ d0.2 · the minimal signable lease · draft for counsel and [[ppat|PPAT]]
 
 One page, eight clauses. The unit of account is the
 [[annex e century index|century index]]; rupiah is only the settlement
-currency. The full-form counterpart is [[hak sewa deed]].
+currency.
 
 ## Operative text
 
