@@ -10,13 +10,7 @@ icon: "📜"
 
 Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07-2025
 
-> ⚠ **Draft translation.** The Bahasa Indonesia column for Articles 1–2, 4, 6–11, 13–20 reproduces the language of Akta Pendirian No. 01 (04 January 2022), notary Dewa Ayu Agung Dewi Utami, S.H., M.Kn. — read from the original notarial deed and cleaned of scan artefacts, not machine-translated. Articles 3, 5, 12 carry amended or new text (KBLI list per PKR No. 02/2025; the accession clause; the borrowing/pledging prohibition) and are marked ⚠ where the Indonesian is a working translation, not yet reviewed by Indonesian-licensed counsel or the notary. **The notarial deed drafted by the notary is the executable instrument; this table is a briefing document, not a substitute for it.**
-
-## Preamble — Mukadimah
-
-| Bahasa Indonesia | English |
-|---|---|
-| ⚠ Anggaran Dasar ini disusun untuk mendirikan dan mengoperasikan Cyber Valley — kota pertama Cyberia — di Bali. Ketentuan mengenai maksud dan nilai-nilai Perseroan diatur dalam Perjanjian Pemegang Saham. | The mission and values referred to in the working English page live in [[shareholders agreement]] Preamble ¶4, not in the notarial Anggaran Dasar. |
+> The Bahasa Indonesia column for Articles 1–2, 4, 6–11, 13–20 is the language of Akta Pendirian No. 01 (04 January 2022), notary Dewa Ayu Agung Dewi Utami, S.H., M.Kn. Articles 3, 5 and 12 carry amended or new text, marked ⚠, pending review by Indonesian-licensed counsel and the notary. The notarial deed is the executable instrument.
 
 ## Pasal 1 — Nama dan Tempat Kedudukan
 
