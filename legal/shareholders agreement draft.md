@@ -196,7 +196,7 @@ A Shareholder that ceases to satisfy paragraph (2) or (3) shall notify the other
 |---|---|
 | [[articles of association]] | the constitution; prevails on any matter binding the Company or third parties |
 | [[ceo]] | ops, options, KPI ladder |
-| [[ceo-commissions-addendum]] | land commissions, referral and raise fees, revenue share |
+| [[ceo]] §9 | land commissions, raise fee, asset management, salary ladder |
 | [[entry payment side letter]] | receipt and repayment undertaking between Voinova and Fedorov |
 | [[share sale entry]] | the 80-share transfer at par |
 | [[director-disclosure-indemnity-agreement]] | owners' disclosure and indemnity to the incoming Director |

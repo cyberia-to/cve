@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, ceo, offer, draft, dzin
-alias: cve ceo, ceo offer, ceo agreement, ceo pack
+alias: cve ceo, ceo offer, ceo agreement, ceo pack, ceo commissions, ceo commissions addendum
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article
@@ -44,7 +44,7 @@ This page is **how the CEO works and is paid in options + ladder** after entry. 
 
 **Success metric.** Sales of **DS + AV** founder equity on the ladder in [§7](#7-kpi-ladder-ds-av-10-founders-company-1b). No other KPI stack.
 
-Fixed monthly salary, if any, is an **ops proposal** (budget), **not** a term of this deal.
+Monthly salary is set by the revenue ladder in [§9.4](#9-4-monthly-salary-revenue-ladder) — formulaic, no monthly proposal cycle.
 
 ---
 
@@ -170,9 +170,74 @@ Shares held by the CEO are ordinary shares under the [[articles of association]]
 
 ---
 
-## 9. Not in this deal
+## 9. Commissions, salary & asset management
 
-Land commission grids, sub-project referral stacks, investment-raise %, DevelopmentCo menus, multi-page indemnification, fixed salary as a negotiated term (ops budget only) — terms live in separate documents, but survival on departure is confirmed by [§17](#17-survival-after-departure).
+Cash economics of the role — one page, no separate annex. Survival on
+departure per [§17](#17-survival-after-departure).
+
+**"Management company"** — in [9.3](#9-3-asset-management) below, any entity CEO participates in
+that delivers on-site management of the estate's assets. Fees earned by such a company under
+the [[property management]] offer belong to that company on the offer's terms.
+
+### 9.1 Land-deal closing commission
+
+Only for deals CEO closes himself. CEO is entitled to participate in the
+estate-wide [[leasehold referrals]] program on the same terms as any other
+referrer — 10% of amounts the Company actually receives, never the contract
+sum — and holds no exclusivity: the program stays open to everyone, with no
+priority and no territory attached to the role. Payable on each receipt into
+the strategic account ([§2](#2-dual-accounts)).
+
+### 9.2 Investment-raise fee
+
+| | |
+|---|---|
+| **Trigger** | capital invested into the Company, sourced or introduced by CEO |
+| **Fee** | **5%** of the amount actually invested and received by the Company, payable to CEO |
+| **Scope** | cash fee on capital introduction only — does not touch the cap table or the [§7 KPI ladder](#7-kpi-ladder-ds-av-10-founders-company-1b) |
+| **Payable** | on receipt of funds |
+
+### 9.3 Asset management
+
+CEO is entitled to participate in companies that manage the estate's assets —
+on the same footing as any other bidder. Management companies are appointed by
+open tender, with no exclusivity attached to the role; deep-infrastructure
+tenders (energy, water, data, computing, robotics) follow the same rule. The
+current offer — [[carrot house]], [[banya]], [[soft]], [[satoshi]] and
+glamping at 30% of revenue actually received — is published at
+[[property management]].
+
+### 9.4 Monthly salary — revenue ladder
+
+Salary follows cumulative revenue actually received by the Company since
+CEO's appointment. A ladder, not a discretionary number:
+
+| cumulative revenue since appointment | monthly salary |
+|---|---|
+| below $100k | — |
+| $100k reached | **$2,000** |
+| $500k reached | **$5,000** |
+| $2M reached (~[[sinwood]] sales done) | **$10,000** |
+
+| | |
+|---|---|
+| **Base** | revenue = amounts actually received by the Company — the same doctrine as every fee in this document |
+| **Step** | the salary steps up in the month a milestone is crossed and never steps down |
+| **Floor** | Company accounts must hold **no less than USD 10,000** after the salary is paid — reduced or skipped if paying in full would breach that floor |
+| **Interaction with [§1](#1-role)** | this ladder is the number behind the "ops-proposal" fixed salary referenced there — with the ladder in place, no monthly proposal cycle is needed |
+| **Payable** | from the operational account ([§2](#2-dual-accounts)), once per month |
+| **Reporting** | operational-account actuals for the closed month, the milestone standing, and this salary — at the moonly shareholders meeting under [[shareholders agreement]] Article 4 Cadence |
+
+### 9.5 Common mechanics
+
+| | |
+|---|---|
+| **Currency** | whichever currency the funds are actually received in by the Company; payable on receipt |
+| **Survival** | confirmed by [§17](#17-survival-after-departure) — payable in full for any deal signed before the departure date, or any deal actively being worked at the time of departure, regardless of when the money actually arrives |
+| **Reporting** | listed monthly in the [§3 strategic-gate](#3-strategic-gate-monthly) pack for visibility; no commissioner approval needed to pay out — this is a contractual entitlement, not discretionary spend |
+
+Still not in this deal: DevelopmentCo menus, sub-project referral stacks,
+multi-page indemnification.
 
 ---
 
@@ -213,7 +278,7 @@ Draft until signed.
 |---|---|
 | **Scope** | Company advances CEO's reasonable legal defence costs, and indemnifies CEO, for third-party claims (incl. tax penalties/interest) traceable to (a) facts pre-dating appointment, (b) inaccuracy of the [§12](#12-pre-appointment-liability) disclosure, or (c) an error or omission by the Company's appointed accountant/tax adviser where CEO relied on them in good faith with no actual knowledge of the error — to the extent permitted by Indonesian law, save for CEO's own fraud, wilful misconduct or gross negligence |
 | **Advance, not reimbursement** | Costs are advanced as incurred, not repaid after the fact |
-| **Carve-out from [§9](#9-not-in-this-deal)** | Narrows, not reopens, [§9](#9-not-in-this-deal)'s exclusion of "multi-page indemnification" — a single-purpose defence-cost clause, not general indemnity for CEO's own acts in office |
+| **Carve-out from [§9](#9-commissions-salary-asset-management)** | Narrows, not reopens, [§9](#9-commissions-salary-asset-management)'s residual exclusion of "multi-page indemnification" — a single-purpose defence-cost clause, not general indemnity for CEO's own acts in office |
 
 ---
 
@@ -252,7 +317,7 @@ Draft until signed.
 | **Survival** | [§12](#12-pre-appointment-liability) shield and [§13](#13-legal-defence-narrow-indemnification) defence-cost advance continue after CEO's departure, for the periods they cover, regardless of when a claim is brought |
 | **Acts in office** | Extends to CEO's good-faith acts within authority under [§14](#14-right-to-refuse) while in office, on the same defence-cost-advance basis as [§13](#13-legal-defence-narrow-indemnification) |
 | **[[do|D&O]] cover** | Company maintains directors & officers insurance naming CEO, continuing for a tail period after departure |
-| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission agreed with the CEO under the separate arrangements referenced in [§9](#9-not-in-this-deal) survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
+| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission under [§9](#9-commissions-salary-asset-management) survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
 
 ---
 
