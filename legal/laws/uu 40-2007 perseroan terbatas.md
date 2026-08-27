@@ -14,16 +14,6 @@ Full official text: [JDIH Kementerian Keuangan](https://jdih.kemenkeu.go.id/full
 
 The company law our whole corporate pack sits on. Only the articles the pack actually relies on are reproduced here, Indonesian verbatim from the official text, English alongside as a working translation.
 
-## Pasal 37 — buyback of own shares
-
-Relied on by: [[ceo]] [§8](/cyber-valley/cve/legal/ceo#8-exit) ("Currency, default & security") — the buyback-capacity layer of the Company's covenant to backstop a Founder buyout shortfall.
-
-| Bahasa Indonesia | English |
-|---|---|
-| (1) Perseroan dapat membeli kembali saham yang telah dikeluarkan dengan ketentuan: a. pembelian kembali saham tersebut tidak menyebabkan kekayaan bersih Perseroan menjadi lebih kecil dari jumlah modal yang ditempatkan ditambah cadangan wajib yang telah disisihkan; dan b. jumlah nilai nominal seluruh saham yang dibeli kembali oleh Perseroan dan gadai saham atau jaminan fidusia atas saham yang dipegang oleh Perseroan sendiri dan/atau Perseroan lain yang sahamnya secara langsung atau tidak langsung dimiliki oleh Perseroan, tidak melebihi 10% (sepuluh persen) dari jumlah modal yang ditempatkan dalam Perseroan, kecuali diatur lain dalam peraturan perundang-undangan di bidang pasar modal. | (1) The Company may buy back its issued shares provided that: a. the buyback does not cause the Company's net assets to fall below the issued capital plus the mandatory reserve already set aside; and b. the aggregate nominal value of all shares bought back by the Company, together with share pledges or fiduciary security over shares held by the Company itself and/or another company whose shares are directly or indirectly owned by the Company, does not exceed 10% (ten percent) of the Company's issued capital, unless the capital markets legislation provides otherwise. |
-
-The 10% ceiling is why a buyout larger than 10% of capital cannot be funded by the Company alone.
-
 ## Pasal 70 — mandatory reserve
 
 Relied on by: [[articles of association]] Article 19.

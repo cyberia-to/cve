@@ -16,6 +16,6 @@ The ticker of the century index: a fixed basket of eight world assets used as a 
 
 ## Why it matters
 
-Whoever owes the index owes quantities, not a number. Used for 25-year lease streams; deliberately **not** used for the 12-month buyout in [[ceo]] §8, where its volatility would work against both parties.
+Whoever owes the index owes quantities, not a number. Used for 25-year lease streams; deliberately **not** used for short-dated obligations, where its volatility would work against both parties.
 
 Part of [[legal/terms/README|the pack's vocabulary]].
