@@ -12,7 +12,7 @@ The code system defining what business a company may lawfully carry on. Each cod
 
 ## Where it appears
 
-[[articles of association]] Article 3 lists the Company's eight codes; [[land-rights-agreement]] §9A.1 warrants them.
+[[articles of association]] Article 3 lists the Company's eight codes; [[land rights agreement]] §9A.1 warrants them.
 
 ## Why it matters
 

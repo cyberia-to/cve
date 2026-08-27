@@ -12,7 +12,7 @@ Indonesian VAT, applicable to leases and services.
 
 ## Where it appears
 
-[[land-rights-agreement]] §12.
+[[land rights agreement]] §12.
 
 ## Why it matters
 

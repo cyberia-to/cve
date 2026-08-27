@@ -12,7 +12,7 @@ Confirmation that an intended use conforms to the spatial plan for that location
 
 ## Where it appears
 
-[[land-rights-agreement]] §0 (condition precedent to offering a plot), 9B.1.
+[[land rights agreement]] §0 (condition precedent to offering a plot), 9B.1.
 
 ## Why it matters
 

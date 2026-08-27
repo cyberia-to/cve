@@ -12,7 +12,7 @@ A registered land title giving the right to erect and own buildings on land for 
 
 ## Where it appears
 
-[[land-rights-agreement]] §0 (title subordination), Annex A (the register of 18 certificated parcels), §2.1 (the lease term derives from the HGB term).
+[[land rights agreement]] §0 (title subordination), Annex A (the register of 18 certificated parcels), §2.1 (the lease term derives from the HGB term).
 
 ## Why it matters
 

@@ -16,7 +16,7 @@ The reason every payment obligation in the pack settles in rupiah, whatever unit
 
 ## Pasal 21 — obligation to use Rupiah
 
-Relied on by: [[shareholders agreement]] Article 4, [[land-rights-agreement]] §2.3 and §12, [[century index]] thesis T6.
+Relied on by: [[shareholders agreement]] Article 4, [[land rights agreement]] §2.3 and §12, [[century index]] thesis T6.
 
 | Bahasa Indonesia | English |
 |---|---|

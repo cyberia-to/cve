@@ -1,13 +1,13 @@
 ---
 tags: cyber valley, cyberia, legal, audit
-alias: land rights audit, leasehold agreement audit
+alias: land rights audit, leasehold agreement audit, land-rights-audit
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🔍"
 ---
 # Audit of the land rights agreement v0.3
 
-Date: 2026-08-13 · subject: `cyber-valley/cve/legal/land-rights-agreement.md` (v0.3, commit fdb8ab2 of 2026-08-11)
+Date: 2026-08-13 · subject: `cyber-valley/cve/legal/land rights agreement.md` (v0.3, commit fdb8ab2 of 2026-08-11)
 
 Label scheme: B for blockers, M for mismatches against the strategy and the zoning, C for contradictions inside the sources themselves.
 
@@ -243,15 +243,15 @@ One file for everything does not work: the ≤500 line rule and the zonal differ
 
 ```
 legal/
-  land-rights-agreement.md      open questions, principles, package map (stays, cleaned up)
+  land rights agreement.md      open questions, principles, package map (stays, cleaned up)
   deed-hak-sewa.md              base deed, RU-EN-ID, three columns
   annex-a-estate.md             master title, cadastre, zoning, [[kkpr|KKPR]]
   annex-b-plot.md               boundaries, patok, neighbours, GPS/UTM, peta bidang
-  annex-c-design-code.md        the zoning code as numbers, from policies/*
-  annex-d-community-rules.md    community rules, tone, car-free, adat
-  annex-e-century-index.md      the CX annex under T1 with a worked invoice
+  annex c design code.md        the zoning code as numbers, from policies/*
+  annex d community rules.md    community rules, tone, car-free, adat
+  annex e century index.md      the CX annex under T1 with a worked invoice
   annex-f-utilities.md          access, connections, tariffs
-  annex-g-permitted-use.md      use matrix by zone and class
+  annex g permitted use.md      use matrix by zone and class
   annex-h-condition.md          condition at site handover, the baseline for BAST #6
   zone-z3-community.md          annex: deed restrictions, reversion on change of use
   zone-z5-innovation.md         annex: land-for-equity, options

@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, dzin
-alias: annex j, offer of record
+alias: annex j, offer of record, annex-j-offer-of-record
 crystal-type: measure
 crystal-domain: socio
 crystal-size: article
@@ -9,7 +9,7 @@ icon: "📌"
 
 # Annex J — Offer of Record
 
-Annexed to [[land-rights-agreement]]. Per [2.1.2](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders): "the version of the product page and price schedule on which the Holder relied is annexed as Annex J, identified by commit hash and date. Later amendment of those pages alters neither this deed nor that annex." The product pages are the estate's own repository (`cyber-valley/strategy/`), version-controlled; this annex freezes the exact commit a given Holder relied on.
+Annexed to [[land rights agreement]]. Per [2.1.2](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders): "the version of the product page and price schedule on which the Holder relied is annexed as Annex J, identified by commit hash and date. Later amendment of those pages alters neither this deed nor that annex." The product pages are the estate's own repository (`cyber-valley/strategy/`), version-controlled; this annex freezes the exact commit a given Holder relied on.
 
 ## Mechanism
 
@@ -29,4 +29,4 @@ This row is illustrative of the format only; no Holder has relied on it and no l
 
 ## What is frozen and what is not
 
-[2.1.2] draws this line for every entry: commitments freeze (renewal by right, the area revenue charge, the assignment regime, the non-disturbance covenant, and — as of this deed — the no-rate, non-indexed deferred balance under [[hak-sewa-deed]] §3.2); statements of current state do not (wave-release status, indicative pricing not yet quoted to a specific Holder, the pricer widget's output before a specific number is agreed). Where it is unclear which side of that line a given statement falls on, the Landowner resolves it in the Holder's favour at the time of signing, not afterward.
+[2.1.2] draws this line for every entry: commitments freeze (renewal by right, the area revenue charge, the assignment regime, the non-disturbance covenant, and — as of this deed — the no-rate, non-indexed deferred balance under [[hak sewa deed]] §3.2); statements of current state do not (wave-release status, indicative pricing not yet quoted to a specific Holder, the pricer widget's output before a specific number is agreed). Where it is unclear which side of that line a given statement falls on, the Landowner resolves it in the Holder's favour at the time of signing, not afterward.

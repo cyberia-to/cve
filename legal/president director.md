@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, president director, offer, draft, dzin
-alias: president director, presdir, cve ceo, ceo, ceo offer, ceo agreement, ceo pack, ceo commissions, ceo commissions addendum
+alias: president director, presdir, cve ceo, ceo, ceo offer, ceo agreement, ceo pack, ceo commissions, ceo commissions addendum, president-director
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article

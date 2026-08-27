@@ -12,7 +12,7 @@ The ticker of the century index: a fixed basket of eight world assets used as a 
 
 ## Where it appears
 
-[[land-rights-agreement]] §2.3, §2.4, Annex E.
+[[land rights agreement]] §2.3, §2.4, Annex E.
 
 ## Why it matters
 

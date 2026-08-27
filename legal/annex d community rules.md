@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, dzin
-alias: annex d, community rules
+alias: annex d, community rules, annex-d-community-rules
 crystal-type: measure
 crystal-domain: socio
 crystal-size: article
@@ -9,7 +9,7 @@ icon: "🌿"
 
 # Annex D — Community Rules
 
-Annexed to [[land-rights-agreement]]. Binding on all Holders under [annex-c-design-code|Annex C] §5, which names the policy pages below as the pollution and resource standards a Holder's construction and occupation must meet. This annex is the binding, version-locked restatement of those pages for the purposes of [[hak-sewa-deed]]; the pages themselves are the estate's own working record and amend this annex under the same §7.3 procedure Annex C carries. Where this annex and the source pages conflict, this annex prevails as against a Holder.
+Annexed to [[land rights agreement]]. Binding on all Holders under [annex-c-design-code|Annex C] §5, which names the policy pages below as the pollution and resource standards a Holder's construction and occupation must meet. This annex is the binding, version-locked restatement of those pages for the purposes of [[hak sewa deed]]; the pages themselves are the estate's own working record and amend this annex under the same §7.3 procedure Annex C carries. Where this annex and the source pages conflict, this annex prevails as against a Holder.
 
 ## D1. Water
 
@@ -33,7 +33,7 @@ Source: [[soil policy]].
 
 - no synthetic pesticides, herbicides, fungicides or chemical fertilisers on any Plot: organophosphates, neonicotinoids, glyphosate and atrazine are prohibited unconditionally; soluble NPK fertilisers are replaced by biochar, compost and living soil inoculants; no fumigants (methyl bromide, chloropicrin); no treated sewage sludge in food-production zones
 - every Plot builds soil rather than depleting it, per the source page's building requirements
-- enforcement: a violation is documented by soil test or witnessed application. First instance — mandatory remediation at the Holder's cost. Second instance — the Landowner may table a lease review under [[hak-sewa-deed]] Part 16.
+- enforcement: a violation is documented by soil test or witnessed application. First instance — mandatory remediation at the Holder's cost. Second instance — the Landowner may table a lease review under [[hak sewa deed]] Part 16.
 
 ## D4. Sound
 
@@ -64,11 +64,11 @@ Source: [[carbon policy]].
 - exception: construction/heavy-lift machinery with no electric equivalent, for the duration of a specific build, with 48-hour prior notice to residents within 100 m; no idling outside active work
 - no venting of exhaust or particulate smoke into occupied or residential zones from any vehicle, generator or machine; backup diesel generators only, monthly-tested to 15 minutes maximum
 - removal side: soil carbon building under D3, biochar production from estate organic waste as the primary removal pathway, forest/canopy cover held to Annex C's footprint limits
-- first instance of a breach — remediation (a combustion vehicle brought back into compliance, or removed from the estate); second instance — lease review under [[hak-sewa-deed]] Part 16, the same two-strike rule D3 uses
+- first instance of a breach — remediation (a combustion vehicle brought back into compliance, or removed from the estate); second instance — lease review under [[hak sewa deed]] Part 16, the same two-strike rule D3 uses
 - the estate-wide carbon-negative claim is a target, not yet a certified fact: it is confirmed only once a first full year of the annual accounting the source page describes exists. Until then, the transport and combustion rules above are the binding standard on their own terms
 
 [Annex C §5](/cyber-valley/cve/legal/annex-c-design-code) should be updated to list six source pages, not five, now that this one carries a standard.
 
 ## D7. Enforcement and relation to the deed
 
-A breach of D1–D6 is a breach of [[annex-c-design-code|Annex C]] under the Design Code procedure it sets, not a separate cause of action. Where a specific Part of [[hak-sewa-deed]] names a consequence for a category of breach (e.g. Part 16 for a soil violation under D3, or for D6 above), that Part's mechanism applies; this annex states the standard, the deed states what happens when it is broken.
+A breach of D1–D6 is a breach of [[annex c design code|Annex C]] under the Design Code procedure it sets, not a separate cause of action. Where a specific Part of [[hak sewa deed]] names a consequence for a category of breach (e.g. Part 16 for a soil violation under D3, or for D6 above), that Part's mechanism applies; this annex states the standard, the deed states what happens when it is broken.

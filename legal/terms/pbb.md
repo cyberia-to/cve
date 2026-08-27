@@ -12,7 +12,7 @@ The annual property tax on land and buildings.
 
 ## Where it appears
 
-[[land-rights-agreement]] 9B.1 (warranty that it is paid), §12 (allocation of cost).
+[[land rights agreement]] 9B.1 (warranty that it is paid), §12 (allocation of cost).
 
 ## Why it matters
 

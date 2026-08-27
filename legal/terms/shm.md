@@ -12,7 +12,7 @@ Certificate of freehold title, the strongest land right in Indonesian law and th
 
 ## Where it appears
 
-[[director-disclosure-indemnity-agreement]] Appendix B lists the certificate for each parcel — several are still SHM in an individual seller's name rather than converted to HGB in the Company's name. [[land-rights-agreement]] uses SHM as the endpoint of the Indonesian-holder upgrade track.
+[[director disclosure indemnity agreement]] Appendix B lists the certificate for each parcel — several are still SHM in an individual seller's name rather than converted to HGB in the Company's name. [[land rights agreement]] uses SHM as the endpoint of the Indonesian-holder upgrade track.
 
 ## Why it matters
 

@@ -12,7 +12,7 @@ The qualification certificate a construction contractor must hold under UU 2/201
 
 ## Where it appears
 
-[[land-rights-agreement]] §5A.2.
+[[land rights agreement]] §5A.2.
 
 ## Why it matters
 

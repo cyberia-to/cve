@@ -12,7 +12,7 @@ A designation locking agricultural land to food production and blocking conversi
 
 ## Where it appears
 
-[[land-rights-agreement]] 9B.1; [[legal/notes/verification-report]] §2.
+[[land rights agreement]] 9B.1; [[legal/notes/verification-report]] §2.
 
 ## Why it matters
 

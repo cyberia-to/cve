@@ -12,7 +12,7 @@ The strongest Indonesian land title — perpetual ownership. Available only to I
 
 ## Where it appears
 
-[[land-rights-agreement]] §4 (the upgrade track for Indonesian holders).
+[[land rights agreement]] §4 (the upgrade track for Indonesian holders).
 
 ## Why it matters
 

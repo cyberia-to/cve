@@ -14,7 +14,7 @@ Source: [Wikisource — Kitab Undang-Undang Hukum Perdata, Buku Ketiga](https://
 
 ## Pasal 1317 — stipulation for the benefit of a third party
 
-Relied on by: [[director-disclosure-indemnity-agreement]] Article 4 — the right of a buyer, lessee or contractor of the Land to enforce the Owners' indemnity directly.
+Relied on by: [[director disclosure indemnity agreement]] Article 4 — the right of a buyer, lessee or contractor of the Land to enforce the Owners' indemnity directly.
 
 | Bahasa Indonesia | English |
 |---|---|
@@ -24,7 +24,7 @@ The second sentence is the operative half: once the third party has declared rel
 
 ## Pasal 1484–1490 — area stated in a sale
 
-Relied on by: [[land-rights-agreement]] §2.7 and Part B, where a Plot is sold as one parcel within its boundaries.
+Relied on by: [[land rights agreement]] §2.7 and Part B, where a Plot is sold as one parcel within its boundaries.
 
 | pasal | Bahasa Indonesia | English |
 |---|---|---|
@@ -48,7 +48,7 @@ This is the basis for a sale without warranty. It sits at the head of the sectio
 
 ## Pasal 1588–1592 — special rules for a lease of land
 
-Relied on by: [[land-rights-agreement]] Part A, the base grant of *hak sewa*.
+Relied on by: [[land rights agreement]] Part A, the base grant of *hak sewa*.
 
 | pasal | Bahasa Indonesia | English |
 |---|---|---|

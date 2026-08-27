@@ -12,7 +12,7 @@ The duty payable by the acquirer on a transfer of land rights.
 
 ## Where it appears
 
-[[land-rights-agreement]] §3.4 and §12.
+[[land rights agreement]] §3.4 and §12.
 
 ## Why it matters
 

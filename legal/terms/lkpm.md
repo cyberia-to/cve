@@ -12,7 +12,7 @@ The investment activity report every PT [[pma|PMA]] files quarterly with BKPM th
 
 ## Where it appears
 
-[[director-disclosure-indemnity-agreement]] Appendix C item 10 — the Company's LKPM status is unconfirmed.
+[[director disclosure indemnity agreement]] Appendix C item 10 — the Company's LKPM status is unconfirmed.
 
 ## Why it matters
 

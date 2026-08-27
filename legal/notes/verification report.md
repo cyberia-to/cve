@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, audit
-alias: verification report, title and zoning verification
+alias: verification report, title and zoning verification, verification-report
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🔎"

@@ -12,7 +12,7 @@ The regency-level spatial plan classifying land by permitted use.
 
 ## Where it appears
 
-[[land-rights-agreement]] Annex A; [[legal/notes/verification-report]] §2.
+[[land rights agreement]] Annex A; [[legal/notes/verification-report]] §2.
 
 ## Why it matters
 

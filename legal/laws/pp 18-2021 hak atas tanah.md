@@ -81,7 +81,7 @@ This is the article that makes the foreign track possible at all.
 |---|---|
 | (1) Tanah yang dapat diberikan dengan hak pakai dengan jangka waktu… meliputi: a. Tanah Negara; b. Tanah hak milik; dan c. Tanah Hak Pengelolaan. | (1) Land that may be granted with hak pakai for a term is: a. State land; b. hak milik land; and c. Hak Pengelolaan land. |
 
-⚠ **Hak guna bangunan is not on this list.** A hak pakai cannot be carved out of the Company's HGB. See [[land-rights-agreement]] §3.
+⚠ **Hak guna bangunan is not on this list.** A hak pakai cannot be carved out of the Company's HGB. See [[land rights agreement]] §3.
 
 ### Pasal 52 — the term
 
@@ -127,7 +127,7 @@ The detailed procedure and the actual limits under Pasal 69–72 are set by Pera
 
 ## What this decides for the Estate
 
-**The lease term.** 30 + 20 + 30 is confirmed for both HGB (Pasal 37) and hak pakai (Pasal 52). Every promise of term in [[land-rights-agreement]] is capped by the remaining life of the Company's own HGB, and renewal is a discretionary priority under Pasal 37(4), not a right.
+**The lease term.** 30 + 20 + 30 is confirmed for both HGB (Pasal 37) and hak pakai (Pasal 52). Every promise of term in [[land rights agreement]] is capped by the remaining life of the Company's own HGB, and renewal is a discretionary priority under Pasal 37(4), not a right.
 
 **The two-year construction duty.** Pasal 42(a) obliges the Company to build or work each parcel within two years of the grant. Failure feeds Pasal 46 through the Tanah Telantar route. This is a Company duty and it is not mentioned anywhere in the deed.
 
