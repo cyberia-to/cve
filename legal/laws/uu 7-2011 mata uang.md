@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, law, dzin
-alias: uu 7/2011, uu 7 2011, mata uang, currency law, закон о валюте
+alias: uu 7/2011, uu 7 2011, mata uang, currency law
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article

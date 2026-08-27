@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, law, dzin
-alias: uu 40/2007, uu 40 2007, perseroan terbatas, company law, закон о компаниях
+alias: uu 40/2007, uu 40 2007, perseroan terbatas, company law
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article

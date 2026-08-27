@@ -15,7 +15,7 @@ Where a policy page is amended, this annex is amended with it under [§7.3](/cyb
 
 ## C0. Correspondence with land usage policy
 
-Section pairs across the two representations. The six policy pages named in C5 — [[sound policy]], [[water policy]], [[light policy]], [[air policy]], [[soil policy]] — sit on the informal side and are binding through C5.
+Section pairs across the two representations. The six policy pages named in C5 — [[sound policy]], [[water policy]], [[light policy]], [[air policy]], [[soil policy]], [[carbon policy]] — sit on the informal side and are binding through C5.
 
 | this annex | [[cyber-valley/policies/zoning system|land usage policy]] |
 |---|---|

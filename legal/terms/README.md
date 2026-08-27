@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, term, dzin
-alias: terms, glossary, vocabulary, глоссарий
+alias: terms, glossary, vocabulary
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article
