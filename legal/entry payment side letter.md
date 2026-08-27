@@ -18,7 +18,7 @@ Companion to [[share sale entry]] (the notarial deed). This letter records the p
 >
 > This letter is made on __________ between:
 >
-> **ALISA VOINOVA**, holder of passport No. 757428208 (the "Seller"); and
+> **ALISA VOINOVA**, Russian citizen, holder of Russian passport No. 757428208, residing in Russia (the "Seller"); and
 >
 > **OLEKSANDR FEDOROV**, Ukrainian citizen, holder of Ukrainian passport No. FY773280, residing in Ukraine (the "Buyer").
 >
