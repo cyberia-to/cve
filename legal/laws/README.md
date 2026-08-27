@@ -12,8 +12,8 @@ Every statute the corporate and land documents cite, with the articles actually 
 
 | law | subject | pages that rely on it |
 |---|---|---|
-| [[uu 40-2007 perseroan terbatas]] | limited liability companies | [[articles of association]], [[shareholders agreement]], [[gms director appointment]], [[ceo]] |
-| [[uu 7-2011 mata uang]] | currency, rupiah settlement | [[ceo]], [[shareholders agreement]], [[land-rights-agreement]] |
+| [[uu 40-2007 perseroan terbatas]] | limited liability companies | [[articles of association]], [[shareholders agreement]], [[gms director appointment]] |
+| [[uu 7-2011 mata uang]] | currency, rupiah settlement | [[shareholders agreement]], [[land-rights-agreement]] |
 | [[uu 24-2009 bahasa]] | language of agreements — the Indonesian-prevails rule | every executed instrument in the pack |
 | [[kuhperdata]] | civil code — third-party benefit, mandate, lease by area | [[shareholders agreement]], [[share sale entry]], [[land-rights-agreement]] §2.7 |
 | [[uu 4-1996 hak tanggungan]] | security over land — which rights can be mortgaged | [[land-rights-agreement]] §2.9, [[verification-report]] |

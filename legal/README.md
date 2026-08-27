@@ -16,7 +16,7 @@ Corporate pack index: [[dzin]] · company page: [[cve]]
 |-----|------|
 | [[gms director appointment]] | GMS appoints Director at Closing |
 | [[share sale entry]] | 1% at par to Director at Closing |
-| [[entry payment side letter]] | private receipt and repayment undertaking between Voinova and Fedorov |
+| [[entry payment side letter]] | private receipt between Voinova and Fedorov fixing the real entry price |
 | [[ceo]] | ops · options · KPI ladder |
 | [[shareholders agreement]] | [[rofr|ROFR]], tag-along, moonly dividend cadence, cash waterfall |
 | [[director-disclosure-indemnity-agreement]] | Owners' personal disclosure & uncapped indemnity to the incoming Director, re: Company/land liabilities |
