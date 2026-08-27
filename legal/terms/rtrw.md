@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: rtrw, rencana tata ruang wilayah
 crystal-type: entity
 crystal-domain: socio

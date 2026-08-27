@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, law, dzin
+tags: cyber valley, cyberia, legal, law
 alias: pp 18/2021, pp 18 2021, hak atas tanah, land rights regulation
 crystal-type: entity
 crystal-domain: socio

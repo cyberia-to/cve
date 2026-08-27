@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: nib, nomor induk berusaha
 crystal-type: entity
 crystal-domain: socio

@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: jisdor, jakarta interbank spot dollar rate
 crystal-type: entity
 crystal-domain: socio

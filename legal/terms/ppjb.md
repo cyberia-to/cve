@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: ppjb, perjanjian pengikatan jual beli
 crystal-type: entity
 crystal-domain: socio

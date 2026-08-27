@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: bphtb, bea perolehan hak atas tanah dan bangunan
 crystal-type: entity
 crystal-domain: socio

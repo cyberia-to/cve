@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, law, dzin
+tags: cyber valley, cyberia, legal, law
 alias: uu 11/2020, uu 11 2020, cipta kerja, omnibus law
 crystal-type: entity
 crystal-domain: socio

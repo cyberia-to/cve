@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, dzin
+tags: cyber valley, cyberia, legal
 alias: shareholders agreement bilingual, perjanjian pemegang saham dwibahasa
 crystal-type: entity
 crystal-domain: socio

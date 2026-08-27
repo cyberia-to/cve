@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: lp2b, lahan pertanian pangan berkelanjutan
 crystal-type: entity
 crystal-domain: socio

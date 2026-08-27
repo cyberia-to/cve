@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: slf, sertifikat laik fungsi
 crystal-type: entity
 crystal-domain: socio

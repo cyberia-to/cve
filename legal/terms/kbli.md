@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, term, dzin
+tags: cyber valley, cyberia, legal, term
 alias: kbli, klasifikasi baku lapangan usaha indonesia
 crystal-type: entity
 crystal-domain: socio
