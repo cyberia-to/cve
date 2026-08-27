@@ -79,7 +79,7 @@ routing a fee through a management company CEO controls does not change who is e
 |---|---|
 | **Basis** | CEO proposes his own salary each month under [[ceo]] §3 (strategic gate), in good faith, based on that month's results and workload |
 | **Calculation model** | the proposed amount is based on **7%** of that month's profit — the reference formula the proposal is built around, not a number CEO is free to disregard without reason |
-| **Profit (this section only)** | cash remaining in the Company's accounts at month-end, after all expenses and dividend payouts for that month |
+| **Profit (this section only)** | cash remaining in the operational account for the month under the approved budget, after operating expenses — computed at the same point in the cycle as [[shareholders agreement]] Article 4 item 3 (operating budget), before item 4 (distributable cash) is reached; this section never draws on money already earmarked for dividends |
 | **Floor** | Company accounts must hold **no less than USD 10,000** after the salary is paid — no salary, or a reduced one, if paying it in full would breach that floor |
 | **Approval** | tabled as a proposal under [[ceo]] §3 — **one commissioner's** sign-off is enough, same as any other strategic-gate item |
 | **Interaction with [[ceo]] §1** | Gives the formula behind the "ops-proposal" fixed salary already referenced there — sizing and floor are defined here, the §3 approval step is unchanged |

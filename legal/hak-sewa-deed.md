@@ -59,7 +59,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 2.2 Term. ▲ The Term is the lesser of 25 years and the remaining term of the Title at signing, less a buffer of 12 months for the extension procedure — matching the filing deadline [15.6](#part-15-title-warranties-negative-pledge-indemnity) sets for the Landowner, so the buffer costs the Holder no more term than the procedure it covers actually needs. It is stated in the recitals as a date.
 
-2.2.1 Automatic extension. On each *perpanjangan* or *pembaruan* of the Title, this deed extends by the lesser of 25 years and the new remaining term less the same buffer, without further consideration beyond the price formula in Annex E and without renegotiation.
+2.2.1 Automatic extension. On a *perpanjangan* of the Title, this deed extends by the lesser of **20 years** — [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 37(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-37--the-term) sets that as the statutory ceiling for an extension, regardless of remaining term — and the new remaining term less the same buffer, without further consideration beyond the price formula in Annex E and without renegotiation. A *pembaruan* is a discretionary priority under Pasal 37(4), not an automatic right; where the Landowner obtains one, this clause is renegotiated fresh at that point and does not extend automatically.
 
 2.2.2 Extension covenant. ▲ The Landowner applies for extension and, where extension is exhausted, for renewal of each Title within the windows [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 41 allows, pursues each application diligently at its own cost, and reports progress in the Register. The outcome is not warranted: after the extension cycle the land returns to the State and the former holder holds a priority on stated conditions under Pasal 37(4), not a right. The recitals state for the Plot the date to which the Term is certain and the date to which it depends on renewal.
 
@@ -81,12 +81,15 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 ## Part 3. Consideration
 
-3.1 Form. The Holder pays under one of two forms of the same right:
+3.1 Form. The Holder takes the Plot under one of three forms:
 
 | form | at signing | thereafter |
 |---|---|---|
 | upfront | 100% of the Plot price | nothing beyond the area revenue charge, service charge and taxes |
 | scheduled | 30% minimum deposit of the elected price | equal instalments over 1 or 5 years, no interest, under [3.2](#part-3-consideration) |
+| rent | none | annual rent under a separate written agreement between the Landowner and the specific Holder; where elected, [[annex-e-century-index|Annex E]] governs the rent in full and this Part applies only to the extent the rent agreement adopts it |
+
+The rent form carries no path to any of the rights, titles or upgrade tracks elsewhere in this deed; it is occupation for the agreed term only, and is offered where the Landowner elects to let rather than sell a Plot — a Holder not yet eligible for [12.1.2](#part-12-upgrade-tracks), or occupation by season or by event, or a Plot the Landowner is not yet ready to sell.
 
 3.2 Instalments. ▲ On the scheduled form the Holder pays a deposit of at least 30% of the Plot price at signing and clears the balance in equal instalments over the elected period, with no interest and no deferral fee. Two periods are offered: **1 (one) year at the upfront price**, and **5 (five) years at 115% of the upfront price**, the deposit being computed on the price of the elected form. Nothing else is added: the balance carries no rate and no index — [[annex-e-century-index|Annex E]] governs indexed rent only, never this balance. An instalment unpaid 30 (thirty) days after its due date, and not cured within a further 14 (fourteen) days of written notice, entitles the Landowner to terminate; on termination the deposit and every instalment paid are retained, and the Plot returns to the Landowner free of the Holder's interest.
 
