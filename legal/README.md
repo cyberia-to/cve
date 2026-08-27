@@ -18,7 +18,7 @@ Corporate pack index: [[dzin]] · company page: [[cve]]
 | [[share sale entry]] | 1% at par to Director at Closing |
 | [[entry payment side letter]] | private receipt and repayment undertaking between Voinova and Fedorov |
 | [[ceo]] | ops · options · KPI ladder |
-| [[ceo-commissions-addendum]] | land commissions, referral fee, investment-raise fee, property management |
+| [[ceo-commissions-addendum]] | land commissions, investment-raise fee, property management |
 | [[shareholders agreement]] | [[rofr|ROFR]], tag-along, moonly dividend cadence, cash waterfall |
 | [[director-disclosure-indemnity-agreement]] | Owners' personal disclosure & uncapped indemnity to the incoming Director, re: Company/land liabilities |
 
