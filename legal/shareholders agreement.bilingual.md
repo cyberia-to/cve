@@ -10,7 +10,7 @@ icon: "🤝"
 
 CVE/SHA/2026-01 · 14 Agustus 2026
 
-> ⚠ **Draft translation.** This entire document is new drafting between the Shareholders — there is no prior notarial Indonesian text to translate from, unlike the Articles of Association. The Bahasa Indonesia column below is a careful working translation using the terminology of UU 40/2007 and the Company's own Akta Pendirian, prepared for Indonesian-licensed counsel and the notary to review, correct and finalise before signature. **It is not yet verified and does not itself bind anyone; the notarial instrument the notary produces is authoritative.**
+> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
 
 ## Para Pihak — Parties
 
