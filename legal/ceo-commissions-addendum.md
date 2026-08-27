@@ -12,7 +12,7 @@ icon: "💰"
 > page by [§9](/cyber-valley/cve/legal/ceo#9-not-in-this-deal), surviving departure under
 > [§17](/cyber-valley/cve/legal/ceo#17-survival-after-departure). Draft for discussion until signed.
 
-**"Management company"** — in [§5](#5-management-of-existing-property-glamping-carrot-house-vitalik-kitchen-and-other-structures) below, any entity CEO controls and uses to deliver the on-site
+**"Management company"** — in [§4](#4-management-of-existing-property-glamping-carrot-house-vitalik-kitchen-and-other-structures) below, any entity CEO controls and uses to deliver the on-site
 management service described there. All fees in this document are ultimately payable to CEO;
 routing a fee through a management company CEO controls does not change who is entitled to it.
 
@@ -45,24 +45,13 @@ routing a fee through a management company CEO controls does not change who is e
 | | |
 |---|---|
 | **Trigger** | capital invested into the Company, sourced or introduced by CEO |
-| **Fee** | **10%** of the amount actually invested and received by the Company, payable to CEO |
+| **Fee** | **5%** of the amount actually invested and received by the Company, payable to CEO |
 | **Scope** | cash fee on capital introduction only — does not touch the cap table or the [§7 KPI ladder](/cyber-valley/cve/legal/ceo#7-kpi-ladder-ds-av-10-founders-company-1b) |
 | **Payable** | on receipt of funds |
 
 ---
 
-## 4. Business revenue-share cut
-
-| | |
-|---|---|
-| **Base** | on-site operating businesses pay the Company a revenue share of **5–10%** of their activity (per [[cyber-valley/strategy|strategy]] [§8.1 revenue map](/cyber-valley/strategy#8-1-revenue-map-what-the-estate-actually-sells)) |
-| **Fee — businesses brought in by CEO** | CEO receives **10% of the amount the Company actually collects** under that revenue share for a business CEO personally brought in — not 10% of the underlying business revenue |
-| **Fee — businesses from other channels** | if a business arrived through another channel (not via CEO), but CEO administers that revenue share (collection, oversight, escalations) — the fee is **5% of the amount the Company actually collects** under that revenue share |
-| **Payable** | on each collection, landing in the strategic account ([[ceo]] [§2](/cyber-valley/cve/legal/ceo#2-dual-accounts)) |
-
----
-
-## 5. Management of existing property (glamping, Carrot House, Vitalik, kitchen, and other structures)
+## 4. Management of existing property (glamping, Carrot House, Vitalik, kitchen, and other structures)
 
 | | |
 |---|---|
@@ -73,7 +62,7 @@ routing a fee through a management company CEO controls does not change who is e
 
 ---
 
-## 6. Discretionary monthly performance salary
+## 5. Discretionary monthly performance salary
 
 | | |
 |---|---|
@@ -88,7 +77,7 @@ routing a fee through a management company CEO controls does not change who is e
 
 ---
 
-## 7. Common mechanics
+## 6. Common mechanics
 
 | | |
 |---|---|
@@ -98,7 +87,7 @@ routing a fee through a management company CEO controls does not change who is e
 
 ---
 
-## 8. Acceptance
+## 7. Acceptance
 
 | party | role | sign / date |
 |---|---|---|
