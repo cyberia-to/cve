@@ -24,15 +24,15 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 | this file | framework and operative structure |
 | `legal/notes/open questions.md` | release gate and every open item, deliberately outside the signable text |
 | [[annex-a-estate-registry|Annex A]] | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw|RTRW]] classification, [[pkkpr|PKKPR]] number or its absence, [[lp2b|LP2B]] status; plus the KBLI × location table under [§9A.1](#9a-licences-warranty-and-licence-event-regime) |
-| Annex B | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
+| [[annex-b-plot-boundary|Annex B]] | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
 | [Annex C](/cyber-valley/cve/legal/annex-c-design-code) | Design Code — the zoning code as numbers |
 | [[annex-d-community-rules|Annex D]] | Community Rules |
-| Annex E | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, floor, worked invoice; also the unamortised-return formula |
-| Annex F | Utilities, access and mobility specification |
-| Annex G | Permitted-use matrix by Holder class, zone and track |
-| Annex H | Condition schedule at site handover (baseline for redelivery, 5A.6 #6) |
-| Annex I | Due diligence pack under 9B.2 |
-| Annex J | Offer of record under 2.1.2 — the product page and price schedule as they stood, by commit hash and date |
+| [[annex-e-century-index|Annex E]] | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, floor, worked invoice; also the unamortised-return formula |
+| [[annex-f-utilities-access-mobility|Annex F]] | Utilities, access and mobility specification |
+| [[annex-g-permitted-use|Annex G]] | Permitted-use matrix by Holder class, zone and track |
+| [[annex-h-handover-condition|Annex H]] | Condition schedule at site handover (baseline for redelivery, 5A.6 #6) |
+| [[annex-i-due-diligence-pack|Annex I]] | Due diligence pack under 9B.2 |
+| [[annex-j-offer-of-record|Annex J]] | Offer of record under 2.1.2 — the product page and price schedule as they stood, by commit hash and date |
 
 ---
 
