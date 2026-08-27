@@ -7,11 +7,11 @@ icon: "🖋"
 ---
 # Hak Sewa Simple
 
-d0.1 · the minimal signable lease · draft for counsel and [[ppat|PPAT]]
+d0.2 · the minimal signable lease · draft for counsel and [[ppat|PPAT]]
 
-One page, eight clauses. The full-form counterpart is [[hak sewa deed]];
-this instrument grants the same right in the shortest text that can be
-signed.
+One page, eight clauses. The unit of account is the
+[[annex e century index|century index]]; rupiah is only the settlement
+currency. The full-form counterpart is [[hak sewa deed]].
 
 ## Operative text
 
@@ -25,23 +25,31 @@ signed.
 > in the attached *peta bidang*, ±[___] m², part of [[hgb|HGB]]
 > certificate No. [___].
 >
-> **3. Grant and term.** The Landowner leases the Plot to the Holder
-> (*hak sewa*) for [___] years from signing, within the remaining term
-> of the certificate.
+> **3. Grant, term and quiet enjoyment.** The Landowner leases the Plot
+> to the Holder (*hak sewa*) for [___] years from signing, within the
+> remaining term of the certificate. The Landowner warrants its right to
+> lease the Plot and does not disturb the Holder's use while this deed
+> stands.
 >
-> **4. Price and payment.** Total price USD [___]. **30% is paid at
-> signing**; the balance is due within **one year of signing**. At
-> signing the balance is also fixed as quantities of the
-> [[annex e century index|century index]]. Any part of the balance still
-> unpaid one year after signing is payable at the index's then-current
-> value in place of the dollar figure, and remains so until paid.
+> **4. Rent.** The rent for the whole term (*uang sewa*) is fixed at
+> signing as **[___] units of the [[annex e century index|century
+> index]]** (Annex E: quantities, valuation, worked example). The index
+> is the unit of account of this deed. Every payment is settled in
+> rupiah at the index value on the payment date, converted at
+> [[jisdor|JISDOR]] on that date, as [[uu 7-2011 mata uang|UU 7/2011]]
+> requires. **30% of the units are paid at signing**; the balance is due
+> within **one year of signing**, valued on the payment date.
 >
-> **5. Use.** Lawful use consistent with the estate's published rules as
+> **5. Late balance.** Units unpaid one year after signing convert to
+> **equal annual instalments over the following [5] years**, each valued
+> on its due date. If an annual instalment is not paid within 30 days of
+> its due date, the Landowner may terminate this deed by written notice;
+> units already paid are not refunded — they pay for the time already
+> enjoyed.
+>
+> **6. Use.** Lawful use consistent with the estate's published rules as
 > at signing. No nominee arrangement (*perjanjian pinjam nama*); nothing
 > in this deed simulates freehold for a foreign party.
->
-> **6. Quiet enjoyment.** The Landowner warrants its right to lease the
-> Plot and does not disturb the Holder's use while this deed stands.
 >
 > **7. Form and language.** Executed as an *akta* before a notary /
 > [[ppat|PPAT]] in Bahasa Indonesia and English; the Indonesian text
