@@ -39,7 +39,7 @@ Effective only upon Closing under [§4](#4-closing-single-condition-package):
 | person | office |
 |---|---|
 | **Oleksandr Fedorov** | appointed **President Director** for the term under the Articles |
-| **Alisa Voinova** | resigns as President Commissioner; appointed **Deputy President Director** |
+| **Alisa Voinova** | resigns as Director; appointed **Deputy President Director** |
 | **Dmitry Starodubtsev** | designated **President Commissioner** |
 
 One person may not sit on both organs; Voinova's seat on the Board of Commissioners ends as her seat on the Board of Directors begins. The Board of Commissioners continues with Starodubtsev as its sole member under Articles 15(4).
@@ -84,4 +84,3 @@ Neither side may demand performance of one without the other.
 | Oleksandr Fedorov | accepts the office of President Director **at Closing only** |
 
 Bahasa Indonesia prevails on the notarial form if executed bilingually.
-
