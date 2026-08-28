@@ -1,0 +1,41 @@
+---
+tags: cyber valley, cyberia, legal, draft, dzin
+alias: entry payment side letter, side letter voinova fedorov, entry receipt, entry payment side letter bilingual, surat tambahan pembayaran masuk dwibahasa
+crystal-type: entity
+crystal-domain: socio
+crystal-size: article
+icon: "🤝"
+---
+# Pembayaran Masuk — Surat Tambahan (Side Letter) antara Voinova dan Fedorov / Entry Payment — Side Letter between Voinova and Fedorov
+
+> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
+
+## Kedudukan — Status
+
+| Bahasa Indonesia | English |
+|---|---|
+| Perjanjian pribadi antara dua orang perseorangan · bukan dokumen korporasi · tidak didaftarkan pada instansi manapun · rancangan | Private agreement between two individuals · not a corporate document · not filed with any authority · draft |
+| Pendamping dari [[share sale entry]] (akta notariil). Surat ini mencatat pembayaran yang benar-benar dilakukan antara para pihak untuk saham masuk — suatu tanda terima yang menetapkan harga sebenarnya di balik pernyataan dalam akta. Tidak ada beban apa pun yang melekat pada saham itu sendiri: saham tersebut sepenuhnya milik Pembeli, dan tidak timbul kewajiban pengembalian pembayaran atau pengalihan kembali pada setiap pengakhiran ([[president director]] [§8](/cyber-valley/cve/legal/president-director#8-exit) — tanpa buyout, tanpa buyback). | Companion to [[share sale entry]] (the notarial deed). This letter records the payment actually made between the parties for the entry stake — a receipt fixing the real price behind the deed's recital. Nothing attaches to the shares themselves: they are the Buyer's outright, and no repayment or re-transfer arises on any exit ([[president director]] [§8](/cyber-valley/cve/legal/president-director#8-exit) — no buyout, no buyback). |
+
+## Naskah Operasional — Operative Text
+
+| Bahasa Indonesia | English |
+|---|---|
+| **SURAT TAMBAHAN — TANDA TERIMA PEMBAYARAN MASUK** | **SIDE LETTER — ENTRY PAYMENT RECEIPT** |
+| Surat ini dibuat pada tanggal __________ antara: | This letter is made on __________ between: |
+| **Nyonya ALISA VOINOVA**, warga negara Rusia, pemegang paspor Rusia No. [REDACTED], bertempat tinggal di Rusia ("Penjual"); dan | **ALISA VOINOVA**, Russian citizen, holder of Russian passport No. [REDACTED], residing in Russia (the "Seller"); and |
+| **Tuan OLEKSANDR FEDOROV**, warga negara Ukraina, pemegang paspor Ukraina No. [REDACTED], bertempat tinggal di Ukraina ("Pembeli"). | **OLEKSANDR FEDOROV**, Ukrainian citizen, holder of Ukrainian passport No. [REDACTED], residing in Ukraine (the "Buyer"). |
+| **1. Tanda terima pembayaran.** Penjual mengakui telah menerima dari Pembeli sejumlah **USD 40.000 (empat puluh ribu dolar Amerika Serikat)** sebagai imbalan yang disepakati antara para pihak secara pribadi untuk **80 (delapan puluh) saham** dalam PT. CYBER VALLEY ESTATE, yaitu 1% dari modal ditempatkan sebesar 8.040 saham ("Saham Masuk"). Surat ini merupakan tanda terima yang sah atas jumlah tersebut. | **1. Receipt of payment.** The Seller acknowledges having received from the Buyer the sum of **USD 40,000 (forty thousand United States dollars)** as the consideration agreed between the parties personally for **80 (eighty) shares** in PT. CYBER VALLEY ESTATE, being 1% of the issued capital of 8,040 shares (the "Entry Shares"). This letter is a valid receipt for that sum. |
+| **2. Hubungan dengan akta notariil.** Jumlah Saham Masuk adalah jumlah yang dinyatakan dalam akta notariil — 80 (delapan puluh) saham. Surat ini mengatur harga: jumlah dalam ayat 1 adalah jumlah yang benar-benar dibayarkan antara para pihak untuk saham tersebut, dan bersifat penuh dan final — tidak ada lagi yang terutang oleh salah satu pihak untuk Saham Masuk, dan tidak ada kewajiban pengembalian pembayaran atau pengalihan kembali yang melekat padanya, apapun jabatan yang kemudian dipegang atau ditinggalkan oleh Pembeli. | **2. Relationship to the notarial deed.** The number of Entry Shares is the number stated in the notarial deed — 80 (eighty) shares. This letter governs the price: the sum in paragraph 1 is the amount actually paid between the parties for those shares, and it is full and final — nothing further is owed by either party for the Entry Shares, and no repayment or re-transfer obligation attaches to them, whatever office the Buyer later holds or leaves. |
+| **3. Ruang lingkup.** Surat ini hanya mencakup Saham Masuk. Saham yang diperoleh Pembeli berdasarkan paket opsi dalam [[president director]] [§6](/cyber-valley/cve/legal/president-director#6-options-up-to-10-at-4m-sale-from-founders-only), dan ekuitas yang diperoleh berdasarkan tangga KPI dalam [[president director]] [§7](/cyber-valley/cve/legal/president-director#7-kpi-ladder-ds-av-10-founders-company-1b), berada di luar surat ini dan diatur oleh ketentuannya masing-masing. | **3. Scope.** This letter covers the Entry Shares only. Shares acquired by the Buyer under the option package in [[president director]] [§6](/cyber-valley/cve/legal/president-director#6-options-up-to-10-at-4m-sale-from-founders-only), and equity earned under the KPI ladder in [[president director]] [§7](/cyber-valley/cve/legal/president-director#7-kpi-ladder-ds-av-10-founders-company-1b), are outside this letter and are governed by their own terms. |
+| **4. Kerahasiaan.** Para pihak menjaga kerahasiaan ketentuan surat ini, kecuali apabila pengungkapan diwajibkan oleh hukum atau oleh instansi yang berwenang. | **4. Confidentiality.** The parties keep the terms of this letter confidential, save where disclosure is required by law or by a competent authority. |
+| **5. Hukum yang berlaku dan sengketa.** Surat ini diatur oleh hukum Republik Indonesia. Sengketa diselesaikan melalui perundingan dengan itikad baik dan, apabila tidak tercapai kesepakatan dalam waktu 30 hari, melalui arbitrase berdasarkan peraturan [[bani\|BANI]], berkedudukan di Bali, dalam bahasa Inggris. | **5. Governing law and disputes.** This letter is governed by the laws of the Republic of Indonesia. Disputes are settled by good-faith negotiation and, failing agreement within 30 days, by arbitration under [[bani\|BANI]] rules, seat Bali, in English. |
+| **6. Rangkap.** Surat ini dapat ditandatangani dalam beberapa rangkap, yang masing-masing merupakan naskah asli, dan bersama-sama membentuk satu instrumen. | **6. Counterparts.** This letter may be signed in counterparts, each of which is an original, together forming one instrument. |
+| ALISA VOINOVA: __________________ | ALISA VOINOVA: __________________ |
+| OLEKSANDR FEDOROV: __________________ | OLEKSANDR FEDOROV: __________________ |
+
+## Para Pihak dalam Surat Ini — Parties to This Letter
+
+| Bahasa Indonesia | English |
+|---|---|
+| Ditandatangani hanya oleh Alisa Voinova dan Oleksandr Fedorov. Dmitry Starodubtsev bukan merupakan pihak; tanda tangannya berada pada [[preemption waiver letter]], Formulir B, yang melepaskan [[rofr\|ROFR]] atas Saham Masuk. | Signed by Alisa Voinova and Oleksandr Fedorov only. Dmitry Starodubtsev is not a party; his signature belongs on the [[preemption waiver letter]], Form B, waiving the [[rofr\|ROFR]] over the Entry Shares. |
