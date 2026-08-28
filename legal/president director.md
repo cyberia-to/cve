@@ -139,6 +139,12 @@ Two special cases:
 - **Seed (1% @ $4M)** — the PD's own entry purchase, not a ladder sale: no 10% fee, cash = `1% × val`
 - **First ladder step** — 1% → **10% cumulative @ $10M**: the PD's fee starts here (0.90%)
 
+**Paid per deal, not per threshold.** The fee settles at each closing:
+every qualifying sale transfers **10% of the equity sold** to the PD at
+that same closing, pro-rata within the step. The ladder rows set the
+valuation floor that prices each band — they are **not** gates the fee
+waits for.
+
 ### Where the equity ends up
 
 | block | holder |
