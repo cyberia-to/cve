@@ -86,7 +86,7 @@ icon: "🧭"
 | **Independensi**: kedua tranche bersifat **independen** — lewatnya jangka waktu pelaksanaan Tranche A **tidak** menggugurkan atau menghalangi Tranche B | **Independence**: Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
 | **Penjadwalan ulang**: masing-masing jangka waktu pelaksanaan dapat diperpanjang atau diperpendek **dengan kesepakatan tertulis bersama** PD dan para pendiri | **Rescheduling**: Either window may be extended or shortened **by written mutual consent** of PD and founders |
 | **Sumber**: **hanya penjualan/pengalihan dari pendiri** — **tanpa penerbitan saham baru** untuk paket ini. Saham opsi diperhitungkan terhadap total kumulatif pada tangga §7, sehingga sisa ~10% milik pendiri diukur setelah tangga dan paket ini | **Source**: **only sale/transfer from founders** — **no new share issue** for this package. Option shares count against the cumulative total on the [§7](#7-tangga-kpi--ds--av--10-pendiri--perseroan--1b--kpi-ladder--ds--av--10-founders--company--1b) ladder, so the founders' ~10% residual is measured after both the ladder and this package |
-| **[[rofr\|ROFR]]**: pengalihan saham opsi berdasarkan §6 ini mengikuti Pasal 1 [[shareholders agreement]] (Perjanjian Pemegang Saham): Para Pemegang Saham lainnya memiliki jangka waktu **3 (tiga) hari** untuk mengambil saham tersebut terlebih dahulu; setelah lewat tanpa dilaksanakan, pengalihan kepada PD dilanjutkan | **[[rofr\|ROFR]]**: Transfers of option shares under this [§6](#6-opsi--hingga-10-pada-4m-penjualan-dari-pendiri-saja--options--up-to-10-at-4m-sale-from-founders-only) follow [[shareholders agreement]] Article 1: the other Shareholders have a **3 (three) day** window to take up the shares first; once it passes unexercised, the transfer to the PD proceeds |
+| **[[rofr\|ROFR]]**: pengalihan saham opsi berdasarkan §6 ini merupakan **Pengalihan yang Diizinkan** (Permitted Transfer) berdasarkan Pasal 1(5) [[shareholders agreement]] — dikecualikan dari Hak Mencocokkan; pengalihan kepada PD berlaku langsung saat pelaksanaan, tanpa jangka waktu bagi Para Pemegang Saham lainnya untuk mengambil saham tersebut terlebih dahulu | **[[rofr\|ROFR]]**: Transfers of option shares under this [§6](#6-opsi--hingga-10-pada-4m-penjualan-dari-pendiri-saja--options--up-to-10-at-4m-sale-from-founders-only) are a **Permitted Transfer** under [[shareholders agreement]] Article 1(5) — exempt from the Matching Right; the transfer to PD proceeds directly on exercise, with no window for the other Shareholders to take the shares instead |
 | Opsi ≠ tangga KPI (§7). Keuntungan pribadi bagi pimpinan; saham berasal dari kepemilikan pendiri, bukan dilusi melalui pencetakan. | Options ≠ KPI ladder ([§7](#7-tangga-kpi--ds--av--10-pendiri--perseroan--1b--kpi-ladder--ds--av--10-founders--company--1b)). Personal upside for the chair; shares come from founders’ holdings, not dilution by print. |
 
 ## 7. Tangga KPI — DS + AV → ~10% pendiri · perseroan → $1B — KPI ladder — DS + AV → ~10% founders · company → $1B
@@ -125,12 +125,20 @@ icon: "🧭"
 | Sisa ~10% | Pendiri |
 | PD | tangga ~**8.9%** + opsi ≤10% @ $4M dari pendiri — **keduanya di dalam 90% yang keluar dari pendiri, tidak pernah di atasnya** |
 
+| | |
+|---|---|
+| **[[rofr\|ROFR]]** | Alokasi langkah PD berdasarkan §7 ini merupakan **Pengalihan yang Diizinkan** (Permitted Transfer) berdasarkan Pasal 1(6) [[shareholders agreement]] — dikecualikan dari Hak Mencocokkan; pengalihan kepada PD berlaku langsung saat setiap langkah selesai, tanpa jangka waktu bagi Para Pemegang Saham lainnya untuk mengambilnya. Sisa dari setiap langkah yang dijual kepada Pembeli tetap tunduk pada ROFR biasa berdasarkan Pasal 1 |
+
 | block | |
 |---|---|
 | Package 1 | Indonesian holders |
 | Package 2 | Foreign / Cyberia holding |
 | Residual ~10% | Founders |
 | PD | ladder ~**8.9%** + options ≤10% @ $4M from founders — **both inside the 90% that leaves founders, never on top of it** |
+
+| | |
+|---|---|
+| **[[rofr\|ROFR]]** | The PD's step allocation under this §7 is a **Permitted Transfer** under [[shareholders agreement]] Article 1(6) — exempt from the Matching Right; the transfer to PD proceeds directly as each step closes, with no window for the other Shareholders to take it instead. The balance of each step sold to Buyers remains subject to ordinary ROFR under Article 1 |
 
 ### Tabel — Table
 

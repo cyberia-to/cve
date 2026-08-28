@@ -101,7 +101,7 @@ Once per month (or written circular):
 | **Independence** | Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
 | **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of PD and founders |
 | **Source** | **only sale/transfer from founders** — **no new share issue** for this package. Option shares count against the cumulative total on the [§7](#7-kpi-ladder--ds--av--10-founders--company--1b) ladder, so the founders' ~10% residual is measured after both the ladder and this package |
-| **[[rofr|ROFR]]** | Transfers of option shares under this [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) follow [[shareholders agreement]] Article 1: the other Shareholders have a **3 (three) day** window to take up the shares first; once it passes unexercised, the transfer to the PD proceeds |
+| **[[rofr|ROFR]]** | Transfers of option shares under this [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) are a **Permitted Transfer** under [[shareholders agreement]] Article 1(5) — exempt from the Matching Right; the transfer to PD proceeds directly on exercise, with no window for the other Shareholders to take the shares instead |
 
 Options ≠ KPI ladder ([§7](#7-kpi-ladder-ds-av-10-founders-company-1b)). Personal upside for the chair; shares come from founders’ holdings, not dilution by print.
 
@@ -137,6 +137,10 @@ Options ≠ KPI ladder ([§7](#7-kpi-ladder-ds-av-10-founders-company-1b)). Pers
 | Package 2 | Foreign / Cyberia holding |
 | Residual ~10% | Founders |
 | PD | ladder ~**8.9%** + options ≤10% @ $4M from founders — **both inside the 90% that leaves founders, never on top of it** |
+
+| | |
+|---|---|
+| **[[rofr\|ROFR]]** | The PD's step allocation under this §7 is a **Permitted Transfer** under [[shareholders agreement]] Article 1(6) — exempt from the Matching Right; the transfer to PD proceeds directly as each step closes, with no window for the other Shareholders to take it instead. The balance of each step sold to Buyers remains subject to ordinary ROFR under Article 1 |
 
 ### Table
 
