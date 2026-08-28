@@ -250,12 +250,15 @@ multi-page indemnification.
 
 ## 11. Acceptance
 
-| party | role | sign / date |
-|---|---|---|
-| PT Cyber Valley Estate | company | |
-| Commissioners | strategic gate | |
-| Founders (DS / AV) | option sellers | |
-| President Director | offer | |
+Signed at Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, on ______________ 2026.
+
+The Company is represented by the President Commissioner, the President Director being the counterparty to this document. Each person signs in every capacity stated against their name.
+
+| Name | Position | Signs as | Signature and date |
+|---|---|---|---|
+| **DMITRY STARODUBTSEV** | President Commissioner | for and on behalf of PT CYBER VALLEY ESTATE; as holder of the approval right under [§3](#3-strategic-gate-monthly) and [§5](#5-land-and-credit-hard-limits); and in his own name as Founder and seller of shares under [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) and [§7](#7-kpi-ladder-ds-av-10-founders-company-1b) | |
+| **ALISA VOINOVA** | Deputy President Director | as holder of the approval right under [§3](#3-strategic-gate-monthly) and [§5](#5-land-and-credit-hard-limits); and in her own name as Founder and seller of shares under [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) and [§7](#7-kpi-ladder-ds-av-10-founders-company-1b) | |
+| **OLEKSANDR FEDOROV** | President Director | accepting the offer set out in this document | |
 
 Draft until signed.
 

@@ -230,12 +230,16 @@ icon: "🧭"
 
 ## 11. Penerimaan — Acceptance
 
-| pihak / party | peran / role | tanda tangan dan tanggal / sign and date |
-|---|---|---|
-| PT Cyber Valley Estate | perseroan / company | |
-| Komisaris / Commissioners | gerbang strategis / strategic gate | |
-| Pendiri / Founders (DS / AV) | penjual opsi / option sellers | |
-| Direktur Utama / President Director | penawaran / offer | |
+| Bahasa Indonesia | English |
+|---|---|
+| Ditandatangani di Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, pada tanggal ______________ 2026. | Signed at Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, on ______________ 2026. |
+| Perseroan diwakili oleh Komisaris Utama, mengingat Direktur Utama merupakan pihak lawan dalam dokumen ini. Setiap orang menandatangani dalam seluruh kedudukan yang disebutkan di sebelah namanya. | The Company is represented by the President Commissioner, the President Director being the counterparty to this document. Each person signs in every capacity stated against their name. |
+
+| Nama / Name | Jabatan / Position | Bertindak sebagai / Signs as | Tanda tangan dan tanggal / Signature and date |
+|---|---|---|---|
+| **DMITRY STARODUBTSEV** | Komisaris Utama / President Commissioner | untuk dan atas nama PT CYBER VALLEY ESTATE; sebagai pemegang hak persetujuan berdasarkan §3 dan §5; dan atas namanya sendiri sebagai Pendiri dan penjual saham berdasarkan §6 dan §7 / for and on behalf of PT CYBER VALLEY ESTATE; as holder of the approval right under §3 and §5; and in his own name as Founder and seller of shares under §6 and §7 | |
+| **ALISA VOINOVA** | Wakil Direktur Utama / Deputy President Director | sebagai pemegang hak persetujuan berdasarkan §3 dan §5; dan atas namanya sendiri sebagai Pendiri dan penjual saham berdasarkan §6 dan §7 / as holder of the approval right under §3 and §5; and in her own name as Founder and seller of shares under §6 and §7 | |
+| **OLEKSANDR FEDOROV** | Direktur Utama / President Director | menerima penawaran sebagaimana diatur dalam dokumen ini / accepting the offer set out in this document | |
 
 | Bahasa Indonesia | English |
 |---|---|
