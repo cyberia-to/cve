@@ -15,6 +15,7 @@ import argparse
 import datetime
 import html
 import os
+import pathlib
 import re
 import subprocess
 import sys
@@ -233,6 +234,11 @@ BROWSERS = [
     "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser",
     "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     "/Applications/Chromium.app/Contents/MacOS/Chromium",
+    r"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe",
+    r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+    r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
+    r"C:\Program Files\Microsoft\Edge\Application\msedge.exe",
+    r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
 ]
 
 
@@ -266,7 +272,7 @@ def main():
         pdf = os.path.join(out, name + ".pdf")
         subprocess.run([exe, "--headless", "--disable-gpu", "--no-pdf-header-footer",
                         "--virtual-time-budget=9000", f"--print-to-pdf={pdf}",
-                        "file://" + html_path],
+                        pathlib.Path(html_path).absolute().as_uri()],
                        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         size = os.path.getsize(pdf) // 1024 if os.path.exists(pdf) else 0
         print(f"{name}.pdf  {size} KB")
