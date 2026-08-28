@@ -12,14 +12,10 @@ Keputusan sirkuler Rapat Umum Pemegang Saham · PT. Cyber Valley Estate · ranca
 
 > The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
 
-| Bahasa Indonesia | English |
-|---|---|
 | **Satu Penutupan (Closing) dengan [[share sale entry]].** Pengangkatan sebagai Direktur Utama dan pembelian **1% (80 saham)** merupakan **satu paket syarat**: **tanpa jual beli saham yang selesai → pengangkatan tidak berlaku; tanpa pengangkatan → jual beli saham tidak selesai.** Syarat komersial jabatan: [[president director]]. | **One closing with [[share sale entry]].** Appointment as President Director and purchase of **1% (80 shares)** are **one condition package**: **no completed share sale → no appointment takes effect; no appointment → share sale does not complete.** Commercial terms of the role: [[president director]]. |
 
 ## Kewenangan — Authority
 
-| Bahasa Indonesia | English |
-|---|---|
 | Berdasarkan Pasal 11 [[articles of association]], RUPS mengangkat anggota Direksi. Keputusan ini dapat diambil melalui persetujuan tertulis sirkuler seluruh pemegang saham (sepanjang diperbolehkan oleh Anggaran Dasar) atau dalam rapat yang diselenggarakan dengan substansi yang sama. | Under [[articles of association]] Article 11, the GMS appoints members of the Board of Directors. This resolution may be adopted by circular written consent of all shareholders (where the Articles allow) or in a convened meeting with the same substance. |
 
 ## Para Pihak dalam Daftar Pemegang Saham (sebelum Penutupan) — Parties on the register (before closing)
@@ -36,14 +32,10 @@ Keputusan sirkuler Rapat Umum Pemegang Saham · PT. Cyber Valley Estate · ranca
 | Dmitry Starodubtsev | 4,020 |
 | **Total** | **8,040** |
 
-| Bahasa Indonesia | English |
-|---|---|
 | Angka-angka harus sesuai dengan buku daftar saham yang telah ditandatangani dan mukadimah [[shareholders agreement]] pada saat penandatanganan. | Numbers to match the executed share ledger and [[shareholders agreement]] preamble at signing. |
 
 ## Keputusan — Resolutions
 
-| Bahasa Indonesia | English |
-|---|---|
 | Para Pemegang Saham memutuskan sebagai berikut: | The Shareholders resolve as follows: |
 | **3.1 Susunan Direksi (bersyarat).** Berlaku hanya pada saat Penutupan berdasarkan [§4](#4-closing-single-condition-package): | **3.1 Board composition (conditional).** Effective only upon Closing under [§4](#4-closing-single-condition-package): |
 | **Oleksandr Fedorov**: diangkat sebagai **Direktur Utama** untuk masa jabatan menurut Anggaran Dasar | **Oleksandr Fedorov**: appointed **President Director** for the term under the Articles |
@@ -58,8 +50,6 @@ Keputusan sirkuler Rapat Umum Pemegang Saham · PT. Cyber Valley Estate · ranca
 
 ## Penutupan — satu paket syarat — Closing — single condition package
 
-| Bahasa Indonesia | English |
-|---|---|
 | **Penutupan** terjadi apabila **seluruh** hal berikut telah terjadi (atau ditandatangani dan diberi tanggal pada hari yang sama untuk pertukaran serentak): | **Closing** occurs when **all** of the following have happened (or are signed and dated the same day for simultaneous exchange): |
 
 | # | instrumen | akibat |
@@ -76,16 +66,12 @@ Keputusan sirkuler Rapat Umum Pemegang Saham · PT. Cyber Valley Estate · ranca
 | C | Share register updated | buyer registered as shareholder |
 | D | President Director accepts office in writing | offices begin |
 
-| Bahasa Indonesia | English |
-|---|---|
 | **Apabila B gagal** (tidak ada pembelian / tidak ada pembayaran / tidak ada pendaftaran) → **A tidak berlaku**; tidak ada pengangkatan, susunan Direksi tetap sebagaimana adanya. | **If B fails** (no purchase / no payment / no registration) → **A does not take effect**; no appointment, board seats stay as they are. |
 | **Apabila A gagal** → **B tidak selesai**; saham tetap pada penjual. | **If A fails** → **B does not complete**; shares stay with seller. |
 | Tidak ada pihak yang dapat menuntut pelaksanaan yang satu tanpa yang lain. | Neither side may demand performance of one without the other. |
 
 ## Para Penanda Tangan (RUPS) — Signatories (GMS)
 
-| Bahasa Indonesia | English |
-|---|---|
 | Alisa Voinova: pemegang saham / Direktur (sampai Penutupan); Wakil Direktur Utama sejak Penutupan | Alisa Voinova: shareholder / Director (until Closing); Deputy President Director from Closing |
 | Dmitry Starodubtsev: pemegang saham / Komisaris Utama | Dmitry Starodubtsev: shareholder / President Commissioner |
 | Oleksandr Fedorov: menerima jabatan Direktur Utama **hanya pada Penutupan** | Oleksandr Fedorov: accepts the office of President Director **at Closing only** |

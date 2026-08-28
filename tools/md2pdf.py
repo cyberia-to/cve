@@ -132,8 +132,12 @@ def inline(t):
 
 
 def row(line):
-    cells = [c.strip() for c in line.strip().strip('|').split('|')]
-    return cells
+    s = line.strip()
+    if s.startswith('|'):
+        s = s[1:]
+    if s.endswith('|') and not s.endswith('\\|'):
+        s = s[:-1]
+    return [c.strip().replace('\\|', '|') for c in re.split(r'(?<!\\)\|', s)]
 
 def convert(md):
     md = re.sub(r'^---\n.*?\n---\n', '', md, flags=re.S)           # frontmatter

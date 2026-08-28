@@ -14,36 +14,26 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 1 — Nama dan Tempat Kedudukan
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Perseroan Terbatas ini bernama PT. CYBER VALLEY ESTATE (selanjutnya dalam Anggaran Dasar ini cukup disingkat dengan "Perseroan"), berkedudukan di Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Provinsi Bali. | 1. This limited liability company is named PT. CYBER VALLEY ESTATE (hereinafter referred to as the "Company"), domiciled in Gesing Village, Banjar District, Buleleng Regency, Bali Province. |
 | 2. Perseroan dapat membuka kantor cabang atau kantor perwakilan, baik di dalam maupun di luar wilayah Republik Indonesia, sebagaimana ditetapkan oleh Direksi. | 2. The Company may open branch or representative offices, both within and outside the territory of the Republic of Indonesia, as determined by the Board of Directors. |
 
 ## Pasal 2 — Jangka Waktu Berdirinya Perseroan
 
-| Bahasa Indonesia | English |
-|---|---|
 | Perseroan didirikan untuk jangka waktu yang tidak terbatas. | The Company is established for an unlimited period of time. |
 
 ## Pasal 3 — Maksud dan Tujuan Serta Kegiatan Usaha
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Maksud dan tujuan Perseroan ialah: a. Real Estat Yang Dimiliki Sendiri Atau Disewa (KBLI 68111); b. Real Estat Atas Dasar Balas Jasa (Fee) Atau Kontrak (KBLI 68200); c. Penyediaan Akomodasi Jangka Pendek Lainnya (KBLI 55199); d. Restoran (KBLI 56101); e. Aktivitas SPA (Sante Par Aqua) (KBLI 96122); f. Jasa Penyelenggara Event Khusus (Special Event) (KBLI 82302); g. Bumi Perkemahan, Persinggahan Karavan dan Taman Karavan (KBLI 55192); h. Aktivitas Hiburan dan Rekreasi Lainnya Ytdl (KBLI 93299). | 1. The purpose and objectives of the Company are: a. Real estate owned or leased (KBLI 68111); b. Real estate on a fee or contract basis (KBLI 68200); c. Other short-term accommodation (KBLI 55199); d. Restaurant (KBLI 56101); e. SPA activities (Sante Par Aqua) (KBLI 96122); f. Special event organiser services (KBLI 82302); g. Campgrounds, caravan stops and caravan parks (KBLI 55192); h. Other amusement and recreation activities n.e.c. (KBLI 93299). |
 | 2. Untuk mencapai maksud dan tujuan tersebut, Perseroan melaksanakan kegiatan usaha sesuai uraian masing-masing KBLI sebagaimana dimuat dalam Akta Pernyataan Keputusan Rapat No. 02 tanggal 01-07-2025. | 2. To achieve the above purpose and objectives, the Company carries out business activities in accordance with the description of each KBLI as set out in Deed of Meeting Resolutions No. 02 dated 1 July 2025. |
 
 ## Pasal 4 — Modal
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Modal dasar Perseroan berjumlah Rp 20.100.000.000,00 (dua puluh miliar seratus juta rupiah), terbagi atas 8.040 (delapan ribu empat puluh) lembar saham, masing-masing saham bernilai nominal Rp 2.500.000,00 (dua juta lima ratus ribu rupiah). | 1. The authorised capital of the Company is Rp 20,100,000,000.00 (twenty billion one hundred million Rupiah), divided into 8,040 (eight thousand and forty) shares, each with a nominal value of Rp 2,500,000.00 (two million five hundred thousand Rupiah). |
 | 2. Dari modal dasar tersebut telah ditempatkan dan disetor penuh sebesar 100% (seratus persen) atau sejumlah 8.040 (delapan ribu empat puluh) lembar saham dengan nilai nominal seluruhnya sebesar Rp 20.100.000.000,00 oleh para pemegang saham. | 2. Of the authorised capital, 100% (one hundred percent), being 8,040 shares with an aggregate nominal value of Rp 20,100,000,000.00, has been issued and fully paid by the shareholders. |
 | 3. Saham-saham yang masih dalam simpanan akan dikeluarkan oleh Perseroan menurut keperluan modal Perseroan, dengan persetujuan Rapat Umum Pemegang Saham. Para pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham mempunyai hak terlebih dahulu untuk mengambil bagian atas saham yang hendak dikeluarkan itu dalam jangka waktu 14 (empatbelas) hari sejak tanggal penawaran dilakukan, seimbang (proporsional) baik terhadap saham yang menjadi bagiannya maupun terhadap sisa saham yang tidak diambil oleh pemegang saham lainnya. Jika setelah lewat jangka waktu penawaran 14 (empatbelas) hari tersebut, ternyata masih ada sisa saham yang belum diambil bagian maka Direksi berhak menawarkan sisa saham tersebut kepada pihak ketiga. | 3. Shares held in reserve shall be issued according to the Company's capital needs with the approval of the General Meeting of Shareholders (GMS). Shareholders recorded in the Register of Shareholders have a pre-emptive right to subscribe for shares to be issued within 14 (fourteen) days from the offer date, in proportion both to their own entitlement and to any remainder not taken up by the other shareholders. If after that 14 (fourteen) day offer period shares still remain unsubscribed, the Board of Directors may offer the remainder to third parties. |
 
 ## Pasal 5 — Saham
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Semua saham yang dikeluarkan oleh Perseroan adalah saham atas nama. | 1. All shares issued by the Company are registered shares. |
 | 2. Yang boleh memiliki dan mempergunakan hak atas saham adalah orang perorangan dan/atau Badan Hukum yang memenuhi ketentuan peraturan perundang-undangan yang berlaku, termasuk ketentuan penanaman modal (Daftar Prioritas Investasi) yang berlaku bagi kegiatan usaha Perseroan. ⚠ Pernyataan tertulis mengenai keterikatan pemegang saham diatur dalam Perjanjian Pemegang Saham Pasal 5. | 2. Shares may be owned and their rights exercised only by individuals and/or legal entities that satisfy the applicable laws and regulations, including the foreign investment provisions (Investment Priority List) applicable to the Company's business activities. Written accession by a shareholder is governed by [[shareholders agreement]] Article 5. |
 | 3. Bukti pemilikan saham dapat berupa surat saham. Dalam hal Perseroan tidak menerbitkan surat saham, pemilikan saham dapat dibuktikan dengan surat keterangan atau catatan yang dikeluarkan oleh Perseroan. | 3. Evidence of share ownership may take the form of a share certificate. Where the Company does not issue share certificates, ownership may be evidenced by a statement or record issued by the Company. |
@@ -53,8 +43,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 6 — Pengganti Surat Saham
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Jika surat saham rusak atau tidak dapat dipakai, atas permintaan mereka yang berkepentingan Direksi mengeluarkan surat saham pengganti, setelah surat saham yang rusak atau tidak dapat dipakai tersebut diserahkan kembali kepada Direksi. | 1. If a share certificate is damaged or unusable, at the request of the interested party the Board of Directors shall issue a replacement certificate, after the damaged certificate has been returned to the Board of Directors. |
 | 2. Surat saham sebagaimana dimaksud pada ayat (1) harus dimusnahkan dan dibuat berita acara oleh Direksi untuk dilaporkan dalam Rapat Umum Pemegang Saham berikutnya. | 2. The certificate referred to in paragraph (1) shall be destroyed and minutes thereof drawn up by the Board of Directors, to be reported to the next GMS. |
 | 3. Jika surat saham hilang, atas permintaan mereka yang berkepentingan, Direksi mengeluarkan surat saham pengganti setelah menurut pendapat Direksi kehilangan tersebut cukup dibuktikan dan dengan jaminan yang dipandang perlu oleh Direksi untuk tiap peristiwa yang khusus. | 3. If a share certificate is lost, at the request of the interested party the Board of Directors shall issue a replacement after, in the opinion of the Board, the loss has been sufficiently proven, and subject to such security as the Board deems necessary for each particular case. |
@@ -64,8 +52,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 7 — Pemindahan Hak Atas Saham
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Pemindahan hak atas saham harus berdasarkan akta pemindahan hak yang ditandatangani oleh yang memindahkan dan yang menerima pemindahan atau kuasanya yang sah. | 1. A transfer of shares must be based on a deed of transfer signed by the transferor and the transferee or their lawful attorneys. |
 | 2. Akta pemindahan hak sebagaimana dimaksud dalam ayat (1) atau salinannya disampaikan kepada Perseroan. | 2. The deed of transfer referred to in paragraph (1), or a copy thereof, shall be delivered to the Company. |
 | 3. Pemegang saham yang hendak memindahkan hak atas saham harus menawarkan terlebih dahulu kepada pemegang saham lain dengan menyebutkan harga serta persyaratan penjualan dan memberitahukan kepada Direksi secara tertulis tentang penawaran tersebut. | 3. A shareholder intending to transfer shares must first offer them to the other shareholders, stating the price and terms of sale, and notify the Board of Directors in writing of the offer. |
@@ -77,8 +63,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 8 — Rapat Umum Pemegang Saham
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Rapat Umum Pemegang Saham, selanjutnya disebut RUPS, terdiri dari: a. RUPS tahunan; b. RUPS lainnya, yang dalam Anggaran Dasar ini disebut juga RUPS luar biasa. | 1. The General Meeting of Shareholders (GMS) comprises: a. the annual GMS; b. other GMS, referred to in these Articles as extraordinary GMS. |
 | 2. Istilah RUPS dalam Anggaran Dasar ini berarti keduanya, yaitu RUPS tahunan dan RUPS luar biasa, kecuali dengan tegas ditentukan lain. | 2. The term GMS in these Articles means both the annual GMS and the extraordinary GMS, unless expressly provided otherwise. |
 | 3. Dalam RUPS tahunan: a. Direksi menyampaikan laporan tahunan yang telah ditelaah oleh Dewan Komisaris untuk mendapat persetujuan RUPS, dan laporan keuangan untuk mendapat pengesahan; b. ditetapkan penggunaan laba, jika Perseroan mempunyai saldo laba yang positif; c. diputuskan mata acara RUPS lainnya yang telah diajukan sebagaimana mestinya dengan memperhatikan Anggaran Dasar. | 3. At the annual GMS: a. the Board of Directors submits the annual report, as reviewed by the Board of Commissioners, for approval of the GMS, and the financial statements for ratification; b. the application of profit is determined, if the Company has a positive profit balance; c. other agenda items duly submitted are resolved with due observance of these Articles. |
@@ -87,8 +71,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 9 — Tempat, Pemanggilan dan Pimpinan RUPS
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. RUPS diadakan di tempat kedudukan Perseroan atau di tempat lain sebagaimana dipersyaratkan di dalam undang-undang perseroan terbatas. | 1. The GMS is held at the Company's domicile or at another venue as required by the company law. |
 | 2. RUPS diselenggarakan dengan melakukan pemanggilan terlebih dahulu kepada para pemegang saham dengan surat tercatat dan/atau dengan iklan dalam surat kabar. | 2. The GMS is convened by prior notice to the shareholders by registered letter and/or by advertisement in a newspaper. |
 | 3. Pemanggilan dilakukan paling lambat 14 (empat belas) hari sebelum tanggal RUPS diadakan, dengan tidak memperhitungkan tanggal pemanggilan dan tanggal RUPS. | 3. Notice is given no later than 14 (fourteen) days before the date of the GMS, excluding the date of the notice and the date of the meeting. |
@@ -100,8 +82,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 10 — Kuorum, Hak Suara dan Keputusan RUPS
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1.a. RUPS dapat dilangsungkan apabila dihadiri oleh pemegang saham yang mewakili lebih dari 1/2 (satu per dua) bagian dari jumlah seluruh saham dengan hak suara yang sah yang telah dikeluarkan Perseroan, kecuali sebagaimana ditentukan dalam ayat (9). | 1.a. The GMS may proceed if attended by shareholders representing more than one-half of all validly issued voting shares of the Company, except as provided in paragraph (9). |
 | b. Dalam hal kuorum sebagaimana dimaksud dalam ayat (1a) tidak tercapai, maka diadakan pemanggilan rapat kedua. | b. If the quorum referred to in letter a is not reached, a second meeting shall be convened. |
 | c. Pemanggilan rapat kedua harus dilakukan paling lambat 7 (tujuh) hari sebelum rapat diselenggarakan, tidak termasuk tanggal panggilan dan tanggal rapat. | c. Notice of the second meeting is given no later than 7 (seven) days before the meeting, excluding the notice date and the meeting date. |
@@ -119,8 +99,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 11 — Direksi
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Perseroan diurus dan dipimpin oleh Direksi yang terdiri dari anggota Direksi. | 1. The Company is managed and led by the Board of Directors, consisting of its members. |
 | 2. Jika diangkat lebih dari seorang Direktur, maka seorang di antaranya dapat diangkat sebagai Direktur Utama. | 2. If more than one Director is appointed, one of them may be appointed President Director. |
 | 3. Yang boleh diangkat sebagai anggota Direksi hanya orang perorangan yang memenuhi persyaratan peraturan perundang-undangan yang berlaku. | 3. Only individuals who satisfy the requirements of applicable laws and regulations may be appointed members of the Board of Directors. |
@@ -132,8 +110,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 12 — Tugas dan Wewenang Direksi
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Direksi berhak mewakili Perseroan di dalam dan di luar Pengadilan tentang segala hal dan dalam segala kejadian, mengikat Perseroan dengan pihak lain dan pihak lain dengan Perseroan, serta menjalankan segala tindakan baik yang mengenai kepengurusan maupun kepemilikan, dengan pembatasan sebagaimana diatur dalam ayat (3) Pasal ini. | 1. The Board of Directors is entitled to represent the Company in and out of court in all matters and events, to bind the Company to other parties and other parties to the Company, and to perform all acts of both management and ownership, subject to the limitations set out in paragraph (3) of this Article. |
 | ⚠ ☐ *Ditinjau ulang sebelum penandatanganan — belum final.* 2. Direksi berwenang, tanpa persetujuan terlebih dahulu, untuk: a. mengangkat dan memberhentikan karyawan Perseroan serta menetapkan struktur organisasi dan remunerasi; b. membuka, mengoperasikan, dan menutup rekening bank atas nama Perseroan; c. menandatangani perjanjian sewa dan perjanjian pengalihan hak atas tanah dalam lingkup kegiatan usaha KBLI 68111 dan 68200, dengan tunduk pada ayat (3); d. menjalankan kegiatan operasional sehari-hari Perseroan. | 2. ☐ *For review before signing — not yet a settled clause.* The Board of Directors is authorised, without prior approval, to: a. hire and dismiss employees of the Company and determine the organisational structure and remuneration; b. open, operate and close bank accounts in the name of the Company; c. sign lease agreements and agreements transferring land rights within the scope of business activities KBLI 68111 and 68200, subject to paragraph (3); d. conduct the day-to-day operations of the Company. |
 | ⚠ 3. Perseroan tidak meminjam uang atau memperoleh fasilitas kredit dalam bentuk apapun, dan tidak menggadaikan, membebani dengan hak tanggungan, atau memberikan jaminan atas hartanya — termasuk tanah dan hak atas tanah apapun (antara lain Hak Guna Bangunan dan Hak Pakai) — dalam bentuk apapun. Hal-hal tersebut dilarang menurut sifat Perseroan, bukan sekadar tunduk pada persetujuan. Pendirian usaha baru atau penyertaan pada perusahaan lain, baik di dalam maupun di luar negeri, hanya dapat dilakukan oleh Direksi dengan persetujuan tertulis terlebih dahulu dari Dewan Komisaris. | 3. The Company does not borrow money or obtain credit facilities in any form, and does not pledge, collateralise, encumber with security title (hak tanggungan) or otherwise give as security its assets — including land and any land rights (inter alia Right to Build (HGB) and Right to Use (Hak Pakai)) — in any form. These are prohibited by the nature of the Company, not merely subject to approval. Establishing a new business or participating in another company, whether domestic or foreign, may be performed by the Board of Directors only with the prior written approval of the Board of Commissioners. |
@@ -141,8 +117,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 13 — Rapat Direksi
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Penyelenggaraan Rapat Direksi dapat dilakukan setiap waktu apabila dipandang perlu: a. oleh seorang atau lebih anggota Direksi; b. atas permintaan tertulis dari seorang atau lebih anggota Dewan Komisaris; atau c. atas permintaan tertulis dari 1 (satu) orang atau lebih pemegang saham yang bersama-sama mewakili 1/10 (satu per sepuluh) atau lebih dari jumlah seluruh saham dengan hak suara. | 1. A Meeting of the Board of Directors may be held at any time when deemed necessary: a. by one or more members of the Board of Directors; b. at the written request of one or more members of the Board of Commissioners; or c. at the written request of one or more shareholders jointly representing one-tenth or more of all voting shares. |
 | 2. Panggilan Rapat Direksi dilakukan oleh anggota Direksi yang berhak bertindak untuk dan atas nama Direksi. | 2. Notice of the meeting is given by a member of the Board of Directors entitled to act for and on behalf of the Board. |
 | 3. Panggilan Rapat Direksi disampaikan dengan surat tercatat atau surat yang disampaikan langsung dengan tanda terima, paling lambat 3 (tiga) hari sebelum rapat diadakan, tidak termasuk tanggal panggilan dan tanggal rapat. | 3. Notice is delivered by registered letter or by letter delivered directly against receipt, no later than 3 (three) days before the meeting, excluding the notice date and the meeting date. |
@@ -158,8 +132,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 14 — Dewan Komisaris
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Dewan Komisaris terdiri dari 1 (satu) orang atau lebih anggota Dewan Komisaris; apabila diangkat lebih dari seorang anggota, maka seorang di antaranya dapat diangkat sebagai Komisaris Utama. | 1. The Board of Commissioners consists of one or more members. If more than one member is appointed, one of them may be appointed President Commissioner. |
 | 2. Yang boleh diangkat sebagai anggota Dewan Komisaris hanya orang perorangan yang memenuhi persyaratan peraturan perundang-undangan yang berlaku. | 2. Only individuals who satisfy the requirements of applicable laws and regulations may be appointed members of the Board of Commissioners. |
 | 3. Anggota Dewan Komisaris diangkat oleh Rapat Umum Pemegang Saham untuk jangka waktu 5 (lima) tahun, dengan tidak mengurangi hak RUPS untuk memberhentikannya sewaktu-waktu. | 3. Members of the Board of Commissioners are appointed by the GMS for a term of 5 (five) years, without prejudice to the right of the GMS to dismiss them at any time. |
@@ -169,8 +141,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 15 — Tugas dan Wewenang Dewan Komisaris
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Dewan Komisaris setiap waktu dalam jam kerja kantor Perseroan berhak memasuki bangunan dan halaman atau tempat lain yang dipergunakan atau yang dikuasai oleh Perseroan, dan berhak memeriksa semua pembukuan, surat, dan alat bukti lainnya, memeriksa dan mencocokkan keadaan uang kas dan lain-lain, serta berhak untuk mengetahui segala tindakan yang telah dijalankan oleh Direksi. | 1. The Board of Commissioners may at any time during the Company's office hours enter the buildings, grounds or other places used or controlled by the Company, and may examine all books, documents and other evidence, verify and reconcile the state of cash and other assets, and is entitled to know all actions taken by the Board of Directors. |
 | 2. Direksi dan setiap anggota Direksi wajib memberikan penjelasan tentang segala hal yang ditanyakan oleh Dewan Komisaris. | 2. The Board of Directors and each of its members must provide explanations on all matters raised by the Board of Commissioners. |
 | 3. Apabila seluruh anggota Direksi diberhentikan sementara dan Perseroan tidak mempunyai seorang pun anggota Direksi, maka untuk sementara Dewan Komisaris diwajibkan untuk mengurus Perseroan. Dalam hal demikian, Dewan Komisaris berhak memberikan kekuasaan sementara kepada seorang atau lebih di antara anggota Dewan Komisaris atas tanggungan Dewan Komisaris. | 3. If all members of the Board of Directors are suspended and the Company has no Director, the Board of Commissioners — in the person of the President Commissioner, unless the Board designates another member — is obliged to temporarily manage the Company. In such case the Board of Commissioners may grant temporary authority to one or more of its members, at the responsibility of the Board. |
@@ -178,8 +148,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 16 — Rapat Dewan Komisaris
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Penyelenggaraan Rapat Dewan Komisaris dapat dilakukan setiap waktu apabila dipandang perlu: a. oleh salah seorang atau lebih anggota Dewan Komisaris; b. atas permintaan tertulis dari seorang atau lebih anggota Dewan Komisaris; atau c. atas permintaan tertulis dari 1 (satu) orang atau lebih pemegang saham yang bersama-sama mewakili 1/10 (satu per sepuluh) atau lebih dari jumlah seluruh saham dengan hak suara. | 1. A Meeting of the Board of Commissioners may be held at any time when deemed necessary: a. by one or more of its members; b. at the written request of one or more of its members; or c. at the written request of one or more shareholders jointly representing one-tenth or more of all voting shares. |
 | 2. Panggilan Rapat Dewan Komisaris dilakukan oleh Komisaris Utama; apabila Komisaris Utama berhalangan, anggota Dewan Komisaris lain berhak melakukan panggilan rapat berdasarkan kuasa dari Komisaris Utama. | 2. Notice of the meeting is given by the President Commissioner; if the President Commissioner is unavailable, another member may give notice under authority from the President Commissioner. |
 | 3. Panggilan Rapat Dewan Komisaris disampaikan dengan surat tercatat atau surat yang disampaikan langsung dengan tanda terima, paling lambat 3 (tiga) hari sebelum rapat diadakan, tidak termasuk tanggal rapat. | 3. Notice is delivered by registered letter or by letter delivered directly against receipt, no later than 3 (three) days before the meeting, excluding the meeting date. |
@@ -195,8 +163,6 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 17 — Rencana Kerja, Tahun Buku dan Laporan Tahunan
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Direksi menyampaikan rencana kerja, termasuk anggaran tahunan Perseroan, kepada Dewan Komisaris untuk mendapat persetujuan, sebelum tahun buku dimulai. | 1. The Board of Directors submits a work plan, including the Company's annual budget, to the Board of Commissioners for approval before the financial year begins. |
 | 2. Rencana kerja sebagaimana dimaksud pada ayat (1) harus disampaikan paling lambat 14 (empat belas) hari sebelum dimulainya tahun buku yang akan datang. | 2. The work plan referred to in paragraph (1) must be submitted no later than 14 (fourteen) days before the start of the coming financial year. |
 | 3. Tahun buku Perseroan berjalan dari tanggal 1 Januari sampai dengan tanggal 31 Desember. Pada akhir bulan Desember tiap tahun, buku Perseroan ditutup. | 3. The Company's financial year runs from 1 January to 31 December. At the end of December of each year the Company's books are closed. |
@@ -204,22 +170,16 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 18 — Penggunaan Laba dan Pembagian Dividen
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Laba bersih Perseroan dalam suatu tahun buku sebagaimana tercantum dalam neraca dan perhitungan laba rugi yang telah disahkan oleh RUPS tahunan, dan merupakan saldo laba yang positif, dibagi menurut cara penggunaannya yang ditentukan oleh RUPS tersebut, setelah penyisihan cadangan wajib menurut Pasal 19 Anggaran Dasar ini. | 1. The Company's net profit in a financial year, as shown in the balance sheet and profit and loss account ratified by the annual GMS and constituting a positive profit balance, is applied in the manner determined by that GMS, after the allocation to the statutory reserve under Article 19 of these Articles. |
 | 2. Jika perhitungan laba rugi pada suatu tahun buku menunjukkan kerugian yang tidak dapat ditutup dengan dana cadangan, maka kerugian itu akan tetap dicatat dan dimasukkan dalam perhitungan laba rugi, dan dalam tahun buku selanjutnya Perseroan dianggap tidak mendapat laba selama kerugian yang tercatat itu belum sama sekali tertutup. | 2. If the profit and loss account for a financial year shows a loss that cannot be covered by the reserve fund, the loss shall remain recorded in the profit and loss account, and in subsequent financial years the Company shall be deemed to have made no profit until the loss is covered. |
 | ⚠ Dividen interim, kadensinya, dan mekanisme pembayarannya diatur dalam Perjanjian Pemegang Saham Pasal 4, dalam batas yang ditetapkan oleh Pasal 72 Undang-Undang Nomor 40 Tahun 2007. | Interim dividends, their cadence and the mechanics of payment are governed by [[shareholders agreement]] Article 4, within the limit UU 40/2007 Pasal 72 sets. |
 
 ## Pasal 19 — Penggunaan Cadangan
 
-| Bahasa Indonesia | English |
-|---|---|
 | 1. Penyisihan laba bersih untuk cadangan dilakukan sampai mencapai 20% (dua puluh persen) dari jumlah modal yang ditempatkan dan disetor, dan hanya boleh dipergunakan untuk menutupi kerugian yang tidak dipenuhi oleh cadangan lain. | 1. Net profit is set aside as reserves until they reach 20% (twenty percent) of the issued and paid-up capital, and may only be used to cover losses not met by other reserves. |
 | 2. Jika jumlah cadangan telah melebihi jumlah 20% (dua puluh persen), RUPS dapat memutuskan agar jumlah kelebihan tersebut digunakan bagi keperluan Perseroan. | 2. If the reserves exceed 20% (twenty percent), the GMS may resolve that the excess be used for the needs of the Company. |
 | 3. Cadangan sebagaimana dimaksud pada ayat (1) yang belum dipergunakan untuk menutup kerugian, dan kelebihan cadangan sebagaimana dimaksud pada ayat (2) yang penggunaannya belum ditentukan oleh RUPS, harus dikelola oleh Direksi dengan cara yang tepat menurut pertimbangan Direksi, setelah memperoleh persetujuan Dewan Komisaris dan memperhatikan peraturan perundang-undangan, agar memperoleh laba. | 3. Reserves referred to in paragraph (1) not yet used to cover losses, and the excess reserves referred to in paragraph (2) whose use has not been determined by the GMS, shall be managed by the Board of Directors in an appropriate manner in its judgment, after obtaining the approval of the Board of Commissioners and with due observance of laws and regulations, so as to generate profit. |
 
 ## Pasal 20 — Ketentuan Penutup
 
-| Bahasa Indonesia | English |
-|---|---|
 | Segala sesuatu yang tidak atau belum cukup diatur dalam Anggaran Dasar ini akan diputus dalam RUPS. | Anything not or insufficiently regulated in these Articles of Association shall be resolved by the GMS. |
