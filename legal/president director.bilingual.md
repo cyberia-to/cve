@@ -97,6 +97,7 @@ icon: "🧭"
 | **Kas**: `0.90 × step × val` | **Cash**: `0.90 × step × val` |
 | **Seed (1% @ $4M):** tanpa bagian PD · kas = `1% × val` · bukan penjualan PD. | **Seed (1% @ $4M):** no PD cut · cash = `1% × val` · not a PD sale. |
 | **Penjualan PD pertama:** **10%** kum. @ **$10M**. | **First PD sale:** **10%** cum. @ **$10M**. |
+| **Dibayar per transaksi, bukan per ambang.** Imbalan diselesaikan pada setiap closing: setiap penjualan yang memenuhi syarat mengalihkan **10% dari ekuitas yang terjual** kepada PD pada closing itu juga, pro-rata di dalam langkahnya. Baris-baris tangga menetapkan batas bawah valuasi setiap pita — **bukan** gerbang yang menunda pembayaran. | **Paid per deal, not per threshold.** The fee settles at each closing: every qualifying sale transfers **10% of the equity sold** to the PD at that same closing, pro-rata within the step. The ladder rows set the valuation floor pricing each band — **not** gates the fee waits for. |
 
 ### Sasaran tangan — Target hands
 
