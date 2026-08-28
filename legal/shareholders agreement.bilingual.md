@@ -97,6 +97,20 @@ CVE/SHA/2026-01 · 14 Agustus 2026
 | 1. Perjanjian ini berlaku setelah ditandatangani oleh seluruh Pemegang Saham dan terus mengikat setiap penerima pengalihan saham yang telah menyatakan keterikatan berdasarkan Pasal 5 Perjanjian ini. | 1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee of shares who has acceded to it under Article 5 of this Agreement. |
 | 2. Perjanjian ini diatur oleh hukum Republik Indonesia. | 2. This Agreement is governed by the laws of the Republic of Indonesia. |
 
+## Adendum 1 — Pembaruan Paspor (Oleksandr Fedorov)
+
+Adendum bertanggal 28 Agustus 2026 atas CVE/SHA/2026-01, dibuat untuk menjaga identifikasi seorang Pemegang Saham tetap terkini seiring pembaruan dokumen identitasnya.
+
+| Bahasa Indonesia | English |
+|---|---|
+| 1. Oleksandr Fedorov, seorang Pemegang Saham berdasarkan Perjanjian ini, menyatakan keterikatannya pada Perjanjian ini dan pada [[entry payment side letter]] dengan memegang paspor Ukraina No. FY773280. | 1. Oleksandr Fedorov, a Shareholder under this Agreement, acceded to it, and to the Entry Payment Side Letter, holding Ukrainian passport No. FY773280. |
+| 2. Paspor tersebut telah kehabisan halaman dan sedang diganti. Oleksandr Fedorov saat ini juga memegang paspor Ukraina No. UA338052, berlaku hingga 10 Desember 2036. | 2. That passport is running out of pages and is being replaced. Oleksandr Fedorov now additionally holds Ukrainian passport No. UA338052, expiring 10 December 2036. |
+| 3. Adendum ini mencatat paspor baru tersebut sebagai identifikasi lanjutan atas orang perseorangan dan Pemegang Saham yang sama sebagaimana dimaksud dalam ketentuan Para Pihak di atas dan dalam Entry Payment Side Letter berdasarkan paspor No. FY773280. Adendum ini tidak mengubah saham, jabatan, atau hak dan kewajiban Oleksandr Fedorov berdasarkan Perjanjian ini. | 3. This Addendum records the new passport as continuing identification of the same natural person and Shareholder identified in the Parties clause above and in the Entry Payment Side Letter under passport No. FY773280. It effects no change to Oleksandr Fedorov's shares, office, or rights and obligations under this Agreement. |
+
+| party | office |
+|---|---|
+| Oleksandr Fedorov | calon Direktur Utama / President Director (designate) |
+
 ## Para Penanda Tangan — Signatories
 
 | party | office |
