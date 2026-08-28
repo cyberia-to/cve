@@ -109,36 +109,46 @@ Options ≠ KPI ladder ([§7](#7-kpi-ladder-ds-av-10-founders-company-1b)). Pers
 
 ## 7. KPI ladder — DS + AV → ~10% founders · company → **$1B**
 
-### Counts
+**The deal in one line: the President Director receives 10% of every
+founder-share sale closed on this ladder — in equity, step by step, up
+to ~8.9% cumulative at the top.**
 
-| counts | does not |
+The ladder tracks one thing: founders (DS + AV) selling down to a ~10%
+residual at ever-higher valuations, up to a $1B company. Nothing else
+counts as success.
+
+### What counts as a step
+
+| counts | does not count |
 |---|---|
-| Sale/transfer of **DS** and **AV** at real price | Free print of other share classes |
-| Cash + valuation on those sales | Cash-out theatre without third-party price |
-| | Capital raise that does not move DS/AV on this ladder |
+| sale/transfer of **DS + AV** equity at a real, third-party price | free print of other share classes |
+| cash and valuation on those sales | cash-out theatre without a third-party price |
+| | a capital raise that does not move DS/AV equity |
 
-### Package split (every step **except seed**)
+### How every step splits
 
-| | |
+Each `step` of equity leaves the founders as one package:
+
+| slice | who | what for |
+|---|---|---|
+| **10% × step** | **PD**, in equity | his fee for closing the step — the "10% of the sale" |
+| **90% × step** | buyers | cash to founders: `0.90 × step × val` |
+
+Two special cases:
+
+- **Seed (1% @ $4M)** — the PD's own entry purchase, not a ladder sale: no 10% fee, cash = `1% × val`
+- **First ladder step** — 1% → **10% cumulative @ $10M**: the PD's fee starts here (0.90%)
+
+### Where the equity ends up
+
+| block | holder |
 |---|---|
-| **Package** | `step` of company equity leaving founders |
-| **PD** | **10% × step** (equity) |
-| **Buyers** | **90% × step** (pay cash) |
-| **Cash** | `0.90 × step × val` |
+| package 1 | Indonesian holders |
+| package 2 | foreign / Cyberia holding |
+| residual ~10% | founders |
+| ladder ~**8.9%** + options ≤10% @ $4M ([§6](#6-options-up-to-10-at-4m-sale-from-founders-only)) | **PD** — both come out of the ~90% of the company that leaves the founders, **never on top of it** |
 
-**Seed (1% @ $4M):** no PD cut · cash = `1% × val` · not a PD sale.  
-**First PD sale:** **10%** cum. @ **$10M**.
-
-### Target hands
-
-| block | |
-|---|---|
-| Package 1 | Indonesian holders |
-| Package 2 | Foreign / Cyberia holding |
-| Residual ~10% | Founders |
-| PD | ladder ~**8.9%** + options ≤10% @ $4M from founders — **both inside the 90% that leaves founders, never on top of it** |
-
-### Table
+### The ladder
 
 | sold cum. | step | val (USD) | PD step | PD cum. | cash step (USD) |
 |---:|---:|---:|---:|---:|---:|
@@ -153,8 +163,10 @@ Options ≠ KPI ladder ([§7](#7-kpi-ladder-ds-av-10-founders-company-1b)). Pers
 | **80%** | 10% | **500,000,000** | **1.00%** | **7.90%** | **45,000,000** |
 | **90%** | 10% | **1,000,000,000** | **1.00%** | **8.90%** | **90,000,000** |
 
-Miss the val floor → step does not count (unless founders waive in writing).  
-Between rows: log-interpolate val.
+Two mechanics:
+
+- a sale below the valuation floor does **not** count as a step, unless the founders waive the floor in writing
+- between rows, the valuation floor is log-interpolated
 
 ---
 
