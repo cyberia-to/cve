@@ -269,7 +269,7 @@ Draft until signed.
 | | |
 |---|---|
 | **Governing law** | Republic of Indonesia — same as [[articles of association]] and [[shareholders agreement]] |
-| **Disputes** | Good-faith negotiation first; unresolved after 30 days → arbitration under [[bani|BANI]] rules, seat Bali, in English |
+| **Disputes** | Good-faith negotiation first; unresolved after 30 days → arbitration under [[bani|BANI]] rules, seat Bali, in English, and the Denpasar District Court (Pengadilan Negeri Denpasar) for enforcement of the award and for interim relief |
 
 ---
 

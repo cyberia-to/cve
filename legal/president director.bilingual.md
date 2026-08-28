@@ -208,7 +208,7 @@ icon: "🧭"
 ## 12. Hukum dan Sengketa — Law & disputes
 
 | **Hukum yang mengatur**: Republik Indonesia — sama dengan [[articles of association]] (Anggaran Dasar) dan [[shareholders agreement]] (Perjanjian Pemegang Saham) | **Governing law**: Republic of Indonesia — same as [[articles of association]] and [[shareholders agreement]] |
-| **Sengketa**: perundingan dengan itikad baik terlebih dahulu; tidak terselesaikan setelah 30 hari → arbitrase berdasarkan aturan [[bani\|BANI]], berkedudukan di Bali, dalam bahasa Inggris | **Disputes**: Good-faith negotiation first; unresolved after 30 days → arbitration under [[bani\|BANI]] rules, seat Bali, in English |
+| **Sengketa**: perundingan dengan itikad baik terlebih dahulu; tidak terselesaikan setelah 30 hari → arbitrase berdasarkan aturan [[bani\|BANI]], berkedudukan di Bali, dalam bahasa Inggris, dan Pengadilan Negeri Denpasar untuk pelaksanaan putusan serta tindakan sementara | **Disputes**: Good-faith negotiation first; unresolved after 30 days → arbitration under [[bani\|BANI]] rules, seat Bali, in English, and the Denpasar District Court (Pengadilan Negeri Denpasar) for enforcement of the award and for interim relief |
 
 ## 13. Tanggung jawab pra-pengangkatan — Pre-appointment liability
 
