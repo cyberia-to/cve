@@ -283,7 +283,7 @@ multi-page indemnification.
 
 | | |
 |---|---|
-| **Shield** | PD bears no contractual liability to the Company or Shareholders for acts, obligations, breaches or facts arising **before** the date of appointment, unless PD personally participated in them |
+| **Shield** | PD bears no contractual liability to the Company or Shareholders for acts, obligations, breaches or facts arising **before** the date of appointment |
 | **Basis** | Company and Shareholders confirm disclosure to PD of all known material debts, contracts (incl. MoUs, side letters, material oral arrangements), guarantees, judicial/administrative proceedings, tax exposure, land encumbrances, related-party arrangements and other liabilities as of the appointment date |
 
 ---
