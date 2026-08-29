@@ -146,7 +146,7 @@ Right of first refusal exists only in Wave 1 and only until the build obligation
 
 The Holder elects the channel. Both settle in IDR at JISDOR on the invoice date; where the marketplace quotes in another unit, that unit is a unit of account and not the means of payment ([[uu 7-2011 mata uang|UU 7/2011]]). Horizon and use remain gated by the Design Code: a day market and a month-long camp are different permitted uses. Definition of revenue, the certification and review cycle for net-exporter status, reporting cadence, audit rights and consequences of understatement are set out in Annex G.
 
-2.7 Plot as a single unit (per aversionem / ad corpus). ⚠ The Plot is leased as one contiguous parcel defined by its boundaries, not by a certified area number.
+2.7 Plot as a single unit ([[per aversionem lineage|per aversionem]] / ad corpus). ⚠ The Plot is leased as one contiguous parcel defined by its boundaries, not by a certified area number.
 
 *Working English formulation (final wording through the notary):*
 
