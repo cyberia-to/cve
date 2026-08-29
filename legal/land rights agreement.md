@@ -484,7 +484,7 @@ Compliance with *awig-awig* of the *desa adat*, the *banjar* and *subak* arrange
 
 ## 11. Dispute resolution
 
-Governing law: Indonesian. Escalation: negotiation → mediation → [BANI arbitration in Jakarta/Denpasar, in English and Indonesian / District Court of Singaraja, whose jurisdiction covers the Company's domicile under Articles of Association Pasal 1]. Language of proceedings. Interim relief.
+Governing law: Indonesian. Escalation: negotiation → mediation → [[bani|BANI]] arbitration in Denpasar, in English and Indonesian, or the District Court of Denpasar (Pengadilan Negeri Denpasar) — the forum chosen throughout the pack, in preference to the District Court of Singaraja that covers the Company's domicile under Articles of Association Pasal 1. Language of proceedings. Interim relief.
 
 ## 12. Taxes, currency and costs
 

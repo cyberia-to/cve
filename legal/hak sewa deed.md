@@ -549,7 +549,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 17.2 Adat, subak and desa. ▲ ⚠ Compliance with the *awig-awig* of the *desa adat*, the *banjar* and *subak* arrangements affecting the Estate; ceremonial access and processional routes; customary contributions expected of residents; and their interaction with the Design Code. On Bali customary law binds land use in practice regardless of the certificate, and a deed silent on it transfers an unpriced risk to the Holder.
 
-17.3 Disputes. ○ Governing law Indonesian. Escalation: negotiation, then mediation, then [[bani|BANI]] arbitration in Denpasar in English and Indonesian, or the District Court of Singaraja whose jurisdiction covers the Company's domicile under Pasal 1. The forum is chosen before execution. Language of proceedings and interim relief stated expressly.
+17.3 Disputes. Governing law Indonesian. Escalation: negotiation, then mediation, then [[bani|BANI]] arbitration in Denpasar in English and Indonesian, or the District Court of Denpasar (Pengadilan Negeri Denpasar) — the forum chosen throughout the pack, in preference to the District Court of Singaraja that covers the Company's domicile under Pasal 1. Language of proceedings and interim relief stated expressly.
 
 ---
 
