@@ -8,19 +8,13 @@ icon: "🤝"
 ---
 # Pembayaran Masuk — Surat Tambahan (Side Letter) antara Voinova dan Fedorov / Entry Payment — Side Letter between Voinova and Fedorov
 
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
-
 ## Kedudukan — Status
 
-| Bahasa Indonesia | English |
-|---|---|
 | Perjanjian pribadi antara dua orang perseorangan · bukan dokumen korporasi · tidak didaftarkan pada instansi manapun · rancangan | Private agreement between two individuals · not a corporate document · not filed with any authority · draft |
 | Pendamping dari [[share sale entry]] (akta notariil). Surat ini mencatat pembayaran yang benar-benar dilakukan antara para pihak untuk saham masuk — suatu tanda terima yang menetapkan harga sebenarnya di balik pernyataan dalam akta. Tidak ada beban apa pun yang melekat pada saham itu sendiri: saham tersebut sepenuhnya milik Pembeli, dan tidak timbul kewajiban pengembalian pembayaran atau pengalihan kembali pada setiap pengakhiran ([[president director]] [§8](/cyber-valley/cve/legal/president-director#8-exit) — tanpa buyout, tanpa buyback). | Companion to [[share sale entry]] (the notarial deed). This letter records the payment actually made between the parties for the entry stake — a receipt fixing the real price behind the deed's recital. Nothing attaches to the shares themselves: they are the Buyer's outright, and no repayment or re-transfer arises on any exit ([[president director]] [§8](/cyber-valley/cve/legal/president-director#8-exit) — no buyout, no buyback). |
 
 ## Naskah Operasional — Operative Text
 
-| Bahasa Indonesia | English |
-|---|---|
 | **SURAT TAMBAHAN — TANDA TERIMA PEMBAYARAN MASUK** | **SIDE LETTER — ENTRY PAYMENT RECEIPT** |
 | Surat ini dibuat pada tanggal __________ antara: | This letter is made on __________ between: |
 | **Nyonya ALISA VOINOVA**, warga negara Rusia, pemegang paspor Rusia No. 757428208, bertempat tinggal di Rusia ("Penjual"); dan | **ALISA VOINOVA**, Russian citizen, holder of Russian passport No. 757428208, residing in Russia (the "Seller"); and |
@@ -36,6 +30,4 @@ icon: "🤝"
 
 ## Para Pihak dalam Surat Ini — Parties to This Letter
 
-| Bahasa Indonesia | English |
-|---|---|
 | Ditandatangani hanya oleh Alisa Voinova dan Oleksandr Fedorov. Dmitry Starodubtsev bukan merupakan pihak; tanda tangannya berada pada [[preemption waiver letter]], Formulir B, yang melepaskan [[rofr\|ROFR]] atas Saham Masuk. | Signed by Alisa Voinova and Oleksandr Fedorov only. Dmitry Starodubtsev is not a party; his signature belongs on the [[preemption waiver letter]], Form B, waiving the [[rofr\|ROFR]] over the Entry Shares. |

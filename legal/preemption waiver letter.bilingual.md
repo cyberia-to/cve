@@ -8,26 +8,18 @@ icon: "✉️"
 ---
 # Surat Pernyataan Pelepasan Hak untuk Didahulukan / Waiver of Pre-emption — Surat Tambahan (Side Letter)
 
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
-
 ## Kedudukan — Status
 
-| Bahasa Indonesia | English |
-|---|---|
 | Dilampirkan pada akta perubahan [[articles of association]], di luar batang tubuhnya | Annexed to the deed of amendment of the [[articles of association]], outside its body |
 | Kedudukan. Suatu pernyataan tersendiri yang ditandatangani oleh para pemegang saham yang ada dan diserahkan kepada notaris bersama dengan akta perubahan. Pernyataan ini berada di luar Anggaran Dasar: Anggaran Dasar memuat aturan umum, surat ini mengesampingkan aturan itu satu kali, untuk satu tujuan. | Status. A standalone declaration signed by the existing shareholders and handed to the notary together with the amendment. It stays out of the Articles: the Articles carry the general rule, this letter disapplies it once, for one purpose. |
 
 ## Alasan Keberadaan — Why It Exists
 
-| Bahasa Indonesia | English |
-|---|---|
 | Alasan keberadaan. Apabila suatu opsi atas saham dipenuhi dengan penerbitan saham baru, Pasal 4(3) [[articles of association]] memberikan kepada para pemegang saham yang tercatat dalam daftar hak untuk didahulukan dalam mengambil bagian atas saham dalam waktu 14 hari secara proporsional dengan kepemilikan masing-masing. Apabila opsi dipenuhi dengan penjualan, Pasal 7(3)–(4) mewajibkan pemegang saham penjual untuk menawarkan saham tersebut terlebih dahulu kepada pemegang saham lainnya, dengan jangka waktu 3 hari untuk mengambilnya. Salah satu dari kedua hak tersebut, apabila dilaksanakan atas tahap (tranche) yang bersangkutan, akan menyerap saham yang justru dimaksudkan untuk opsi itu, dan opsi akan gagal padahal Anggaran Dasar telah sepenuhnya dipatuhi. | Why it exists. Where an option over shares is satisfied by an issue of new shares, [[articles of association]] Article 4(3) gives shareholders on the register a pre-emptive right to subscribe within 14 days in proportion to their holdings. Where it is satisfied by a sale, Article 7(3)–(4) obliges the selling shareholder to offer the shares to the other shareholder first, with 3 days to take them up. Either right, exercised over the tranche, would absorb the very shares meant for the option, and the option would fail while the Articles were fully observed. |
 | Pernyataan pelepasan hak ini dibatasi menurut tujuannya, bukan menurut jumlah saham. Pernyataan ini mencakup jumlah berapa pun yang ditetapkan oleh keputusan yang menyetujuinya dan tidak menjangkau hal lain apa pun, sehingga surat ini tetap benar pada setiap tahap (tranche) dan tidak memerlukan perubahan setelah tangga opsi ditetapkan. **Opsi Direktur Utama berdasarkan [[president director]] hanya berupa penjualan dari para pendiri** (tanpa penerbitan saham baru untuk paket tersebut); gunakan Formulir B (penjualan) untuk pengalihan tersebut. | The waiver is scoped by purpose rather than by a share count. It covers whatever number the approving resolution sets and reaches nothing else, so the letter stays correct at every tranche and needs no amendment once the ladder is settled. **President Director options under [[president director]] are founder sales only** (no new issue for that package); use Form B (sale) for those transfers. |
 
 ## Formulir A: apabila opsi dipenuhi dengan penerbitan saham baru — Form A: where the option is satisfied by an issue of new shares
 
-| Bahasa Indonesia | English |
-|---|---|
 | SURAT PERNYATAAN PELEPASAN HAK TERLEBIH DAHULU | DECLARATION OF WAIVER OF PRE-EMPTIVE RIGHTS |
 | Yang bertanda tangan di bawah ini: | The undersigned: |
 | 1. ALISA VOINOVA, pemegang 3.940 saham dalam PT. CYBER VALLEY ESTATE; | 1. ALISA VOINOVA, holder of 3,940 shares in PT. CYBER VALLEY ESTATE; |
@@ -38,8 +30,6 @@ icon: "✉️"
 
 ## Formulir B: apabila opsi dipenuhi dengan penjualan dari pemegang saham yang ada — Form B: where the option is satisfied by a sale from an existing shareholder
 
-| Bahasa Indonesia | English |
-|---|---|
 | Ditandatangani oleh pemegang saham yang tidak menjual. Mencakup baik penjualan masuk sebesar 80 saham maupun setiap tahap opsi berikutnya, dibatasi menurut tujuan dan bukan menurut jumlah saham, sehingga satu tanda tangan berlaku untuk seluruh tangga opsi. | Signed by the shareholder who is not selling. Covers both the entry sale of 80 shares and every later option tranche, scoped by purpose rather than by a share count, so one signature serves the whole ladder. |
 | SURAT PERNYATAAN PELEPASAN HAK TERLEBIH DAHULU | DECLARATION OF WAIVER OF THE RIGHT OF FIRST REFUSAL |
 | Yang bertanda tangan di bawah ini: | The undersigned: |
@@ -54,8 +44,6 @@ icon: "✉️"
 
 ## Catatan — Notes
 
-| Bahasa Indonesia | English |
-|---|---|
 | Ditandatangani oleh kedua pemegang saham yang ada berdasarkan Formulir A, karena Pasal 4(3) memberikan hak tersebut kepada masing-masing dari mereka; oleh pemegang saham yang tidak menjual saja berdasarkan Formulir B. | Signed by both existing shareholders under Form A, since Article 4(3) gives the right to each of them; by the non-selling shareholder alone under Form B. |
 | Diserahkan kepada notaris bersama akta perubahan; tidak dituangkan dalam batang tubuh Anggaran Dasar. | Handed to the notary with the amendment; not recited in the body of the Articles. |
 | Dibatasi menurut tujuan, sehingga satu surat berlaku untuk setiap tahap dan tidak diperlukan pernyataan pelepasan hak lebih lanjut di kemudian hari. | Scoped by purpose, so one letter serves every tranche and no further waiver is needed later. |
