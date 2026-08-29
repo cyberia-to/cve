@@ -10,6 +10,10 @@ icon: "📜"
 
 Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07-2025
 
+> Pasal 5(2) dan bagian dividen interim pada Pasal 18 ditandai ⚠ pada kolom Bahasa Indonesia: kedua bagian tersebut baru, dan terjemahan Indonesianya belum ditinjau oleh notaris/konsultan hukum berlisensi Indonesia. Teks bahasa Inggris pada baris yang sama adalah rujukan yang disepakati. Akta notarial adalah instrumen yang mengikat.
+>
+> Article 5(2) and the interim-dividend sentence in Article 18 carry ⚠ on the Indonesian column: both are new text, and their Indonesian wording has not yet been reviewed by Indonesian-licensed counsel or the notary. The English text on the same row is the agreed reference. The notarial deed is the binding instrument.
+
 ## Pasal 1 — Nama dan Tempat Kedudukan
 
 | 1. Perseroan Terbatas ini bernama PT. CYBER VALLEY ESTATE (selanjutnya dalam Anggaran Dasar ini cukup disingkat dengan "Perseroan"), berkedudukan di Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Provinsi Bali. | 1. This limited liability company is named PT. CYBER VALLEY ESTATE (hereinafter referred to as the "Company"), domiciled in Gesing Village, Banjar District, Buleleng Regency, Bali Province. |
@@ -174,7 +178,7 @@ Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07
 
 ## Pasal 19 — Penggunaan Cadangan
 
-| 1. Penyisihan laba bersih untuk cadangan dilakukan sampai mencapai 20% (dua puluh persen) dari jumlah modal yang ditempatkan dan disetor, dan hanya boleh dipergunakan untuk menutupi kerugian yang tidak dipenuhi oleh cadangan lain. | 1. Net profit is set aside as reserves until they reach 20% (twenty percent) of the issued and paid-up capital, and may only be used to cover losses not met by other reserves. |
+| 1. Penyisihan laba bersih untuk cadangan dilakukan sampai mencapai 20% (dua puluh persen) dari jumlah modal yang ditempatkan dan disetor, dan hanya boleh dipergunakan untuk menutupi kerugian yang tidak dipenuhi oleh cadangan lain — Pasal 70 UU 40/2007. | 1. Net profit is set aside as reserves until they reach 20% (twenty percent) of the issued and paid-up capital, and may only be used to cover losses not met by other reserves — [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 70. |
 | 2. Jika jumlah cadangan telah melebihi jumlah 20% (dua puluh persen), RUPS dapat memutuskan agar jumlah kelebihan tersebut digunakan bagi keperluan Perseroan. | 2. If the reserves exceed 20% (twenty percent), the GMS may resolve that the excess be used for the needs of the Company. |
 | 3. Cadangan sebagaimana dimaksud pada ayat (1) yang belum dipergunakan untuk menutup kerugian, dan kelebihan cadangan sebagaimana dimaksud pada ayat (2) yang penggunaannya belum ditentukan oleh RUPS, harus dikelola oleh Direksi dengan cara yang tepat menurut pertimbangan Direksi, setelah memperoleh persetujuan Dewan Komisaris dan memperhatikan peraturan perundang-undangan, agar memperoleh laba. | 3. Reserves referred to in paragraph (1) not yet used to cover losses, and the excess reserves referred to in paragraph (2) whose use has not been determined by the GMS, shall be managed by the Board of Directors in an appropriate manner in its judgment, after obtaining the approval of the Board of Commissioners and with due observance of laws and regulations, so as to generate profit. |
 
