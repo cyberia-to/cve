@@ -258,7 +258,7 @@ glamping at 30% of revenue actually received — is published at
 | | |
 |---|---|
 | **Currency** | whichever currency the funds are actually received in by the Company; payable on receipt |
-| **Survival** | confirmed by [§18](#18-survival-after-departure) — payable in full for any deal signed before the departure date, or any deal actively being worked at the time of departure, regardless of when the money actually arrives |
+| **Survival** | confirmed by [§18](#18-survival-after-departure) — payable in full for any deal signed before the departure date, or offered in writing before it and signed thereafter, regardless of when the money actually arrives |
 | **Reporting** | listed monthly in the [§3 strategic-gate](#3-strategic-gate-monthly) pack for visibility; no commissioner approval needed to pay out — this is a contractual entitlement, not discretionary spend |
 
 Still not in this deal: DevelopmentCo menus, sub-project referral stacks,
@@ -344,5 +344,5 @@ Draft until signed.
 | **Survival** | [§13](#13-pre-appointment-liability) shield and [§14](#14-legal-defence-narrow-indemnification) defence-cost advance continue after PD's departure, for the periods they cover, regardless of when a claim is brought |
 | **Acts in office** | Extends to PD's good-faith acts within authority under [§15](#15-right-to-refuse) while in office, on the same defence-cost-advance basis as [§14](#14-legal-defence-narrow-indemnification) |
 | **[[do|D&O]] cover** | Company maintains directors & officers insurance naming PD, continuing for a tail period after departure |
-| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission under [§10](#10-other-remuneration-commissions-asset-management) survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure, or any deal actively being worked at the time of departure**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
+| **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission under [§10](#10-other-remuneration-commissions-asset-management) survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure, or offered in writing before it and signed thereafter**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
 
