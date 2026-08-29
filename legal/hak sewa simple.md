@@ -9,6 +9,8 @@ icon: "🖋"
 
 d0.2 · the minimal signable lease · draft for counsel and [[ppat|PPAT]]
 
+> **Preliminary — Stage 1 of document preparation complete, 29 August 2026.** Second reading and the fixes that reading turns up are pending.
+
 One page, eight clauses. The unit of account is the
 [[annex e century index|century index]]; rupiah is only the settlement
 currency.

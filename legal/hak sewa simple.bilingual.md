@@ -9,6 +9,8 @@ icon: "🖋"
 
 d0.2 · akta sewa minimal yang dapat ditandatangani / the minimal signable lease · draft for counsel and [[ppat|PPAT]]
 
+> **Preliminary — Stage 1 of document preparation complete, 29 August 2026.** Second reading and the fixes that reading turns up are pending.
+
 ## Kedudukan — Standing
 
 | Satu halaman, delapan pasal. Satuan hitung adalah [[annex e century index\|indeks abad]] (century index); rupiah semata-mata merupakan mata uang penyelesaian pembayaran. | One page, eight clauses. The unit of account is the [[annex e century index\|century index]]; rupiah is only the settlement currency. |
