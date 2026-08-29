@@ -34,11 +34,11 @@ each a "Party" and together the "Parties".
 
 **C.** The Parties intend that the Incoming Director be appointed as a Director by way of a shareholders' resolution (RUPS) and a notarial deed executed before an Indonesian notary in accordance with the Articles and Indonesian company law (the "Appointment Deed").
 
-**D.** In connection with his decision to accept appointment, the Owners have completed a due diligence questionnaire concerning the Company's affairs, its land portfolio and related matters. A true and complete English translation of the Owners' answers is attached as Appendix A (the "Questionnaire").
+**D.** In connection with his decision to accept appointment, the Owners have completed a due diligence questionnaire concerning the Company's affairs, its land portfolio and related matters. A true and complete English translation of the Owners' answers will be attached as Appendix A (the "Questionnaire") under Supplementary Agreement No. 1.
 
-**E.** An independent, document-based audit of the Company's corporate and land records was separately prepared and is attached as Appendix C (the "Audit Report"). The Audit Report identifies matters that appear inconsistent with, additional to, or not addressed by, the Owners' answers in the Questionnaire.
+**E.** An independent, document-based audit of the Company's corporate and land records has been separately prepared and will be attached as Appendix C (the "Audit Report") under Supplementary Agreement No. 1. The Audit Report identifies matters that appear inconsistent with, additional to, or not addressed by, the Owners' answers in the Questionnaire.
 
-**F.** The Company owns, or claims an interest in, the parcels of land listed in Appendix B (the "Land"), which the Company may in future sell, lease, develop, or otherwise deal with, including with third parties.
+**F.** The Company owns, or claims an interest in, parcels of land to be listed in Appendix B (the "Land") under Supplementary Agreement No. 1, which the Company may in future sell, lease, develop, or otherwise deal with, including with third parties.
 
 **G.** The Owners wish to induce the Incoming Director to accept appointment, and to enable the Company and the Incoming Director to deal with third parties in respect of the Land and the Company's business, by giving the full, complete and unqualified disclosure, representations, warranties and indemnities set out in this Agreement.
 
@@ -53,11 +53,12 @@ each a "Party" and together the "Parties".
 - **Audit Report** — as in Recital E, Appendix C.
 - **[[bani|BANI]]** — Badan Arbitrase Nasional Indonesia, or its successor body.
 - **Business Day** — a day (other than Saturday, Sunday, or public holiday) on which banks are open for general business in Denpasar, Bali.
-- **Disclosed Matters** — collectively and only: (a) the matters fairly and specifically disclosed in the Owners' answers in Appendix A; (b) the particulars in Appendix B; and (c) the items in Appendix C that the Owners have expressly confirmed or corrected in writing and countersigned in the column provided, prior to the Effective Date. The mere presence of a document in the Company's files or data room (including the files reviewed for the Audit Report), or a general or non-specific reference, does not by itself constitute disclosure unless the specific matter is fairly and specifically identified as above.
-- **Effective Date** — the date this Agreement is signed by all Parties, as stated on the signature page.
+- **Disclosed Matters** — collectively and only: (a) the matters fairly and specifically disclosed in the Owners' answers in Appendix A; (b) the particulars in Appendix B; and (c) the items in Appendix C that the Owners have expressly confirmed or corrected in writing and countersigned in the column provided, prior to the Effective Date — and in each case only once Appendices A, B and C have been attached and taken effect under Supplementary Agreement No. 1 (Article 2.5). Until Supplementary Agreement No. 1 takes effect, no Disclosed Matters exist and the indemnity in Article 5 applies without any disclosure qualification. The mere presence of a document in the Company's files or data room (including the files reviewed for the Audit Report), or a general or non-specific reference, does not by itself constitute disclosure unless the specific matter is fairly and specifically identified as above.
+- **Effective Date** — the date of Closing, as fixed by Article 2.4.
 - **Encumbrance** — any Hak Tanggungan, mortgage, charge, pledge, lien, blokir (registration block), sita (seizure/attachment), assignment, option, right of first refusal, easement, restriction, adverse [[bpn|BPN]] annotation, or other third-party right or security interest, registered or not, arising in Indonesia or elsewhere.
 - **Governing Documents** — the Company's Articles of Association (Anggaran Dasar) as amended, including Akta No. 02 dated 1 July 2025 and Akta No. 13 dated 14 April 2025.
 - **Land** — as in Recital F and Appendix B.
+- **Supplementary Agreement No. 1** — the separate written agreement between the Parties that attaches Appendices A, B and C referred to in Article 2.5, executed after this Agreement's Effective Date.
 - **Loss** — any and all losses, damages, liabilities, costs and expenses (including reasonable legal, notarial and other professional fees on a full indemnity / solicitor-client basis), fines, penalties, Taxes, interest, diminution in value, and any other detriment, direct, indirect or consequential, under contract, tort, statute, or otherwise, present, future, contingent, or prospective.
 - **Tax** — any present or future tax, levy, duty, or governmental charge, with any related interest, penalty, or fine.
 - **Third-Party Counterparty** — any bona fide third party that purchases, leases, or otherwise enters into or proposes to enter into a contractual, service, or other legal relationship with the Company in respect of the Land or the Company's business, including any buyer, tenant, lessee, contractor, service provider, or investor.
@@ -72,9 +73,13 @@ each a "Party" and together the "Parties".
 
 **2.3** If the Appointment Deed is not validly executed within the period in Article 2.1, for any reason other than the Incoming Director's own default, the Incoming Director may terminate this Agreement by written notice, without prejudice to any claim already accrued under Article 5 for the period before termination.
 
+**2.4** This Agreement takes effect, and its Effective Date arises, only upon Closing (as defined in [[gms director appointment]] §4) — that is, only once the GMS resolution, the executed share sale, the updated share register, and the Incoming Director's written acceptance of office have all occurred. If this Agreement is signed before Closing, it is binding as an agreement to take effect on those terms, but no protection or obligation under it arises until Closing occurs. If Closing does not occur, this Agreement terminates automatically and no Party has any claim under it.
+
+**2.5** The Owners shall deliver Supplementary Agreement No. 1, attaching Appendices A, B and C in final form, as soon as reasonably practicable after the Effective Date, on a timetable to be agreed between the Parties. Until Supplementary Agreement No. 1 is executed by all Parties, no Disclosed Matters exist for the purposes of this Agreement, and the indemnity in Article 5 applies without any of the Article 3 disclosure qualifications.
+
 ## Article 3 — Representations and warranties — full disclosure
 
-**3.1** The Company and each Owner, jointly and severally, represent and warrant to the Incoming Director — for himself, and for the benefit of the Company and each Third-Party Counterparty as provided in Article 4 — that, as at the Effective Date:
+**3.1** The Company and each Owner, jointly and severally, represent and warrant to the Incoming Director — for himself, and for the benefit of the Company and each Third-Party Counterparty as provided in Article 4 — that, as at the Effective Date, and, as to paragraphs (a) and (b), again as at the date Supplementary Agreement No. 1 (Article 2.5) takes effect:
 
 **(a)** Appendix A is a true, accurate and complete record of the Owners' answers, and each answer given is true and correct in all respects;
 
@@ -194,7 +199,38 @@ Place, date: __________________
 
 ---
 
-## Appendix A — Owners' due diligence questionnaire and answers (English translation)
+## Index of Appendices
+
+Attached to this Agreement **today**: Appendix D only. Appendices A, B and C are **not** attached today and take effect only once executed as Supplementary Agreement No. 1 under Article 2.5 — until then, no Disclosed Matters exist under this Agreement and the Article 5 indemnity applies without qualification.
+
+| Appendix | Title | Status today |
+|---|---|---|
+| A | Owners' due diligence questionnaire and answers | not attached — to follow under Supplementary Agreement No. 1 |
+| B | Land portfolio schedule | not attached — to follow under Supplementary Agreement No. 1 |
+| C | Reconciliation of independent audit findings | not attached — to follow under Supplementary Agreement No. 1 |
+| D | Extract of Director's authority under the Articles of Association | attached below, in force from the Effective Date |
+
+## Appendix D — Extract of Director's authority under the Articles of Association
+
+*Convenience summary only, as confirmed by the Owners in the Questionnaire (Appendix A). In any conflict with the Governing Documents, the Governing Documents prevail (Article 9).*
+
+- **Signs independently:** full representation of the Company in and out of court; ordinary-course contracts under Articles Art. 3 (lease, leasehold, land-rights transfers within KBLI 68111/68200, Land Rights Agreements with local residents); HR documents; opening/operating/closing bank accounts; day-to-day operations (Art. 12(1)–(2)).
+- **Needs Commissioner's consent:** loans/borrowings in any form; pledging, encumbering, or mortgaging any asset (incl. HGB, Hak Pakai); loans to third parties and corporate guarantees; disposal of core assets outside the ordinary course; establishing/acquiring interests in other companies; changing the Company's core business activity (Art. 12(3)); the annual plan/budget before each year begins (Art. 17); share certificates (Art. 5.9).
+- **Needs RUPS consent:** loans, pledging land, and changing the core business (double-key: Commissioner + RUPS); issuing new shares; amending the Articles; appointing/removing directors or commissioners; transferring shares to a non-shareholder (Art. 7.6); profit distribution; and, by statute ([[uu 40-2007 perseroan terbatas|UU 40/2007]] Art. 102), disposing of or pledging more than 50% of the Company's assets.
+- **Payment/contracting limits:** any contract with a value above **2% of the issued capital (modal ditempatkan)** requires prior approval — **one commissioner or the Deputy President Director** is enough. On top of that, structural control — any disbursement from the main revenue account requires two signatures (two-to-sign).
+- **Bank account access:** Director opens/operates accounts; disbursements need maker (Director) + authorizer (Commissioner); one person cannot hold both roles for the same transaction (Art. 12(4)).
+- **Payment roles:** initiator (maker) — Director; confirmer (authorizer) — Komisaris Utama and/or a designated commissioner.
+- **Hire/fire staff:** yes, fully independently (Art. 12(2)(a)).
+- **Appoint contractors:** yes, independently, as ordinary operations — unless the contract has a loan/guarantee/pledge element, which needs Commissioner/RUPS consent.
+- **Create subsidiaries/JVs/SPVs:** no — needs Board of Commissioners' prior written consent (Art. 12(3)(e)).
+
+---
+
+## Staging material for Supplementary Agreement No. 1 — not part of the Agreement signed today
+
+*The working content below is prepared for Appendices A, B and C. It is kept here for continuity between drafting sessions only. It has no effect under this Agreement until attached and executed as Supplementary Agreement No. 1 (Article 2.5); until then, per the Index of Appendices above, none of it is a Disclosed Matter.*
+
+### Appendix A — Owners' due diligence questionnaire and answers (English translation)
 
 **1. Clarifying questions**
 
@@ -229,7 +265,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 **6. Incoming Director's authority** — as summarised by the Owners, reproduced in full at Appendix D.
 
-## Appendix B — Land portfolio schedule
+### Appendix B — Land portfolio schedule
 
 *All parcels in Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, unless noted. Prepared from the Company's land files as reviewed in the independent audit dated 21 August 2026. Statuses marked "Attention", "RISK", or "CRITICAL" are Disclosed Matters only to the extent, and only if, the Owners confirm or correct them in Appendix C.*
 
@@ -259,7 +295,7 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 **Portfolio totals (Parcels 0–19):** declared area ≈371,120 m² (≈37.1 ha); ≈319,320 m² (≈31.9 ha) registered in the Company's name (subject to the "Attention"/"OK*" caveats above); ≈51,800 m² (≈5.2 ha) — Parcels 0, 3.1 and 13 — remains legally titled to individual sellers or uncertificated and is **not yet Company property**.
 
-## Appendix C — Reconciliation of independent audit findings
+### Appendix C — Reconciliation of independent audit findings
 
 *Matters an independent, document-based audit of the Company's corporate and land files (dated 21 August 2026) found inconsistent with, additional to, or not addressed by, the Owners' Appendix A answers. For each item the Owners must write "CONFIRMED AS ACCURATE" or a specific written correction, and initial the row, before the Effective Date. Under "Disclosed Matters", any item **not** confirmed/corrected and countersigned before the Effective Date stays fully within the Article 5 indemnity.*
 
@@ -278,34 +314,20 @@ Current court cases: no. Past court cases: no — *see Appendix C item 2 on two 
 
 **Owners' certification:** having reviewed each item above, the Owners confirm they have accurately confirmed or corrected it in the column provided, and that — subject to those confirmations/corrections — Appendix A and Appendix C together represent complete and accurate disclosure under Article 3.
 
-## Appendix D — Extract of Director's authority under the Articles of Association
-
-*Convenience summary only, as confirmed by the Owners in the Questionnaire (Appendix A). In any conflict with the Governing Documents, the Governing Documents prevail (Article 9).*
-
-- **Signs independently:** full representation of the Company in and out of court; ordinary-course contracts under Articles Art. 3 (lease, leasehold, land-rights transfers within KBLI 68111/68200, Land Rights Agreements with local residents); HR documents; opening/operating/closing bank accounts; day-to-day operations (Art. 12(1)–(2)).
-- **Needs Commissioner's consent:** loans/borrowings in any form; pledging, encumbering, or mortgaging any asset (incl. HGB, Hak Pakai); loans to third parties and corporate guarantees; disposal of core assets outside the ordinary course; establishing/acquiring interests in other companies; changing the Company's core business activity (Art. 12(3)); the annual plan/budget before each year begins (Art. 17); share certificates (Art. 5.9).
-- **Needs RUPS consent:** loans, pledging land, and changing the core business (double-key: Commissioner + RUPS); issuing new shares; amending the Articles; appointing/removing directors or commissioners; transferring shares to a non-shareholder (Art. 7.6); profit distribution; and, by statute ([[uu 40-2007 perseroan terbatas|UU 40/2007]] Art. 102), disposing of or pledging more than 50% of the Company's assets.
-- **Payment/contracting limits:** any contract with a value above **2% of the issued capital (modal ditempatkan)** requires prior approval — **one commissioner or the Deputy President Director** is enough. On top of that, structural control — any disbursement from the main revenue account requires two signatures (two-to-sign).
-- **Bank account access:** Director opens/operates accounts; disbursements need maker (Director) + authorizer (Commissioner); one person cannot hold both roles for the same transaction (Art. 12(4)).
-- **Payment roles:** initiator (maker) — Director; confirmer (authorizer) — Komisaris Utama and/or a designated commissioner.
-- **Hire/fire staff:** yes, fully independently (Art. 12(2)(a)).
-- **Appoint contractors:** yes, independently, as ordinary operations — unless the contract has a loan/guarantee/pledge element, which needs Commissioner/RUPS consent.
-- **Create subsidiaries/JVs/SPVs:** no — needs Board of Commissioners' prior written consent (Art. 12(3)(e)).
-
 ## Drafting notes
 
 *Not part of the executed Agreement — for Alex's use in finalising and negotiating the document. Delete before signature.*
 
 1. Prepared from the Owners' Questionnaire, the land due-diligence checklist, and the independent document audit (`CVE_Audit_Report_2026-08-21.docx` / `CVE_Checklist_2026-08-21.xlsx`). Not Indonesian legal advice. Before signature, have Indonesian-licensed counsel/PPAT review the whole document, in particular Articles 4, 5 and 11 — enforceability of the third-party stipulation under KUHPerdata Art. 1317, of an uncapped personal indemnity from individual shareholders, and of BANI arbitration for claims touching land title.
-2. Complete all bracketed placeholders before signature: passport/KITAS numbers and addresses for all four Parties, the notarial deed number/date for the Appointment Deed once available, the Effective Date, and the number of arbitrators in Article 11.3.
-3. Have the Owners complete Appendix C item-by-item — confirmed or specifically corrected, initialled — before signing. Anything left blank stays fully within the Article 5 indemnity.
+2. Complete all bracketed placeholders before signature: passport/KITAS numbers and addresses for all four Parties, the notarial deed number/date for the Appointment Deed once available, and the number of arbitrators in Article 11.3.
+3. Appendices A, B and C are deferred to Supplementary Agreement No. 1 (Article 2.5) and are not signed today — see the Index of Appendices and the staging section below. Have the Owners complete Appendix C item-by-item — confirmed or specifically corrected, initialled — before Supplementary Agreement No. 1 is signed. Anything left blank stays fully within the Article 5 indemnity, same as today.
 4. The Appointment Deed (RUPS + notarial deed) is a separate, mandatory step this Agreement does not replace. Given Owner 1's term runs to ~4 January 2027, agree the sequencing and timing of that deed with the notary now, alongside this Agreement.
-5. Assumes the Owners sign personally, in addition to the Company. If either Owner resists personal, uncapped, joint-and-several liability, fallback positions (descending order of protection): (i) keep joint and several but cap it to a multiple of the consideration Alex pays for his shares; (ii) move from joint-and-several to several liability in fixed 50/50 shares; (iii) require a bank guarantee or escrow from the Owners for a defined period instead of an open-ended personal covenant.
+5. Assumes the Owners sign personally, in addition to the Company. If either Owner resists personal, uncapped, joint-and-several liability, fallback positions (descending order of protection): (i) keep joint and several but cap it to a multiple of the consideration Alex pays for his shares; (ii) move from joint-and-several to several liability in fixed 50/50 shares; (iii) require a bank guarantee or escrow from the Owners for a defined period instead of an open-ended personal covenant. Owners have indicated deep trust in Alex, so this fallback is unlikely to be needed, but is kept as a drafting option.
 
 ## Vault notes (outside the source document)
 
 - **Alex's equity isn't in this document, by design.** The 1% (80/8,040 shares) he receives at Closing is priced and conditioned entirely in [[share sale entry]] (par, Rp 200,000,000) and bound to this appointment via [[gms director appointment]] §3.4/§4; the real consideration actually paid ($40,000) is receipted in [[entry payment side letter]] — no repayment or re-transfer attaches to the shares ([[president director]] §8). Post-Closing the cap table is Alisa 49% / Dmitry 50% / Alex 1% — this Agreement's own "Owners" vs. "Incoming Director" framing (Parties, above) doesn't reflect that, since Alex gives no indemnity here and isn't an "Owner" for its purposes, even though he ends up a shareholder from the same Closing.
-- **Effective Date vs. Closing.** This Agreement's Effective Date (Drafting Note 2) is a standalone placeholder, not explicitly pinned to the four-part Closing package in [[gms director appointment]] §4 (GMS resolution + share sale + register update + acceptance of office). Worth adding a clause tying them together, so Alex is never in office without the indemnity in force, or vice versa.
+- **Effective Date vs. Closing — resolved.** Article 2.4 now ties the Effective Date to Closing under [[gms director appointment]] §4 (GMS resolution + share sale + register update + acceptance of office), so Alex is never in office without the indemnity in force, or vice versa.
 - **president director.md §13 overlap.** [[president director]] §13 ("Shield") independently states a softer, less formal disclosure/liability standard for the pre-appointment period. Article 6 here is deliberately strict (only Appendix A/B/C-confirmed items count as disclosed); §13's looser wording is worth narrowing to defer to this Agreement's definition, so the two don't offer competing standards for what counts as "disclosed".
 
 ---
