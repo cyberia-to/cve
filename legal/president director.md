@@ -169,8 +169,9 @@ waits for.
 | **80%** | 10% | **500,000,000** | **1.00%** | **7.90%** | **45,000,000** |
 | **90%** | 10% | **1,000,000,000** | **1.00%** | **8.90%** | **90,000,000** |
 
-Two mechanics:
+Three mechanics:
 
+- the fee settles at **each closing**, never on reaching a row: a row prices the band it opens, it is not a threshold the fee waits for
 - a sale below the valuation floor does **not** count as a step, unless the founders waive the floor in writing
 - between rows, the valuation floor is log-interpolated
 
