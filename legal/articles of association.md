@@ -10,8 +10,6 @@ icon: "📜"
 
 English text of the Anggaran Dasar, 12 August 2026 · Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07-2025
 
-> Source: bilingual edition `cveanggarandasarIDEN`. The Bahasa Indonesia text prevails on any discrepancy ([[uu 24-2009 bahasa|UU 24/2009]]). This page carries the English column only, for reading and reference; the executable instrument is the notarial deed.
-
 ## Article 1 — Name and domicile
 
 1. This limited liability company is named PT. CYBER VALLEY ESTATE (hereinafter referred to as the "Company"), domiciled in Gesing Village, Banjar District, Buleleng Regency, Bali Province.
