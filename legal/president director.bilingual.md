@@ -130,7 +130,6 @@ icon: "🧭"
 | **80%** | 10% | **500,000,000** | **1.00%** | **7.90%** | **45,000,000** |
 | **90%** | 10% | **1,000,000,000** | **1.00%** | **8.90%** | **90,000,000** |
 
-| Imbalan diselesaikan pada **setiap penutupan transaksi**, bukan pada saat suatu baris tercapai: sebuah baris menetapkan harga bagi pita yang dibukanya, bukan ambang yang harus ditunggu oleh imbalan tersebut. | The fee settles at **each closing**, never on reaching a row: a row prices the band it opens, it is not a threshold the fee waits for. |
 | Gagal mencapai batas bawah val → langkah tidak dihitung (kecuali pendiri melepaskannya secara tertulis). | Miss the val floor → step does not count (unless founders waive in writing). |
 | Di antara baris: interpolasi logaritmik val. | Between rows: log-interpolate val. |
 
