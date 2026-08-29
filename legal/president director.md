@@ -268,7 +268,7 @@ multi-page indemnification.
 
 ## 11. Acceptance
 
-Signed at Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, on ______________ 2026.
+Signed at Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, on 31 August 2026.
 
 The Company is represented by the President Commissioner, the President Director being the counterparty to this document. Each person signs in every capacity stated against their name.
 
