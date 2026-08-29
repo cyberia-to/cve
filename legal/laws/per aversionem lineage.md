@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, law
-alias: per aversionem lineage, emptio per aversionem, aversio
+alias: per aversionem lineage, emptio per aversionem, aversio, digest, justinian digest, code civil, napoleonic code, code napoleon, burgerlijk wetboek, dutch civil code, concordantie
 crystal-type: entity
 crystal-domain: socio
 crystal-size: article
@@ -30,4 +30,4 @@ At independence, Indonesia kept colonial-era law in force under transitional con
 
 [[land rights agreement]] §2.7 invokes Pasal 1486 to lease every Plot *per aversionem* — as a single parcel within its boundaries, not by unit of area, with any stated figure indicative only.
 
-[[perjanjian sewa fedorov|The Fedorov lease]] does not yet carry this waiver. Its Pasal 1 states an area figure under the notary's ordinary form, which — absent the Pasal 1486 closing-words waiver — leaves the one-twentieth statutory adjustment live between the parties. Adding the *per aversionem* clause to that Pasal, on the [[land rights agreement]] model, is an open item for the notary to settle before signature.
+[[perjanjian sewa fedorov|The Fedorov lease]] carries the same waiver, added to Pasal 1 alongside the notary's own area description: the boundaries and site plan govern, the stated area is indicative, and the one-twentieth threshold under [[kuhperdata|KUHPerdata]] Pasal 1486 does not apply between the parties.
