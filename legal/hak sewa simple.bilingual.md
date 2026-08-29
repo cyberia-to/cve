@@ -9,18 +9,12 @@ icon: "🖋"
 
 d0.2 · akta sewa minimal yang dapat ditandatangani / the minimal signable lease
 
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
-
 ## Kedudukan — Standing
 
-| Bahasa Indonesia | English |
-|---|---|
 | Satu halaman, delapan pasal. Satuan hitung adalah [[annex e century index\|indeks abad]] (century index); rupiah semata-mata merupakan mata uang penyelesaian pembayaran. | One page, eight clauses. The unit of account is the [[annex e century index\|century index]]; rupiah is only the settlement currency. |
 
 ## Naskah Operasional — Operative text
 
-| Bahasa Indonesia | English |
-|---|---|
 | **1. Para Pihak.** PT CYBER VALLEY ESTATE, PT PMA, berkedudukan di Gesing, Banjar, Buleleng, Bali, [[nib\|NIB]] [___] ("Pemilik Tanah"), dan [___] ("Penyewa"). | **1. Parties.** PT CYBER VALLEY ESTATE, PT PMA, domiciled in Gesing, Banjar, Buleleng, Bali, [[nib\|NIB]] [___] (the "Landowner"), and [___] (the "Holder"). |
 | **2. Bidang Tanah.** Bidang tanah yang ditandai di lapangan dengan patok dan diuraikan dalam *peta bidang* terlampir, seluas ±[___] m², merupakan bagian dari sertipikat [[hgb\|HGB]] No. [___]. | **2. Plot.** The parcel marked on the ground (*patok*) and described in the attached *peta bidang*, ±[___] m², part of [[hgb\|HGB]] certificate No. [___]. |
 | **3. Pemberian hak, jangka waktu, dan penguasaan secara tenang.** Pemilik Tanah menyewakan Bidang Tanah kepada Penyewa (*hak sewa*) untuk jangka waktu [___] tahun terhitung sejak penandatanganan, dalam batas sisa jangka waktu sertipikat. Pemilik Tanah menjamin haknya untuk menyewakan Bidang Tanah dan tidak mengganggu penggunaan oleh Penyewa selama akta ini berlaku. | **3. Grant, term and quiet enjoyment.** The Landowner leases the Plot to the Holder (*hak sewa*) for [___] years from signing, within the remaining term of the certificate. The Landowner warrants its right to lease the Plot and does not disturb the Holder's use while this deed stands. |

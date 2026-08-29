@@ -16,7 +16,7 @@ English text · supplementary to [Articles 5](/cyber-valley/cve/legal/articles-o
 
 ## Parties
 
-This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Deputy President Director-designate, holder of 3,940 shares following the transfer referred to in paragraph 2; (2) DMITRY STARODUBTSEV, President Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, President Director-designate, holder of 80 shares following the transfer; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it.
+This Agreement is made on 31 August 2026 by and between: (1) ALISA VOINOVA, Deputy President Director-designate, holder of 3,940 shares following the transfer referred to in paragraph 2; (2) DMITRY STARODUBTSEV, President Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, President Director-designate, holder of 80 shares following the transfer; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it.
 
 ## Preamble
 
