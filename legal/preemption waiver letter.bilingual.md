@@ -8,8 +8,6 @@ icon: "✉️"
 ---
 # Surat Pernyataan Pelepasan Hak untuk Didahulukan / Waiver of Pre-emption — Surat Tambahan (Side Letter)
 
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
-
 ## Kedudukan — Status
 
 | Dilampirkan pada akta perubahan [[articles of association]], di luar batang tubuhnya | Annexed to the deed of amendment of the [[articles of association]], outside its body |

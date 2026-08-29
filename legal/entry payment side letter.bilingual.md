@@ -8,8 +8,6 @@ icon: "🤝"
 ---
 # Pembayaran Masuk — Surat Tambahan (Side Letter) antara Voinova dan Fedorov / Entry Payment — Side Letter between Voinova and Fedorov
 
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
-
 ## Kedudukan — Status
 
 | Perjanjian pribadi antara dua orang perseorangan · bukan dokumen korporasi · tidak didaftarkan pada instansi manapun · rancangan | Private agreement between two individuals · not a corporate document · not filed with any authority · draft |

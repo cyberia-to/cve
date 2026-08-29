@@ -10,8 +10,6 @@ icon: "✍️"
 
 Jual beli saham · PT. Cyber Valley Estate · rancangan pokok-pokok untuk akta notaris / Share sale and purchase · PT. Cyber Valley Estate · draft heads for the notarial deed
 
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
-
 | **Satu Penutupan (Closing) dengan [[gms director appointment]].** Jual beli ini **merupakan** syarat ekuitas dari pengangkatan pembeli sebagai Direktur Utama. **Beli → diangkat. Tidak beli → tidak diangkat.** Bukan dua transaksi yang berdiri sendiri. | **One closing with [[gms director appointment]].** This sale **is** the equity condition of appointing the buyer as President Director. **Buy → appoint. No buy → no appoint.** Not two optional deals. |
 
 ## Para Pihak — Parties

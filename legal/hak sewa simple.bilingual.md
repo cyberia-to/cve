@@ -9,8 +9,6 @@ icon: "🖋"
 
 d0.2 · akta sewa minimal yang dapat ditandatangani / the minimal signable lease
 
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
-
 ## Kedudukan — Standing
 
 | Satu halaman, delapan pasal. Satuan hitung adalah [[annex e century index\|indeks abad]] (century index); rupiah semata-mata merupakan mata uang penyelesaian pembayaran. | One page, eight clauses. The unit of account is the [[annex e century index\|century index]]; rupiah is only the settlement currency. |

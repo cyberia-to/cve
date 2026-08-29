@@ -10,8 +10,6 @@ icon: "📋"
 
 Keputusan sirkuler Rapat Umum Pemegang Saham · PT. Cyber Valley Estate · rancangan untuk notaris / Circular resolution of the General Meeting of Shareholders · PT. Cyber Valley Estate · draft for notary
 
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
-
 | **Satu Penutupan (Closing) dengan [[share sale entry]].** Pengangkatan sebagai Direktur Utama dan pembelian **1% (80 saham)** merupakan **satu paket syarat**: **tanpa jual beli saham yang selesai → pengangkatan tidak berlaku; tanpa pengangkatan → jual beli saham tidak selesai.** Syarat komersial jabatan: [[president director]]. | **One closing with [[share sale entry]].** Appointment as President Director and purchase of **1% (80 shares)** are **one condition package**: **no completed share sale → no appointment takes effect; no appointment → share sale does not complete.** Commercial terms of the role: [[president director]]. |
 
 ## Kewenangan — Authority
