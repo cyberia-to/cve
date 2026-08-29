@@ -10,8 +10,6 @@ icon: "📜"
 
 Akta Pendirian No. 01, 04-01-2022 · PKR No. 13, 14-04-2025 · PKR No. 02, 01-07-2025
 
-> The Bahasa Indonesia column for Articles 1–4, 6–11, 13–20 is the language of the notarial deeds — Akta Pendirian No. 01 (04 January 2022) for the unamended Articles, Akta Pernyataan Keputusan Rapat No. 02 (01 July 2025) for Article 3. Articles 5 and 12 carry amended or new text, marked ⚠, pending review by Indonesian-licensed counsel and the notary. The notarial deed is the executable instrument.
-
 ## Pasal 1 — Nama dan Tempat Kedudukan
 
 | 1. Perseroan Terbatas ini bernama PT. CYBER VALLEY ESTATE (selanjutnya dalam Anggaran Dasar ini cukup disingkat dengan "Perseroan"), berkedudukan di Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Provinsi Bali. | 1. This limited liability company is named PT. CYBER VALLEY ESTATE (hereinafter referred to as the "Company"), domiciled in Gesing Village, Banjar District, Buleleng Regency, Bali Province. |

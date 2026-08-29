@@ -8,8 +8,6 @@ icon: "🧭"
 ---
 # Direktur Utama / President Director — PT Cyber Valley Estate
 
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
-
 ## Perseroan dan Mandat — Company and Mandate
 
 | **Penawaran / perjanjian (satu naskah).** Rancangan untuk pembahasan hingga ditandatangani. Tanpa lampiran ekonomi terpisah, tanpa daftar butir terbuka, tanpa novel hukum yang panjang. | **Offer / agreement (one text).** Draft for discussion until signed. No separate economics annex, no open-items sheet, no long legal novel. |

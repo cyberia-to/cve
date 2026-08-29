@@ -8,13 +8,11 @@ icon: "🤝"
 ---
 # Perjanjian Pemegang Saham / Shareholders' Agreement — PT. CYBER VALLEY ESTATE
 
-CVE/SHA/2026-01 · 14 Agustus 2026
-
-> The Bahasa Indonesia column is pending review by Indonesian-licensed counsel and the notary before signature.
+CVE/SHA/2026-01 · 31 Agustus 2026
 
 ## Para Pihak — Parties
 
-| Perjanjian ini dibuat pada tanggal 14 Agustus 2026 oleh dan antara: (1) Nyonya ALISA VOINOVA, calon Wakil Direktur Utama, pemegang 3.940 saham setelah pengalihan sebagaimana dimaksud dalam ayat 2; (2) Tuan DMITRY STARODUBTSEV, Komisaris Utama, pemegang 4.020 saham; dan (3) Tuan OLEKSANDR FEDOROV, calon Direktur Utama, pemegang 80 saham setelah pengalihan; bersama-sama disebut "Para Pemegang Saham" dan masing-masing "Pemegang Saham", serta mengikat PT. CYBER VALLEY ESTATE ("Perseroan") sejauh Perseroan memberikan efek atas pendaftaran pengalihan saham berdasarkan Perjanjian ini. | This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Deputy President Director-designate, holder of 3,940 shares following the transfer referred to in paragraph 2; (2) DMITRY STARODUBTSEV, President Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, President Director-designate, holder of 80 shares following the transfer; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it. |
+| Perjanjian ini dibuat pada tanggal 31 Agustus 2026 oleh dan antara: (1) Nyonya ALISA VOINOVA, calon Wakil Direktur Utama, pemegang 3.940 saham setelah pengalihan sebagaimana dimaksud dalam ayat 2; (2) Tuan DMITRY STARODUBTSEV, Komisaris Utama, pemegang 4.020 saham; dan (3) Tuan OLEKSANDR FEDOROV, calon Direktur Utama, pemegang 80 saham setelah pengalihan; bersama-sama disebut "Para Pemegang Saham" dan masing-masing "Pemegang Saham", serta mengikat PT. CYBER VALLEY ESTATE ("Perseroan") sejauh Perseroan memberikan efek atas pendaftaran pengalihan saham berdasarkan Perjanjian ini. | This Agreement is made on 31 August 2026 by and between: (1) ALISA VOINOVA, Deputy President Director-designate, holder of 3,940 shares following the transfer referred to in paragraph 2; (2) DMITRY STARODUBTSEV, President Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, President Director-designate, holder of 80 shares following the transfer; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it. |
 
 ## Mukadimah — Preamble
 
