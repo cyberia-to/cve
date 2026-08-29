@@ -90,8 +90,11 @@ Adendum bertanggal 28 Agustus 2026 atas CVE/SHA/2026-01, dibuat untuk menjaga id
 
 ## Para Penanda Tangan — Signatories
 
-| party | office |
+| Tempat, tanggal: __________________ | Place, date: __________________ |
 |---|---|
-| Alisa Voinova | calon Wakil Direktur Utama / Deputy President Director (designate) |
-| Dmitry Starodubtsev | Komisaris Utama / President Commissioner |
-| Oleksandr Fedorov | calon Direktur Utama / President Director (designate) |
+
+| Pihak / Party | Jabatan / Office | Tanda tangan / Signature |
+|---|---|---|
+| Alisa Voinova | Calon Wakil Direktur Utama / Deputy President Director (designate) | |
+| Dmitry Starodubtsev | Komisaris Utama / President Commissioner | |
+| Oleksandr Fedorov | Calon Direktur Utama / President Director (designate) | |
