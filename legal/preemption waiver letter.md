@@ -30,6 +30,12 @@ The waiver is scoped by purpose rather than by a share count. It covers whatever
 > Pelepasan ini terbatas pada saham dan tujuan tersebut di atas, tidak berlaku bagi penerbitan saham lainnya, dan tidak mengurangi hak Para Pemegang Saham berdasarkan Anggaran Dasar maupun Perjanjian Pemegang Saham dalam hal apapun selain yang dinyatakan di sini.
 >
 > Pernyataan ini merupakan lampiran dari akta perubahan Anggaran Dasar dan berlaku sejak tanggal ditandatangani.
+>
+> Tempat, tanggal: __________________
+>
+> ALISA VOINOVA __________________
+>
+> DMITRY STARODUBTSEV __________________
 
 > DECLARATION OF WAIVER OF PRE-EMPTIVE RIGHTS
 >
@@ -43,6 +49,12 @@ The waiver is scoped by purpose rather than by a share count. It covers whatever
 > This waiver is limited to those shares and that purpose, does not extend to any other issue of shares, and does not diminish the rights of the Shareholders under the Articles of Association or the Shareholders' Agreement in any respect other than as stated here.
 >
 > This declaration is annexed to the deed of amendment of the Articles of Association and takes effect on the date of signature.
+>
+> Place, date: __________________
+>
+> ALISA VOINOVA __________________
+>
+> DMITRY STARODUBTSEV __________________
 
 ## Form B — where the option is satisfied by a sale from an existing shareholder
 

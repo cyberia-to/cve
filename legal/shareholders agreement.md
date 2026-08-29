@@ -115,8 +115,10 @@ Addendum dated 28 August 2026 to CVE/SHA/2026-01, made to keep the identificatio
 
 ## Signatories
 
-| party | office |
-|---|---|
-| Alisa Voinova | Deputy President Director (designate) |
-| Dmitry Starodubtsev | President Commissioner |
-| Oleksandr Fedorov | President Director (designate) |
+Place, date: __________________
+
+| party | office | signature |
+|---|---|---|
+| Alisa Voinova | Deputy President Director (designate) | |
+| Dmitry Starodubtsev | President Commissioner | |
+| Oleksandr Fedorov | President Director (designate) | |

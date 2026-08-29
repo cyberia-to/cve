@@ -181,14 +181,16 @@ each a "Party" and together the "Parties".
 
 ## Signatures
 
-*(placeholders — name, date, address/email)*
+*(address/email placeholders belong on the executed paper copy only, not in this public document)*
 
-| party | capacity |
-|---|---|
-| PT Cyber Valley Estate | acting as Director of the Company, with approval of the Board of Commissioners / shareholders where required |
-| Alisa Voinova | personal capacity as Owner 1 (and, if applicable, outgoing Director) |
-| Dmitry Starodubtsev | personal capacity as Owner 2 (and, if applicable, Commissioner) |
-| Oleksandr Fedorov | personal capacity as Incoming Director |
+Place, date: __________________
+
+| party | capacity | signature |
+|---|---|---|
+| PT Cyber Valley Estate | acting as Director of the Company, with approval of the Board of Commissioners / shareholders where required | |
+| Alisa Voinova | personal capacity as Owner 1 (and, if applicable, outgoing Director) | |
+| Dmitry Starodubtsev | personal capacity as Owner 2 (and, if applicable, Commissioner) | |
+| Oleksandr Fedorov | personal capacity as Incoming Director | |
 
 ---
 
