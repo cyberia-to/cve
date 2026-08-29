@@ -187,13 +187,19 @@ def convert(md):
         if not buf:
             buf.append(lines[i].rstrip()); i += 1
         out.append('<p>' + inline(' '.join(buf)) + '</p>')
-    return '\n'.join(out)
+    html = '\n'.join(out)
+    # keep each h2 section on one page when it fits: wrap h2..next-h2 in <section>
+    parts = re.split(r'(?=<h2>)', html)
+    if len(parts) > 1:
+        html = parts[0] + ''.join('<section class="keep">' + p + '</section>' for p in parts[1:])
+    return html
 
 CSS = """
 @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 @page { size: A4; margin: 20mm 18mm 20mm 18mm; }
 body { font-family: 'Play', 'Helvetica Neue', sans-serif; font-size: 10.5pt; line-height: 1.5; color: #000; }
 h1 { font-size: 16pt; margin: 0 0 4pt; }
+section.keep { break-inside: avoid-page; }
 h2 { font-size: 12.5pt; margin: 16pt 0 5pt; border-bottom: .5pt solid #999; padding-bottom: 2pt; page-break-after: avoid; }
 h3 { font-size: 11pt; margin: 12pt 0 4pt; page-break-after: avoid; }
 p { margin: 0 0 6pt; text-align: justify; }
