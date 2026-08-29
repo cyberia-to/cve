@@ -195,7 +195,7 @@ icon: "🧭"
 
 ## 11. Penerimaan — Acceptance
 
-| Ditandatangani di Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, pada tanggal ______________ 2026. | Signed at Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, on ______________ 2026. |
+| Ditandatangani di Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, pada tanggal 31 Agustus 2026. | Signed at Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Bali, on 31 August 2026. |
 | Perseroan diwakili oleh Komisaris Utama, mengingat Direktur Utama merupakan pihak lawan dalam dokumen ini. Setiap orang menandatangani dalam seluruh kedudukan yang disebutkan di sebelah namanya. | The Company is represented by the President Commissioner, the President Director being the counterparty to this document. Each person signs in every capacity stated against their name. |
 
 | Nama / Name | Jabatan / Position | Bertindak sebagai / Signs as | Tanda tangan dan tanggal / Signature and date |
