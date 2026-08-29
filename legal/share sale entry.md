@@ -60,11 +60,13 @@ At Closing:
 
 ## 6. Signatories
 
-| party | capacity |
-|---|---|
-| Alisa Voinova | seller |
-| Oleksandr Fedorov | buyer / President Director at Closing |
-| Company (Director/Commissioner as required) | registration |
+Place, date: __________________
+
+| party | capacity | signature |
+|---|---|---|
+| Alisa Voinova | seller | |
+| Oleksandr Fedorov | buyer / President Director at Closing | |
+| Company (Director/Commissioner as required) | registration | |
 
 Bahasa Indonesia prevails on the notarial deed if executed bilingually.
 
