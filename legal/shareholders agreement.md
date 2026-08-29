@@ -53,7 +53,7 @@ Cash received by the Company is applied in the following order before any amount
 3. the approved operating moonly budget (including the operational account under [[president director]]);
 4. **distributable cash** — dividends or other distributions to Shareholders.
 
-**Cadence.** Distributable cash under item 4 is distributed to the Shareholders every moon cycle (one new moon to the next), and in no event less often than once per calendar quarter, as an interim dividend permitted by [[articles of association]] Article 18(2). Distribution is the rule between the Shareholders; retention is the exception and requires their unanimous written agreement.
+**Cadence.** Distributable cash under item 4 is distributed to the Shareholders every moon cycle (one new moon to the next), and in no event less often than once per calendar quarter, as an interim dividend permitted by [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72. Distribution is the rule between the Shareholders; retention is the exception and requires their unanimous written agreement.
 
 **Mechanics.** Within 10 (ten) business days of the end of each moon cycle each Shareholder shall procure that the Board of Directors resolves, and the Board of Commissioners approves, an interim dividend equal to the distributable cash of that cycle.
 
