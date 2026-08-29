@@ -144,13 +144,13 @@ Template akta dari Notaris I Wayan Paramarta Jaya, S.H., M.Kn., Kabupaten Tabana
 
 > Para Pihak setuju bahwa apabila terjadi perbedaan pendapat, sengketa, konflik atau perselisihan ("Sengketa") yang disebabkan oleh atau berkaitan dengan Perjanjian ini atau pelaksanaannya, termasuk tetapi tidak terbatas pada setiap sengketa yang berkaitan dengan keberadaannya, keabsahannya, pengakhiran atas hak atau kewajiban dari setiap Pihak, maka Para Pihak akan berupaya untuk menyelesaikan sengketa tersebut secara musyawarah dalam jangka waktu 30 (tigapuluh) hari kalender setelah diterimanya pemberitahuan dari salah satu pihak mengenai sengketa tersebut.
 >
-> Apabila Para Pihak tidak dapat mencapai kesepakatan untuk menyelesaikan sengketa secara musyawarah dalam jangka waktu 30 (tigapuluh) hari tersebut, maka salah satu pihak dapat mengajukan sengketa tersebut untuk diselesaikan melalui Pengadilan Negeri Tabanan di Tabanan.
+> Apabila Para Pihak tidak dapat mencapai kesepakatan untuk menyelesaikan sengketa secara musyawarah dalam jangka waktu 30 (tigapuluh) hari tersebut, maka salah satu pihak dapat mengajukan sengketa tersebut untuk diselesaikan melalui Pengadilan Negeri Denpasar di Denpasar.
 >
-> Kedua belah pihak setuju untuk memilih domisili yang tidak berubah di Kantor Pengadilan Negeri Tabanan di Tabanan, dalam hal perselisihan tersebut tidak dapat diselesaikan secara musyawarah mufakat.
+> Kedua belah pihak setuju untuk memilih domisili yang tidak berubah di Kantor Pengadilan Negeri Denpasar di Denpasar, dalam hal perselisihan tersebut tidak dapat diselesaikan secara musyawarah mufakat.
 
 ## Pasal 15 — Kedudukan Hukum
 
-> Mengenai perjanjian ini dan segala akibat hukumnya para pihak memilih domisili hukum yang tetap dan tidak berubah pada Kantor Kepaniteraan Pengadilan Negeri Tabanan di Tabanan.
+> Mengenai perjanjian ini dan segala akibat hukumnya para pihak memilih domisili hukum yang tetap dan tidak berubah pada Kantor Kepaniteraan Pengadilan Negeri Denpasar di Denpasar.
 
 ## Pasal 16 — Pernyataan
 
