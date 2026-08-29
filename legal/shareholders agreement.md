@@ -10,8 +10,6 @@ icon: "🤝"
 
 English text · supplementary to Articles 5 and 7 of the [[articles of association]] · CVE/SHA/2026-01 · 31 August 2026
 
-> Source: bilingual edition `CVEShareholdersAgreementIDEN`. The Bahasa Indonesia text prevails on any discrepancy. This page carries the English column only.
-
 Part of the [[dzin]] corporate pack. This is the instrument that admits a new member: 80 shares move from Alisa Voinova to Oleksandr Fedorov at par, and every shareholder is paid on the moonly dividend cadence.
 
 ## Parties
