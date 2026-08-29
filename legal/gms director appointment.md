@@ -77,10 +77,12 @@ Neither side may demand performance of one without the other.
 
 ## 5. Signatories (GMS)
 
-| | |
-|---|---|
-| Alisa Voinova | shareholder / Director (until Closing); Deputy President Director from Closing |
-| Dmitry Starodubtsev | shareholder / President Commissioner |
-| Oleksandr Fedorov | accepts the office of President Director **at Closing only** |
+Place, date: __________________
+
+| name | capacity | signature |
+|---|---|---|
+| Alisa Voinova | shareholder / Director (until Closing); Deputy President Director from Closing | |
+| Dmitry Starodubtsev | shareholder / President Commissioner | |
+| Oleksandr Fedorov | accepts the office of President Director **at Closing only** | |
 
 Bahasa Indonesia prevails on the notarial form if executed bilingually.
