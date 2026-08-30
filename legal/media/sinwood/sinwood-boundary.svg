@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" font-family="Helvetica, Arial, sans-serif">
+<rect width="900" height="900" fill="#ffffff"/>
+<polygon points="15.0,338.6 71.2,386.3 120.5,445.8 172.5,500.0 231.3,554.3 318.8,625.0 403.5,687.8 498.1,762.4 653.7,885.0 857.7,657.9 771.5,513.4 636.5,396.8 593.5,317.4 549.5,239.4 556.8,50.6 522.0,15.0 243.7,176.5 163.8,231.9 79.3,293.6 15.0,338.6" fill="#eaf5ea" stroke="#2c6e2f" stroke-width="2.5"/>
+<polygon points="209.7,535.7 304.7,602.8 339.7,549.2 314.7,527.6 304.0,517.3 293.3,512.0 286.1,493.0 238.9,488.1 228.7,515.1 209.7,535.7" fill="#ffd166" fill-opacity="0.85" stroke="#a5720a" stroke-width="1.8"/>
+<polygon points="312.6,608.6 391.9,660.1 407.4,619.9 413.9,616.6 422.9,599.0 347.2,551.3 312.6,608.6" fill="#ef8354" fill-opacity="0.85" stroke="#a3401f" stroke-width="1.8"/>
+<text x="374" y="58" font-size="15" fill="#2c6e2f" text-anchor="middle" font-weight="bold">Sertifikat "sinwood" — HGB, id 4, 4.07 ha, exp. 02.02.2053</text>
+<text x="273" y="528" font-size="12" fill="#5a3d00" text-anchor="middle" font-weight="bold">sinwood-25</text>
+<text x="273" y="542" font-size="10.5" fill="#5a3d00" text-anchor="middle">@alex_dzin · 9.56 are (flat)</text>
+<text x="373" y="609" font-size="12" fill="#5a1c00" text-anchor="middle" font-weight="bold">sinwood-31</text>
+<text x="373" y="623" font-size="10.5" fill="#5a1c00" text-anchor="middle">@alex_dzin · 7.49 are (flat)</text>
+<!-- north arrow -->
+<g transform="translate(830,70)">
+  <line x1="0" y1="25" x2="0" y2="-25" stroke="#222" stroke-width="2"/>
+  <polygon points="0,-32 -8,-15 8,-15" fill="#222"/>
+  <text x="0" y="42" font-size="13" text-anchor="middle" fill="#222">N</text>
+</g>
+<!-- scale bar -->
+<g transform="translate(25,860)">
+  <line x1="0" y1="0" x2="142.9" y2="0" stroke="#222" stroke-width="2"/>
+  <line x1="0" y1="-5" x2="0" y2="5" stroke="#222" stroke-width="2"/>
+  <line x1="142.9" y1="-5" x2="142.9" y2="5" stroke="#222" stroke-width="2"/>
+  <text x="71.5" y="-8" font-size="12" text-anchor="middle" fill="#222">50 m</text>
+</g>
+<text x="15" y="890" font-size="10" fill="#666">Plan area — Google My Maps flat projection. Real area differs: terraced terrain, triangulated survey required (see note).</text>
+</svg>
