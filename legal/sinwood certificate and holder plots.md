@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal
-alias: sinwood certificate, sinwood boundary, sinwood-25, sinwood-31
+alias: sinwood, sinwood certificate, sinwood boundary, sinwood-25, sinwood-31
 crystal-type: measure
 crystal-domain: socio
 crystal-size: article
