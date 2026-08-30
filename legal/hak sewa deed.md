@@ -635,7 +635,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [12.1.14](#part-12-upgrade-tracks) | upgrade fee on Track F | — | decided with [4.5](#part-4-transfer) | open |
 | [12.1.15](#part-12-upgrade-tracks) | refund on registration | none | this draft | proposed |
 
-Count: 29 settled, 3 settled by law, 17 proposed, 10 open, 1 per deal. Three of the settled figures are set by Indonesian law rather than by decision and move only when that law moves.
+Count: 31 settled, 3 settled by law, 16 proposed, 10 open, 2 per deal. Three of the settled figures are set by Indonesian law rather than by decision and move only when that law moves.
 
 ## Schedule 2. What blocks execution
 
