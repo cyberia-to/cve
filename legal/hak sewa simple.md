@@ -9,6 +9,8 @@ icon: "🖋"
 
 d0.2 · the minimal signable lease · draft for counsel and [[ppat|PPAT]]
 
+> **Preliminary — Stage 1 of document preparation complete, 29 August 2026.** Second reading and the fixes that reading turns up are pending.
+
 One page, eight clauses. The unit of account is the
 [[annex e century index|century index]]; rupiah is only the settlement
 currency.
@@ -31,14 +33,21 @@ currency.
 > lease the Plot and does not disturb the Holder's use while this deed
 > stands.
 >
-> **4. Rent.** The rent for the whole term (*uang sewa*) is fixed at
-> signing as **[___] units of the [[annex e century index|century
-> index]]** (Annex E: quantities, valuation, worked example). The index
-> is the unit of account of this deed. Every payment is settled in
-> rupiah at the index value on the payment date, converted at
-> [[jisdor|JISDOR]] on that date, as [[uu 7-2011 mata uang|UU 7/2011]]
-> requires. **30% of the units are paid at signing**; the balance is due
-> within **one year of signing**, valued on the payment date.
+> **4. Rent.** The rent for the whole term (*uang sewa*), as recited in
+> this akta, is **Rp [___]** (the "Recited Rent") — the value at signing
+> of the fixed quantities carried in [[annex e century index|Annex E]],
+> converted at [[jisdor|JISDOR]] on the signing date. **30% of the
+> Recited Rent is paid at signing**; the balance is due within **one
+> year of signing**.
+>
+> What the akta cannot recite. A notary and [[ppat|PPAT]] register a
+> price in rupiah, not in units of an external index — Annex E's
+> quantities and its formula are the private mechanism the parties use
+> to compute the Recited Rent and every later instalment; they are not
+> themselves stated as the unit of account in this akta. Where the
+> balance falls due later than signing, its rupiah amount is recomputed
+> from Annex E as of the payment date, per [[uu 7-2011 mata uang|UU
+> 7/2011]] on denomination and settlement.
 >
 > **5. Late balance.** Units unpaid one year after signing convert to
 > **equal annual instalments over the following [5] years**, each valued

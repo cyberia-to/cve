@@ -232,8 +232,10 @@ Rejected from the master template: Art 1.3 (agreement prevailing over the consti
 
 ## Signatories
 
-| party | office |
-|---|---|
-| Alisa Voinova | Deputy President Director (designate) |
-| Dmitry Starodubtsev | President Commissioner |
-| Oleksandr Fedorov | President Director (designate) |
+Place, date: __________________
+
+| party | office | signature |
+|---|---|---|
+| Alisa Voinova | Deputy President Director (designate) | |
+| Dmitry Starodubtsev | President Commissioner | |
+| Oleksandr Fedorov | President Director (designate) | |

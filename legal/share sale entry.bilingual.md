@@ -55,7 +55,12 @@ Jual beli saham · PT. Cyber Valley Estate · rancangan pokok-pokok untuk akta n
 
 ## Para Penanda Tangan — Signatories
 
-| Alisa Voinova: penjual | Alisa Voinova: seller |
-| Oleksandr Fedorov: pembeli / Direktur Utama pada Penutupan | Oleksandr Fedorov: buyer / President Director at Closing |
-| Perseroan (Direktur/Komisaris sebagaimana diperlukan): pendaftaran | Company (Director/Commissioner as required): registration |
-| Bahasa Indonesia yang berlaku atas akta notaris apabila ditandatangani secara dwibahasa. | Bahasa Indonesia prevails on the notarial deed if executed bilingually. |
+Tempat, tanggal: __________________ / Place, date: __________________
+
+| pihak — party | kapasitas — capacity | tanda tangan — signature |
+|---|---|---|
+| Alisa Voinova | penjual — seller | |
+| Oleksandr Fedorov | pembeli / Direktur Utama pada Penutupan — buyer / President Director at Closing | |
+| Perseroan — Company | Direktur/Komisaris sebagaimana diperlukan: pendaftaran — Director/Commissioner as required: registration | |
+
+Bahasa Indonesia yang berlaku atas akta notaris apabila ditandatangani secara dwibahasa. / Bahasa Indonesia prevails on the notarial deed if executed bilingually.
