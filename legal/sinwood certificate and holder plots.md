@@ -11,7 +11,7 @@ icon: "📐"
 
 Worked example under [[annex a estate registry|Annex A]] and [[annex b plot boundary|Annex B]]. Source: the "cyber valley" Google My Maps layer maintained by Cyberia (`mid=1txZioQKBBvOdmox1Had5aI-Zz4kUEJI`), KML pulled 30 August 2026. Coordinates below are read directly from that KML, not eyeballed from a screenshot.
 
-![sinwood boundary and the two holder plots](../media/sinwood-boundary.svg)
+![sinwood boundary and the two holder plots](https://gateway.pinata.cloud/ipfs/bafkreigtuff5ydcxl76jvlqdidgjuqnmpvghg455az3al5g3w2tsyj6l44)
 
 ## The certificate
 

@@ -31,7 +31,7 @@ Akta Notaris I Wayan Paramarta Jaya, S.H., M.Kn., Kabupaten Tabanan · Nomor: [_
 
 ## Lampiran — Gambar Situasi — Annex — Site Plan
 
-![gambar situasi sinwood-25 — hasil survei triangulasi 13 titik dari titik pusat N](../media/sinwood-25-triangulated.svg)
+![gambar situasi sinwood-25 — hasil survei triangulasi 13 titik dari titik pusat N](https://gateway.pinata.cloud/ipfs/bafkreiath5zffzioxy6xqdmavtedbzdvbj6obydve4fciapjiiun5uuyd4)
 
 Diplot dari 26 jarak lapangan (13 sisi batas + 13 jarak radial dari titik pusat N) yang dicatat pada sketsa triangulasi tertanggal 29–30 Agustus 2026. Luas terhitung dari sketsa ini: **1.272,37 m² (12,72 are)**, diperiksa dengan dua metode independen (jumlah luas 13 segitiga menurut rumus Heron; dan rumus shoelace atas koordinat hasil rekonstruksi), keduanya bersesuaian, dan penutupan sudut keliling mencapai 359,994° dari 360° yang seharusnya.
 
