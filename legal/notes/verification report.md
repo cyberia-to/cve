@@ -75,7 +75,7 @@ Wikisource is unavailable from the environment, Indonesian primary sources retur
 
 What is known structurally and does not amount to proof: Buku III [[kuhperdata|KUHPerdata]], chapter `Bab VII Sewa Menyewa`, occupies roughly articles 1548–1600, so 1588–1592 fall within the chapter on leases rather than on sale. For a clause about leasing a plot that is an argument for the reference being correct rather than against it. "Rather" is not a basis for signature.
 
-The precise question for the notary, in one paragraph: confirm that Pasal 1588–1592 [[kuhperdata|KUHPerdata]] govern the lease of land stated by area and the consequences of a divergence between actual and stated area; that they are dispositive; and that waiving them is permissible where the boundaries are objectively determinable. If the articles are the wrong ones, [§2.7](#2-itr-and-buleleng) is empty and the whole per aversionem construction rests on nothing.
+The precise question for the notary, in one paragraph: confirm that [Pasal 1588–1592](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1588-1592-special-rules-for-a-lease-of-land) [[kuhperdata|KUHPerdata]] govern the lease of land stated by area and the consequences of a divergence between actual and stated area; that they are dispositive; and that waiving them is permissible where the boundaries are objectively determinable. If the articles are the wrong ones, [§2.7](#2-itr-and-buleleng) is empty and the whole per aversionem construction rests on nothing.
 
 The item has been added to the document's open questions.
 

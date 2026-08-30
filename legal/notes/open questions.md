@@ -21,7 +21,7 @@ Answered by the land office in writing. Neither blocks the first lease.
 
 ## Notary and PPAT
 
-- [ ] Confirm how far [[kuhperdata|KUHPerdata]] Pasal 1493 allows the seller's warranties to be excluded, and what the following articles preserve
+- [ ] Confirm how far [[kuhperdata|KUHPerdata]] [Pasal 1493](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1493-warranties-may-be-widened-narrowed-or-excluded) allows the seller's warranties to be excluded, and what the following articles preserve
 - [ ] Confirm the assignment-by-way-of-security construction in [§2.9](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders), hak sewa being outside [[uu 4-1996 hak tanggungan|UU 4/1996]] Pasal 4
 
 ## Counsel

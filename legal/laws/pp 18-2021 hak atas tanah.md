@@ -133,4 +133,4 @@ The detailed procedure and the actual limits under Pasal 69–72 are set by Pera
 
 **The foreign upgrade track.** Pasal 51 lists the land that may carry hak pakai and HGB is absent; Pasal 71(1)a repeats the same three bases for a foreigner's landed house. A hak pakai therefore cannot be granted over the Company's HGB while it remains HGB.
 
-**The number-of-parcels limit.** Pasal 72(c) caps how many parcels a foreigner may hold. A set-off between two plots under KUHPerdata Pasal 1490 settles the price; it does nothing for this limit, which counts parcels.
+**The number-of-parcels limit.** Pasal 72(c) caps how many parcels a foreigner may hold. A set-off between two plots under KUHPerdata [Pasal 1490](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale) settles the price; it does nothing for this limit, which counts parcels.
