@@ -10,7 +10,7 @@ icon: "🤝"
 
 Private agreement between two individuals · not a corporate document · not filed with any authority · draft
 
-Companion to [[share sale entry]] (the notarial deed). This letter records the payment actually made between the parties for the entry stake — a receipt fixing the real price behind the deed's recital. Nothing attaches to the shares themselves: they are the Buyer's outright, and no repayment or re-transfer arises on any exit ([[president director]] [§8](/cyber-valley/cve/legal/president-director#8-exit) — no buyout, no buyback).
+Kept privately between the parties, referring to [[share sale entry]] (the notarial deed) without forming any part of it. This letter records the payment actually made between the parties for the entry stake — a receipt fixing the real price behind the deed's recital. It is not delivered to the Notary, not submitted with the deed, and not part of the notarial file or any document handed to the Notary. Nothing attaches to the shares themselves: they are the Buyer's outright, and no repayment or re-transfer arises on any exit ([[president director]] [§8](/cyber-valley/cve/legal/president-director#8-exit) — no buyout, no buyback).
 
 ## Operative text
 
