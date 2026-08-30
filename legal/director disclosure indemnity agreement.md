@@ -16,7 +16,7 @@ Personal instrument from the **Owners** (Alisa Voinova, Dmitry Starodubtsev) to 
 
 **(1)** PT CYBER VALLEY ESTATE, a limited liability company with foreign investment (Penanaman Modal Asing / PT [[pma|PMA]]) duly established and existing under the laws of the Republic of Indonesia, incorporated by Deed of Establishment (Akta Pendirian) No. 01 dated 4 January 2022 before Dewa Ayu Agung Dewi Utami, S.H., M.Kn., Notary in Denpasar, ratified by the Minister of Law and Human Rights under Decision No. AHU-0001412.AH.01.01.Tahun 2022 dated 7 January 2022, registered address Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Provinsi Bali 81152, [[nib|NIB]] 2504220016017, NPWP 53.898.326.3-902.000 (the "Company");
 
-**(2)** ALISA VOINOVA, holder of [passport / KITAS No. •], of [address •], a shareholder holding 50% of the issued shares in the Company, the Company's Director until the Effective Date and, from the Effective Date, its President Commissioner ("Owner 1");
+**(2)** ALISA VOINOVA, holder of [passport / KITAS No. •], of [address •], a shareholder holding 50% of the issued shares in the Company and, as at the Effective Date, the Company's Director ("Owner 1");
 
 **(3)** DMITRY STARODUBTSEV, holder of [passport No. •], of [address •], a shareholder holding 50% of the issued shares in the Company and the Company's Commissioner ("Owner 2", and together with Owner 1, jointly and severally, the "Owners"); and
 
@@ -191,7 +191,7 @@ Place, date: __________________
 | party | capacity | signature |
 |---|---|---|
 | PT Cyber Valley Estate | acting as Director of the Company, with approval of the Board of Commissioners / shareholders where required | |
-| Alisa Voinova | personal capacity as Owner 1 (and, if applicable, outgoing Director and incoming President Commissioner) | |
+| Alisa Voinova | personal capacity as Owner 1 (and, if applicable, outgoing Director) | |
 | Dmitry Starodubtsev | personal capacity as Owner 2 (and, if applicable, Commissioner) | |
 | Oleksandr Fedorov | personal capacity as Incoming Director | |
 
