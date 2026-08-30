@@ -22,7 +22,7 @@ Personal instrument from the **Owners** (Alisa Voinova, Dmitry Starodubtsev) to 
 
 **(3)** DMITRY STARODUBTSEV, holder of [passport No. •], of [address •], a shareholder holding 50% of the issued shares in the Company and the Company's Commissioner ("Owner 2", and together with Owner 1, jointly and severally, the "Owners"); and
 
-**(4)** OLEKSANDR FEDOROV ("Alex"), holder of [passport No. •], a Ukrainian national resident in Bali, Indonesia, being appointed as the incoming Director of the Company (the "Incoming Director"),
+**(4)** OLEKSANDR FEDOROV ("Alex"), holder of [passport No. •], a Ukrainian national, of [address on file with the Company], being appointed as the incoming Director of the Company (the "Incoming Director"),
 
 each a "Party" and together the "Parties".
 
