@@ -8,13 +8,13 @@ icon: "🖋"
 ---
 # Leasehold Agreement — Perjanjian Tambahan Perlindungan Penyewa / Supplemental Deed of Lessee Protections
 
-PT Cyber Valley Estate ↔ Oleksandr Fedorov — dibuat di bawah tangan pada tanggal [___] 2026, di [___]. / made privately (*di bawah tangan*) on [___] 2026, at [___].
+PT Cyber Valley Estate ↔ Oleksandr Fedorov — dibuat di bawah tangan pada tanggal 31 Agustus 2026, di [___]. / made privately (*di bawah tangan*) on 31 August 2026, at [___].
 
 | Bahasa Indonesia | English |
 |---|---|
 | Lampiran G pada [[perjanjian sewa fedorov 2\|Perjanjian Sewa]]. Dokumen ini merupakan bagian yang tidak terpisahkan daripadanya sebagaimana dimaksud Pasal 12 ayat 12.4 Perjanjian Sewa. Ia memuat mekanisme perlindungan Penyewa yang dirundingkan oleh Para Pihak tetapi yang mungkin tidak seluruhnya dimuat dalam akta notaris — baik karena penyederhanaan oleh Notaris, keterbatasan bentuk akta notaris, maupun sebab lain. Tanpa mengurangi kedudukannya sebagai Lampiran G, dokumen ini tetap sah dan mengikat secara mandiri sebagai perjanjian di bawah tangan berdasarkan Pasal 1338 KUHPerdata sejak ditandatangani, terlepas dari berhasil tidaknya pelekatan fisiknya pada akta notaris. | Annex G to [[perjanjian sewa fedorov 2\|the Lease]] (the "Lease"). This document forms an integral, inseparable part of it under Article 12 paragraph 12.4 of the Lease. It contains Lessee-protection mechanisms negotiated by the Parties which may not all be carried into the notarial deed — whether through simplification by the Notary, the limits of notarial deed form, or any other reason. Without prejudice to its status as Annex G, this document remains independently valid and binding as a private agreement under Article 1338 of the Civil Code from the moment of signature, regardless of whether physical attachment to the notarial deed is in fact effected. |
 
-![sinwood boundary and the two holder plots — sinwood-31 is the plot under this Annex](media/sinwood/sinwood-boundary.svg)
+![sinwood boundary and the two holder plots — sinwood-31 is the plot under this Annex](https://gateway.pinata.cloud/ipfs/bafkreifdrsh56yaypbau4pk7gox34csrrqefyljj3owtcluenv3vwybhqq)
 
 | Bahasa Indonesia | English |
 |---|---|
