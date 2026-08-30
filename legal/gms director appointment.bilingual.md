@@ -46,7 +46,7 @@ Keputusan sirkuler Rapat Umum Pemegang Saham · PT. Cyber Valley Estate · ranca
 | **3.5 Kerangka opsi.** Mencatat paket opsi dalam [[president director]] [§6](/cyber-valley/cve/legal/president-director#6-options-up-to-10-at-4m-sale-from-founders-only) (hingga 10% @ USD 4.000.000, 5% / 2 tahun + 5% / 7 tahun, **hanya penjualan dari pendiri**) untuk dilaksanakan melalui akta jual beli saham / akta opsi tersendiri pada saat opsi dilaksanakan — bukan penerbitan modal baru untuk paket tersebut. | **3.5 Option framework.** To note the option package in [[president director]] [§6](/cyber-valley/cve/legal/president-director#6-options-up-to-10-at-4m-sale-from-founders-only) (up to 10% @ USD 4M, 5% / 2y + 5% / 7y, **founder sale only**) for implementation by separate share sale / option deeds when exercised — not a new issue of capital for that package. |
 | **3.6 KPI.** Mencatat tangga kapitalisasi dalam [[president director]] [§7](/cyber-valley/cve/legal/president-director#7-kpi-ladder-ds-av-10-founders-company-1b) sebagai tolok ukur keberhasilan komersial di antara para pihak; bukan KPI statuter berdasarkan Anggaran Dasar kecuali kemudian ditetapkan oleh RUPS untuk keperluan bonus. | **3.6 KPI.** To note the capitalisation ladder in [[president director]] [§7](/cyber-valley/cve/legal/president-director#7-kpi-ladder-ds-av-10-founders-company-1b) as the commercial success metric between the parties; not a statutory KPI under the Articles unless later adopted by GMS for bonus purposes. |
 
-## Penutupan — satu paket syarat — Closing — single condition package
+## 4. Penutupan — satu paket syarat — Closing — single condition package
 
 | **Penutupan** terjadi apabila **seluruh** hal berikut telah terjadi (atau ditandatangani dan diberi tanggal pada hari yang sama untuk pertukaran serentak): | **Closing** occurs when **all** of the following have happened (or are signed and dated the same day for simultaneous exchange): |
 
@@ -70,7 +70,12 @@ Keputusan sirkuler Rapat Umum Pemegang Saham · PT. Cyber Valley Estate · ranca
 
 ## Para Penanda Tangan (RUPS) — Signatories (GMS)
 
-| Alisa Voinova: pemegang saham / Direktur (sampai Penutupan); Wakil Direktur Utama sejak Penutupan | Alisa Voinova: shareholder / Director (until Closing); Deputy President Director from Closing |
-| Dmitry Starodubtsev: pemegang saham / Komisaris Utama | Dmitry Starodubtsev: shareholder / President Commissioner |
-| Oleksandr Fedorov: menerima jabatan Direktur Utama **hanya pada Penutupan** | Oleksandr Fedorov: accepts the office of President Director **at Closing only** |
-| Bahasa Indonesia yang berlaku atas bentuk notarial apabila ditandatangani secara dwibahasa. | Bahasa Indonesia prevails on the notarial form if executed bilingually. |
+Tempat, tanggal: __________________ / Place, date: __________________
+
+| nama — name | kapasitas — capacity | tanda tangan — signature |
+|---|---|---|
+| Alisa Voinova | pemegang saham / Direktur (sampai Penutupan); Wakil Direktur Utama sejak Penutupan — shareholder / Director (until Closing); Deputy President Director from Closing | |
+| Dmitry Starodubtsev | pemegang saham / Komisaris Utama — shareholder / President Commissioner | |
+| Oleksandr Fedorov | menerima jabatan Direktur Utama **hanya pada Penutupan** — accepts the office of President Director **at Closing only** | |
+
+Bahasa Indonesia yang berlaku atas bentuk notarial apabila ditandatangani secara dwibahasa. / Bahasa Indonesia prevails on the notarial form if executed bilingually.

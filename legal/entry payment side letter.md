@@ -18,9 +18,9 @@ Companion to [[share sale entry]] (the notarial deed). This letter records the p
 >
 > This letter is made on __________ between:
 >
-> **ALISA VOINOVA**, Russian citizen, holder of Russian passport No. [REDACTED], residing in Russia (the "Seller"); and
+> **ALISA VOINOVA**, Russian citizen, holder of a Russian passport [number on file with the Company], residing in Russia (the "Seller"); and
 >
-> **OLEKSANDR FEDOROV**, Ukrainian citizen, holder of Ukrainian passport No. [REDACTED], residing in Ukraine (the "Buyer").
+> **OLEKSANDR FEDOROV**, Ukrainian citizen, holder of a Ukrainian passport [number on file with the Company], residing in Ukraine (the "Buyer").
 >
 > **1. Receipt of payment.** The Seller acknowledges having received from the Buyer the sum of **USD 40,000 (forty thousand United States dollars)** as the consideration agreed between the parties personally for **80 (eighty) shares** in PT. CYBER VALLEY ESTATE, being 1% of the issued capital of 8,040 shares (the "Entry Shares"). This letter is a valid receipt for that sum.
 >

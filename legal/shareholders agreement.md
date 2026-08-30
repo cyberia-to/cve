@@ -53,7 +53,7 @@ Cash received by the Company is applied in the following order before any amount
 3. the approved operating moonly budget (including the operational account under [[president director]]);
 4. **distributable cash** — dividends or other distributions to Shareholders.
 
-**Cadence.** Distributable cash under item 4 is distributed to the Shareholders every moon cycle (one new moon to the next), and in no event less often than once per calendar quarter, as an interim dividend permitted by [[articles of association]] Article 18(2). Distribution is the rule between the Shareholders; retention is the exception and requires their unanimous written agreement.
+**Cadence.** Distributable cash under item 4 is distributed to the Shareholders every moon cycle (one new moon to the next), and in no event less often than once per calendar quarter, as an interim dividend permitted by [[uu 40-2007 perseroan terbatas|UU 40/2007]] Pasal 72. Distribution is the rule between the Shareholders; retention is the exception and requires their unanimous written agreement.
 
 **Mechanics.** Within 10 (ten) business days of the end of each moon cycle each Shareholder shall procure that the Board of Directors resolves, and the Board of Commissioners approves, an interim dividend equal to the distributable cash of that cycle.
 
@@ -105,9 +105,9 @@ This Article does not set President Director compensation — that is [[presiden
 
 Addendum dated 28 August 2026 to CVE/SHA/2026-01, made to keep the identification of a Shareholder current as his identity document is renewed.
 
-1. Oleksandr Fedorov, a Shareholder under this Agreement, acceded to it, and to the [[entry payment side letter]], holding Ukrainian passport No. [REDACTED].
-2. That passport is running out of pages and is being replaced. Oleksandr Fedorov now additionally holds Ukrainian passport No. [REDACTED], expiring 10 December 2036.
-3. This Addendum records the new passport as continuing identification of the same natural person and Shareholder identified in the Parties clause above and in the Entry Payment Side Letter under passport No. [REDACTED]. It effects no change to Oleksandr Fedorov's shares, office, or rights and obligations under this Agreement.
+1. Oleksandr Fedorov, a Shareholder under this Agreement, acceded to it, and to the [[entry payment side letter]], holding a Ukrainian passport [number on file with the Company].
+2. That passport is running out of pages and is being replaced. Oleksandr Fedorov now additionally holds a new Ukrainian passport [number on file with the Company], expiring 10 December 2036.
+3. This Addendum records the new passport as continuing identification of the same natural person and Shareholder identified in the Parties clause above and in the Entry Payment Side Letter under the passport number on file with the Company. It effects no change to Oleksandr Fedorov's shares, office, or rights and obligations under this Agreement.
 
 | party | office |
 |---|---|

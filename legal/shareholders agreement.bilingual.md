@@ -37,7 +37,7 @@ CVE/SHA/2026-01 · 31 Agustus 2026
 
 ## Pasal 3 — Persetujuan atas Pengalihan kepada Bukan Pemegang Saham
 
-| 1. Persetujuan RUPS atas pengalihan saham kepada pihak yang bukan Pemegang Saham, sebagaimana dimaksud dalam Pasal 7(8) Anggaran Dasar, hanya dapat ditahan berdasarkan satu atau lebih alasan berikut, secara terbatas (daftar tertutup): a. calon penerima pengalihan gagal dalam penyaringan berdasarkan Daftar Prioritas Investasi dan/atau penyaringan sanksi internasional yang berlaku bagi Perseroan; b. calon penerima pengalihan belum menyampaikan pernyataan tertulis mengenai keterikatannya pada Anggaran Dasar dan Perjanjian ini sebagaimana disyaratkan oleh Pasal 5 Perjanjian ini; c. calon penerima pengalihan merupakan pesaing usaha langsung Perseroan dalam pengembangan dan pengelolaan kawasan permukiman komunitas; atau d. calon penerima pengalihan, atau Pemegang Saham yang mengalihkan, memiliki kewajiban yang belum diselesaikan kepada Perseroan. | 1. Approval of the GMS for a transfer of shares to a party that is not a Shareholder, as referred to in Article 7(8) of the Articles of Association, may only be withheld on one or more of the following grounds, exhaustively (a closed list): a. the prospective transferee fails screening under the Investment Priority List and/or applicable international sanctions screening binding on the Company; b. the prospective transferee has not delivered a written accession to the Articles of Association and to this Agreement as required by Article 5 of this Agreement; c. the prospective transferee is a direct business competitor of the Company in residential community estate development and management; or d. the prospective transferee, or the transferring Shareholder, has an unresolved obligation owed to the Company. |
+| 1. Persetujuan RUPS atas pengalihan saham kepada pihak yang bukan Pemegang Saham, sebagaimana dimaksud dalam Pasal 7(8) Anggaran Dasar, hanya dapat ditahan berdasarkan satu atau lebih alasan berikut, secara terbatas (daftar tertutup): a. calon penerima pengalihan gagal dalam penyaringan berdasarkan Daftar Prioritas Investasi dan/atau penyaringan sanksi internasional yang berlaku bagi Perseroan; b. calon penerima pengalihan belum menyampaikan pernyataan tertulis mengenai keterikatannya pada Anggaran Dasar dan Perjanjian ini sebagaimana disyaratkan oleh Pasal 5(2) Anggaran Dasar; c. calon penerima pengalihan merupakan pesaing usaha langsung Perseroan dalam pengembangan dan pengelolaan kawasan permukiman komunitas; atau d. calon penerima pengalihan, atau Pemegang Saham yang mengalihkan, memiliki kewajiban yang belum diselesaikan kepada Perseroan. | 1. Approval of the GMS for a transfer of shares to a party that is not a Shareholder, as referred to in Article 7(8) of the Articles of Association, may only be withheld on one or more of the following grounds, exhaustively (a closed list): a. the prospective transferee fails screening under the Investment Priority List and/or applicable international sanctions screening binding on the Company; b. the prospective transferee has not delivered a written accession to the Articles of Association and to this Agreement as required by Article 5(2) of the Articles of Association; c. the prospective transferee is a direct business competitor of the Company in residential community estate development and management; or d. the prospective transferee, or the transferring Shareholder, has an unresolved obligation owed to the Company. |
 | 2. Di luar keempat alasan tersebut, persetujuan RUPS atas pengalihan yang memenuhi Pasal 1 dan Pasal 2 Perjanjian ini serta Pasal 5(2) Anggaran Dasar tidak boleh ditahan, ditunda tanpa alasan wajar, atau dikenai syarat tambahan. | 2. Outside those four grounds, GMS approval of a transfer that satisfies Articles 1 and 2 of this Agreement and Article 5(2) of the Articles of Association shall not be withheld, unreasonably delayed, or made subject to additional conditions. |
 
 ## Pasal 4 — Pembagian Kas dan Laba
@@ -74,15 +74,16 @@ CVE/SHA/2026-01 · 31 Agustus 2026
 ## Pasal 8 — Lain-Lain (Miscellaneous)
 
 | 1. Perjanjian ini berlaku setelah ditandatangani oleh seluruh Pemegang Saham dan terus mengikat setiap penerima pengalihan saham yang telah menyatakan keterikatan berdasarkan Pasal 5 Perjanjian ini. | 1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee of shares who has acceded to it under Article 5 of this Agreement. |
-| 2. Perjanjian ini diatur oleh hukum Republik Indonesia. | 2. This Agreement is governed by the laws of the Republic of Indonesia. |
+| 2. Perubahan atas Perjanjian ini hanya sah apabila dibuat secara tertulis dan ditandatangani oleh seluruh Pemegang Saham. | 2. Amendments to this Agreement are valid only if made in writing and signed by all Shareholders. |
+| 3. Perjanjian ini diatur oleh hukum Republik Indonesia. | 3. This Agreement is governed by the laws of the Republic of Indonesia. |
 
 ## Adendum 1 — Pembaruan Paspor (Oleksandr Fedorov)
 
 Adendum bertanggal 28 Agustus 2026 atas CVE/SHA/2026-01, dibuat untuk menjaga identifikasi seorang Pemegang Saham tetap terkini seiring pembaruan dokumen identitasnya.
 
-| 1. Oleksandr Fedorov, seorang Pemegang Saham berdasarkan Perjanjian ini, menyatakan keterikatannya pada Perjanjian ini dan pada [[entry payment side letter]] dengan memegang paspor Ukraina No. [REDACTED]. | 1. Oleksandr Fedorov, a Shareholder under this Agreement, acceded to it, and to the Entry Payment Side Letter, holding Ukrainian passport No. [REDACTED]. |
-| 2. Paspor tersebut telah kehabisan halaman dan sedang diganti. Oleksandr Fedorov saat ini juga memegang paspor Ukraina No. [REDACTED], berlaku hingga 10 Desember 2036. | 2. That passport is running out of pages and is being replaced. Oleksandr Fedorov now additionally holds Ukrainian passport No. [REDACTED], expiring 10 December 2036. |
-| 3. Adendum ini mencatat paspor baru tersebut sebagai identifikasi lanjutan atas orang perseorangan dan Pemegang Saham yang sama sebagaimana dimaksud dalam ketentuan Para Pihak di atas dan dalam Entry Payment Side Letter berdasarkan paspor No. [REDACTED]. Adendum ini tidak mengubah saham, jabatan, atau hak dan kewajiban Oleksandr Fedorov berdasarkan Perjanjian ini. | 3. This Addendum records the new passport as continuing identification of the same natural person and Shareholder identified in the Parties clause above and in the Entry Payment Side Letter under passport No. [REDACTED]. It effects no change to Oleksandr Fedorov's shares, office, or rights and obligations under this Agreement. |
+| 1. Oleksandr Fedorov, seorang Pemegang Saham berdasarkan Perjanjian ini, menyatakan keterikatannya pada Perjanjian ini dan pada [[entry payment side letter]] dengan memegang paspor Ukraina [nomor tersimpan pada Perseroan]. | 1. Oleksandr Fedorov, a Shareholder under this Agreement, acceded to it, and to the Entry Payment Side Letter, holding a Ukrainian passport [number on file with the Company]. |
+| 2. Paspor tersebut telah kehabisan halaman dan sedang diganti. Oleksandr Fedorov saat ini juga memegang paspor Ukraina baru [nomor tersimpan pada Perseroan], berlaku hingga 10 Desember 2036. | 2. That passport is running out of pages and is being replaced. Oleksandr Fedorov now additionally holds a new Ukrainian passport [number on file with the Company], expiring 10 December 2036. |
+| 3. Adendum ini mencatat paspor baru tersebut sebagai identifikasi lanjutan atas orang perseorangan dan Pemegang Saham yang sama sebagaimana dimaksud dalam ketentuan Para Pihak di atas dan dalam Entry Payment Side Letter berdasarkan nomor paspor yang tersimpan pada Perseroan. Adendum ini tidak mengubah saham, jabatan, atau hak dan kewajiban Oleksandr Fedorov berdasarkan Perjanjian ini. | 3. This Addendum records the new passport as continuing identification of the same natural person and Shareholder identified in the Parties clause above and in the Entry Payment Side Letter under the passport number on file with the Company. It effects no change to Oleksandr Fedorov's shares, office, or rights and obligations under this Agreement. |
 
 | party | office |
 |---|---|
@@ -90,8 +91,11 @@ Adendum bertanggal 28 Agustus 2026 atas CVE/SHA/2026-01, dibuat untuk menjaga id
 
 ## Para Penanda Tangan — Signatories
 
-| party | office |
+| Tempat, tanggal: __________________ | Place, date: __________________ |
 |---|---|
-| Alisa Voinova | calon Wakil Direktur Utama / Deputy President Director (designate) |
-| Dmitry Starodubtsev | Komisaris Utama / President Commissioner |
-| Oleksandr Fedorov | calon Direktur Utama / President Director (designate) |
+
+| Pihak / Party | Jabatan / Office | Tanda tangan / Signature |
+|---|---|---|
+| Alisa Voinova | Calon Wakil Direktur Utama / Deputy President Director (designate) | |
+| Dmitry Starodubtsev | Komisaris Utama / President Commissioner | |
+| Oleksandr Fedorov | Calon Direktur Utama / President Director (designate) | |

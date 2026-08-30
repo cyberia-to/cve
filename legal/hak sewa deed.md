@@ -10,6 +10,8 @@ icon: "📜"
 d0.1 · draft for counsel and [[ppat|PPAT]] · assembled from [[land rights agreement|Land Rights Agreement]] v0.4.3 under the rule in [[holder protocol decisions|holder protocol]]
 
 > Status. This is the operative text, written to be marked up by an Indonesian notary and counsel. Where the framework reasons, this deed instructs. Nothing here is legal advice, and no version of this text is executed while any item in [[open questions]] stands open against the clause being executed.
+>
+> **Preliminary — Stage 1 of document preparation complete, 29 August 2026.** Second reading and the fixes that reading turns up are pending.
 
 Three markers run through the text and each carries a different instruction to the reader:
 
@@ -549,7 +551,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 17.2 Adat, subak and desa. ▲ ⚠ Compliance with the *awig-awig* of the *desa adat*, the *banjar* and *subak* arrangements affecting the Estate; ceremonial access and processional routes; customary contributions expected of residents; and their interaction with the Design Code. On Bali customary law binds land use in practice regardless of the certificate, and a deed silent on it transfers an unpriced risk to the Holder.
 
-17.3 Disputes. ○ Governing law Indonesian. Escalation: negotiation, then mediation, then [[bani|BANI]] arbitration in Denpasar in English and Indonesian, or the District Court of Singaraja whose jurisdiction covers the Company's domicile under Pasal 1. The forum is chosen before execution. Language of proceedings and interim relief stated expressly.
+17.3 Disputes. Governing law Indonesian. Escalation: negotiation, then mediation, then [[bani|BANI]] arbitration in Denpasar in English and Indonesian, or the District Court of Denpasar (Pengadilan Negeri Denpasar) — the forum chosen throughout the pack, in preference to the District Court of Singaraja that covers the Company's domicile under Pasal 1. Language of proceedings and interim relief stated expressly.
 
 ---
 
