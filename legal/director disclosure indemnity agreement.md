@@ -208,6 +208,16 @@ Attached to this Agreement **today**: [Appendix D](#appendix-d-extract-of-direct
 | C | Reconciliation of independent audit findings | not attached — to follow under Supplementary Agreement No. 1 |
 | D | Extract of Director's authority under the Articles of Association | attached below, in force from the Effective Date |
 
+### Source documents to be attached
+
+The working documents this Agreement was built from. They are named here so they can be attached alongside the Appendices; none of them is attached today.
+
+| document | form | attaches with |
+|---|---|---|
+| Owners' due diligence questionnaire and answers | master copy held by the Owners | [Appendix A](#appendix-a-owners-due-diligence-questionnaire-and-answers-english-translation) |
+| Independent document audit, dated 21 August 2026 | `CVE_Audit_Report_2026-08-21.docx` and `CVE_Checklist_2026-08-21.xlsx` | [Appendix C](#appendix-c-reconciliation-of-independent-audit-findings) |
+| Drafting master — *PT Cyber Valley Estate — Director Appointment, Full Disclosure and Indemnification Agreement* | carries the Owners' live confirm/correct and initial column | drafting record; not attached |
+
 ## Appendix D — Extract of Director's authority under the Articles of Association
 
 *Convenience summary only, as confirmed by the Owners in the Questionnaire ([Appendix A](#appendix-a-owners-due-diligence-questionnaire-and-answers-english-translation)). In any conflict with the Governing Documents, the Governing Documents prevail ([Article 9](#article-9-director-s-authority)).*
@@ -308,7 +318,7 @@ Current court cases: no. Past court cases: no — *see [Appendix C](#appendix-c-
 | 7 | [[lkpm|LKPM]] reporting | Filed in OSS: the Company submits its mandatory periodic PMA investment-activity reports (LKPM) through the OSS system, where they are on record. |
 | 8 | Duplicate/unclear SHM No. 02100 | SHM (Hak Milik) No. 02100/02099, 44,500 m², Desa Gesing, registered 18 Nov 2022 to Putu Mardika — same area/date/seller as Parcel 15 (HGB 49), likely its historical pre-conversion title rather than a separate un-transferred asset; to confirm with notary/[[ppat|PPAT]]. |
 
-*Owner sign-off column omitted here — see the source Google Doc for the live confirm/correct + initial table.*
+*Owner sign-off column omitted here — the live confirm/correct and initial table sits in the drafting master listed under [Source documents to be attached](#source-documents-to-be-attached).*
 
 **Owners' certification:** having reviewed each item above, the Owners confirm they have accurately confirmed or corrected it in the column provided, and that — subject to those confirmations/corrections — [Appendix A](#appendix-a-owners-due-diligence-questionnaire-and-answers-english-translation) and [Appendix C](#appendix-c-reconciliation-of-independent-audit-findings) together represent complete and accurate disclosure under [Article 3](#article-3-representations-and-warranties-full-disclosure).
 
@@ -316,7 +326,7 @@ Current court cases: no. Past court cases: no — *see [Appendix C](#appendix-c-
 
 *Not part of the executed Agreement — for Fedorov's use in finalising and negotiating the document. Delete before signature.*
 
-1. Prepared from the Owners' Questionnaire, the land due-diligence checklist, and the independent document audit (`CVE_Audit_Report_2026-08-21.docx` / `CVE_Checklist_2026-08-21.xlsx`). Not Indonesian legal advice. Before signature, have Indonesian-licensed counsel/PPAT review the whole document, in particular Articles 4, 5 and 11 — enforceability of the third-party stipulation under KUHPerdata Art. 1317, of an uncapped personal indemnity from individual shareholders, and of BANI arbitration for claims touching land title.
+1. Prepared from the Owners' questionnaire, the land due-diligence checklist, and the independent document audit — all listed under [Source documents to be attached](#source-documents-to-be-attached). Not Indonesian legal advice. Before signature, have Indonesian-licensed counsel/PPAT review the whole document, in particular Articles 4, 5 and 11 — enforceability of the third-party stipulation under KUHPerdata Art. 1317, of an uncapped personal indemnity from individual shareholders, and of BANI arbitration for claims touching land title.
 2. Complete all bracketed placeholders before signature: passport/KITAS numbers and addresses for all four Parties, the notarial deed number/date for the Appointment Deed once available, and the number of arbitrators in [Article 11.3](#article-11-governing-law-and-dispute-resolution).
 3. Appendices A, B and C are deferred to Supplementary Agreement No. 1 ([Article 2.5](#article-2-appointment-of-the-incoming-director)) and are not signed today — see the Index of Appendices and the staging section below. Have the Owners complete [Appendix C](#appendix-c-reconciliation-of-independent-audit-findings) item-by-item — confirmed or specifically corrected, initialled — before Supplementary Agreement No. 1 is signed. Anything left blank stays fully within the [Article 5](#article-5-indemnification) indemnity, same as today.
 4. The Appointment Deed (RUPS + notarial deed) is a separate, mandatory step this Agreement does not replace. Given Owner 1's term runs to ~4 January 2027, agree the sequencing and timing of that deed with the notary now, alongside this Agreement.
