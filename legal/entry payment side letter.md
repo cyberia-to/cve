@@ -30,7 +30,7 @@ Kept privately between the parties, referring to [[share sale entry]] (the notar
 >
 > **4. Confidentiality.** The parties keep the terms of this letter confidential, save where disclosure is required by law or by a competent authority.
 >
-> **5. Governing law and disputes.** This letter is governed by the laws of the Republic of Indonesia. Disputes are settled by good-faith negotiation and, failing agreement within 30 days, by arbitration under [[bani|BANI]] rules, seat Bali, in English.
+> **5. Governing law and disputes.** This letter is governed by the laws of the Republic of Indonesia. Disputes are settled by good-faith negotiation and, failing agreement within 30 days, by arbitration under [[bani|BANI]] rules, seat Bali, in English, and the Denpasar District Court (Pengadilan Negeri Denpasar) for enforcement of the award and for interim relief.
 >
 > **6. Counterparts.** This letter may be signed in counterparts, each of which is an original, together forming one instrument.
 >
