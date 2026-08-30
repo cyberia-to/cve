@@ -31,15 +31,21 @@ Akta Notaris I Wayan Paramarta Jaya, S.H., M.Kn., Kabupaten Tabanan · Nomor: [_
 
 ## Lampiran — Gambar Situasi — Annex — Site Plan
 
-![gambar situasi sinwood-25 — hasil survei triangulasi 13 titik dari titik pusat N](media/sinwood/sinwood-25-triangulated.svg)
+![gambar situasi sinwood-25 — proyeksi mendatar, 9 titik sudut, dengan panjang sisi](https://gateway.pinata.cloud/ipfs/bafkreiatjhwomk4t2z6xe32kcmvro3ielr7lypvnw2gxrbdzww5gmzbqa4)
 
-Diplot dari 26 jarak lapangan (13 sisi batas + 13 jarak radial dari titik pusat N) yang dicatat pada sketsa triangulasi tertanggal 29–30 Agustus 2026. Luas terhitung dari sketsa ini: **1.272,37 m² (12,72 are)**, diperiksa dengan dua metode independen (jumlah luas 13 segitiga menurut rumus Heron; dan rumus shoelace atas koordinat hasil rekonstruksi), keduanya bersesuaian, dan penutupan sudut keliling mencapai 359,994° dari 360° yang seharusnya.
+Denah di atas adalah proyeksi mendatar bidang tanah menurut peta bidang Perseroan: 9 titik sudut, panjang sisi sebagaimana tertera, keliling 127,7 m, luas proyeksi **±956 m²**.
 
-Angka ini menggantikan perkiraan **1.217,28 m²** yang sebelumnya tercantum dalam Pasal 1 — perkiraan itu keliru; **1.272,37 m²** adalah luas yang berlaku, dan Pasal 1 serta harga sewa pada Pasal 3 telah disesuaikan.
+Luas yang disebut dalam Pasal 1 — **1.272,37 m² (12,72 are)** — berasal dari pengukuran lapangan dengan pita ukur menurut metode triangulasi dari titik pusat N: 26 jarak (13 sisi batas dan 13 jarak radial) yang dicatat pada sketsa lapangan tertanggal 29–30 Agustus 2026. Tanah ini berteras dengan perbedaan tinggi, sehingga jarak yang diukur mengikuti permukaan tanah lebih panjang daripada proyeksi mendatarnya — perbandingan keliling kedua angka tersebut 1,175. Jumlah luas 13 segitiga menurut rumus Heron adalah 1.296,30 m²; setelah dikoreksi terhadap kelebihan sudut keliling sebesar 7,77°, hasilnya 1.268,93 m², yaitu selisih 0,27% terhadap angka dalam Pasal 1.
+
+Kedua angka mengukur hal yang berbeda: ±956 m² adalah luas proyeksi mendatar sebagaimana lazim dicatat oleh [[bpn|BPN]] dalam sertipikat, sedangkan 1.272,37 m² adalah luas permukaan tanah berteras yang benar-benar dapat dipakai. Pasal 1486 [[kuhperdata|KUHPerdata]] menjadikan selisih ini tidak menimbulkan tuntutan bagi Para Pihak, dan harga sewa tetap USD 20.000,00 terlepas dari selisih tersebut.
 
 ---
 
-This figure replaces the earlier **1,217.28 m²** estimate in Article 1 — that estimate was incorrect; **1,272.37 m²** is the governing area, and Article 1 and the rent in Article 3 have been updated accordingly.
+The plan above is the horizontal projection of the parcel as recorded on the Company's estate map: 9 corners, side lengths as marked, perimeter 127.7 m, plan area **±956 m²**.
+
+The area stated in Article 1 — **1,272.37 m² (12.72 are)** — comes from a tape survey on the ground by triangulation from centre station N: 26 distances (13 boundary sides and 13 radial distances) recorded on a field sketch dated 29–30 August 2026. The land is terraced with real elevation change, so distances measured along the ground surface run longer than their horizontal projection — the ratio of the two perimeters is 1.175. The sum of the 13 triangles by Heron's formula is 1,296.30 m²; corrected for the 7.77° angular excess around the centre, it gives 1,268.93 m², within 0.27% of the figure in Article 1.
+
+The two figures measure different things: ±956 m² is the horizontal projection, which is what [[bpn|BPN]] records on a certificate, while 1,272.37 m² is the surface area of the terraced ground actually available for use. Article 1486 of the [[kuhperdata|KUHPerdata]] means the difference gives neither Party a claim, and the rent stays fixed at USD 20,000.00 regardless of it.
 
 ## Pasal 2 — Jangka Waktu Sewa — Article 2 — Term of the Lease
 

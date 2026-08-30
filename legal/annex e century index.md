@@ -20,6 +20,8 @@ At signing (t₀) the year-0 rent R₀ splits by weight into fixed quantities at
 
 The quantities qᵢ never change for the life of this deed, and they travel with the interest on assignment under [§2.5.2](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders). The renewal price under §2.4 is L(T) = L₀ · I(T)/I(t₀).
 
+**First-year grace on a deferred balance.** Where a deed defers part of the price under an instalment schedule — a deposit at signing, the remainder within one year — the index does not apply within that first year: the deferred balance is paid at the fixed value set at signing, not revalued by I(t). The index prices apply only if the balance is not settled within the year and converts to the multi-year fallback schedule. The annual rent R(t) itself is unaffected by this grace — it tracks the basket from year one, as §3 sets out.
+
 ## 2. Basket and weights
 
 | leg | weight | primary fix | fallback |
