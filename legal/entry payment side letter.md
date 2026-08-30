@@ -10,7 +10,7 @@ icon: "🤝"
 
 Private agreement between two individuals · not a corporate document · not filed with any authority · draft
 
-Companion to [[share sale entry]] (the notarial deed). This letter records the payment actually made between the parties for the entry stake — a receipt fixing the real price behind the deed's recital. Nothing attaches to the shares themselves: they are the Buyer's outright, and no repayment or re-transfer arises on any exit ([[president director]] [§8](/cyber-valley/cve/legal/president-director#8-exit) — no buyout, no buyback).
+Kept privately between the parties, referring to [[share sale entry]] (the notarial deed) without forming any part of it. This letter records the payment actually made between the parties for the entry stake — a receipt fixing the real price behind the deed's recital. It is not delivered to the Notary, not submitted with the deed, and not part of the notarial file or any document handed to the Notary. Nothing attaches to the shares themselves: they are the Buyer's outright, and no repayment or re-transfer arises on any exit ([[president director]] [§8](/cyber-valley/cve/legal/president-director#8-exit) — no buyout, no buyback).
 
 ## Operative text
 
@@ -30,7 +30,7 @@ Companion to [[share sale entry]] (the notarial deed). This letter records the p
 >
 > **4. Confidentiality.** The parties keep the terms of this letter confidential, save where disclosure is required by law or by a competent authority.
 >
-> **5. Governing law and disputes.** This letter is governed by the laws of the Republic of Indonesia. Disputes are settled by good-faith negotiation and, failing agreement within 30 days, by arbitration under [[bani|BANI]] rules, seat Bali, in English.
+> **5. Governing law and disputes.** This letter is governed by the laws of the Republic of Indonesia. Disputes are settled by good-faith negotiation and, failing agreement within 30 days, by arbitration under [[bani|BANI]] rules, seat Bali, in English, and the Denpasar District Court (Pengadilan Negeri Denpasar) for enforcement of the award and for interim relief.
 >
 > **6. Counterparts.** This letter may be signed in counterparts, each of which is an original, together forming one instrument.
 >
@@ -38,7 +38,3 @@ Companion to [[share sale entry]] (the notarial deed). This letter records the p
 > |---|---|
 > | ALISA VOINOVA | __________________ |
 > | OLEKSANDR FEDOROV | __________________ |
-
-## Parties to this letter
-
-Signed by Alisa Voinova and Oleksandr Fedorov only. Dmitry Starodubtsev is not a party; his signature belongs on the [[preemption waiver letter]], Form B, waiving the [[rofr|ROFR]] over the Entry Shares.
