@@ -588,6 +588,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [5.1](#part-5-subletting) | area revenue charge | 10%, or 5% net-exporter | D10 | settled |
 | [5.1](#part-5-subletting) | settlement fee | 1 to 3% | D10 | settled |
 | [6.1](#part-6-the-plot-as-a-single-unit) | indicative area | per Plot | Annex B | per deal |
+| [3.1](#part-3-consideration) | Plot price | per Plot, per form (upfront / scheduled / rent) | [[annex j offer of record\|Annex J]], offer of record | per deal |
 | [8.1](#part-8-construction-control) | approval window | 10 working days | framework 5A.1 | settled |
 | [8.5](#part-8-construction-control) | completion security | — | framework 5A.5 | open |
 | [8.6](#part-8-construction-control) | defects period, retention | 12 months, 5% | framework 5A.6 | proposed |
