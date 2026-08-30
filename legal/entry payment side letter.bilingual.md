@@ -27,7 +27,3 @@ icon: "🤝"
 | **6. Rangkap.** Surat ini dapat ditandatangani dalam beberapa rangkap, yang masing-masing merupakan naskah asli, dan bersama-sama membentuk satu instrumen. | **6. Counterparts.** This letter may be signed in counterparts, each of which is an original, together forming one instrument. |
 | ALISA VOINOVA: __________________ | ALISA VOINOVA: __________________ |
 | OLEKSANDR FEDOROV: __________________ | OLEKSANDR FEDOROV: __________________ |
-
-## Para Pihak dalam Surat Ini — Parties to This Letter
-
-| Ditandatangani hanya oleh Alisa Voinova dan Oleksandr Fedorov. Dmitry Starodubtsev bukan merupakan pihak; tanda tangannya berada pada [[preemption waiver letter]], Formulir B, yang melepaskan [[rofr\|ROFR]] atas Saham Masuk. | Signed by Alisa Voinova and Oleksandr Fedorov only. Dmitry Starodubtsev is not a party; his signature belongs on the [[preemption waiver letter]], Form B, waiving the [[rofr\|ROFR]] over the Entry Shares. |

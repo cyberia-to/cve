@@ -38,7 +38,3 @@ Kept privately between the parties, referring to [[share sale entry]] (the notar
 > |---|---|
 > | ALISA VOINOVA | __________________ |
 > | OLEKSANDR FEDOROV | __________________ |
-
-## Parties to this letter
-
-Signed by Alisa Voinova and Oleksandr Fedorov only. Dmitry Starodubtsev is not a party; his signature belongs on the [[preemption waiver letter]], Form B, waiving the [[rofr|ROFR]] over the Entry Shares.
