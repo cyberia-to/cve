@@ -162,6 +162,15 @@ def convert(md):
         m = re.match(r'^(#{1,6})\s+(.*)$', L)
         if m:
             n = len(m.group(1)); out.append(f'<h{n}>{inline(m.group(2))}</h{n}>'); i += 1; continue
+        m = re.match(r'^\s*!\[([^\]]*)\]\(([^)]+)\)\s*$', L)
+        if m:
+            alt, src = m.group(1), m.group(2)
+            if not re.match(r'^(https?:|file:|data:)', src):
+                base = os.path.dirname(SOURCE[0]) if SOURCE[0] else '.'
+                src = pathlib.Path(os.path.join(base, src)).resolve().as_uri()
+            alt_esc = alt.replace('&', '&amp;').replace('"', '&quot;')
+            out.append(f'<img src="{src}" alt="{alt_esc}">')
+            i += 1; continue
         if re.match(r'^\s*(---|___|\*\*\*)\s*$', L):
             out.append('<hr>'); i += 1; continue
         if L.startswith('>'):
@@ -203,6 +212,7 @@ section.keep { break-inside: avoid-page; }
 h2 { font-size: 12.5pt; margin: 16pt 0 5pt; border-bottom: .5pt solid #999; padding-bottom: 2pt; page-break-after: avoid; }
 h3 { font-size: 11pt; margin: 12pt 0 4pt; page-break-after: avoid; }
 p { margin: 0 0 6pt; text-align: justify; }
+img { display: block; max-width: 100%; max-height: 320pt; margin: 8pt auto; page-break-inside: avoid; }
 table { border-collapse: collapse; width: 100%; margin: 6pt 0 10pt; font-size: 9.5pt; page-break-inside: auto; }
 th, td { border: .5pt solid #666; padding: 3pt 5pt; vertical-align: top; text-align: left; }
 th { background: #eee; font-weight: bold; }
