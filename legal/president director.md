@@ -100,7 +100,7 @@ Once per month (or written circular):
 | **Tranche B** | **5%** · exercise within **7 years** of start |
 | **Independence** | Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
 | **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of PD and founders |
-| **Source** | **only sale/transfer from founders** — **no new share issue** for this package. Option shares count against the cumulative total on the [§7](#7-kpi-ladder--ds--av--10-founders--company--1b) ladder, so the founders' ~10% residual is measured after both the ladder and this package |
+| **Source** | **only sale/transfer from founders** — **no new share issue** for this package. Option shares count against the cumulative total on the [§7](#7-kpi-ladder-ds-av-10-founders-company-1b) ladder, so the founders' ~10% residual is measured after both the ladder and this package |
 | **[[rofr|ROFR]]** | Transfers of option shares under this [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) are a **Permitted Transfer** under [[shareholders agreement]] Article 1(5) — exempt from the Matching Right; the transfer to PD proceeds directly on exercise, with no window for the other Shareholders to take the shares instead |
 
 Options ≠ KPI ladder ([§7](#7-kpi-ladder-ds-av-10-founders-company-1b)). Personal upside for the chair; shares come from founders’ holdings, not dilution by print.
