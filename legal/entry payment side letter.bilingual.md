@@ -16,7 +16,7 @@ icon: "🤝"
 ## Naskah Operasional — Operative Text
 
 | **SURAT TAMBAHAN — TANDA TERIMA PEMBAYARAN MASUK** | **SIDE LETTER — ENTRY PAYMENT RECEIPT** |
-| Surat ini dibuat pada tanggal __________ antara: | This letter is made on __________ between: |
+| Surat ini dibuat pada tanggal 31 Agustus 2026 antara: | This letter is made on 31 August 2026 between: |
 | **Nyonya ALISA VOINOVA**, warga negara Rusia, pemegang paspor Rusia [nomor tersimpan pada Perseroan], bertempat tinggal di Rusia ("Penjual"); dan | **ALISA VOINOVA**, Russian citizen, holder of a Russian passport [number on file with the Company], residing in Russia (the "Seller"); and |
 | **Tuan OLEKSANDR FEDOROV**, warga negara Ukraina, pemegang paspor Ukraina [nomor tersimpan pada Perseroan], beralamat sebagaimana tersimpan pada Perseroan ("Pembeli"). | **OLEKSANDR FEDOROV**, Ukrainian citizen, holder of a Ukrainian passport [number on file with the Company], of [address on file with the Company] (the "Buyer"). |
 | **1. Tanda terima pembayaran.** Penjual mengakui telah menerima dari Pembeli sejumlah **USD 40.000 (empat puluh ribu dolar Amerika Serikat)** sebagai imbalan yang disepakati antara para pihak secara pribadi untuk **80 (delapan puluh) saham** dalam PT. CYBER VALLEY ESTATE, yaitu 1% dari modal ditempatkan sebesar 8.040 saham ("Saham Masuk"). Surat ini merupakan tanda terima yang sah atas jumlah tersebut. | **1. Receipt of payment.** The Seller acknowledges having received from the Buyer the sum of **USD 40,000 (forty thousand United States dollars)** as the consideration agreed between the parties personally for **80 (eighty) shares** in PT. CYBER VALLEY ESTATE, being 1% of the issued capital of 8,040 shares (the "Entry Shares"). This letter is a valid receipt for that sum. |

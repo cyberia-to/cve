@@ -16,7 +16,7 @@ Companion to [[share sale entry]] (the notarial deed). This letter records the p
 
 > **SIDE LETTER — ENTRY PAYMENT RECEIPT**
 >
-> This letter is made on __________ between:
+> This letter is made on 31 August 2026 between:
 >
 > **ALISA VOINOVA**, Russian citizen, holder of a Russian passport [number on file with the Company], residing in Russia (the "Seller"); and
 >
