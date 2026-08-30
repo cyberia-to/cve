@@ -24,10 +24,10 @@ The Dutch civil code of 1838 was drafted by transposing the French Code civil, a
 
 ## [[kuhperdata|KUHPerdata]] — the same articles, still in force
 
-At independence, Indonesia kept colonial-era law in force under transitional constitutional provision until replaced. The Civil Code was not replaced on this point. [[kuhperdata|KUHPerdata]] Pasal 1486 is that same clause: a bounded parcel, sold or let as it stands, gives no claim from its stated measure — subject to the one-twentieth threshold, and subject to contracting out of it entirely, which the closing words of Pasal 1486 permit.
+At independence, Indonesia kept colonial-era law in force under transitional constitutional provision until replaced. The Civil Code was not replaced on this point. [[kuhperdata|KUHPerdata]] [Pasal 1486](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale) is that same clause: a bounded parcel, sold or let as it stands, gives no claim from its stated measure — subject to the one-twentieth threshold, and subject to contracting out of it entirely, which the closing words of [Pasal 1486](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale) permit.
 
 ## where the Estate uses it
 
-[[land rights agreement]] §2.7 invokes Pasal 1486 to lease every Plot *per aversionem* — as a single parcel within its boundaries, not by unit of area, with any stated figure indicative only.
+[[land rights agreement]] §2.7 invokes [Pasal 1486](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale) to lease every Plot *per aversionem* — as a single parcel within its boundaries, not by unit of area, with any stated figure indicative only.
 
-[[perjanjian sewa fedorov|The Fedorov lease]] carries the same waiver, added to Pasal 1 alongside the notary's own area description: the boundaries and site plan govern, the stated area is indicative, and the one-twentieth threshold under [[kuhperdata|KUHPerdata]] Pasal 1486 does not apply between the parties.
+[[perjanjian sewa fedorov|The Fedorov lease]] carries the same waiver, added to Pasal 1 alongside the notary's own area description: the boundaries and site plan govern, the stated area is indicative, and the one-twentieth threshold under [[kuhperdata|KUHPerdata]] [Pasal 1486](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale) does not apply between the parties.

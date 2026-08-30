@@ -35,7 +35,7 @@ Keputusan sirkuler Rapat Umum Pemegang Saham · PT. Cyber Valley Estate · ranca
 ## Keputusan — Resolutions
 
 | Para Pemegang Saham memutuskan sebagai berikut: | The Shareholders resolve as follows: |
-| **3.1 Susunan Direksi (bersyarat).** Berlaku hanya pada saat Penutupan berdasarkan [§4](#4-closing-single-condition-package): | **3.1 Board composition (conditional).** Effective only upon Closing under [§4](#4-closing-single-condition-package): |
+| **3.1 Susunan Direksi (bersyarat).** Berlaku hanya pada saat Penutupan berdasarkan [§4](#4-penutupan-satu-paket-syarat-closing-single-condition-package): | **3.1 Board composition (conditional).** Effective only upon Closing under [§4](#4-penutupan-satu-paket-syarat-closing-single-condition-package): |
 | **Oleksandr Fedorov**: diangkat sebagai **Direktur Utama** untuk masa jabatan menurut Anggaran Dasar | **Oleksandr Fedorov**: appointed **President Director** for the term under the Articles |
 | **Alisa Voinova**: Direktur; diangkat sebagai **Wakil Direktur Utama** | **Alisa Voinova**: Director; appointed **Deputy President Director** |
 | **Dmitry Starodubtsev**: tetap sebagai **Komisaris Utama** | **Dmitry Starodubtsev**: remains **President Commissioner** |

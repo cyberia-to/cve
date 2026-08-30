@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal
-alias: sinwood certificate, sinwood boundary, sinwood-25, sinwood-31
+alias: sinwood, sinwood certificate, sinwood boundary, sinwood-25, sinwood-31
 crystal-type: measure
 crystal-domain: socio
 crystal-size: article
@@ -76,7 +76,7 @@ That sketch is for the certificate's own outer boundary — the land the Company
 
 **Why flat and real differ.** The map layer's area is a flat projection of GPS boundary points. This ground is terraced with real elevation change between terraces, so the true surface area runs ahead of the flat figure — confirmed by the sinwood-25 triangulated survey (9.56 are flat → 12.72 are real). The two perimeters stand in the same relation: 127.7 m on the flat outline against 150.5 m measured along the ground, a ratio of 1.175. Until a plot is triangulated, treat its flat figure as a floor, not the final number.
 
-The shape of a plot comes from the flat outline, not from the tape survey. Slope distances measured across terraces do not compose into a plane — the thirteen angles around the sinwood-25 centre station sum to 367.77° rather than 360°, so a polygon reconstructed from them is distorted even though every individual triangle is sound. Use the map outline for the boundary drawing and the tape survey for the surface area. The site plan attached to [[perjanjian sewa fedorov]] is drawn that way. This is the practical case [[land rights agreement]] §2.7 and [[kuhperdata|KUHPerdata]] Pasal 1486 are written for: the akta demises the Plot within its boundary marks, not by the flat number, precisely because the flat number is known to understate a terraced Plot.
+The shape of a plot comes from the flat outline, not from the tape survey. Slope distances measured across terraces do not compose into a plane — the thirteen angles around the sinwood-25 centre station sum to 367.77° rather than 360°, so a polygon reconstructed from them is distorted even though every individual triangle is sound. Use the map outline for the boundary drawing and the tape survey for the surface area. The site plan attached to [[perjanjian sewa fedorov]] is drawn that way. This is the practical case [[land rights agreement]] §2.7 and [[kuhperdata|KUHPerdata]] [Pasal 1486](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale) are written for: the akta demises the Plot within its boundary marks, not by the flat number, precisely because the flat number is known to understate a terraced Plot.
 
 ### sinwood-25:@alex_dzin — vertices
 
