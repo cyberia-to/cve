@@ -41,7 +41,7 @@ icon: "🧭"
 
 | Sekali sebulan (atau sirkuler tertulis): | Once per month (or written circular): |
 | PD mengajukan **usulan** (props) untuk pengeluaran strategis dan keputusan material | PD tables **proposals** (props) for strategic spend and material decisions |
-| Persetujuan oleh **satu komisaris atau Wakil Direktur Utama** sudah cukup | Approval by **one commissioner or the Deputy President Director** is enough |
+| Persetujuan oleh **satu komisaris** sudah cukup | Approval by **one commissioner** is enough |
 | Operasional di dalam amplop bulanan yang telah disetujui tidak memerlukan komisaris setiap kali | Ops inside the approved monthly envelope needs no commissioner each time |
 
 ## 4. Pendanaan Operasional (bulanan) — Ops funding (monthly)
@@ -57,7 +57,7 @@ icon: "🧭"
 | **Batas bawah pasar**: **USD 3,000 / are (sotka)** — di bawah ini = di bawah pasar kecuali disetujui | **Market floor**: **USD 3,000 / are (sotka)** — under this = below market unless approved |
 | **Kontrak di atas 2%**: setiap kontrak dengan nilai di atas **2% dari modal ditempatkan** memerlukan persetujuan | **Contracts above 2%**: Any contract with a value above **2% of the issued capital (modal ditempatkan)** requires approval |
 | **Tanpa hipotek**: PD **tidak dapat** menjaminkan atau menghipotekkan **real estat** Perseroan (atau [[spv\|SPV]] yang dikendalikan) untuk pinjaman | **No mortgage**: PD **cannot** pledge or mortgage Company (or controlled [[spv\|SPV]]) **real estate** for loans |
-| **Kuorum persetujuan**: untuk setiap persetujuan yang disyaratkan dokumen ini: **satu komisaris atau Wakil Direktur Utama** sudah cukup | **Approval quorum**: for every approval this document requires: **one commissioner or the Deputy President Director** is enough |
+| **Kuorum persetujuan**: untuk setiap persetujuan yang disyaratkan dokumen ini: **satu komisaris** sudah cukup | **Approval quorum**: for every approval this document requires: **one commissioner** is enough |
 
 ## 6. Opsi — hingga 10% pada $4M (penjualan dari pendiri saja) — Options — up to 10% at $4M (sale from founders only)
 
@@ -248,8 +248,8 @@ icon: "🧭"
 
 | Nama / Name | Jabatan / Position | Bertindak sebagai / Signs as | Tanda tangan dan tanggal / Signature and date |
 |---|---|---|---|
-| **DMITRY STARODUBTSEV** | Komisaris Utama / President Commissioner | untuk dan atas nama PT CYBER VALLEY ESTATE; sebagai pemegang hak persetujuan berdasarkan §3 dan §5; dan atas namanya sendiri sebagai Pendiri dan penjual saham berdasarkan §6 dan §7 / for and on behalf of PT CYBER VALLEY ESTATE; as holder of the approval right under §3 and §5; and in his own name as Founder and seller of shares under §6 and §7 | |
-| **ALISA VOINOVA** | Wakil Direktur Utama / Deputy President Director | sebagai pemegang hak persetujuan berdasarkan §3 dan §5; dan atas namanya sendiri sebagai Pendiri dan penjual saham berdasarkan §6 dan §7 / as holder of the approval right under §3 and §5; and in her own name as Founder and seller of shares under §6 and §7 | |
+| **ALISA VOINOVA** | Komisaris Utama / President Commissioner | untuk dan atas nama PT CYBER VALLEY ESTATE; sebagai pemegang hak persetujuan berdasarkan §3 dan §5; dan atas namanya sendiri sebagai Pendiri dan penjual saham berdasarkan §6 dan §7 / for and on behalf of PT CYBER VALLEY ESTATE; as holder of the approval right under §3 and §5; and in her own name as Founder and seller of shares under §6 and §7 | |
+| **DMITRY STARODUBTSEV** | Komisaris / Commissioner | sebagai pemegang hak persetujuan berdasarkan §3 dan §5; dan atas namanya sendiri sebagai Pendiri dan penjual saham berdasarkan §6 dan §7 / as holder of the approval right under §3 and §5; and in his own name as Founder and seller of shares under §6 and §7 | |
 | **OLEKSANDR FEDOROV** | Direktur Utama / President Director | menerima penawaran sebagaimana diatur dalam dokumen ini / accepting the offer set out in this document | |
 
 | Rancangan hingga ditandatangani. | Draft until signed. |

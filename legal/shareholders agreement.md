@@ -12,7 +12,7 @@ English text · supplementary to Articles 5 and 7 of the [[articles of associati
 
 ## Parties
 
-This Agreement is made on 31 August 2026 by and between: (1) ALISA VOINOVA, Deputy President Director-designate, holder of 3,940 shares following the transfer referred to in paragraph 2; (2) DMITRY STARODUBTSEV, President Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, President Director-designate, holder of 80 shares following the transfer; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it.
+This Agreement is made on 31 August 2026 by and between: (1) ALISA VOINOVA, President Commissioner-designate, holder of 3,940 shares following the transfer referred to in paragraph 2; (2) DMITRY STARODUBTSEV, Commissioner, holder of 4,020 shares; and (3) OLEKSANDR FEDOROV, President Director-designate, holder of 80 shares following the transfer; together the "Shareholders" and each a "Shareholder", and binds PT. CYBER VALLEY ESTATE (the "Company") to the extent the Company gives effect to the registration of share transfers under it.
 
 ## Preamble
 
@@ -119,6 +119,6 @@ Place, date: __________________
 
 | party | office | signature |
 |---|---|---|
-| Alisa Voinova | Deputy President Director (designate) | |
-| Dmitry Starodubtsev | President Commissioner | |
+| Alisa Voinova | President Commissioner (designate) | |
+| Dmitry Starodubtsev | Commissioner | |
 | Oleksandr Fedorov | President Director (designate) | |

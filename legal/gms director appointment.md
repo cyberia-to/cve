@@ -17,7 +17,7 @@ Circular resolution of the General Meeting of Shareholders · PT. Cyber Valley E
 
 ## 1. Authority
 
-Under [[articles of association]] Article 11, the GMS appoints members of the Board of Directors. This resolution may be adopted by circular written consent of all shareholders (where the Articles allow) or in a convened meeting with the same substance.
+Under [[articles of association]] Article 11, the GMS appoints members of the Board of Directors, and under Article 14(3) it appoints members of the Board of Commissioners. This resolution does both: it seats the President Director and it moves Voinova from the one organ to the other. It may be adopted by circular written consent of all shareholders (where the Articles allow) or in a convened meeting with the same substance.
 
 ## 2. Parties on the register (before closing)
 
@@ -39,16 +39,16 @@ Effective only upon Closing under [§4](#4-closing-single-condition-package):
 | person | office |
 |---|---|
 | **Oleksandr Fedorov** | appointed **President Director** for the term under the Articles |
-| **Alisa Voinova** | Director; appointed **Deputy President Director** |
-| **Dmitry Starodubtsev** | remains **President Commissioner** |
+| **Alisa Voinova** | resigns from the Board of Directors; appointed **President Commissioner** |
+| **Dmitry Starodubtsev** | **Commissioner** |
 
-One person may not sit on both organs. Voinova sits on the Board of Directors before and after Closing; her office changes to Deputy President Director. The composition of the Board of Commissioners does not change: Starodubtsev continues as its sole member under Articles 15(4).
+One person may not sit on both organs. Voinova leaves the Board of Directors at Closing and takes a seat on the Board of Commissioners as President Commissioner, so the Board of Directors is Fedorov alone. The Board of Commissioners goes from one member to two — Voinova as President Commissioner, Starodubtsev as Commissioner — as Article 14(1) permits once more than one member is appointed. Article 15(4), the sole-member fallback under which a single Commissioner exercised President Commissioner authority, ceases to apply on the second appointment. Two consequences follow from Article 16: a meeting is quorate only with both members present or represented (16(8), more than one-half of two), and the President Commissioner holds the casting vote in a tie (16(10)).
 
 **3.2 Dual accounts.**  
-To confirm the dual-account regime in [[president director]] [§§2–4](/cyber-valley/cve/legal/president-director#2-dual-accounts): strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **one Commissioner or the Deputy President Director**; monthly funding transfer strategic → operational.
+To confirm the dual-account regime in [[president director]] [§§2–4](/cyber-valley/cve/legal/president-director#2-dual-accounts): strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **one Commissioner**; monthly funding transfer strategic → operational.
 
 **3.3 Land and credit limits.**  
-To bind the President Director to [[president director]] [§5](/cyber-valley/cve/legal/president-director#5-land-and-credit-hard-limits): [[hgb|HGB]] grants, transfers and disposals **only with approval**; hak sewa below **USD 3,000 per are** needs approval; any contract above **2% of the issued capital** needs approval — one Commissioner or the Deputy President Director is enough in each case; **no power** to mortgage Company real estate for loans.
+To bind the President Director to [[president director]] [§5](/cyber-valley/cve/legal/president-director#5-land-and-credit-hard-limits): [[hgb|HGB]] grants, transfers and disposals **only with approval**; hak sewa below **USD 3,000 per are** needs approval; any contract above **2% of the issued capital** needs approval — one Commissioner is enough in each case; **no power** to mortgage Company real estate for loans.
 
 **3.4 Entry equity.**  
 To approve the transfer of **80 shares (1%)** from Alisa Voinova to the President Director at **Rp 200,000,000** — the price at the agreed company valuation of Rp 20,100,000,000 (the issued and fully paid capital, Rp 2,500,000 per share) — under [[share sale entry]], as part of the same Closing.
@@ -81,8 +81,8 @@ Place, date: __________________
 
 | name | capacity | signature |
 |---|---|---|
-| Alisa Voinova | shareholder / Director (until Closing); Deputy President Director from Closing | |
-| Dmitry Starodubtsev | shareholder / President Commissioner | |
+| Alisa Voinova | shareholder / Director (until Closing); President Commissioner from Closing | |
+| Dmitry Starodubtsev | shareholder / sole Commissioner (until Closing); Commissioner from Closing | |
 | Oleksandr Fedorov | accepts the office of President Director **at Closing only** | |
 
 Bahasa Indonesia prevails on the notarial form if executed bilingually.

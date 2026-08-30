@@ -16,7 +16,7 @@ Personal instrument from the **Owners** (Alisa Voinova, Dmitry Starodubtsev) to 
 
 **(1)** PT CYBER VALLEY ESTATE, a limited liability company with foreign investment (Penanaman Modal Asing / PT [[pma|PMA]]) duly established and existing under the laws of the Republic of Indonesia, incorporated by Deed of Establishment (Akta Pendirian) No. 01 dated 4 January 2022 before Dewa Ayu Agung Dewi Utami, S.H., M.Kn., Notary in Denpasar, ratified by the Minister of Law and Human Rights under Decision No. AHU-0001412.AH.01.01.Tahun 2022 dated 7 January 2022, registered address Desa Gesing, Kecamatan Banjar, Kabupaten Buleleng, Provinsi Bali 81152, [[nib|NIB]] 2504220016017, NPWP 53.898.326.3-902.000 (the "Company");
 
-**(2)** ALISA VOINOVA, holder of [passport / KITAS No. •], of [address •], a shareholder holding 50% of the issued shares in the Company and, as at the Effective Date, the Company's Director ("Owner 1");
+**(2)** ALISA VOINOVA, holder of [passport / KITAS No. •], of [address •], a shareholder holding 50% of the issued shares in the Company, the Company's Director until the Effective Date and, from the Effective Date, its President Commissioner ("Owner 1");
 
 **(3)** DMITRY STARODUBTSEV, holder of [passport No. •], of [address •], a shareholder holding 50% of the issued shares in the Company and the Company's Commissioner ("Owner 2", and together with Owner 1, jointly and severally, the "Owners"); and
 
@@ -191,7 +191,7 @@ Place, date: __________________
 | party | capacity | signature |
 |---|---|---|
 | PT Cyber Valley Estate | acting as Director of the Company, with approval of the Board of Commissioners / shareholders where required | |
-| Alisa Voinova | personal capacity as Owner 1 (and, if applicable, outgoing Director) | |
+| Alisa Voinova | personal capacity as Owner 1 (and, if applicable, outgoing Director and incoming President Commissioner) | |
 | Dmitry Starodubtsev | personal capacity as Owner 2 (and, if applicable, Commissioner) | |
 | Oleksandr Fedorov | personal capacity as Incoming Director | |
 
@@ -225,7 +225,7 @@ The working documents this Agreement was built from. They are named here so they
 - **Signs independently:** full representation of the Company in and out of court; ordinary-course contracts under Articles Art. 3 (lease, leasehold, land-rights transfers within KBLI 68111/68200, Land Rights Agreements with local residents); HR documents; opening/operating/closing bank accounts; day-to-day operations (Art. 12(1)–(2)).
 - **Needs Commissioner's consent:** loans/borrowings in any form; pledging, encumbering, or mortgaging any asset (incl. HGB, Hak Pakai); loans to third parties and corporate guarantees; disposal of core assets outside the ordinary course; establishing/acquiring interests in other companies; changing the Company's core business activity (Art. 12(3)); the annual plan/budget before each year begins (Art. 17); share certificates (Art. 5.9).
 - **Needs RUPS consent:** loans, pledging land, and changing the core business (double-key: Commissioner + RUPS); issuing new shares; amending the Articles; appointing/removing directors or commissioners; transferring shares to a non-shareholder (Art. 7.6); profit distribution; and, by statute ([[uu 40-2007 perseroan terbatas|UU 40/2007]] Art. 102), disposing of or pledging more than 50% of the Company's assets.
-- **Payment/contracting limits:** any contract with a value above **2% of the issued capital (modal ditempatkan)** requires prior approval — **one commissioner or the Deputy President Director** is enough. On top of that, structural control — any disbursement from the main revenue account requires two signatures (two-to-sign).
+- **Payment/contracting limits:** any contract with a value above **2% of the issued capital (modal ditempatkan)** requires prior approval — **one commissioner** is enough. On top of that, structural control — any disbursement from the main revenue account requires two signatures (two-to-sign).
 - **Bank account access:** Director opens/operates accounts; disbursements need maker (Director) + authorizer (Commissioner); one person cannot hold both roles for the same transaction (Art. 12(4)).
 - **Payment roles:** initiator (maker) — Director; confirmer (authorizer) — Komisaris Utama and/or a designated commissioner.
 - **Hire/fire staff:** yes, fully independently (Art. 12(2)(a)).
