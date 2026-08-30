@@ -41,7 +41,7 @@ icon: "🧭"
 
 | Sekali sebulan (atau sirkuler tertulis): | Once per month (or written circular): |
 | PD mengajukan **usulan** (props) untuk pengeluaran strategis dan keputusan material | PD tables **proposals** (props) for strategic spend and material decisions |
-| Persetujuan oleh **satu komisaris** sudah cukup | Approval by **one commissioner** is enough |
+| Persetujuan oleh **salah satu komisaris** sudah cukup | Approval by **either commissioner** is enough |
 | Operasional di dalam amplop bulanan yang telah disetujui tidak memerlukan komisaris setiap kali | Ops inside the approved monthly envelope needs no commissioner each time |
 
 ## 4. Pendanaan Operasional (bulanan) — Ops funding (monthly)
@@ -57,7 +57,7 @@ icon: "🧭"
 | **Batas bawah pasar**: **USD 3,000 / are (sotka)** — di bawah ini = di bawah pasar kecuali disetujui | **Market floor**: **USD 3,000 / are (sotka)** — under this = below market unless approved |
 | **Kontrak di atas 2%**: setiap kontrak dengan nilai di atas **2% dari modal ditempatkan** memerlukan persetujuan | **Contracts above 2%**: Any contract with a value above **2% of the issued capital (modal ditempatkan)** requires approval |
 | **Tanpa hipotek**: PD **tidak dapat** menjaminkan atau menghipotekkan **real estat** Perseroan (atau [[spv\|SPV]] yang dikendalikan) untuk pinjaman | **No mortgage**: PD **cannot** pledge or mortgage Company (or controlled [[spv\|SPV]]) **real estate** for loans |
-| **Kuorum persetujuan**: untuk setiap persetujuan yang disyaratkan dokumen ini: **satu komisaris** sudah cukup | **Approval quorum**: for every approval this document requires: **one commissioner** is enough |
+| **Kuorum persetujuan**: untuk setiap persetujuan yang disyaratkan dokumen ini: **salah satu komisaris** sudah cukup. Komisaris Utama dan Komisaris masing-masing memegang hak persetujuan secara mandiri, dan tanda tangan salah satu dari mereka sudah memadai | **Approval quorum**: for every approval this document requires: **either commissioner** is enough. The President Commissioner and the Commissioner each hold the approval right independently, and the signature of one of them is sufficient |
 
 ## 6. Opsi — hingga 10% pada $4M (penjualan dari pendiri saja) — Options — up to 10% at $4M (sale from founders only)
 

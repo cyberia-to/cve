@@ -64,7 +64,7 @@ Revenue lands on **strategic** only. No silent mixing.
 Once per month (or written circular):
 
 - PD tables **proposals** (props) for strategic spend and material decisions  
-- Approval by **one commissioner** is enough  
+- Approval by **either commissioner** is enough  
 - Ops inside the approved monthly envelope needs no commissioner each time  
 
 ---
@@ -86,7 +86,7 @@ Once per month (or written circular):
 | **Market floor** | **USD 3,000 / are (sotka)** — under this = below market unless approved |
 | **Contracts above 2%** | Any contract with a value above **2% of the issued capital (modal ditempatkan)** requires approval |
 | **No mortgage** | PD **cannot** pledge or mortgage Company (or controlled [[spv|SPV]]) **real estate** for loans |
-| **Approval quorum** | for every approval this document requires: **one commissioner** is enough |
+| **Approval quorum** | for every approval this document requires: **either commissioner** is enough. The President Commissioner and the Commissioner each hold the approval right independently, and the signature of one of them is sufficient |
 
 ---
 
