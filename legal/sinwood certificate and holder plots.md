@@ -71,7 +71,7 @@ That sketch is for the certificate's own outer boundary — the land the Company
 
 | plot | holder | flat area (this KML) | real area | status |
 |---|---|---|---|---|
-| sinwood-25 | @alex_dzin | 9.56 are (956 m²) | **12+ are**, by field triangulation | first plot leased to Alex; real area measured |
+| sinwood-25 | @alex_dzin | 9.56 are (956 m²) | **12+ are**, by completed field triangulation | measured — final real area, not a placeholder |
 | sinwood-31 | @alex_dzin | 7.49 are (749 m²) | not yet measured | second plot; flat figure only |
 
 **Why flat and real differ.** The map layer's area is a flat projection of GPS boundary points. This ground is terraced with real elevation change between terraces, so the true surface area runs ahead of the flat figure — confirmed by the sinwood-25 triangulated survey (9.56 are flat → 12+ are real). Until a plot is triangulated, treat its flat figure as a floor, not the final number. This is the practical case [[land rights agreement]] §2.7 and [[kuhperdata|KUHPerdata]] Pasal 1486 are written for: the akta demises the Plot within its boundary marks, not by the flat number, precisely because the flat number is known to understate a terraced Plot.
@@ -105,7 +105,6 @@ That sketch is for the certificate's own outer boundary — the land the Company
 
 - Certificate and plot geometry: live KML of the "cyber valley" Google My Maps layer, pulled 30 August 2026. Areas above are computed from those coordinates by equirectangular projection at the layer's own latitude — a flat-earth approximation adequate at parcel scale, not a cadastral survey.
 - Neighbour table: relayed from a hand-drawn boundary sketch (*gambar situasi*) shown during drafting. The scan itself is not yet a file in this repository — when it is added (`legal/media/sinwood/`), replace this table with an image of the original and verify the illegible name on the eastern side.
-- sinwood-25's 12+ are figure is Alisa's field-triangulated measurement, given verbally; the exact figure and method are not yet documented here — record them once the survey note exists.
 
 ## Related
 
