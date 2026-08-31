@@ -8,7 +8,7 @@ icon: "🖋"
 ---
 # Leasehold Agreement — Perjanjian Tambahan Perlindungan Penyewa / Supplemental Deed of Lessee Protections
 
-PT Cyber Valley Estate ↔ Oleksandr Fedorov — dibuat di bawah tangan pada tanggal 31 Agustus 2026, di [___]. / made privately (*di bawah tangan*) on 31 August 2026, at [___].
+PT Cyber Valley Estate ↔ Oleksandr Fedorov — dibuat di bawah tangan pada tanggal 31 Agustus 2026, di Desa Gesing. / made privately (*di bawah tangan*) on 31 August 2026, at Desa Gesing.
 
 | Bahasa Indonesia | English |
 |---|---|
