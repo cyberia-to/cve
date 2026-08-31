@@ -101,6 +101,12 @@ This Article does not set President Director compensation — that is [[presiden
 2. Amendments to this Agreement are valid only if made in writing and signed by all Shareholders.
 3. This Agreement is governed by the laws of the Republic of Indonesia.
 
+## Article 9 — Refund on refusal of registration
+
+1. If the competent state authority (the Directorate General of General Legal Administration, Ministry of Law and Human Rights) refuses to register Oleksandr Fedorov's entry as a shareholder of the Company under [[share sale entry]], or refuses to register his appointment as President Director under [[gms director appointment]], the Company shall procure that every sum paid by him for the Entry Shares — under [[share sale entry]] and, where applicable, [[entry payment side letter]] — is returned to him in full within 30 (thirty) days of the refusal becoming final.
+2. On that refund, Oleksandr Fedorov's Entry Shares are transferred back to Alisa Voinova and he ceases to be a Shareholder and a Director; his indemnity, disclosure and other obligations under the entry pack lapse with the transaction, save for confidentiality.
+3. This Article covers the completed transaction failing to register; it does not add to or diminish the closing mechanics in [[gms director appointment]] [§4](/cyber-valley/cve/legal/04-gms-director-appointment/gms-director-appointment#4-closing-single-condition-package), which govern the deal never closing in the first place.
+
 ## Addendum 1 — passport renewal (Oleksandr Fedorov)
 
 Addendum dated 31 August 2026 to CVE/SHA/2026-01, made to keep the identification of a Shareholder current as his identity document is renewed.
