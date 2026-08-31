@@ -9,7 +9,7 @@ icon: "🔍"
 
 # Annex I — Due Diligence Pack
 
-Annexed to [[land rights agreement]]. Delivered to the Holder before signing, per [9B.2](/cyber-valley/cve/legal/11-land-rights-agreement#9b-title-warranties-negative-pledge-and-indemnity): "certified copy of the Title certificate, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR document." One Annex I is assembled per Plot, at signing.
+Annexed to [[land rights agreement]]. Delivered to the Holder before signing, per [9B.2](/cyber-valley/cve/legal/10-land-rights-agreement#9b-title-warranties-negative-pledge-and-indemnity): "certified copy of the Title certificate, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR document." One Annex I is assembled per Plot, at signing.
 
 ## Checklist
 

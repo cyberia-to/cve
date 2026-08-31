@@ -14,7 +14,7 @@ foreign Holder can reach.
 
 ## Where it appears
 
-[[hak sewa deed]] Part [12.1](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) — Track F, the upgrade route — and [[land rights agreement]] §3. [[leasehold agreement]] Pasal 6 carries the same route for the Fedorov lease.
+[[hak sewa deed]] Part [12.1](/cyber-valley/cve/legal/09-hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) — Track F, the upgrade route — and [[land rights agreement]] §3. [[leasehold agreement]] Pasal 6 carries the same route for the Fedorov lease.
 
 ## The term
 

@@ -131,11 +131,11 @@ Charter [§5](#5-missing-instruments): "The core is car-free. Vehicles stop at t
 
 ### M8. The PT PMA ↔ Cyberia DAO bridge is not laid
 
-Charter [§10](/cyber-valley/cve/legal/11-land-rights-agreement#10-termination-and-end-of-term) calls DAO-side representations of PT PMA lease registry entries "the single most important legal engineering task of phase 0–1". Tokenisation: parking slots first, then derivatives of residential leases. The agreement contains neither a register of leases, nor a clause on the on-chain representation of the right, nor a rule of priority where the register and the on-chain entry diverge — even though such a rule already exists for CX (T8) and can be taken as the model.
+Charter [§10](/cyber-valley/cve/legal/10-land-rights-agreement#10-termination-and-end-of-term) calls DAO-side representations of PT PMA lease registry entries "the single most important legal engineering task of phase 0–1". Tokenisation: parking slots first, then derivatives of residential leases. The agreement contains neither a register of leases, nor a clause on the on-chain representation of the right, nor a rule of priority where the register and the on-chain entry diverge — even though such a rule already exists for CX (T8) and can be taken as the model.
 
-### M9. The long-term land model against [§10](/cyber-valley/cve/legal/11-land-rights-agreement#10-termination-and-end-of-term) of the agreement
+### M9. The long-term land model against [§10](/cyber-valley/cve/legal/10-land-rights-agreement#10-termination-and-end-of-term) of the agreement
 
-Charter [§10](/cyber-valley/cve/legal/11-land-rights-agreement#10-termination-and-end-of-term): "Buildings and use-rights trade; the land itself does not", trending towards a community land trust. Agreement [§10](/cyber-valley/cve/legal/11-land-rights-agreement#10-termination-and-end-of-term) leaves the fate of Improvements open: (a) demolition, (b) transfer to the Landowner free of charge, (c) transfer against compensation.
+Charter [§10](/cyber-valley/cve/legal/10-land-rights-agreement#10-termination-and-end-of-term): "Buildings and use-rights trade; the land itself does not", trending towards a community land trust. Agreement [§10](/cyber-valley/cve/legal/10-land-rights-agreement#10-termination-and-end-of-term) leaves the fate of Improvements open: (a) demolition, (b) transfer to the Landowner free of charge, (c) transfer against compensation.
 
 Variant (b) contradicts the charter's thesis: if the value of the buildings belongs to the Holders, a free transfer at the end of the term expropriates it. Related to B2: the promise of "extension pre-agreed" is economically the answer — under guaranteed renewal the question of the end of term barely arises; but if the master title is not renewed, the question arises instantly and there is no answer.
 
@@ -164,7 +164,7 @@ Through a management company is precisely a management commission. Choose one.
 
 - agreement [§4.3](#4-missing-clauses): plots of 500–600 m², to stay within the simplified route for conversion to hak milik.
 - charter [§5](#5-missing-instruments): "plots of 5–15 are", that is 500–1500 m².
-- charter [§13](/cyber-valley/cve/legal/11-land-rights-agreement#13-general-provisions), open item 1: 5 are against 10 are — undecided, "gates Wave 1 marketing".
+- charter [§13](/cyber-valley/cve/legal/10-land-rights-agreement#13-general-provisions), open item 1: 5 are against 10 are — undecided, "gates Wave 1 marketing".
 
 A plot above 600 m² takes an Indonesian buyer out of the simplified route and requires a constatering report. Add the declaration of no more than 5 parcels or 5,000 m² in aggregate. The decision on the grain is simultaneously a decision on whether instrument E works at all.
 
@@ -183,14 +183,14 @@ Adjacent, and of the same class: the `hak sewa` page sells re-letting of land on
 Beyond the above, the skeleton lacks:
 
 1. Force majeure. The site is on the slope of Mount Sanghyang at 1,200–1,500 m, with a rainy season and landslide gradients. Seismic and volcanic activity are not mentioned once.
-2. Insurance after construction. [§5A.4](/cyber-valley/cve/legal/11-land-rights-agreement#5a-construction-control-handover-and-indemnity) covers the construction period and stops at completion.
-3. Quiet enjoyment. Named in [§9A.3](/cyber-valley/cve/legal/11-land-rights-agreement#9a-licences-warranty-and-licence-event-regime) as a condition, but the covenant itself is absent.
+2. Insurance after construction. [§5A.4](/cyber-valley/cve/legal/10-land-rights-agreement#5a-construction-control-handover-and-indemnity) covers the construction period and stops at completion.
+3. Quiet enjoyment. Named in [§9A.3](/cyber-valley/cve/legal/10-land-rights-agreement#9a-licences-warranty-and-licence-event-regime) as a condition, but the covenant itself is absent.
 4. Encumbrance of the right. Whether the Holder may charge a hak sewa is a question of buyer financing, and there is no answer.
 5. Succession and the death of the Holder. Over 25+25 years this is not a rare event.
 6. Adat. For a Balinese estate the absence of subak, banjar, awig-awig desa adat, ceremonial passage and customary obligations is a large gap. `sempadan sungai` and subak are mentioned once in [§2.7](#2-mismatches-against-the-charter-strategy-v2-0) as somebody else's risk. The charter meanwhile spends 10% of recurring income on the desa share and calls it a guardrail on tone.
-7. VAT. [§12](/cyber-valley/cve/legal/11-land-rights-agreement#12-taxes-currency-and-costs) lists PPh, [[bphtb|BPHTB]], notarial fees and [[pbb|PBB]]. VAT on the lease of land and buildings is not mentioned — confirm the rate and base with an adviser, and who bears it.
+7. VAT. [§12](/cyber-valley/cve/legal/10-land-rights-agreement#12-taxes-currency-and-costs) lists PPh, [[bphtb|BPHTB]], notarial fees and [[pbb|PBB]]. VAT on the lease of land and buildings is not mentioned — confirm the rate and base with an adviser, and who bears it.
 8. Currency of account against currency of payment. There is no express clause.
-9. KYC and source of funds. [§9](/cyber-valley/cve/legal/11-land-rights-agreement#9-representations) gives a representation, with no procedure.
+9. KYC and source of funds. [§9](/cyber-valley/cve/legal/10-land-rights-agreement#9-representations) gives a representation, with no procedure.
 10. Boilerplate: notices, entire agreement, counterparts and electronic signature, the language of notices and correspondence, severability.
 11. Personal data. Publishing plot analysis results to the cyberia ledger is a disclosure tied to an identifiable person; a processing basis and a scope are needed.
 
@@ -231,7 +231,7 @@ Fifteen forks. Without answers the template will be a set of brackets.
 8. C4 — the settlement currency of a sublet and its licensing perimeter.
 9. M5 — the definition of revenue, and the body and procedure confirming net exporter status for the 5% rate.
 10. M9 — the fate of Improvements at the end of term: (a), (b) or (c), and separately for the three termination scenarios.
-11. [§0](/cyber-valley/cve/legal/11-land-rights-agreement#0-threshold-requirements-apply-to-every-track) — the actual remaining length of the HGB, and what happens to 25+25 if it is shorter than the sum.
+11. [§0](/cyber-valley/cve/legal/10-land-rights-agreement#0-threshold-requirements-apply-to-every-track) — the actual remaining length of the HGB, and what happens to 25+25 if it is shorter than the sum.
 12. [§2.6](#2-mismatches-against-the-charter-strategy-v2-0) — sublet as a right, or as a right subject to consent.
 13. [§8](#8-proposed-structure-of-the-v0-4-package) — the Association: who incorporates it, what the quorum is, and how it relates to the DAO layer.
 14. M8 — the form of on-chain representation of a lease and the rule of priority on divergence.

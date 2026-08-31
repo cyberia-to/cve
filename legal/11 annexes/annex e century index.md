@@ -8,7 +8,7 @@ icon: "📈"
 ---
 # Annex E — Index Annex
 
-Annexed to [[land rights agreement]]. Referred to in [§2.3](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) as the unit of account for indexed consideration, and in §2.4 as the renewal formula. On any conflict between this annex and the prose of the deed, this annex prevails.
+Annexed to [[land rights agreement]]. Referred to in [§2.3](/cyber-valley/cve/legal/10-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) as the unit of account for indexed consideration, and in §2.4 as the renewal formula. On any conflict between this annex and the prose of the deed, this annex prevails.
 
 The unit is the [[cx|century index]] — a fixed basket of eight world assets. What is fixed at signing is the set of quantities; what moves is their price. General protocol and basket rationale: [[cyberia/protocol/century-index|century index]] — that page still documents the collar as the general design; this annex is the CVE-specific implementation and the collar does not apply here (§3). Where the two disagree on the machine itself, this annex governs for any deed under [[land rights agreement]].
 
@@ -18,7 +18,7 @@ At signing (t₀) the year-0 rent R₀ splits by weight into fixed quantities at
 
     qᵢ = wᵢ · R₀ / Pᵢ(t₀)          R(t) = Σ qᵢ · Pᵢ(t)
 
-The quantities qᵢ never change for the life of this deed, and they travel with the interest on assignment under [§2.5.2](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders). The renewal price under §2.4 is L(T) = L₀ · I(T)/I(t₀).
+The quantities qᵢ never change for the life of this deed, and they travel with the interest on assignment under [§2.5.2](/cyber-valley/cve/legal/10-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders). The renewal price under §2.4 is L(T) = L₀ · I(T)/I(t₀).
 
 **First-year grace on a deferred balance.** Where a deed defers part of the price under an instalment schedule — a deposit at signing, the remainder within one year — the index does not apply within that first year: the deferred balance is paid at the fixed value set at signing, not revalued by I(t). The index prices apply only if the balance is not settled within the year and converts to the multi-year fallback schedule. The annual rent R(t) itself is unaffected by this grace — it tracks the basket from year one, as §3 sets out.
 
