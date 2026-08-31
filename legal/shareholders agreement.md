@@ -41,7 +41,7 @@ This Agreement is made on 31 August 2026 by and between: (1) ALISA VOINOVA, Depu
    a. the prospective transferee fails screening under the Investment Priority List and/or applicable international sanctions screening binding on the Company;
    b. the prospective transferee has not delivered a written accession to the Articles of Association and to this Agreement as required by Article 5(2) of the Articles of Association;
    c. the prospective transferee is a direct business competitor of the Company in residential community estate development and management; or
-   d. the prospective transferee, or the transferring Shareholder, has an unresolved obligation owed to the Company.
+   d. the prospective transferee, or the transferring Shareholder, has a due and payable obligation owed to the Company that is undisputed or has been finally determined, and remains unpaid.
 2. Outside those four grounds, GMS approval of a transfer that satisfies Articles 1 and 2 of this Agreement and Article 5(2) of the Articles of Association shall not be withheld, unreasonably delayed, or made subject to additional conditions.
 
 ## Article 4 — Distribution of cash and profit
