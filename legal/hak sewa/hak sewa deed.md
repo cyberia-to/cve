@@ -135,7 +135,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 | referred residents above the threshold in Annex D | 0% |
 | succession under [4.10](#part-4-transfer) | 0% |
 
-4.5.1 Right of first refusal. ▲ Exists only in Wave 1 and only until the build obligation is discharged; it lapses permanently on [[slf|SLF]]. Its mechanics mirror the share [[rofr|ROFR]] of the pack: a notice stating price and terms, a 30-day offer period and a 3-day window to take up the offer as [[shareholders agreement|the shareholders agreement]] [Article 1](/cyber-valley/cve/legal/shareholders-agreement#article-1-right-of-first-refusal) sets them, the 3 days matching [[articles of association]] [Article 7(4)](/cyber-valley/cve/legal/articles-of-association#article-7-transfer-of-shares); right to withdraw the offer thereafter.
+4.5.1 Right of first refusal. ▲ Exists only in Wave 1 and only until the build obligation is discharged; it lapses permanently on [[slf|SLF]]. Its mechanics mirror the share [[rofr|ROFR]] of the pack: a notice stating price and terms, a 30-day offer period and a 3-day window to take up the offer as [[shareholders agreement|the shareholders agreement]] [Article 1](/cyber-valley/cve/legal/shareholders-agreement/shareholders-agreement#article-1-right-of-first-refusal) sets them, the 3 days matching [[articles of association]] [Article 7(4)](/cyber-valley/cve/legal/articles-of-association/articles-of-association#article-7-transfer-of-shares); right to withdraw the offer thereafter.
 
 4.6 Estate Certificate. ▲ On written request the Landowner issues, free of charge and within 10 working days, a certificate stating: remaining term; confirmation of payments and absence of arrears; quantities qᵢ and the latest invoice; [[pbg|PBG]] and SLF status; unremedied Design Code breaches or confirmation of none; status of the Title and of any encumbrance at that date. Valid 30 days, and a prospective assignee may rely on it.
 
@@ -267,7 +267,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 ## Part 10. Design Code
 
-10.1 Binding on all Holders, all tracks, all zones. [Annex C](/cyber-valley/cve/legal/annex-c-design-code) states the code as numbers. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds.
+10.1 Binding on all Holders, all tracks, all zones. [Annex C](/cyber-valley/cve/legal/annexes/annex-c-design-code) states the code as numbers. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds.
 
 10.2 ⚠ Bali-specific overlays bind regardless: provincial height limits, architectural requirements, slope and ravine setbacks, water-catchment restrictions.
 
@@ -655,7 +655,7 @@ Parts [12.1](#part-12-upgrade-tracks), [8.3](#part-8-construction-control), [11.
 
 ## Provenance
 
-Assembled from [[land rights agreement]] v0.4.3, which holds the reasoning for every clause here; [[holder protocol decisions]] D1–D12, which settle the values marked settled; [[open questions]], which holds the release gate; [Annex C](/cyber-valley/cve/legal/annex-c-design-code) and its informal counterpart [[cyber-valley/policies/zoning system|land usage policy]]; and the product pages [[cyber-valley/strategy/leasehold-upfront|leasehold upfront]], [[cyber-valley/strategy/annual-leasehold|annual leasehold]] and [[cyber-valley/strategy/hak-sewa|hak sewa]], whose commercial terms are annexed as the offer of record.
+Assembled from [[land rights agreement]] v0.4.3, which holds the reasoning for every clause here; [[holder protocol decisions]] D1–D12, which settle the values marked settled; [[open questions]], which holds the release gate; [Annex C](/cyber-valley/cve/legal/annexes/annex-c-design-code) and its informal counterpart [[cyber-valley/policies/zoning system|land usage policy]]; and the product pages [[cyber-valley/strategy/leasehold-upfront|leasehold upfront]], [[cyber-valley/strategy/annual-leasehold|annual leasehold]] and [[cyber-valley/strategy/hak-sewa|hak sewa]], whose commercial terms are annexed as the offer of record.
 
 ⚠ D13, the Design Envelope lock at [10.6](#part-10-design-code), postdates the decision sheet and is not written up there. It is added to the sheet before the sheet is treated as complete.
 

@@ -37,7 +37,7 @@ Purchase and appointment are a single condition package. No completed
 sale means no appointment takes effect; no appointment means the sale
 does not complete. Neither side may demand one without the other —
 [[gms director appointment]]
-[§4](/cyber-valley/cve/legal/gms-director-appointment#4-closing-single-condition-package).
+[§4](/cyber-valley/cve/legal/gms-director-appointment/gms-director-appointment#4-closing-single-condition-package).
 
 ## form
 
