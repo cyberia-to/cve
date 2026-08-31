@@ -82,7 +82,7 @@ Salinan Akta Jual Beli sebagaimana tercantum dalam angka 4 di atas dilampirkan p
 
 Demikian surat keterangan ini dibuat dengan sebenarnya untuk dipergunakan sebagaimana mestinya.
 
-Desa Gesing, ____________________ 2026
+Desa Gesing, 31 Agustus 2026
 
 **PT. CYBER VALLEY ESTATE**
 
@@ -164,7 +164,7 @@ Copies of the Deeds of Sale and Purchase listed in paragraph 4 above are attache
 
 This statement is made truthfully for use as required.
 
-Desa Gesing, ____________________ 2026
+Desa Gesing, 31 August 2026
 
 **PT. CYBER VALLEY ESTATE**
 
