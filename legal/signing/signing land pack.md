@@ -34,7 +34,3 @@ is still contingent on a closing that has not happened.
 One notarial deed — [[perjanjian sewa fedorov]], before Notary I Wayan
 Paramarta Jaya, S.H., M.Kn. The addendum and the protections deed are
 private instruments carrying the terms the notarial form leaves out.
-
-## annex G and the October lease
-
-[[leasehold agreement]] names itself Annex G to [[perjanjian sewa fedorov 2]] — the second plot, executed in October — while being signed on 31 August. Its own Pasal 1.4 resolves this: the deed is independently valid and binding between the Parties from private signature under KUHPerdata Pasal 1338, regardless of whether physical attachment to the lease has yet been effected; it attaches as Annex G when the October lease is executed. Signing it now is what the clause was drafted for.

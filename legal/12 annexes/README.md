@@ -21,5 +21,5 @@ settled. They live in this folder and are reached from the framework's own
 text.
 
 One lettering collision worth knowing at a signing table: Annex G of
-[[perjanjian sewa fedorov 2|the Fedorov lease]] is [[leasehold agreement]],
+[[perjanjian sewa fedorov|the Fedorov lease]] is [[leasehold agreement]],
 not this pack's permitted-use matrix — a deed's own lettering governs.
