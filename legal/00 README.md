@@ -38,7 +38,7 @@ shareholders-agreement accession · entry payment side letter · disclosure
 | [[land rights agreement]] | drafting framework — the whole land-rights system, reasons and options |
 | [[hak sewa deed]] | base deed — the signable *akta sewa*, assembled from the framework |
 | [[hak sewa simple]] | minimal lease, eight clauses — rent in [[annex e century index|century index]] units, 30% at signing, balance in a year, else annual indexed instalments or termination |
-| [[annexes]] | Annexes A–J — the index, one line per schedule |
+| [[annexes]] | annex index — the century index; nine further schedules enter as they are settled |
 
 ## Notes
 
