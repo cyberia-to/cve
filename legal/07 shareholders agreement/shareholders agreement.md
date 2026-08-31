@@ -103,7 +103,7 @@ This Article does not set President Director compensation — that is [[presiden
 
 ## Addendum 1 — passport renewal (Oleksandr Fedorov)
 
-Addendum dated 28 August 2026 to CVE/SHA/2026-01, made to keep the identification of a Shareholder current as his identity document is renewed.
+Addendum dated 31 August 2026 to CVE/SHA/2026-01, made to keep the identification of a Shareholder current as his identity document is renewed.
 
 1. Oleksandr Fedorov, a Shareholder under this Agreement, acceded to it, and to the [[entry payment side letter]], holding a Ukrainian passport [number on file with the Company].
 2. That passport is running out of pages and is being replaced. Oleksandr Fedorov now additionally holds a new Ukrainian passport [number on file with the Company], expiring 10 December 2036.

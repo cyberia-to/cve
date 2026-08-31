@@ -79,7 +79,7 @@ CVE/SHA/2026-01 · 31 Agustus 2026
 
 ## Adendum 1 — Pembaruan Paspor (Oleksandr Fedorov)
 
-Adendum bertanggal 28 Agustus 2026 atas CVE/SHA/2026-01, dibuat untuk menjaga identifikasi seorang Pemegang Saham tetap terkini seiring pembaruan dokumen identitasnya.
+Adendum bertanggal 31 Agustus 2026 atas CVE/SHA/2026-01, dibuat untuk menjaga identifikasi seorang Pemegang Saham tetap terkini seiring pembaruan dokumen identitasnya.
 
 | 1. Oleksandr Fedorov, seorang Pemegang Saham berdasarkan Perjanjian ini, menyatakan keterikatannya pada Perjanjian ini dan pada [[entry payment side letter]] dengan memegang paspor Ukraina [nomor tersimpan pada Perseroan]. | 1. Oleksandr Fedorov, a Shareholder under this Agreement, acceded to it, and to the Entry Payment Side Letter, holding a Ukrainian passport [number on file with the Company]. |
 | 2. Paspor tersebut telah kehabisan halaman dan sedang diganti. Oleksandr Fedorov saat ini juga memegang paspor Ukraina baru [nomor tersimpan pada Perseroan], berlaku hingga 10 Desember 2036. | 2. That passport is running out of pages and is being replaced. Oleksandr Fedorov now additionally holds a new Ukrainian passport [number on file with the Company], expiring 10 December 2036. |
