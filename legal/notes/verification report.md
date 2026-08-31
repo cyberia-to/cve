@@ -102,7 +102,7 @@ What needs to be exported and placed into Annex A — one row per KBLI × addres
 
 How to obtain it: OSS RBA → company account → cetak NIB → daftar kegiatan usaha; take the address, scale, risk and status for each row; reconcile the addresses against the list of titles in Annex A.
 
-Check first of all the discrepancy already noted at v0.3: the NIB shows a different address for 68111 than for the other codes. 68111 is the code under which leases are granted. If its location does not cover the plot, the warranty in [§9A.1](/cyber-valley/cve/legal/10-land-rights-agreement#9a-licences-warranty-and-licence-event-regime) is untrue for that plot — and `Pasal 12(2)(c)` of the Articles gives the Director authority to sign leases precisely within 68111 and 68200.
+Check first of all the discrepancy already noted at v0.3: the NIB shows a different address for 68111 than for the other codes. 68111 is the code under which leases are granted. If its location does not cover the plot, the warranty in [§9A.1](/cyber-valley/cve/legal/11-land-rights-agreement#9a-licences-warranty-and-licence-event-regime) is untrue for that plot — and `Pasal 12(2)(c)` of the Articles gives the Director authority to sign leases precisely within 68111 and 68200.
 
 The second consequence of the list, already entered into [§2.6](#2-itr-and-buleleng): 55199 and 55192 are held by the Company and cannot be held by a foreign individual Holder. A sublet with occupation runs under the Company's licence; bare land with no accommodation service runs under the Holder's responsibility.
 
