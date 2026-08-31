@@ -31,7 +31,7 @@ rule produces the whole sequence:
 
 Pack 1 closes as one act: every instrument in it is signed and dated the
 same day for simultaneous exchange, under [[gms director appointment]]
-[§4](/cyber-valley/cve/legal/gms-director-appointment/gms-director-appointment#4-closing-single-condition-package).
+[§4](/cyber-valley/cve/legal/03-gms-director-appointment/gms-director-appointment#4-closing-single-condition-package).
 The order below is the order of signature within that single closing, and
 the closing itself is indivisible — the rule stated in [[dzin]] holds:
 purchase completes if and only if the appointment takes effect.

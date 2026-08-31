@@ -9,9 +9,9 @@ icon: "📐"
 
 v0.4 · annex to [[land rights agreement|Land Rights Agreement]] · binding on all Holders, all tracks, all zones, and on any assignee or successor
 
-This annex and [[cyber-valley/policies/zoning system|land usage policy]] state one body of rules in two registers. The policy page holds the reasoning and the working numbers as the estate maintains them — the informal representation, open to anyone reading the graph. This annex holds the same numbers in the form that binds a Holder under the deed — the formal representation, initialled and version-locked at signing under [§7.4.1](/cyber-valley/cve/legal/land-rights-agreement#7-design-code-annex-c). Read either one and you are reading the same rules.
+This annex and [[cyber-valley/policies/zoning system|land usage policy]] state one body of rules in two registers. The policy page holds the reasoning and the working numbers as the estate maintains them — the informal representation, open to anyone reading the graph. This annex holds the same numbers in the form that binds a Holder under the deed — the formal representation, initialled and version-locked at signing under [§7.4.1](/cyber-valley/cve/legal/11-land-rights-agreement#7-design-code-annex-c). Read either one and you are reading the same rules.
 
-Where a policy page is amended, this annex is amended with it under [§7.3](/cyber-valley/cve/legal/land-rights-agreement#7-design-code-annex-c) of the deed, subject to the veto in [§8.2](/cyber-valley/cve/legal/land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge). Where a Bali provincial or Buleleng regulation is stricter, that regulation prevails.
+Where a policy page is amended, this annex is amended with it under [§7.3](/cyber-valley/cve/legal/11-land-rights-agreement#7-design-code-annex-c) of the deed, subject to the veto in [§8.2](/cyber-valley/cve/legal/11-land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge). Where a Bali provincial or Buleleng regulation is stricter, that regulation prevails.
 
 ## C0. Correspondence with land usage policy
 
@@ -25,7 +25,7 @@ Section pairs across the two representations. The six policy pages named in C5 �
 | [C5](#c5-pollution-limits) pollution limits | pollution, and the six policy pages under it |
 | [C1](#c1-measurement) measurement, [C6](#c6-monitoring-and-publication) monitoring, [C7](#c7-district-balance) district balance | held here alone — contractual machinery for measuring and publishing compliance |
 | [C8](#c8-built-form) built form, [C9](#c9-overlays-that-bind-regardless) overlays, [C10](#c10-grandfathering) grandfathering | held here alone — deed machinery |
-| carried by [§2.5.5](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) transfer fee scale and Annex G | construction distribution, incentives |
+| carried by [§2.5.5](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) transfer fee scale and Annex G | construction distribution, incentives |
 
 ⚠ Construction distribution and incentives live on the policy page with several min/max fields still open. Until those figures are settled they bind nothing under this annex.
 
@@ -33,9 +33,9 @@ Section pairs across the two representations. The six policy pages named in C5 �
 
 C1.1 Ratios in C2 and C3 are measured per Plot, on the area shown in Annex B.
 
-C1.2 Unused footprint entitlement is transferable to another Plot in the same district through the Register under [§7.2](/cyber-valley/cve/legal/land-rights-agreement#7-design-code-annex-c) of the deed, against a settlement fee, and only where the district balance in C7 is maintained. Transfers open from Wave 2.
+C1.2 Unused footprint entitlement is transferable to another Plot in the same district through the Register under [§7.2](/cyber-valley/cve/legal/11-land-rights-agreement#7-design-code-annex-c) of the deed, against a settlement fee, and only where the district balance in C7 is maintained. Transfers open from Wave 2.
 
-C1.3 The Holder's compliance is measured at [[slf|SLF]] and at each periodic SLF renewal, and on any transfer under [§2.5](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders).
+C1.3 The Holder's compliance is measured at [[slf|SLF]] and at each periodic SLF renewal, and on any transfer under [§2.5](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders).
 
 ## C2. Construction area
 
@@ -90,7 +90,7 @@ enforcement and the routing into [[hak sewa deed]].
 | soil test per Plot | annual | Holder | cyberia ledger and the Register |
 | species count | at SLF and each SLF renewal | Holder | Register |
 
-Publication carries the Plot identifier and the result, not the Holder's identity. Failure to publish for two consecutive periods is a Design Code breach for the purposes of the transfer fee scale in [§2.5.5](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) and, if unremedied after notice, a default.
+Publication carries the Plot identifier and the result, not the Holder's identity. Failure to publish for two consecutive periods is a Design Code breach for the purposes of the transfer fee scale in [§2.5.5](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) and, if unremedied after notice, a default.
 
 ## C7. District balance
 
@@ -106,4 +106,4 @@ Provincial building-height limits, architectural requirements, slope and ravine 
 
 ## C10. Grandfathering
 
-Improvements completed in compliance with the version of this annex in force at their SLF remain compliant. An amendment worsening their position requires the veto threshold in [§8.2](/cyber-valley/cve/legal/land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge) of the deed.
+Improvements completed in compliance with the version of this annex in force at their SLF remain compliant. An amendment worsening their position requires the veto threshold in [§8.2](/cyber-valley/cve/legal/11-land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge) of the deed.

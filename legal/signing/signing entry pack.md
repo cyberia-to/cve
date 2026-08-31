@@ -23,7 +23,7 @@ exchange. Back to [[signing]].
 
 | # | instrument | what it does | why it sits here |
 |---:|---|---|---|
-| 1 | [[director disclosure indemnity agreement]] | the owners disclose every liability of the company and the land, backed by an uncapped joint-and-several indemnity to the incoming director | the first event carried to registration; it takes effect at closing under [Article 2.4](/cyber-valley/cve/legal/director-disclosure-indemnity-agreement#article-2-appointment-of-the-incoming-director) |
+| 1 | [[director disclosure indemnity agreement]] | the owners disclose every liability of the company and the land, backed by an uncapped joint-and-several indemnity to the incoming director | the first event carried to registration; it takes effect at closing under [Article 2.4](/cyber-valley/cve/legal/01-director-disclosure-indemnity-agreement#article-2-appointment-of-the-incoming-director) |
 | 2 | [[preemption waiver letter]] | Starodubtsev releases the [[rofr\|ROFR]] over the entry shares, Form B | the sale cannot be offered to a third party while the right stands |
 | 3 | [[gms director appointment]] | the general meeting seats Fedorov as president director, moves Voinova to president commissioner, leaves Starodubtsev commissioner, and approves the transfer | the meeting authorises the transfer that the next deed executes |
 | 4 | [[share sale entry]] | 80 shares, being 1% of 8,040, transfer at par — Rp 200,000,000 | the operative transfer; it needs 2 and 3 in place |
@@ -37,7 +37,7 @@ Purchase and appointment are a single condition package. No completed
 sale means no appointment takes effect; no appointment means the sale
 does not complete. Neither side may demand one without the other —
 [[gms director appointment]]
-[§4](/cyber-valley/cve/legal/gms-director-appointment/gms-director-appointment#4-closing-single-condition-package).
+[§4](/cyber-valley/cve/legal/03-gms-director-appointment/gms-director-appointment#4-closing-single-condition-package).
 
 ## form
 

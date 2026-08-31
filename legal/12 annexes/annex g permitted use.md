@@ -19,7 +19,7 @@ Annexed to [[land rights agreement]]. Source: [[cyber-valley/strategy|strategy]]
 | **B** — [[annual leasehold]] | 30% down, balance in equal instalments over 1 or 5 years, no interest, no index | [[hak sewa deed]] §3.1 "scheduled" |
 | **B-rent** — annual rent | No transfer of right; occupation only, by separate agreement | [[hak sewa deed]] §3.1 "rent"; [[annex e century index|Annex E]] |
 | **C** — [[joint venture]] | Lease contributed to an OpCo for an equity stake, 40–60% split | separate JV agreement, not this deed |
-| **D** — [[hak pakai]] | Right-of-use title on a completed structure, registered to the Holder | [[hak sewa deed]] Track F, [12.1](/cyber-valley/cve/legal/hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) |
+| **D** — [[hak pakai]] | Right-of-use title on a completed structure, registered to the Holder | [[hak sewa deed]] Track F, [12.1](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) |
 | **E** — [[hak milik]] | Freehold transfer, WNI only | outside this deed — AJB before PPAT |
 
 ## G2. Holder class eligibility
@@ -47,7 +47,7 @@ D is the only instrument built specifically to move a foreign individual holder 
 
 ## G4. Track D — the upgrade path this deed builds
 
-An A or B Holder who completes construction to SLF may apply to convert to D (Hak Pakai) under [[hak sewa deed]] [12.1](/cyber-valley/cve/legal/hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) — a foreign natural person only, subject to the Rp 5,000,000,000 minimum value once the ministerial regulation figure is confirmed (see that Part's own flag on the source instrument). E (Hak Milik) is reached only by a WNI Holder, outside this deed, by ordinary AJB — there is no conversion mechanic from A/B/D to E inside [[hak sewa deed]] because a foreign Holder can never reach E by any route.
+An A or B Holder who completes construction to SLF may apply to convert to D (Hak Pakai) under [[hak sewa deed]] [12.1](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) — a foreign natural person only, subject to the Rp 5,000,000,000 minimum value once the ministerial regulation figure is confirmed (see that Part's own flag on the source instrument). E (Hak Milik) is reached only by a WNI Holder, outside this deed, by ordinary AJB — there is no conversion mechanic from A/B/D to E inside [[hak sewa deed]] because a foreign Holder can never reach E by any route.
 
 ## G5. Net-exporter certification — proposal, not yet settled elsewhere
 

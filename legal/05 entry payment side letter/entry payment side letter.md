@@ -10,7 +10,7 @@ icon: "🤝"
 
 Private agreement between two individuals · not a corporate document · not filed with any authority · draft
 
-Kept privately between the parties, referring to [[share sale entry]] (the notarial deed) without forming any part of it. This letter records the payment actually made between the parties for the entry stake — a receipt fixing the real price behind the deed's recital. It is not delivered to the Notary, not submitted with the deed, and not part of the notarial file or any document handed to the Notary. Nothing attaches to the shares themselves: they are the Buyer's outright, and no repayment or re-transfer arises on any exit ([[president director]] [§8](/cyber-valley/cve/legal/president-director/president-director#8-exit) — no buyout, no buyback).
+Kept privately between the parties, referring to [[share sale entry]] (the notarial deed) without forming any part of it. This letter records the payment actually made between the parties for the entry stake — a receipt fixing the real price behind the deed's recital. It is not delivered to the Notary, not submitted with the deed, and not part of the notarial file or any document handed to the Notary. Nothing attaches to the shares themselves: they are the Buyer's outright, and no repayment or re-transfer arises on any exit ([[president director]] [§8](/cyber-valley/cve/legal/07-president-director/president-director#8-exit) — no buyout, no buyback).
 
 ## Operative text
 
@@ -26,7 +26,7 @@ Kept privately between the parties, referring to [[share sale entry]] (the notar
 >
 > **2. Relationship to the notarial deed.** The number of Entry Shares is the number stated in the notarial deed — 80 (eighty) shares. This letter governs the price: the sum in paragraph 1 is the amount actually paid between the parties for those shares, and it is full and final — nothing further is owed by either party for the Entry Shares, and no repayment or re-transfer obligation attaches to them, whatever office the Buyer later holds or leaves.
 >
-> **3. Scope.** This letter covers the Entry Shares only. Shares acquired by the Buyer under the option package in [[president director]] [§6](/cyber-valley/cve/legal/president-director/president-director#6-options-up-to-10-at-4m-sale-from-founders-only), and equity earned under the KPI ladder in [[president director]] [§7](/cyber-valley/cve/legal/president-director/president-director#7-kpi-ladder-ds-av-10-founders-company-1b), are outside this letter and are governed by their own terms.
+> **3. Scope.** This letter covers the Entry Shares only. Shares acquired by the Buyer under the option package in [[president director]] [§6](/cyber-valley/cve/legal/07-president-director/president-director#6-options-up-to-10-at-4m-sale-from-founders-only), and equity earned under the KPI ladder in [[president director]] [§7](/cyber-valley/cve/legal/07-president-director/president-director#7-kpi-ladder-ds-av-10-founders-company-1b), are outside this letter and are governed by their own terms.
 >
 > **4. Confidentiality.** The parties keep the terms of this letter confidential, save where disclosure is required by law or by a competent authority.
 >

@@ -9,7 +9,7 @@ icon: "📌"
 
 # Annex J — Offer of Record
 
-Annexed to [[land rights agreement]]. Per [2.1.2](/cyber-valley/cve/legal/land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders): "the version of the product page and price schedule on which the Holder relied is annexed as Annex J, identified by commit hash and date. Later amendment of those pages alters neither this deed nor that annex." The product pages are the estate's own repository (`cyber-valley/strategy/`), version-controlled; this annex freezes the exact commit a given Holder relied on.
+Annexed to [[land rights agreement]]. Per [2.1.2](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders): "the version of the product page and price schedule on which the Holder relied is annexed as Annex J, identified by commit hash and date. Later amendment of those pages alters neither this deed nor that annex." The product pages are the estate's own repository (`cyber-valley/strategy/`), version-controlled; this annex freezes the exact commit a given Holder relied on.
 
 ## Mechanism
 

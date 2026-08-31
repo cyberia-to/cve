@@ -45,19 +45,19 @@ Effective only upon Closing under [§4](#4-closing-single-condition-package):
 One person may not sit on both organs. Voinova leaves the Board of Directors at Closing and takes a seat on the Board of Commissioners as President Commissioner, so the Board of Directors is Fedorov alone. The Board of Commissioners goes from one member to two — Voinova as President Commissioner, Starodubtsev as Commissioner — as Article 14(1) permits once more than one member is appointed. Article 15(4), the sole-member fallback under which a single Commissioner exercised President Commissioner authority, ceases to apply on the second appointment. Two consequences follow from Article 16: a meeting is quorate only with both members present or represented (16(8), more than one-half of two), and the President Commissioner holds the casting vote in a tie (16(10)).
 
 **3.2 Dual accounts.**  
-To confirm the dual-account regime in [[president director]] [§§2–4](/cyber-valley/cve/legal/president-director/president-director#2-dual-accounts): strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **either Commissioner**; monthly funding transfer strategic → operational.
+To confirm the dual-account regime in [[president director]] [§§2–4](/cyber-valley/cve/legal/07-president-director/president-director#2-dual-accounts): strategic account (all incoming revenue) and operational account (ops envelope); monthly strategic gate by **either Commissioner**; monthly funding transfer strategic → operational.
 
 **3.3 Land and credit limits.**  
-To bind the President Director to [[president director]] [§5](/cyber-valley/cve/legal/president-director/president-director#5-land-and-credit-hard-limits): [[hgb|HGB]] grants, transfers and disposals **only with approval**; hak sewa below **USD 3,000 per are** needs approval; any contract above **2% of the issued capital** needs approval — either Commissioner is enough in each case, both holding that right independently; **no power** to mortgage Company real estate for loans.
+To bind the President Director to [[president director]] [§5](/cyber-valley/cve/legal/07-president-director/president-director#5-land-and-credit-hard-limits): [[hgb|HGB]] grants, transfers and disposals **only with approval**; hak sewa below **USD 3,000 per are** needs approval; any contract above **2% of the issued capital** needs approval — either Commissioner is enough in each case, both holding that right independently; **no power** to mortgage Company real estate for loans.
 
 **3.4 Entry equity.**  
 To approve the transfer of **80 shares (1%)** from Alisa Voinova to the President Director at **Rp 200,000,000** — the price at the agreed company valuation of Rp 20,100,000,000 (the issued and fully paid capital, Rp 2,500,000 per share) — under [[share sale entry]], as part of the same Closing.
 
 **3.5 Option framework.**  
-To note the option package in [[president director]] [§6](/cyber-valley/cve/legal/president-director/president-director#6-options-up-to-10-at-4m-sale-from-founders-only) (up to 10% @ USD 4M, 5% / 2y + 5% / 7y, **founder sale only**) for implementation by separate share sale / option deeds when exercised — not a new issue of capital for that package.
+To note the option package in [[president director]] [§6](/cyber-valley/cve/legal/07-president-director/president-director#6-options-up-to-10-at-4m-sale-from-founders-only) (up to 10% @ USD 4M, 5% / 2y + 5% / 7y, **founder sale only**) for implementation by separate share sale / option deeds when exercised — not a new issue of capital for that package.
 
 **3.6 KPI.**  
-To note the capitalisation ladder in [[president director]] [§7](/cyber-valley/cve/legal/president-director/president-director#7-kpi-ladder-ds-av-10-founders-company-1b) as the commercial success metric between the parties; not a statutory KPI under the Articles unless later adopted by GMS for bonus purposes.
+To note the capitalisation ladder in [[president director]] [§7](/cyber-valley/cve/legal/07-president-director/president-director#7-kpi-ladder-ds-av-10-founders-company-1b) as the commercial success metric between the parties; not a statutory KPI under the Articles unless later adopted by GMS for bonus purposes.
 
 ## 4. Closing — single condition package
 

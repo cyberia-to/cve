@@ -9,7 +9,7 @@ icon: "🔌"
 
 # Annex F — Utilities, Access and Mobility Specification
 
-Annexed to [[land rights agreement]]. Referred to at [[hak sewa deed]] [10.6](/cyber-valley/cve/legal/hak-sewa/hak-sewa-deed#part-10-design-code) as part of the Design Envelope of a Plot: "so much of the access and connection specification in Annex F as applies to the Plot." Source: the Estate's current installed base (`cve.md` asset schedule) and [[cyber-valley/strategy|strategy]] §4 Z4.
+Annexed to [[land rights agreement]]. Referred to at [[hak sewa deed]] [10.6](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-10-design-code) as part of the Design Envelope of a Plot: "so much of the access and connection specification in Annex F as applies to the Plot." Source: the Estate's current installed base (`cve.md` asset schedule) and [[cyber-valley/strategy|strategy]] §4 Z4.
 
 ## F1. Installed capacity, current state
 

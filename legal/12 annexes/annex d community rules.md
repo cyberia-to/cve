@@ -20,9 +20,9 @@ on the policy side of the graph. The policy pages are the standard,
 that binds a Holder is the page as it stood on the signing date,
 identified by commit hash and date on the same mechanism [[annex j offer
 of record|Annex J]] uses for the offer. Amendments reach a Holder only
-through the [§7.3](/cyber-valley/cve/legal/land-rights-agreement#7-design-code-annex-c)
+through the [§7.3](/cyber-valley/cve/legal/11-land-rights-agreement#7-design-code-annex-c)
 procedure Annex C carries, subject to the Community Council veto under
-[§8.2](/cyber-valley/cve/legal/land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge).
+[§8.2](/cyber-valley/cve/legal/11-land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge).
 
 | standard | policy page |
 |---|---|

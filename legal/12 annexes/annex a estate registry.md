@@ -15,7 +15,7 @@ Annexed to [[land rights agreement]]. One row per land title held or claimed by 
 
 ## 1. Registered titles — remaining term at signing
 
-Remaining term is computed under [hak-sewa-deed §2.2](/cyber-valley/cve/legal/hak-sewa/hak-sewa-deed#part-2-the-grant): the lesser of 25 years and (years to the certificate's expiry, less the 12-month extension buffer), from a signing date of 27 August 2026. Fourteen of the eighteen titles clear the full 25 years; the buffer trims Parcels 5, 9, 10 and 14 — all expiring 21.06.2052, the shortest runway in the portfolio at 25.8 years — to **24.8 years**.
+Remaining term is computed under [hak-sewa-deed §2.2](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-2-the-grant): the lesser of 25 years and (years to the certificate's expiry, less the 12-month extension buffer), from a signing date of 27 August 2026. Fourteen of the eighteen titles clear the full 25 years; the buffer trims Parcels 5, 9, 10 and 14 — all expiring 21.06.2052, the shortest runway in the portfolio at 25.8 years — to **24.8 years**.
 
 | Parcel | Title | Area, m² | Expiry | Years remaining | Term 1 deliverable | RTRW | PKKPR |
 |---|---|---:|---|---:|---:|---|---|
@@ -50,7 +50,7 @@ Portfolio total across the 18 titles with a computed Term 1: **318,570 m² (≈3
 
 ## 2. Notes carried over from the audit
 
-Six titles (3, 4, 12, 15, 18, 19) are up for a routine PPKPR renewal — the Company already holds the land, this is a continuation of existing use, not a new approval. The Director tracks it in the ordinary course under [15.6](/cyber-valley/cve/legal/hak-sewa/hak-sewa-deed#part-15-title-warranties-negative-pledge-indemnity).
+Six titles (3, 4, 12, 15, 18, 19) are up for a routine PPKPR renewal — the Company already holds the land, this is a continuation of existing use, not a new approval. The Director tracks it in the ordinary course under [15.6](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-15-title-warranties-negative-pledge-indemnity).
 
 Parcels 18 & 19: their paper AJB deeds are filed under each other's folder (titles themselves are registered and clean) — correct the physical filing when convenient.
 
@@ -68,7 +68,7 @@ From the Company's OSS RBA record. Project code identifies the row where the NIB
 | 202308-0817-1322-4247-065 | 68111v2025 | Aktivitas Pengembangan Bangunan dan Lahan Hunian | Menengah Rendah | Gesing, Kab. Buleleng, Bali | 10,010,000,000 |
 | 202308-0817-5238-4856-874 | 68111v2025 | Aktivitas Pengembangan Bangunan dan Lahan Hunian | Menengah Rendah | Gesing, Kab. Buleleng, Bali | 10,010,000,000 |
 
-⚠ The first two rows (generic "Kab. Buleleng, Bali") and the three Gesing-specific rows carry the same 68111-family activity under two different address formats on the same NIB — this is the discrepancy [9A.1](/cyber-valley/cve/legal/land-rights-agreement#9a-licences-warranty-and-licence-event-regime) already flags as resolved before any lease is signed.
+⚠ The first two rows (generic "Kab. Buleleng, Bali") and the three Gesing-specific rows carry the same 68111-family activity under two different address formats on the same NIB — this is the discrepancy [9A.1](/cyber-valley/cve/legal/11-land-rights-agreement#9a-licences-warranty-and-licence-event-regime) already flags as resolved before any lease is signed.
 
 **Inactive** (superseded or lapsed — not currently relied on):
 
@@ -82,4 +82,4 @@ From the Company's OSS RBA record. Project code identifies the row where the NIB
 
 ## 4. Maintenance
 
-The Director maintains this registry current — updating expiry, renewal filings and PPKPR status — per [hak-sewa-deed 15.6](/cyber-valley/cve/legal/hak-sewa/hak-sewa-deed#part-15-title-warranties-negative-pledge-indemnity). A discrepancy between this annex and a certificate in hand is resolved in favour of the certificate; report it for correction here.
+The Director maintains this registry current — updating expiry, renewal filings and PPKPR status — per [hak-sewa-deed 15.6](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-15-title-warranties-negative-pledge-indemnity). A discrepancy between this annex and a certificate in hand is resolved in favour of the certificate; report it for correction here.
