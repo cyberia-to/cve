@@ -36,7 +36,7 @@ Decision. Assignment is free, without consent. The transfer fee is 2% of the tra
 | the Holder's position | fee |
 |---|---|
 | base | 2.0% |
-| built within time, [[slf|SLF]] issued | 1.5% |
+| built within time, [[slf\|SLF]] issued | 1.5% |
 | no unremedied Design Code breach for the whole term | 1.0% |
 | soil and water readings published to the ledger without gaps | 0.5% |
 | referred residents above the threshold | 0% |

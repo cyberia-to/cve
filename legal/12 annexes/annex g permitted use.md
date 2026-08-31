@@ -17,7 +17,7 @@ Annexed to [[land rights agreement]]. Source: [[cyber-valley/strategy|strategy]]
 |---|---|---|
 | **A** — [[leasehold upfront]] | 100% at signing, [[hak sewa]], 25-year Term | [[hak sewa deed]] §3.1 "upfront" |
 | **B** — [[annual leasehold]] | 30% down, balance in equal instalments over 1 or 5 years, no interest, no index | [[hak sewa deed]] §3.1 "scheduled" |
-| **B-rent** — annual rent | No transfer of right; occupation only, by separate agreement | [[hak sewa deed]] §3.1 "rent"; [[annex e century index|Annex E]] |
+| **B-rent** — annual rent | No transfer of right; occupation only, by separate agreement | [[hak sewa deed]] §3.1 "rent"; [[annex e century index\|Annex E]] |
 | **C** — [[joint venture]] | Lease contributed to an OpCo for an equity stake, 40–60% split | separate JV agreement, not this deed |
 | **D** — [[hak pakai]] | Right-of-use title on a completed structure, registered to the Holder | [[hak sewa deed]] Track F, [12.1](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) |
 | **E** — [[hak milik]] | Freehold transfer, WNI only | outside this deed — AJB before PPAT |
@@ -27,7 +27,7 @@ Annexed to [[land rights agreement]]. Source: [[cyber-valley/strategy|strategy]]
 | Holder class | A | B | B-rent | C | D | E |
 |---|---|---|---|---|---|---|
 | Indonesian citizen (WNI) | yes | yes | yes | yes | n/a — already eligible for stronger titles | yes |
-| Foreign individual (KITAS/KITAP) | yes | yes | yes | via a PT PMA vehicle | yes — the track this deed exists for | no — [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 34 reserves HGB-track ownership to WNI and Indonesian legal entities; Hak Milik is WNI-only by the same logic |
+| Foreign individual (KITAS/KITAP) | yes | yes | yes | via a PT PMA vehicle | yes — the track this deed exists for | no — [[pp 18-2021 hak atas tanah\|PP 18/2021]] Pasal 34 reserves HGB-track ownership to WNI and Indonesian legal entities; Hak Milik is WNI-only by the same logic |
 | Foreign legal entity | via a PT PMA vehicle | via a PT PMA vehicle | yes | yes | via a PT PMA vehicle | no |
 
 D is the only instrument built specifically to move a foreign individual holder into a registered title; A, B and B-rent hold everyone under the same contractual right regardless of nationality, since [[hak sewa]] is personal, not a registered land right ([[land rights agreement]] §2.2).

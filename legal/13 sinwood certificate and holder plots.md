@@ -24,7 +24,7 @@ Worked example under [[annex a estate registry|Annex A]] and [[annex b plot boun
 | Expiration | 02.02.2053 |
 | Declared size | 400 (are) = 40,000 m² |
 | Flat area, this KML | 407.24 are — 4.0724 ha (measured; the certificate's own figure is 40,000 m²) |
-| Annex A row | Parcel 4 — [[hgb|HGB]] 00048 |
+| Annex A row | Parcel 4 — [[hgb\|HGB]] 00048 |
 
 **Identity confirmed.** "sinwood" is Parcel 4 — [[hgb|HGB]] 00048 — in [[annex a estate registry|Annex A]] and in [[director disclosure indemnity agreement]] Appendix B. Three independent fields match: the map layer's own `id: 4` against our Parcel 4 index, the declared size 400 are = 40,000 m² against Annex A's 40,000 m², and the expiry 02.02.2053 against Annex A's 02.02.2053 — the same match already seen elsewhere in the pack (Parcel 0: 6,800 m² declared, 6,400 m² on resurvey). The 407.24 are this KML shows is the measured area; 400 are is the certificate's declared figure.
 
@@ -72,7 +72,7 @@ That sketch is for the certificate's own outer boundary — the land the Company
 | plot | holder | flat area (this KML) | real area | status |
 |---|---|---|---|---|
 | sinwood-25 | @alex_dzin | 9.56 are (956 m²) | **12.72 are** (1,272 m²), by completed field triangulation | measured — final real area, not a placeholder |
-| sinwood-31 | @alex_dzin | 7.49 are (749 m²) | not yet measured | second plot; flat figure only |
+| sinwood-31 | @alex_dzin | 11.02 are (1,101.6 m²) | triangulated 31.08.2026 | second plot; boundaries re-agreed and enlarged 31.08.2026. Conservative Heron figure — the ray fan closes at 355.5°, so a field re-check of N–G and H–I may raise it; by agreement a larger re-measured figure changes nothing (*per aversionem*) |
 
 **Why flat and real differ.** The map layer's area is a flat projection of GPS boundary points. This ground is terraced with real elevation change between terraces, so the true surface area runs ahead of the flat figure — confirmed by the sinwood-25 triangulated survey (9.56 are flat → 12.72 are real). The two perimeters stand in the same relation: 127.7 m on the flat outline against 150.5 m measured along the ground, a ratio of 1.175. Until a plot is triangulated, treat its flat figure as a floor, not the final number.
 
@@ -92,7 +92,39 @@ The shape of a plot comes from the flat outline, not from the tape survey. Slope
 | 8 | -8.3011166 | 115.0900714 |
 | 9 | -8.3012013 | 115.0900390 |
 
-### sinwood-31:@alex_dzin — vertices
+### sinwood-31:@alex_dzin — triangulation survey, 31 August 2026
+
+Thirteen boundary points A–M measured from station N inside the plot;
+tape readings in centimetres, shown here in metres. Site plan:
+[gambar situasi](/cyber-valley/cve/legal/media/sinwood/sinwood-31-triangulated.svg).
+
+| side | m | | ray | m |
+|---|---:|---|---|---:|
+| A–B | 10.03 | | N–A | 18.92 |
+| B–C | 13.53 | | N–B | 17.90 |
+| C–D | 17.81 | | N–C | 24.10 |
+| D–E | 10.91 | | N–D | 18.73 |
+| E–F | 10.62 | | N–E | 22.36 |
+| F–G | 5.26 | | N–F | 29.48 |
+| G–H | 8.75 | | N–G | 33.18 |
+| H–I | 7.39 | | N–H | 26.17 |
+| I–J | 11.06 | | N–I | 24.70 |
+| J–K | 7.50 | | N–J | 19.10 |
+| K–L | 12.08 | | N–K | 15.80 |
+| L–M | 8.08 | | N–L | 9.20 |
+| M–A | 9.30 | | N–M | 12.36 |
+
+Heron over the thirteen triangles gives **1,101.6 m²** — the adopted,
+conservative figure. The fan of rays sums to 355.5° instead of 360°, so
+one reading is suspect (N–G or H–I); a re-check can only raise the total,
+and the parties have agreed a larger figure changes nothing.
+
+### sinwood-31:@alex_dzin — vertices (flat sketch, superseded)
+
+Google My Maps vertices of the pre-agreement flat sketch (749 m²). The
+boundaries were re-agreed and enlarged on 31 August 2026; these
+coordinates no longer describe the plot and stand only as history until
+the new boundary is captured in geo-coordinates.
 
 | # | lat | lon |
 |---|---|---|

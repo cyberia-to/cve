@@ -28,7 +28,7 @@ shareholders-agreement accession · entry payment side letter · disclosure
 | doc | what |
 |-----|------|
 | [[articles of association]] | Anggaran Dasar (bilingual text: [[articles of association.bilingual]]) |
-| [[shareholders agreement]] | [[rofr|ROFR]], tag-along, moonly dividend cadence, cash waterfall (bilingual text: [[shareholders agreement.bilingual]]) |
+| [[shareholders agreement]] | [[rofr\|ROFR]], tag-along, moonly dividend cadence, cash waterfall (bilingual text: [[shareholders agreement.bilingual]]) |
 | [strategy](/cyber-valley/strategy/) | what the estate sells and how it sequences (not shareholder cash split) |
 
 ## Land
@@ -37,17 +37,8 @@ shareholders-agreement accession · entry payment side letter · disclosure
 |-----|------|
 | [[land rights agreement]] | drafting framework — the whole land-rights system, reasons and options |
 | [[hak sewa deed]] | base deed — the signable *akta sewa*, assembled from the framework |
-| [[hak sewa simple]] | minimal lease, eight clauses — rent in [[annex e century index|century index]] units, 30% at signing, balance in a year, else annual indexed instalments or termination |
-| [[annex a estate registry]] | Annex A — estate registry, one row per title |
-| [[annex b plot boundary]] | Annex B — plot boundary: *patok*, GPS/UTM, *peta bidang* |
-| [[annex c design code]] | Annex C — design code as numbers |
-| [[annex d community rules]] | Annex D — community rules |
-| [[annex e century index]] | Annex E — century index: weights, fixes, floor, worked invoice |
-| [[annex f utilities access mobility]] | Annex F — utilities, access and mobility |
-| [[annex g permitted use]] | Annex G — permitted-use matrix by Holder class, zone and track |
-| [[annex h handover condition]] | Annex H — condition schedule at site handover |
-| [[annex i due diligence pack]] | Annex I — due diligence pack |
-| [[annex j offer of record]] | Annex J — offer of record: product page and prices by commit hash |
+| [[hak sewa simple]] | minimal lease, eight clauses — rent in [[annex e century index\|century index]] units, 30% at signing, balance in a year, else annual indexed instalments or termination |
+| [[annexes]] | annex index — the century index; nine further schedules enter as they are settled |
 
 ## Notes
 

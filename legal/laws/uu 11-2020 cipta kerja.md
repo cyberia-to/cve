@@ -16,7 +16,7 @@ It appears in the pack twice, always as the amending instrument rather than the 
 
 | where | what it did |
 |---|---|
-| [[uu 2-2017 jasa konstruksi]] | amended the construction services law, including Pasal 30 on the [[sbu|Sertifikat Badan Usaha]] |
+| [[uu 2-2017 jasa konstruksi]] | amended the construction services law, including Pasal 30 on the [[sbu\|Sertifikat Badan Usaha]] |
 | [[pp 18-2021 hak atas tanah]] | Pasal 142 and Pasal 185 letter b are the basis on which PP 18/2021 was made |
 
 When citing either of those, cite the operative provision and note that it stands as amended by this law.

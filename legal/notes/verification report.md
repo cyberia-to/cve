@@ -21,7 +21,7 @@ A master title in the singular does not exist. The Estate is assembled from 21 a
 
 | category | rows | area | share |
 |---|---|---|---|
-| [[hgb|HGB]] with a certificate number | 18 | 3,193 are (31.93 ha) | 86.0% |
+| [[hgb\|HGB]] with a certificate number | 18 | 3,193 are (31.93 ha) | 86.0% |
 | without an HGB certificate | 3 | 518 are (5.18 ha) | 14.0% |
 | total | 21 | 3,711 are (37.11 ha) | 100% |
 
@@ -115,7 +115,7 @@ The second consequence of the list, already entered into [§2.6](#2-itr-and-bule
 | remaining term of the title | not determinable; a single master title is a myth, there are 18 titles, and a further 14% of the area has none | read the 18 certificates, fill in Annex A |
 | ITR / RDTR Buleleng | RTRW is Kawasan Pertanian; PKKPR covers 45.6% of the area | obtain the missing PKKPR, check LP2B for each plot |
 | charging a hak sewa | impossible under UU 4/1996 Pasal 4; replaced by cessie tot zekerheid | confirm the construction with the notary |
-| [[kuhperdata|KUHPerdata]] 1588–1592 | unconfirmed, sources unavailable | one question to the notary against JDIH |
+| [[kuhperdata\|KUHPerdata]] 1588–1592 | unconfirmed, sources unavailable | one question to the notary against JDIH |
 | KBLI scope | absent from the Articles, present in the NIB; the table is set up in Annex A | export from OSS RBA, starting with 68111 |
 
 This is not legal advice. Two items — the charge and the article numbering — are stated from knowledge rather than from a retrieved primary source, and are marked as requiring confirmation. The figures for areas and PKKPR are computed from the `land` spreadsheet and are reproducible.

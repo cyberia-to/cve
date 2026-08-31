@@ -23,16 +23,16 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 |---|---|
 | this file | framework and operative structure |
 | `legal/notes/open questions.md` | release gate and every open item, deliberately outside the signable text |
-| [[annex a estate registry|Annex A]] | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw|RTRW]] classification, [[pkkpr|PKKPR]] number or its absence, [[lp2b|LP2B]] status; plus the KBLI × location table under [§9A.1](#9a-licences-warranty-and-licence-event-regime) |
-| [[annex b plot boundary|Annex B]] | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
-| [[annex c design code|Annex C]] | Design Code — the zoning code as numbers |
-| [[annex d community rules|Annex D]] | Community Rules |
-| [[annex e century index|Annex E]] | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, floor, worked invoice; also the unamortised-return formula |
-| [[annex f utilities access mobility|Annex F]] | Utilities, access and mobility specification |
-| [[annex g permitted use|Annex G]] | Permitted-use matrix by Holder class, zone and track |
-| [[annex h handover condition|Annex H]] | Condition schedule at site handover (baseline for redelivery, 5A.6 #6) |
-| [[annex i due diligence pack|Annex I]] | Due diligence pack under 9B.2 |
-| [[annex j offer of record|Annex J]] | Offer of record under 2.1.2 — the product page and price schedule as they stood, by commit hash and date |
+| [[annex a estate registry\|Annex A]] | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw\|RTRW]] classification, [[pkkpr\|PKKPR]] number or its absence, [[lp2b\|LP2B]] status; plus the KBLI × location table under [§9A.1](#9a-licences-warranty-and-licence-event-regime) |
+| [[annex b plot boundary\|Annex B]] | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
+| [[annex c design code\|Annex C]] | Design Code — the zoning code as numbers |
+| [[annex d community rules\|Annex D]] | Community Rules |
+| [[annex e century index\|Annex E]] | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, floor, worked invoice; also the unamortised-return formula |
+| [[annex f utilities access mobility\|Annex F]] | Utilities, access and mobility specification |
+| [[annex g permitted use\|Annex G]] | Permitted-use matrix by Holder class, zone and track |
+| [[annex h handover condition\|Annex H]] | Condition schedule at site handover (baseline for redelivery, 5A.6 #6) |
+| [[annex i due diligence pack\|Annex I]] | Due diligence pack under 9B.2 |
+| [[annex j offer of record\|Annex J]] | Offer of record under 2.1.2 — the product page and price schedule as they stood, by commit hash and date |
 
 ---
 
@@ -56,15 +56,15 @@ Signing authority. Under Articles of Association Pasal 12(2)(c) the Director sig
 
 | Term | Definition |
 |---|---|
-| Landowner | PT. CYBER VALLEY ESTATE, an Indonesian limited liability company (PT [[pma|PMA]]) domiciled in Gesing, Banjar, Buleleng, Bali; holder of the land titles listed in Annex A; [[nib|NIB]] [___] |
+| Landowner | PT. CYBER VALLEY ESTATE, an Indonesian limited liability company (PT [[pma\|PMA]]) domiciled in Gesing, Banjar, Buleleng, Bali; holder of the land titles listed in Annex A; [[nib\|NIB]] [___] |
 | Title | the HGB certificate listed in Annex A on which the Plot sits, named in the recitals |
 | Holder | the counterparty; classified at signing as Foreign Holder (non-Indonesian national) or Indonesian Holder (WNI) |
 | Estate | the land parcel(s) under the master title, described in Annex A |
 | Plot | the demarcated area allocated to the Holder, described by coordinates and site plan in Annex B |
 | Improvements | any building or structure erected by the Holder on the Plot |
-| Design Code | [[annex c design code|Annex C]], as amended under [§7](#7-design-code-annex-c) |
-| Community Rules | [[annex d community rules|Annex D]] |
-| Index Annex | [[annex e century index|Annex E]], the century index annex referred to in [§2.3](#2-part-a-base-grant-hak-sewa-all-holders) and [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) |
+| Design Code | [[annex c design code\|Annex C]], as amended under [§7](#7-design-code-annex-c) |
+| Community Rules | [[annex d community rules\|Annex D]] |
+| Index Annex | [[annex e century index\|Annex E]], the century index annex referred to in [§2.3](#2-part-a-base-grant-hak-sewa-all-holders) and [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Register | the register of leases maintained by the Landowner under [§2.5.8](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Estate Certificate | the statement of lease status issued under [§2.5.6](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Guarantee Fund | the reserve constituted under [§9B.7](#9b-title-warranties-negative-pledge-and-indemnity) |
@@ -119,7 +119,7 @@ No marketing material may describe this instrument as a registered lease.
 | Holder's position | fee |
 |---|---|
 | base | [2.0]% |
-| built within time, [[slf|SLF]] issued | [1.5]% |
+| built within time, [[slf\|SLF]] issued | [1.5]% |
 | no unremedied Design Code breach for the whole term | [1.0]% |
 | soil and water results published to the ledger without gaps | [0.5]% |
 | referred residents above the threshold in Annex D | [0]% |

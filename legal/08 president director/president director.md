@@ -81,11 +81,11 @@ Once per month (or written circular):
 
 | rule | |
 |---|---|
-| **HGB — board only** | Any **[[hgb|HGB]]** grant, transfer or disposal goes **only through the board** — approval required at any price, market or not |
+| **HGB — board only** | Any **[[hgb\|HGB]]** grant, transfer or disposal goes **only through the board** — approval required at any price, market or not |
 | **Leasehold — PD's course** | **Hak sewa** (leasehold) is the PD's ordinary business — no approval needed, except **below market** deals, which require approval |
 | **Market floor** | **USD 3,000 / are (sotka)** — under this = below market unless approved |
 | **Contracts above 2%** | Any contract with a value above **2% of the issued capital (modal ditempatkan)** requires approval |
-| **No mortgage** | PD **cannot** pledge or mortgage Company (or controlled [[spv|SPV]]) **real estate** for loans |
+| **No mortgage** | PD **cannot** pledge or mortgage Company (or controlled [[spv\|SPV]]) **real estate** for loans |
 | **Approval quorum** | for every approval this document requires: **either commissioner** is enough. The President Commissioner and the Commissioner each hold the approval right independently, and the signature of one of them is sufficient |
 
 ---
@@ -101,7 +101,7 @@ Once per month (or written circular):
 | **Independence** | Tranches are **independent** — missing the Tranche A window does **not** forfeit or block Tranche B |
 | **Rescheduling** | Either window may be extended or shortened **by written mutual consent** of PD and founders |
 | **Source** | **only sale/transfer from founders** — **no new share issue** for this package. Option shares count against the cumulative total on the [§7](#7-kpi-ladder-ds-av-10-founders-company-1b) ladder, so the founders' ~10% residual is measured after both the ladder and this package |
-| **[[rofr|ROFR]]** | Transfers of option shares under this [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) are a **Permitted Transfer** under [[shareholders agreement]] Article 1(5) — exempt from the Matching Right; the transfer to PD proceeds directly on exercise, with no window for the other Shareholders to take the shares instead |
+| **[[rofr\|ROFR]]** | Transfers of option shares under this [§6](#6-options-up-to-10-at-4m-sale-from-founders-only) are a **Permitted Transfer** under [[shareholders agreement]] Article 1(5) — exempt from the Matching Right; the transfer to PD proceeds directly on exercise, with no window for the other Shareholders to take the shares instead |
 
 Options ≠ KPI ladder ([§7](#7-kpi-ladder-ds-av-10-founders-company-1b)). Personal upside for the chair; shares come from founders’ holdings, not dilution by print.
 
@@ -187,7 +187,7 @@ Shares held by the PD are ordinary shares under the [[articles of association]] 
 | trigger | rule |
 |---|---|
 | **Removal from Director office** (by resolution of the shareholders) | Removal takes effect **immediately** and ends the office — nothing more. **No buyout, no buyback**: every share the PD owns — the entry stake, exercised option shares, ladder equity — stays his, as ordinary shares under the rules above. Cause of removal changes nothing. |
-| **PD's own decision to leave** | Same treatment: he keeps everything he owns, and may hold the shares and receive dividends, or sell — founders and other shareholders first under the [[rofr|ROFR]], then third parties. |
+| **PD's own decision to leave** | Same treatment: he keeps everything he owns, and may hold the shares and receive dividends, or sell — founders and other shareholders first under the [[rofr\|ROFR]], then third parties. |
 | **Unexercised options** | Lapse on departure, however it comes. Exercised options are shares already, and stay. |
 | **Commissions & fees** | Survive departure per [§17](#17-survival-after-departure), on their own terms. |
 
@@ -275,7 +275,7 @@ multi-page indemnification.
 | | |
 |---|---|
 | **Governing law** | Republic of Indonesia — same as [[articles of association]] and [[shareholders agreement]] |
-| **Disputes** | Good-faith negotiation first; unresolved after 30 days → arbitration under [[bani|BANI]] rules, seat Bali, in English, and the Denpasar District Court (Pengadilan Negeri Denpasar) for enforcement of the award and for interim relief |
+| **Disputes** | Good-faith negotiation first; unresolved after 30 days → arbitration under [[bani\|BANI]] rules, seat Bali, in English, and the Denpasar District Court (Pengadilan Negeri Denpasar) for enforcement of the award and for interim relief |
 
 ---
 
@@ -331,7 +331,7 @@ multi-page indemnification.
 |---|---|
 | **Survival** | [§12](#12-pre-appointment-liability) shield and [§13](#13-legal-defence-narrow-indemnification) defence-cost advance continue after PD's departure, for the periods they cover, regardless of when a claim is brought |
 | **Acts in office** | Extends to PD's good-faith acts within authority under [§14](#14-right-to-refuse) while in office, on the same defence-cost-advance basis as [§13](#13-legal-defence-narrow-indemnification) |
-| **[[do|D&O]] cover** | Company maintains directors & officers insurance naming PD, continuing for a tail period after departure |
+| **[[do\|D&O]] cover** | Company maintains directors & officers insurance naming PD, continuing for a tail period after departure |
 | **Commissions & referral fees** | Land commission grids, investment-raise / capital-introduction %, and any other commission under [§10](#10-other-remuneration-commissions-asset-management) survive removal or departure in full, regardless of cause — payable on their own terms for any deal **signed before the date of departure, or offered in writing before it and signed thereafter**, whenever the money actually arrives. Removal from Director office does not reduce, delay beyond their own terms, or extinguish these amounts. |
 
 ---

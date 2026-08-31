@@ -22,7 +22,7 @@ Annexed to [[land rights agreement]]. One Annex B is completed per Plot, at the 
 | *Peta bidang* reference | BPN or Company survey | drawing number and date |
 | Indicative area, m² | site survey at grant | the figure the Holder is quoted; final area on *pemecahan* or SLF may differ within the tolerance stated in the grant |
 | Adjoining owners/Plots | Register, cross-checked at survey | name or Plot reference on each boundary side |
-| Access | Register | which internal road or corridor under [[annex f utilities access mobility|Annex F]] reaches this Plot |
+| Access | Register | which internal road or corridor under [[annex f utilities access mobility\|Annex F]] reaches this Plot |
 
 ## Discrepancy rule
 

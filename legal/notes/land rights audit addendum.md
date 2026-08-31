@@ -21,15 +21,15 @@ What [§2.5](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-gran
 
 | what is missing | why it breaks the sale |
 |---|---|
-| an Estate Certificate for the buyer | the buyer cannot verify the remaining term, arrears, [[pbg|PBG]]/[[slf|SLF]] status or encumbrances on the master title. Nobody pays for a thing whose condition cannot be confirmed |
-| a choice between a [[rofr|ROFR]] and a transfer fee | the bracket `[right of first refusal / transfer fee of __%]` is open. An Estate right of first refusal collapses the resale price: an outside buyer will not bid knowing he can be matched at his own price |
+| an Estate Certificate for the buyer | the buyer cannot verify the remaining term, arrears, [[pbg\|PBG]]/[[slf\|SLF]] status or encumbrances on the master title. Nobody pays for a thing whose condition cannot be confirmed |
+| a choice between a [[rofr\|ROFR]] and a transfer fee | the bracket `[right of first refusal / transfer fee of __%]` is open. An Estate right of first refusal collapses the resale price: an outside buyer will not bid knowing he can be matched at his own price |
 | deadlines for the Estate's actions | there is no time limit and no deemed consent. The Estate can strangle a deal simply by answering slowly |
 | indivisibility of the bundle | [§5.4](/cyber-valley/cve/legal/11-land-rights-agreement#5-building-rights-and-pbg) gives the Improvements to the Holder, but [§2.5](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) does not say they travel with the right. A right separated from the house is not a product |
 | carry-over of the CX annex | index thesis T7 says expressly that the annex survives assignment with the same quantities qᵢ; the agreement does not repeat this, so the acquirer does not know what rate he is buying |
 | succession | the death of the Holder is the most frequent transfer of the right over 25 years. The agreement does not mention it at all |
 | charging the right | without the ability to encumber a lease the buyer cannot obtain financing, and the market shrinks to those paying cash |
 | Association membership on assignment | [§2.5](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) requires accession to the Design Code and Community Rules, but not to the Association of [§8](/cyber-valley/cve/legal/11-land-rights-agreement#8-community-council-shared-infrastructure-and-service-charge) |
-| taxes on assignment | [§12](/cyber-valley/cve/legal/11-land-rights-agreement#12-taxes-currency-and-costs) covers [[bphtb|BPHTB]] and PPh on a transfer of title and is silent on the assignment of a hak sewa |
+| taxes on assignment | [§12](/cyber-valley/cve/legal/11-land-rights-agreement#12-taxes-currency-and-costs) covers [[bphtb\|BPHTB]] and PPh on a transfer of title and is silent on the assignment of a hak sewa |
 | the link to the lease register and tokenisation | development charter [§10](/cyber-valley/cve/legal/11-land-rights-agreement#10-termination-and-end-of-term) puts derivatives of residential leases second in the tokenisation queue; the agreement has neither a register nor a rule of priority |
 
 ### Question 2: protection where the land was encumbered, let, or burdened with obligations
