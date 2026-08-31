@@ -7,9 +7,7 @@ icon: "🖋"
 ---
 # Akta Sewa — Bentuk Sederhana / Hak Sewa — Simple Form
 
-d0.2 · akta sewa minimal yang dapat ditandatangani / the minimal signable lease · draft for counsel and [[ppat|PPAT]]
-
-> **Preliminary — Stage 1 of document preparation complete, 29 August 2026.** Second reading and the fixes that reading turns up are pending.
+Akta sewa minimal yang dapat ditandatangani / The minimal signable lease · draft for counsel and [[ppat|PPAT]].
 
 ## Kedudukan — Standing
 

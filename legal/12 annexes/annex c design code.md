@@ -7,7 +7,7 @@ icon: "📐"
 ---
 # Annex C — Design Code
 
-v0.4 · annex to [[land rights agreement|Land Rights Agreement]] · binding on all Holders, all tracks, all zones, and on any assignee or successor
+Annex to [[land rights agreement|Land Rights Agreement]], binding on all Holders, all tracks, all zones, and on any assignee or successor.
 
 This annex and [[cyber-valley/policies/zoning system|land usage policy]] state one body of rules in two registers. The policy page holds the reasoning and the working numbers as the estate maintains them — the informal representation, open to anyone reading the graph. This annex holds the same numbers in the form that binds a Holder under the deed — the formal representation, initialled and version-locked at signing under [§7.4.1](/cyber-valley/cve/legal/11-land-rights-agreement#7-design-code-annex-c). Read either one and you are reading the same rules.
 

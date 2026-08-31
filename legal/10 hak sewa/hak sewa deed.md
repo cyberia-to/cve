@@ -7,11 +7,7 @@ icon: "📜"
 ---
 # Hak Sewa — base deed
 
-d0.1 · draft for counsel and [[ppat|PPAT]] · assembled from [[land rights agreement|Land Rights Agreement]] v0.4.3 under the rule in [[holder protocol decisions|holder protocol]]
-
-> Status. This is the operative text, written to be marked up by an Indonesian notary and counsel. Where the framework reasons, this deed instructs. Nothing here is legal advice, and no version of this text is executed while any item in [[open questions]] stands open against the clause being executed.
->
-> **Preliminary — Stage 1 of document preparation complete, 29 August 2026.** Second reading and the fixes that reading turns up are pending.
+Assembled from [[land rights agreement|Land Rights Agreement]] under the rule in [[holder protocol decisions|holder protocol]]. Written to be marked up by an Indonesian notary and counsel: where the framework reasons, this deed instructs. No version of this text is executed while any item in [[open questions]] stands open against the clause being executed.
 
 Three markers run through the text and each carries a different instruction to the reader:
 
