@@ -46,7 +46,7 @@ Every price enters as a trailing 365-day average of daily fixes. The index publi
 |---|---|
 | numéraire | BTC, fixes USD-quoted |
 | reset | annual anniversary; the TWAP window ends 30 days before payment |
-| settlement | IDR at [[jisdor|JISDOR]] on the invoice date, as [[uu 7-2011 mata uang|UU 7/2011]] requires |
+| settlement | IDR at [[jisdor\|JISDOR]] on the invoice date, as [[uu 7-2011 mata uang\|UU 7/2011]] requires |
 
 R(t) tracks the basket uncapped. Conversion into the settlement currency is never capped either: a devaluation of the rupiah flows through in full, which is the point of denominating in the index at all.
 

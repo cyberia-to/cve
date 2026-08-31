@@ -16,10 +16,10 @@ Annexed to [[land rights agreement]]. Referred to at [§5A.6](/cyber-valley/cve/
 | field | recorded at | note |
 |---|---|---|
 | Photographic record | BAST Lahan | dated, timestamped, covering every boundary and any existing structure |
-| Inventory | BAST Lahan | fixtures, existing vegetation of record, any Company infrastructure crossing the Plot (Z4 access, utility runs under [[annex f utilities access mobility|Annex F]]) |
-| Soil baseline | BAST Lahan | test result under [[annex d community rules|Annex D]] D3, for comparison against the soil-building requirement over the Term |
-| Boundary state | BAST Lahan | cross-references [[annex b plot boundary|Annex B]] for this Plot |
-| Redelivery condition | BAST Pengembalian | compared against the baseline above; wear consistent with the permitted use under [[annex g permitted use|Annex G]] is not a defect |
+| Inventory | BAST Lahan | fixtures, existing vegetation of record, any Company infrastructure crossing the Plot (Z4 access, utility runs under [[annex f utilities access mobility\|Annex F]]) |
+| Soil baseline | BAST Lahan | test result under [[annex d community rules\|Annex D]] D3, for comparison against the soil-building requirement over the Term |
+| Boundary state | BAST Lahan | cross-references [[annex b plot boundary\|Annex B]] for this Plot |
+| Redelivery condition | BAST Pengembalian | compared against the baseline above; wear consistent with the permitted use under [[annex g permitted use\|Annex G]] is not a defect |
 
 ## What "baseline" means for redelivery
 

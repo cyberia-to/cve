@@ -28,7 +28,7 @@ shareholders-agreement accession · entry payment side letter · disclosure
 | doc | what |
 |-----|------|
 | [[articles of association]] | Anggaran Dasar (bilingual text: [[articles of association.bilingual]]) |
-| [[shareholders agreement]] | [[rofr|ROFR]], tag-along, moonly dividend cadence, cash waterfall (bilingual text: [[shareholders agreement.bilingual]]) |
+| [[shareholders agreement]] | [[rofr\|ROFR]], tag-along, moonly dividend cadence, cash waterfall (bilingual text: [[shareholders agreement.bilingual]]) |
 | [strategy](/cyber-valley/strategy/) | what the estate sells and how it sequences (not shareholder cash split) |
 
 ## Land
@@ -37,7 +37,7 @@ shareholders-agreement accession · entry payment side letter · disclosure
 |-----|------|
 | [[land rights agreement]] | drafting framework — the whole land-rights system, reasons and options |
 | [[hak sewa deed]] | base deed — the signable *akta sewa*, assembled from the framework |
-| [[hak sewa simple]] | minimal lease, eight clauses — rent in [[annex e century index|century index]] units, 30% at signing, balance in a year, else annual indexed instalments or termination |
+| [[hak sewa simple]] | minimal lease, eight clauses — rent in [[annex e century index\|century index]] units, 30% at signing, balance in a year, else annual indexed instalments or termination |
 | [[annexes]] | annex index — the century index; nine further schedules enter as they are settled |
 
 ## Notes

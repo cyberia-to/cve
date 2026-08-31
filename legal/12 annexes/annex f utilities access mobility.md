@@ -16,7 +16,7 @@ Annexed to [[land rights agreement]]. Referred to at [[hak sewa deed]] [10.6](/c
 | system | current | note |
 |---|---|---|
 | power | 30 kW solar, off-grid | expanded per district as build-out proceeds; no PLN grid connection contemplated |
-| water | rainwater harvest and purification, on-site systems | pipe materials, collection and greywater/blackwater standards under [[annex d community rules|Annex D]] D1 |
+| water | rainwater harvest and purification, on-site systems | pipe materials, collection and greywater/blackwater standards under [[annex d community rules\|Annex D]] D1 |
 | connectivity | fibre where laid; Starlink as the off-grid fallback | district-by-district; a new district defaults to Starlink until fibre reaches it |
 | roads | estate-internal roads, private access corridors off the public road | see F2, mobility |
 

@@ -88,7 +88,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 |---|---|---|
 | upfront | 100% of the Plot price | nothing beyond the area revenue charge, service charge and taxes |
 | scheduled | 30% minimum deposit of the elected price | equal instalments over 1 or 5 years, no interest, under [3.2](#part-3-consideration) |
-| rent | none | annual rent under a separate written agreement between the Landowner and the specific Holder; where elected, [[annex e century index|Annex E]] governs the rent in full and this Part applies only to the extent the rent agreement adopts it |
+| rent | none | annual rent under a separate written agreement between the Landowner and the specific Holder; where elected, [[annex e century index\|Annex E]] governs the rent in full and this Part applies only to the extent the rent agreement adopts it |
 
 The rent form carries no path to any of the rights, titles or upgrade tracks elsewhere in this deed; it is occupation for the agreed term only, and is offered where the Landowner elects to let rather than sell a Plot — a Holder not yet eligible for [12.1.2](#part-12-upgrade-tracks), or occupation by season or by event, or a Plot the Landowner is not yet ready to sell.
 

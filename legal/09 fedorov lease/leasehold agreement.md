@@ -18,7 +18,7 @@ PT Cyber Valley Estate ↔ Oleksandr Fedorov — dibuat di bawah tangan pada tan
 
 | Bahasa Indonesia | English |
 |---|---|
-| Peta menunjukkan batas sertifikat "sinwood" (HGB No. 00048/Gesing) dan bidang **sinwood-31**, objek Lampiran ini. Proyeksi datar dari Google My Maps; luas sebenarnya pada lahan berteras memerlukan survei triangulasi tersendiri (belum dilakukan untuk sinwood-31). | The map shows the boundary of the "sinwood" certificate (HGB No. 00048/Gesing) and plot **sinwood-31**, the subject of this Annex. Flat Google My Maps projection; the true area on terraced ground requires its own triangulation survey (not yet done for sinwood-31). |
+| Peta menunjukkan batas sertifikat "sinwood" (HGB No. 00048/Gesing) dan bidang **sinwood-31**, objek Lampiran ini. Proyeksi datar dari Google My Maps. Survei triangulasi bidang sinwood-31 dilaksanakan pada 31 Agustus 2026; angka luas akhirnya dikonfirmasi dan dituangkan dalam gambar situasi tersendiri. Batas-batas bidang berlaku sebagaimana disepakati Para Pihak. | The map shows the boundary of the "sinwood" certificate (HGB No. 00048/Gesing) and plot **sinwood-31**, the subject of this Annex. Flat Google My Maps projection. The triangulation survey of sinwood-31 was carried out on 31 August 2026; its final figure is being confirmed and will be carried in its own site plan. The plot's boundaries stand as agreed between the Parties. |
 
 ## Pasal 1 — Para Pihak dan Kaitan dengan Perjanjian Sewa Pokok — Article 1 — Parties and Relationship to the Principal Lease
 

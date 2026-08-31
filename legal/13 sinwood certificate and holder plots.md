@@ -24,7 +24,7 @@ Worked example under [[annex a estate registry|Annex A]] and [[annex b plot boun
 | Expiration | 02.02.2053 |
 | Declared size | 400 (are) = 40,000 m² |
 | Flat area, this KML | 407.24 are — 4.0724 ha (measured; the certificate's own figure is 40,000 m²) |
-| Annex A row | Parcel 4 — [[hgb|HGB]] 00048 |
+| Annex A row | Parcel 4 — [[hgb\|HGB]] 00048 |
 
 **Identity confirmed.** "sinwood" is Parcel 4 — [[hgb|HGB]] 00048 — in [[annex a estate registry|Annex A]] and in [[director disclosure indemnity agreement]] Appendix B. Three independent fields match: the map layer's own `id: 4` against our Parcel 4 index, the declared size 400 are = 40,000 m² against Annex A's 40,000 m², and the expiry 02.02.2053 against Annex A's 02.02.2053 — the same match already seen elsewhere in the pack (Parcel 0: 6,800 m² declared, 6,400 m² on resurvey). The 407.24 are this KML shows is the measured area; 400 are is the certificate's declared figure.
 

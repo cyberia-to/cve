@@ -42,9 +42,9 @@ Remaining term is computed under [hak-sewa-deed §2.2](/cyber-valley/cve/legal/1
 
 | Parcel | State | Note |
 |---|---|---|
-| 0 | *Pipil* at purchase; in certification at [[bpn|BPN]] | 6,400 m², fully paid; certificate not yet issued. No Term until the HGB is granted. |
-| 3.1 | [[shm|SHM]] mother title, no *pemecahan* | ~400–450 m² of a 27,800 m² mother parcel; PPJB only, no AJB, held by an individual (Gede Redita). Not Company property — no lease can be granted from it yet. |
-| 13 | SHM 02167 (11.2023) | 45,000 m²; acquisition completed, certificate in issuance at [[bpn|BPN]] — awaited. Enters §1 as a registered title when the HGB issues. Supersedes the 21 August 2026 audit snapshot, which recorded the parcel titled to Wayan Rosa with no purchase documentation on file; per the Director's confirmation of 31 August 2026. |
+| 0 | *Pipil* at purchase; in certification at [[bpn\|BPN]] | 6,400 m², fully paid; certificate not yet issued. No Term until the HGB is granted. |
+| 3.1 | [[shm\|SHM]] mother title, no *pemecahan* | ~400–450 m² of a 27,800 m² mother parcel; PPJB only, no AJB, held by an individual (Gede Redita). Not Company property — no lease can be granted from it yet. |
+| 13 | SHM 02167 (11.2023) | 45,000 m²; acquisition completed, certificate in issuance at [[bpn\|BPN]] — awaited. Enters §1 as a registered title when the HGB issues. Supersedes the 21 August 2026 audit snapshot, which recorded the parcel titled to Wayan Rosa with no purchase documentation on file; per the Director's confirmation of 31 August 2026. |
 
 Portfolio total across the 18 titles with a computed Term 1: **318,570 m² (≈31.86 ha)** — matching the 319,320 m² Appendix B reports as registered, less the 750 m² Parcel 1 resurvey delta. Fourteen titles deliver the full 25-year ceiling today; Parcels 5, 9, 10 and 14 (57,860 m² combined) deliver 24.8 years.
 
