@@ -70,11 +70,11 @@ Perolehan tersebut didasarkan pada Akta Jual Beli sebagai berikut:
 
 Seluruh Akta Jual Beli tersebut di atas dibuat di hadapan Pejabat Pembuat Akta Tanah Kabupaten Buleleng, antara lain Komang Nunuk Sulasih, S.H., M.Kn.
 
-Selain bidang-bidang tersebut di atas, Perseroan telah menyelesaikan perolehan satu bidang tanah tambahan seluas **45.000 m² (empat puluh lima ribu meter persegi)**, yang sertipikatnya saat ini sedang dalam proses penerbitan pada Kantor Pertanahan (BPN). Bidang tersebut belum termasuk dalam jumlah pada tabel di atas dan dicatat dalam daftar aset Perseroan setelah sertipikat diterbitkan.
+Selain bidang-bidang tersebut di atas, Perseroan telah menyelesaikan perolehan dua bidang tanah tambahan yang sertipikatnya saat ini sedang dalam proses pada Kantor Pertanahan (BPN): satu bidang seluas **45.000 m² (empat puluh lima ribu meter persegi)**, yang sertipikatnya sedang dalam proses penerbitan, dan satu bidang seluas **6.400 m² (enam ribu empat ratus meter persegi)**, diperoleh atas dasar Pipil dan telah dibayar lunas, yang sedang dalam proses pensertipikatan pertama kali. Kedua bidang tersebut belum termasuk dalam jumlah pada tabel di atas dan dicatat dalam daftar aset Perseroan setelah sertipikat masing-masing diterbitkan.
 
 **5. Kesimpulan.**
 
-Modal ditempatkan dan disetor penuh Perseroan sebesar Rp 20.100.000.000,00 telah disetor seluruhnya dengan uang tunai pada saat pendirian, dan telah direalisasikan ke dalam aset tanah seluas **319.320 m² (tiga ratus sembilan belas ribu tiga ratus dua puluh meter persegi) atau lebih kurang 31,9 hektar**, yang terdaftar atas nama Perseroan, ditambah satu bidang seluas 45.000 m² yang sertipikatnya sedang menunggu penerbitan oleh BPN — sehingga seluruhnya **364.320 m² (lebih kurang 36,4 hektar)** setelah sertipikat tersebut terbit. Aset tanah tersebut merupakan aset tetap Perseroan dan tidak dibebani hak tanggungan.
+Modal ditempatkan dan disetor penuh Perseroan sebesar Rp 20.100.000.000,00 telah disetor seluruhnya dengan uang tunai pada saat pendirian, dan telah direalisasikan ke dalam aset tanah seluas **319.320 m² (tiga ratus sembilan belas ribu tiga ratus dua puluh meter persegi) atau lebih kurang 31,9 hektar**, yang terdaftar atas nama Perseroan, ditambah dua bidang seluas seluruhnya 51.400 m² yang sertipikatnya sedang dalam proses pada BPN — sehingga seluruhnya **370.720 m² (lebih kurang 37,1 hektar)** setelah sertipikat-sertipikat tersebut terbit. Aset tanah tersebut merupakan aset tetap Perseroan dan tidak dibebani hak tanggungan.
 
 **6. Lampiran.**
 
@@ -152,11 +152,11 @@ The acquisitions rest on the following Deeds of Sale and Purchase:
 
 All the above Deeds of Sale and Purchase were drawn up before Land Deed Officials of Kabupaten Buleleng, including Komang Nunuk Sulasih, S.H., M.Kn.
 
-In addition to the parcels listed above, the Company has completed the acquisition of one further parcel of **45,000 m² (forty-five thousand square metres)**, whose certificate is currently in issuance at the Land Office (BPN). That parcel is not included in the table above and enters the Company's asset schedule once the certificate is issued.
+In addition to the parcels listed above, the Company has completed the acquisition of two further parcels whose certificates are currently in process at the Land Office (BPN): one of **45,000 m² (forty-five thousand square metres)**, whose certificate is in issuance, and one of **6,400 m² (six thousand four hundred square metres)**, acquired on a *Pipil* basis and paid in full, now undergoing first-time certification. Neither parcel is included in the table above; each enters the Company's asset schedule once its certificate is issued.
 
 **5. Conclusion.**
 
-The Company's issued and fully paid-up capital of Rp 20,100,000,000.00 was paid in full in cash at incorporation, and has been realised in land assets of **319,320 m² (three hundred and nineteen thousand three hundred and twenty square metres), approximately 31.9 hectares**, registered in the name of the Company, plus one parcel of 45,000 m² whose certificate is awaited from the BPN — **364,320 m² (approximately 36.4 hectares)** in all once that certificate issues. Those land assets are fixed assets of the Company and are not encumbered by any security title (hak tanggungan).
+The Company's issued and fully paid-up capital of Rp 20,100,000,000.00 was paid in full in cash at incorporation, and has been realised in land assets of **319,320 m² (three hundred and nineteen thousand three hundred and twenty square metres), approximately 31.9 hectares**, registered in the name of the Company, plus two parcels of 51,400 m² combined whose certificates are in process at the BPN — **370,720 m² (approximately 37.1 hectares)** in all once those certificates issue. Those land assets are fixed assets of the Company and are not encumbered by any security title (hak tanggungan).
 
 **6. Attachments.**
 
