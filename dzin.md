@@ -14,7 +14,7 @@ text; Bahasa prevails on executed deeds (Law No. 24/2009).
 
 | # | document | what |
 |---|---|---|
-| 1 | [[gms director appointment]] | GMS seats the board — Fedorov President Director, Voinova Deputy President Director, Starodubtsev President Commissioner — **effective only at Closing** |
+| 1 | [[gms director appointment]] | GMS seats the board — Fedorov President Director, Voinova President Commissioner, Starodubtsev Commissioner — **effective only at Closing** |
 | 2 | [[share sale entry]] | founder sells **1% (80 shares) at par** to the President Director — **only at Closing** |
 | 3 | [[preemption waiver letter]] | Starodubtsev waives the [[rofr|ROFR]] over the entry shares (Form B) |
 | 4 | [[president director]] | how the president director runs ops + options + KPI ladder after entry |
@@ -23,5 +23,8 @@ text; Bahasa prevails on executed deeds (Law No. 24/2009).
 | 7 | [[director disclosure indemnity agreement]] | Owners' full disclosure + uncapped indemnity to the incoming Director |
 
 **Rule:** buy 1% ↔ become President Director. No buy → no appointment. No appointment → no sale.
+
+The table above is a catalogue. For the order these are actually signed
+in, and the land pack that follows them, see [[signing]].
 
 Everything else — constitution, land, notes, vocabulary, laws — lives at [[legal]].

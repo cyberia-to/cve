@@ -26,6 +26,7 @@ Every abbreviation used in the corporate and land documents, one page each: what
 |---|---|
 | [[hgb]] | Hak Guna Bangunan — right to build |
 | [[hak-milik]] | freehold, Indonesian citizens only |
+| [[hak-pakai]] | right of use — the only registered title a foreigner may hold |
 | [[bpn]] | Badan Pertanahan Nasional — the land registry |
 | [[ppat]] | Pejabat Pembuat Akta Tanah — land deed official |
 | [[ajb]] | Akta Jual Beli — deed of sale |
