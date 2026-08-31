@@ -31,7 +31,7 @@ Akta Notaris I Wayan Paramarta Jaya, S.H., M.Kn., Kabupaten Tabanan · Nomor: [_
 
 ## Lampiran — Gambar Situasi — Annex — Site Plan
 
-![gambar situasi sinwood-25 — proyeksi mendatar, 9 titik sudut, dengan panjang sisi dan peta kunci](https://gateway.pinata.cloud/ipfs/bafkreig6bquhkixeopzrqhlwp2xdvcni5mrkzpcuni3xkdiz72l7cjubs4)
+![gambar situasi sinwood-25 — proyeksi mendatar, 9 titik sudut, dengan panjang sisi dan peta kunci](../media/sinwood/sinwood-25-site-plan.svg)
 
 Denah di atas adalah proyeksi mendatar bidang tanah menurut peta bidang Perseroan: 9 titik sudut, panjang sisi sebagaimana tertera, keliling 127,7 m, luas proyeksi **±956 m²**.
 
