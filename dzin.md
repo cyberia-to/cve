@@ -24,4 +24,7 @@ text; Bahasa prevails on executed deeds (Law No. 24/2009).
 
 **Rule:** buy 1% ↔ become President Director. No buy → no appointment. No appointment → no sale.
 
+The table above is a catalogue. For the order these are actually signed
+in, and the land pack that follows them, see [[signing]].
+
 Everything else — constitution, land, notes, vocabulary, laws — lives at [[legal]].

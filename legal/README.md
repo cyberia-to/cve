@@ -10,6 +10,12 @@ PT [[pma|PMA]] Cyber Valley Estate — instruments and working notes.
 
 Corporate pack index: [[dzin]] · company page: [[cve]]
 
+## Signing
+
+[[signing]] — the two packs and the order they are executed in: pack 1 the
+entry of the president director, pack 2 the land. Order of signature, not
+of the alphabet.
+
 ## dzin — the appointment package
 
 The President Director entry is **one atomic package** and lives at [[dzin]]:
