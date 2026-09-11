@@ -1,5 +1,7 @@
 ---
 tags: cyber, rockets
+alias: rockets
+icon: "🚀"
 crystal-type: entity
 crystal-domain: cyber
 ---
