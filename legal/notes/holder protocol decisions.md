@@ -107,7 +107,10 @@ Variants: (a) as above · (b) keep "registered" with a qualification in small pr
 
 Recommending (a). Variant (b) is unacceptable: it is exactly the case where "looks right" replaces "is right".
 
-## D6 · No collar — the illusion of a fix, dropped honestly
+## D6 · No collar — superseded
+
+Reversed on 2026-09-23: the [[cyberia/protocol/century-index|century index]] protocol page is the source, and it carries the collar of +35% / −15% per year in sats with the dual floor. [[annex e century index|Annex E]] follows the protocol in full; the floor and the early redemption of this decision stay, the dropping of the collar does not. The original text is kept below for the record.
+
 
 Problem: page B promises "fixed yearly rent, locked on day one", and the index does not work that way.
 
@@ -229,7 +232,7 @@ Recommending (c): a cap at the amount paid plus the valuation of Improvements, w
 | D3 | charging with non-disturbance and notice | (a) the right survives, under conditions | ☐ | ☐ | ☐ |
 | D4 | guarantee fund of 5% in the century index | (a), moving to (d) above the threshold | ☐ | ☐ | ☐ |
 | D5 | drop "registered", sell the ladder | (a) | ☐ | ☐ | ☐ |
-| D6 | drop the collar, floor + early redemption | (a) | ☐ | ☐ | ☐ |
+| D6 | superseded — collar restored per the protocol; floor + early redemption stay | — | ☐ | ☐ | ☐ |
 | D7 | 10% per plot plus a market in density | (a), opening from the second wave | ☐ | ☐ | ☐ |
 | D8 | holding charge → buy-back → reversion | (a) | ☐ | ☐ | ☐ |
 | D9 | renewal as of right, compensation at valuation | (a) | ☐ | ☐ | ☐ |
