@@ -72,6 +72,77 @@ def resolve(name):
     return PAGES.get(name.lower().replace('-', ' '))
 
 
+# --- live links: every footnote points at the published page -------------
+BASE = "https://cyber.page"
+GRAPH = os.path.expanduser("~/cyber")
+MOUNTS = [("cve", "cyber-valley/cve"), ("cyber-valley", "cyber-valley"),
+          ("cyberia", "cyberia"), ("cyber", "")]   # repo -> published prefix
+NAMES = {}         # page name or alias -> local path, first mount wins
+FILES = []         # (normalised published path, local path)
+
+
+def published(path):
+    """Local markdown path -> its URL on the published graph, or None."""
+    rel = os.path.relpath(os.path.abspath(path), GRAPH)
+    for repo, prefix in MOUNTS:
+        if rel == repo or rel.startswith(repo + os.sep):
+            tail = rel[len(repo) + 1:]
+            if tail.endswith("README.md"):
+                tail = os.path.dirname(tail)
+            elif tail.endswith(".md"):
+                tail = tail[:-3]
+            web = "/".join(p for p in (prefix, tail) if p)
+            return BASE + "/" + web.lower().replace(" ", "-")
+    return None
+
+
+def index_graph():
+    for repo, _ in MOUNTS:
+        root = os.path.join(GRAPH, repo)
+        for base, dirs, files in os.walk(root):
+            dirs[:] = [d for d in dirs if not d.startswith(('.', 'node_modules', 'target'))]
+            for f in files:
+                if not f.endswith(".md"):
+                    continue
+                path = os.path.join(base, f)
+                url = published(path)
+                if not url:
+                    continue
+                FILES.append((url[len(BASE) + 1:].replace("-", " "), path))
+                keys = [f[:-3]]
+                try:
+                    head = open(path, encoding="utf-8").read(1500)
+                    m = re.search(r"^alias:\s*(.+)$", head, re.M)
+                    if m:
+                        keys += [a.strip() for a in m.group(1).split(",")]
+                except OSError:
+                    pass
+                for k in keys:
+                    NAMES.setdefault(k.lower().replace("-", " "), path)
+
+
+def link_of(target, source, wiki):
+    """Where a reference lives on the published graph."""
+    if target.startswith("http"):
+        return target
+    page, _, anchor = target.partition("#")
+    frag = ("#" + anchor) if anchor else ""
+    if not page:
+        url = published(source) if source else None
+        return (url + frag) if url else None
+    if not wiki:                                   # already a published path
+        return BASE + "/" + page.strip("/") + frag
+    key = page.strip("/").lower().replace("-", " ")
+    path = None
+    if "/" in key:
+        hits = [p for w, p in FILES if w == key or w.endswith("/" + key)]
+        path = hits[0] if hits else None
+    else:
+        path = NAMES.get(key)
+    url = published(path) if path else BASE + "/" + page.strip("/").lower().replace(" ", "-")
+    return url + frag
+
+
 REFS = []          # ordered list of footnote targets for the document being built
 REF_INDEX = {}     # target -> footnote number
 
@@ -106,25 +177,28 @@ def where(url, source=None):
 SOURCE = [None]    # path of the page being converted, for same-document anchors
 
 
-def ref(target):
-    """Register a footnote and return its number, reusing one per target."""
+def ref(target, wiki=True):
+    """Register a footnote and return (number, url), reusing one per target."""
     key = where(target, SOURCE[0])
+    url = link_of(target, SOURCE[0], wiki)
     if key not in REF_INDEX:
-        REFS.append(key)
+        REFS.append((key, url))
         REF_INDEX[key] = len(REFS)
-    return REF_INDEX[key]
+    return REF_INDEX[key], url
 
 
-def note(text, target):
-    return f'{text}<sup class="ref">{ref(target)}</sup>'
+def note(text, target, wiki=True):
+    n, url = ref(target, wiki)
+    sup = f'<sup class="ref">{n}</sup>'
+    return f'{text}<a href="{html.escape(url)}">{sup}</a>' if url else text + sup
 
 
 def inline(t):
     t = html.escape(t)
     t = re.sub(r'\[\[([^\]|]+)\|([^\]]+)\]\]', lambda m: note(m.group(2), m.group(1)), t)
     t = re.sub(r'\[\[([^\]]+)\]\]', lambda m: note(m.group(1), m.group(1)), t)
-    t = re.sub(r'\[([^\]]+)\]\((#[^)]*|/[^)]*)\)', lambda m: note(m.group(1), m.group(2)), t)
-    t = re.sub(r'\[([^\]]+)\]\((https?://[^)]+)\)', lambda m: note(m.group(1), m.group(2)), t)
+    t = re.sub(r'\[([^\]]+)\]\((#[^)]*|/[^)]*)\)', lambda m: note(m.group(1), m.group(2), False), t)
+    t = re.sub(r'\[([^\]]+)\]\((https?://[^)]+)\)', lambda m: note(m.group(1), m.group(2), False), t)
     t = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
     t = re.sub(r'(?<!\*)\*([^*\n]+)\*(?!\*)', r'<em>\1</em>', t)
     t = re.sub(r'`([^`]+)`', r'<code>\1</code>', t)
@@ -229,6 +303,9 @@ sup.ref { font-size: 7.5pt; line-height: 0; vertical-align: super; padding-left:
 .notes ol { list-style: none; padding-left: 0; font-size: 9pt; column-count: 2; column-gap: 14pt; }
 .notes li { margin-bottom: 2.5pt; break-inside: avoid; }
 .notes .n { display: inline-block; min-width: 13pt; font-weight: bold; }
+.notes a { text-decoration: underline; }
+.notes .u { font-size: 7.5pt; color: #555; word-break: break-all; padding-left: 13pt; }
+.notes ol { column-count: 1; }
 .footer { margin-top: 14pt; padding-top: 5pt; border-top: .5pt solid #bbb; font-size: 8pt; color: #555; }
 """
 
@@ -242,8 +319,10 @@ def page(md, title, stamp, source=None):
     notes = ""
     if REFS:
         rows = "".join(
-            f'<li><span class="n">{i}</span> {html.escape(t)}</li>'
-            for i, t in enumerate(REFS, 1))
+            f'<li><span class="n">{i}</span> '
+            + (f'<a href="{html.escape(u)}">{html.escape(t)}</a><br><span class="u">{html.escape(u.replace("https://", ""))}</span>'
+               if u else html.escape(t)) + '</li>'
+            for i, (t, u) in enumerate(REFS, 1))
         notes = f'<div class="notes"><h2>References</h2><ol>{rows}</ol></div>'
     return (f"<!doctype html><meta charset='utf-8'><title>{html.escape(title)}</title>"
             f"<style>{CSS}</style>{body}{notes}"
@@ -283,6 +362,7 @@ def main():
     exe = browser()
     build_index(os.path.dirname(os.path.abspath(a.pages[0])) or ".")
     build_index(".")
+    index_graph()
 
     for src in a.pages:
         name = os.path.basename(src)[:-3]

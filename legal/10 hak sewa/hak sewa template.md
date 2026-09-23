@@ -327,7 +327,7 @@ Land-time totals 12% of revenue, or 7% in a net-exporter district. Stay totals [
 
 12.1 Track F, Hak Pakai for a Foreign Holder. The Holder holds an option, part of what it buys, passing with the bundle and binding the Landowner through every change of ownership or control, to require the Hak Pakai procedure over the Plot to be started and carried to registration. The hak sewa stays a hak sewa until the land office grants the new right; the Landowner's undertaking is to perform every act within its power, in time.
 
-12.1.1 Route: (1) the Holder pays the costs under 12.1.9; (2) *pemecahan sertifikat* at BPN; (3) *pelepasan hak* over the split parcel, executed once the Holder's eligibility is confirmed in writing and the grant application is lodged; (4) grant of Hak Pakai to the Holder on the deed before the PPAT. Where Annex K (Office Practice) records a different order of the same steps, the office's order governs.
+12.1.1 Route: (1) the Holder pays the conversion price under 12.1.9A and the costs under 12.1.9; (2) *pemecahan sertifikat* at BPN; (3) *pelepasan hak* over the split parcel, executed once the Holder's eligibility is confirmed in writing and the grant application is lodged; (4) grant of Hak Pakai to the Holder on the deed before the PPAT. Where Annex K (Office Practice) records a different order of the same steps, the office's order governs.
 
 12.1.2 Conditions of law on the Holder, warranted by nobody: eligibility under PP 18/2021 Pasal 49(2)(e) and 69(1); a valid residence permit; the Bali minimum value of Rp 5,000,000,000 for land and house together, one parcel per person or family, up to 2,000 m², under Kepmen ATR/BPN 1241/SK-HK.02/IX/2022. The recitals state this figure against this Plot.
 
@@ -355,7 +355,9 @@ Land-time totals 12% of revenue, or 7% in a net-exporter district. Stay totals [
 
 12.1.8 Power of attorney. To the extent the law permits, the Landowner grants the Holder an irrevocable power, in the notary's form executed with this deed, to sign in its name the instruments of 12.1.5 left unsigned past the periods of 12.1.6. ○ The notary settles enforceability; the obligation of 12.1.5 stands regardless.
 
-12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, [[bphtb|BPHTB]] and PPh on acquisition, the valuation, its own advisers, and an upgrade fee of [2.0]% of the valuation under 12.1.4. Landowner: its own authorisations and advisers, the Annex K (Office Practice) verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
+12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, BPHTB on the grant, the PPh due on the *pelepasan* (paid by the Landowner and reimbursed by the Holder within 10 working days of evidence of payment), the valuation, its own advisers, and a processing fee of [2.0]% of the valuation under 12.1.4. Landowner: its own authorisations and advisers, the Annex K (Office Practice) verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
+
+12.1.9A Conversion price. The hak sewa is a lease and its consideration buys the Term only. The Plot under Hak Pakai is acquired for a conversion price equal to the valuation under 12.1.4 of the Plot held under Hak Pakai, fixed as at the date of the Notice, less the Unamortised premium at that date. The conversion price is paid before the *pelepasan* is executed and is refunded in full on any failure under 12.1.10.
 
 12.1.10 Failure. The cause decides the consequence:
 
@@ -373,11 +375,11 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 12.1.13 Before the first Notice the Landowner obtains in writing, at its cost, the answers Annex K (Office Practice) lists, and this Part is conformed to them.
 
-12.1.14 On registration the hak sewa over the Plot ends; the parties execute the notary's deed of termination and the Register entry is closed; prepaid consideration stays paid for the right now held in registered form; the Design Code, the Community Rules, Council membership and the area revenue charge continue to bind the Hak Pakai holder through covenants recorded in the acquisition deed and easements over access and utilities, drafted with the notary before the first Notice.
+12.1.14 On registration the hak sewa over the Plot ends; the parties execute the notary's deed of termination and the Register entry is closed; the conversion price having been paid, no further consideration is due for the Plot; the Design Code, the Community Rules, Council membership and the area revenue charge continue to bind the Hak Pakai holder through covenants recorded in the acquisition deed and easements over access and utilities, drafted with the notary before the first Notice.
 
 12.1.15 Disclosed before election: a Hak Pakai is registered and residency-dependent, its resale pool is narrower, and it replaces the assignment freedom of Part 4. The base lease serves many Holders better.
 
-12.2 Track I, title for an Indonesian Holder. On request the Landowner procures *pemecahan* and transfers the split HGB by [[ajb|AJB]] before the PPAT at a price credited against sums paid. Conversion to Hak Milik is the Holder's own application: Indonesian citizen, natural person, *rumah tinggal* evidenced by PBG or a village head's *keterangan*, the simplified route up to 600 m², a declaration within 5 parcels or 5,000 m². An Indonesian citizen married to a foreign national produces the notarial separation-of-assets agreement PP 18/2021 Pasal 70 requires before the upgrade starts.
+12.2 Track I, title for an Indonesian Holder. On request the Landowner procures *pemecahan* and transfers the split HGB by [[ajb|AJB]] before the PPAT at a price equal to the valuation under 12.1.4 of the Plot held under HGB, fixed as at the date of the request, less the Unamortised premium at that date, paid before the AJB. Conversion to Hak Milik is the Holder's own application: Indonesian citizen, natural person, *rumah tinggal* evidenced by PBG or a village head's *keterangan*, the simplified route up to 600 m², a declaration within 5 parcels or 5,000 m². An Indonesian citizen married to a foreign national produces the notarial separation-of-assets agreement PP 18/2021 Pasal 70 requires before the upgrade starts.
 
 12.3 After any title change the Design Code, the Community Rules and Council membership continue through covenants in the AJB, easements over access and utilities, and Council membership as a condition of sale.
 
@@ -516,7 +518,8 @@ Settled figures come from [[holder protocol decisions]] D1–D13 and [[hak sewa 
 | 11.1.1 | weight formula, bonus, cap | as D11 draft; 0.25; 10% |
 | 11.3 | initiative threshold | 10% of district weight |
 | 11.4 | service charge cap | 1% of Plot price per year |
-| 12.1.9 | upgrade fee | 2.0% of valuation, held pending the conversion price |
+| 12.1.9 | processing fee | 2.0% of the valuation |
+| 12.1.9A | conversion price | valuation at the Notice less the Unamortised premium |
 | 4.5 | assignment fee minimum | 1.0% |
 | 5.1 | stay management fee | 30% of revenue, per [[property management]] |
 | 8.9 | fund cover credits | 1% of each revenue charge, [x]% of each transfer fee, to [target] |

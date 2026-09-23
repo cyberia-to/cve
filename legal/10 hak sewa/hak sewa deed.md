@@ -441,7 +441,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 12.1.15 Fate of the Hak Sewa on registration. On the date the Hak Pakai is registered in the Holder's name over the Plot, the Hak Sewa over that Plot ends by operation of this clause, so that two rights do not stand over one parcel. On that date:
 
 - the parties execute the deed of termination the notary requires, and the Landowner procures the removal of the lease entry from the Register under [4.8](#part-4-transfer);
-- no refund of prepaid consideration is due, the consideration having been paid for the land right the Holder now holds in registered form;
+- the Holder has paid the conversion price under [[hak sewa template]] 12.1.9A — the valuation of the Plot under Hak Pakai less the Unamortised premium — so no further consideration is due for the Plot; the hak sewa consideration bought the Term only;
 - the obligations that this deed states to survive continue to bind the Holder as owner of the Hak Pakai, and are secured by covenants recorded in the deed of acquisition and by easements over access and utilities: the Design Code under [Part 10](#part-10-design-code), the Community Rules, membership of the Community Council under [Part 11](#part-11-community-council), and the area revenue charge under [Part 5](#part-5-subletting) to the extent it applies to a Hak Pakai holder;
 - ○ the mechanism by which those obligations bind a Hak Pakai holder is drafted with the notary before the first application, on the same footing as [12.3](#part-12-upgrade-tracks), and cannot be imposed afterwards.
 
