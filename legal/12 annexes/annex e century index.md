@@ -22,7 +22,7 @@ I(t) is the basket marked to market in dollars; R(t), the amount owed in year t,
 
 The same machine prices three things, each with its own R₀: the annual rent of the rent form; the service charge cap of 11.4; and the renewal price of 2.4, where R₀ = L₀, the Plot price, and L(T) = L₀ · (T₂ ÷ T₁) · I(T) ÷ I(t₀), floored at L₀ · T₂ ÷ T₁, T₁ and T₂ being the first and the renewal Terms in years. The Guarantee Fund of 3.5 is carried in quantities qᵢ computed from each contribution at the fix on the day it enters.
 
-**Deferred balances stay outside the index.** The scheduled forms of [[hak sewa template]] 3.1 carry a fixed fee and no index on the balance. The one instrument that revalues a late balance through this annex is [[hak sewa simple]] clause 5, and only there.
+**Deferred balances stay outside the index.** The scheduled forms of [[hak sewa template]] 3.1 and [[hak sewa simple]] clause 4 carry a fixed fee and no index on the balance; this annex prices the Recited Rent at signing, the renewal, the rent form and the charges named above.
 
 ## 2. Basket and weights
 
