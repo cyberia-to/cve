@@ -22,7 +22,7 @@ Two instruments per Plot. The notary executes [[hak sewa simple]], the eight-cla
 | Title | HGB No. [___], Annex A parcel [___], granted [___], expiring [___] |
 | Plot | Annex B reference [___], indicative area ±[___] m² |
 | Term | from [___] to [___] (Part 2) |
-| Form and price | [upfront / scheduled 1 year / scheduled 5 years] · Plot price Rp [___] · deposit Rp [___] (Part 3) |
+| Form and price | [upfront / scheduled] · Plot price Rp [___] at signing, quantities qᵢ per Annex E §4 · deposit Rp [___] (Part 3) |
 | Offer of record | Annex J entry [___], commit [___], dated [___] |
 | Design Envelope | Annex C version [___], hash [___] |
 | Title check | *pengecekan sertifikat* of [___] clear; Annex I delivered [___] |
@@ -77,11 +77,10 @@ Singular includes plural. Headings guide reading and bind nothing.
 | form | at signing | thereafter |
 |---|---|---|
 | upfront | 100% of the Plot price | area revenue charge, service charge, taxes |
-| scheduled, 1 year | 30% of 106% of the Plot price | balance in 12 equal monthly instalments |
-| scheduled, 5 years | 35% of 115% of the Plot price | balance in 60 equal monthly instalments |
+| scheduled | 30% of the Plot price | the balance, held as quantities qᵢ under Annex E, due within 12 months at its Annex E value on the payment date; a balance unpaid at 12 months converts to 5 equal annual instalments in the same quantities, each valued on its due date |
 | rent | a separate rent agreement; Annex E governs the rent | occupation only; Parts 4, 9, 12 apply only where the rent agreement adopts them |
 
-3.2 Scheduled balance. The fee is the whole cost of deferral: the balance carries no interest and no index. Early redemption at any time at the remaining balance moves the Holder to the upfront form.
+3.2 Scheduled balance. The balance is the century index and nothing else: no interest, no fee, the quantities qᵢ of Annex E marked to market on each payment date. Early redemption at any time at the Annex E value of the remaining quantities moves the Holder to the upfront form.
 
 3.3 Arrears. An instalment is in arrears 30 days after its due date. Arrears open a period of 6 months from the first missed due date during which the Holder may clear them, or assign under Part 4 with the assignee assuming the schedule. On the day that period ends with arrears outstanding, the Landowner may terminate by written notice; sums paid stay with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest. Improvements follow 16.2.
 
@@ -422,7 +421,7 @@ Settled figures come from [[holder protocol decisions]] D1–D13 and [[hak sewa 
 
 | clause | figure | proposal |
 |---|---|---|
-| 3.1 | scheduled forms | 1 year: 30% down, 6% fee; 5 years: 35% down, 15% fee, per [[annual leasehold]] |
+| 3.1 | scheduled form | 30% down, balance within 12 months at Annex E value, then 5 annual indexed instalments, per [[annual leasehold]] |
 | 3.3 | arrears window | 6 months, per [[annual leasehold]] |
 | 5.1 | settlement fee | 2% within the 1 to 3% of D10 |
 | 8.5 | completion security | 5% of budget, 50/50 at PHO and SLF |

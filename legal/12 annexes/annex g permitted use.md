@@ -16,7 +16,7 @@ Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Source
 | Instrument | Mechanics | Governing deed |
 |---|---|---|
 | **A** — [[leasehold upfront]] | 100% at signing, [[hak sewa]], 25-year Term | [[hak sewa deed]] §3.1 "upfront" |
-| **B** — [[annual leasehold]] | 1 year: 30% down, 6% fee; 5 years: 35% down, 15% fee; balance in equal instalments, no interest, no index | [[hak sewa template]] 3.1 "scheduled" |
+| **B** — [[annual leasehold]] | 30% down; balance in century index quantities within 12 months, then 5 annual indexed instalments; no interest, no fee | [[hak sewa template]] 3.1 "scheduled" |
 | **B-rent** — annual rent | No transfer of right; occupation only, by separate agreement | [[hak sewa deed]] §3.1 "rent"; [[annex e century index\|Annex E]] |
 | **C** — [[joint venture]] | Lease contributed to an OpCo for an equity stake, 40–60% split | separate JV agreement, not this deed |
 | **D** — [[hak pakai]] | Right-of-use title on a completed structure, registered to the Holder | [[hak sewa deed]] Track F, [12.1](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) |
