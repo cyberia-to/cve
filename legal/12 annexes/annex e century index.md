@@ -28,6 +28,7 @@ The same machine prices every sum under the deed, each with its own R₀:
 | rent, rent form | the year-0 rent | the same, on the cadence the rent agreement states |
 | service charge cap, 11.4 | 1% of the Plot price | per year |
 | Guarantee Fund, 3.5 | each contribution at the fix of the day it enters | held, and paid out at value |
+| Unamortised premium, exit under 9.5, 10.6.3, 12.1.11, 12.1.12, 14.4, 15.5, 16.3 | the Premium paid at signing | Premium × (whole months of Term remaining ÷ whole months of Term), carried in these quantities from signing and valued under §3 on the day it is paid; rent already paid is never part of it |
 | renewal price, 2.4 | L₀, the Plot price | L(T) = L₀ · (T₂ ÷ T₁) · I(T) ÷ I(t₀), floored at L₀ · T₂ ÷ T₁; T₁ and T₂ the first and the renewal Terms in years |
 
 Two forms of purchase exist and no other: the upfront form at a premium of 100%, or a premium below it with the rest carried as this rent for the Term. No fee, no interest and no market review sit on top of the index.

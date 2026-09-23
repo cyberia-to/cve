@@ -46,7 +46,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 1.4 The Title: [[hgb|HGB]] certificate No. [___], granted [___], expiring [___], remaining term at signing [___] years, recited as a date.
 
-1.5 Defined terms carry the meanings given in [[hak sewa template]] Part 1, mirrored from §1 of the framework: Estate, Improvements, Design Code, Community Rules, Index Annex, Register, Estate Certificate, Guarantee Fund, Community Council, Licence Event.
+1.5 Defined terms carry the meanings given in [[hak sewa template]] Part 1, mirrored from §1 of the framework, including Premium and Unamortised premium: Estate, Improvements, Design Code, Community Rules, Index Annex, Register, Estate Certificate, Guarantee Fund, Community Council, Licence Event.
 
 ---
 
@@ -254,7 +254,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 9.6 Three-tier remedy. ▲ Escalating, and in this order:
 
 1. Holding charge. ○ On overrun, a charge of [___] per month, rising by [___] every 6 months, paid into the biosphere and desa tithes rather than into the Landowner's profit.
-2. Buy-back offer. ○ After [___] months of overrun the Landowner shall offer to acquire the interest at unamortised prepayment under Annex E plus independent valuation of works completed.
+2. Buy-back offer. ○ After [___] months of overrun the Landowner shall offer to acquire the interest at the Unamortised premium under [[annex e century index|Annex E]] §1 plus independent valuation of works completed.
 3. Reversion. Available only after the Holder declines the buy-back or fails to respond within 60 days.
 
 9.7 Purpose, recited: to prevent speculative idle plots and permanent construction sites inside a small community. No Holder loses both the land and the money paid for it.
@@ -285,8 +285,8 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 | cause of the change | remedy |
 |---|---|
-| the change originates with the Landowner | exit with unamortised prepayment, the documented value of works at independent valuation, and direct loss; or remain and be compensated in the certified increased cost |
-| the change is required by law, by an act of authority, or by adat, subak or awig-awig | exit with unamortised prepayment and the value of works at independent valuation, without damages, secured by the Guarantee Fund |
+| the change originates with the Landowner | exit with the Unamortised premium, the documented value of works at independent valuation, and direct loss; or remain and be compensated in the certified increased cost |
+| the change is required by law, by an act of authority, or by adat, subak or awig-awig | exit with the Unamortised premium and the value of works at independent valuation, without damages, secured by the Guarantee Fund |
 
 ⚠ The exit right exists in both rows. Fault governs damages; it does not govern the exit.
 
@@ -427,16 +427,16 @@ Where causes are mixed, the consequence follows the cause without which the regi
 
 1. Specific performance. The Holder may require the Landowner to perform the outstanding act, and may apply for an order to that effect. The parties record that damages alone are an inadequate remedy for this Part.
 2. Delay compensation. From the day a period in [12.1.6](#part-12-upgrade-tracks) is exceeded until the act is performed, the Landowner pays the Holder [___] per month, ○ set as a proportion of the sums paid under this deed rather than as a flat figure.
-3. Exit at full value. The Holder may terminate and receive the unamortised prepayment under Annex E, the documented value of the Improvements at independent valuation, and direct loss, secured by the Guarantee Fund under [3.5](#part-3-consideration).
+3. Exit at full value. The Holder may terminate and receive the Unamortised premium under [[annex e century index|Annex E]] §1, the documented value of the Improvements at independent valuation, and direct loss, secured by the Guarantee Fund under [3.5](#part-3-consideration).
 4. Suspension. The Holder may suspend the area revenue charge under [Part 5](#part-5-subletting) and any instalment under [3.1](#part-3-consideration) until the breach is cured, without that suspension being a default.
 
-The cap in [15.4](#part-15-title-warranties-negative-pledge-indemnity) does not limit remedy 1 and does not limit remedy 3 below the sum of unamortised prepayment and the valuation of Improvements.
+The cap in [15.4](#part-15-title-warranties-negative-pledge-indemnity) does not limit remedy 1 and does not limit remedy 3 below the sum of the Unamortised premium and the valuation of Improvements.
 
 12.1.12 Consequences where the cause is refusal by the authority or a change of law. No fault, and no damages. The Hak Sewa continues for its Term with every right it carries, and:
 
 - the Landowner refunds the Holder's documented costs of the failed application, save the Landowner's own costs under [12.1.13](#part-12-upgrade-tracks);
 - the Landowner shall re-apply, at the Holder's request and cost, on each occasion within [24] months on which the law or the practice of the office changes so as to permit the application, for as long as the Term subsists;
-- the Holder may, within 12 months of the final refusal, elect instead to terminate and receive the unamortised prepayment under Annex E plus the value of the Improvements at independent valuation, without damages, secured by the Guarantee Fund. ▲ This mirrors the no-fault exit in [10.6.4](#part-10-design-code) and exists for the same reason: a risk the Holder cannot price is not left with the Holder.
+- the Holder may, within 12 months of the final refusal, elect instead to terminate and receive the Unamortised premium under [[annex e century index|Annex E]] §1 plus the value of the Improvements at independent valuation, without damages, secured by the Guarantee Fund. ▲ This mirrors the no-fault exit in [10.6.4](#part-10-design-code) and exists for the same reason: a risk the Holder cannot price is not left with the Holder.
 
 12.1.13 Verification before the first application. ⚠ ○ Before the first Hak Pakai Notice is served the Landowner obtains, in writing and at its own cost, from counsel and from the Kantor Pertanahan of Buleleng: the sequence of *pemecahan*, *pelepasan hak* and grant the office requires; the stage of construction at which an application is accepted, and specifically whether PBG suffices in place of SLF; the documents the office requires from a PT PMA as registered holder; the treatment of the Estate's parcels under RTRW, [[lp2b|LP2B]] and *sempadan* for this purpose; and the current minimum-value figure for the Province of Bali. The answers are annexed as Annex K and this Part is conformed to them before use.
 
@@ -523,7 +523,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 |---|---|
 | curable within 90 days, use unaffected | cure at the Landowner's cost; build deadlines suspended and time-based rights extended day for day |
 | Holder deprived of use for more than 90 consecutive days | pro-rata abatement for the period |
-| deprivation exceeding 180 days, or incurable defect | termination for the Landowner's default, with unamortised prepayment, the documented value of Improvements at independent valuation, and direct loss |
+| deprivation exceeding 180 days, or incurable defect | termination for the Landowner's default, with the Unamortised premium, the documented value of Improvements at independent valuation, and direct loss |
 
 15.6 Title continuity. ▲ Because every Term is derived from its Title, the Landowner maintains a title calendar in the Register showing for each Title the expiry date and the date by which an extension application must be filed; files each application within the statutory window and no later than 12 months before expiry, and pursues it diligently; and reports progress annually in the Register. Failure to file in time is a breach to which [15.4](#part-15-title-warranties-negative-pledge-indemnity) and [15.5](#part-15-title-warranties-negative-pledge-indemnity) apply. Allowing a Title to lapse so that only *pembaruan* remains is the Landowner's default and is not a no-fault event.
 
@@ -535,7 +535,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 16.2 Fate of Improvements. ▲ ○ At natural expiry without renewal, Improvements pass to the Landowner against compensation at independent valuation. The Holder may instead elect to remove them within [___] months. On termination for the Landowner's default, [15.5](#part-15-title-warranties-negative-pledge-indemnity) applies. On termination for the Holder's default, compensation is reduced by the Landowner's documented loss. Free reversion is not used: buildings and use-rights trade while the land does not, and free reversion would take back the part that trades.
 
-16.3 Title failure. ▲ If the Title is not renewed: compensation under [16.2](#part-16-termination-and-end-of-term) plus unamortised prepayment, secured by the Guarantee Fund. The status of the Title and the progress of its renewal are published in the Register annually.
+16.3 Title failure. ▲ If the Title is not renewed: compensation under [16.2](#part-16-termination-and-end-of-term) plus the Unamortised premium, secured by the Guarantee Fund. The status of the Title and the progress of its renewal are published in the Register annually.
 
 16.4 What the Guarantee Fund secures: the payments under [9.4](#part-9-the-build-obligation), [9.6](#part-9-the-build-obligation) item 2, [10.6.4](#part-10-design-code), [12.1.11](#part-12-upgrade-tracks), [12.1.12](#part-12-upgrade-tracks), [14.4](#part-14-licences), [15.4](#part-15-title-warranties-negative-pledge-indemnity), [15.5](#part-15-title-warranties-negative-pledge-indemnity) and this Part.
 

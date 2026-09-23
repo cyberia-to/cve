@@ -95,7 +95,7 @@ The Landowner covenants to apply for extension and, where extension is exhausted
 
 No marketing material may describe this instrument as a registered lease.
 
-2.3 Consideration. [Lump sum for full term / annual rent], payable [schedule]. Tax treatment: PPh on lease value at [10%]; PPN and withholding responsibility allocated at [§12](#12-taxes-currency-and-costs). ▲ Where consideration is indexed, the obligation is denominated in the century index: what is fixed at signing is the set of quantities qᵢ and the floor, not the amount of any future invoice; the basket tracks uncapped, subject only to the floor. The Index Annex (Annex E) carries weights, t₀ prices, quantities, fix sources with fallbacks, floor and one worked invoice, and prevails over prose (thesis T1). The Holder may recompute any invoice from public sources within 30 days and the recomputation prevails (T5). Settlement is in IDR at [[jisdor|JISDOR]] on the invoice date (T6, [[uu 7-2011 mata uang|UU 7/2011]]). The Index Annex survives assignment, sublease and succession with the same quantities (T7). On divergence between the on-chain fix and the annex computation from named public fixes, the annex computation prevails (T8).
+2.3 Consideration. Two forms and no other, as [[hak sewa template]] 3.1 states them: the upfront form at a Premium of 100% of the Plot price, or a Premium below it with the rest carried as rent in the century index for the Term, paid monthly. Premium and Unamortised premium carry the meanings of that template's Part 1. Tax treatment: PPh on lease value at [10%]; PPN and withholding responsibility allocated at [§12](#12-taxes-currency-and-costs). ▲ Where consideration is indexed, the obligation is denominated in the century index: what is fixed at signing is the set of quantities qᵢ and the floor, not the amount of any future invoice; the basket tracks uncapped, subject only to the floor. The Index Annex (Annex E) carries weights, t₀ prices, quantities, fix sources with fallbacks, floor and one worked invoice, and prevails over prose (thesis T1). The Holder may recompute any invoice from public sources within 30 days and the recomputation prevails (T5). Settlement is in IDR at [[jisdor|JISDOR]] on the invoice date (T6, [[uu 7-2011 mata uang|UU 7/2011]]). The Index Annex survives assignment, sublease and succession with the same quantities (T7). On divergence between the on-chain fix and the annex computation from named public fixes, the annex computation prevails (T8).
 
 2.4 Renewal by right. ▲ The Holder has the right — not an option subject to the Landowner's agreement — to renew for a further term determined as in 2.1, exercisable between [24] and [12] months before expiry, provided the Holder is not in uncured material default. The renewal price is L(T) = L₀ · I(T)/I(t₀) under the Index Annex. The Landowner may not refuse renewal while the Title subsists. Where the term granted under 2.1 was shortened by the Title rather than by choice, the automatic extension in 2.1 operates first and the renewal right attaches to the extended term.
 ⚠ The formula must be arithmetic — an index, a benchmark, or a defined valuation method with a named appointing body. "To be agreed" is the single most common defect in Bali leases and renders the option unenforceable in substance. Annex E is that formula; a renewal clause pointing at an empty annex reproduces the defect it warns against.
@@ -292,7 +292,7 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 6.2 Three-tier remedy. ▲ Escalating, and in this order:
 
 1. Holding charge. On overrun, a charge accruing at [__] per month, rising by [__] every [6] months. The charge is paid into the biosphere and desa tithes under the spending strategy, not into the Landowner's profit — the city loses from delay, so that is where the money goes.
-2. Buy-back offer. After [__] months of overrun the Landowner shall offer to acquire the interest at formula price: unamortised prepayment under Annex E plus independent valuation of works actually completed.
+2. Buy-back offer. After [__] months of overrun the Landowner shall offer to acquire the interest at formula price: the Unamortised premium under Annex E §1 plus independent valuation of works actually completed.
 3. Reversion. Available only after the Holder declines the buy-back offer or fails to respond within [60] days.
 
 6.3 Purpose. Prevent speculative idle plots and permanent construction sites inside a small community. State the purpose in the recital — it helps enforceability. No Holder loses both the land and the money paid for it.
@@ -329,8 +329,8 @@ Binding on all Holders, all tracks, all zones. [[annex c design code|Annex C]] s
 
 | cause of the change | remedy |
 |---|---|
-| the change originates with the Landowner | the Holder may exit with unamortised prepayment under Annex E, plus the documented value of works completed at independent valuation, plus direct loss; or remain and be compensated in the certified amount of the increased cost |
-| the change is required by law, regulation or an act of authority, or by *adat*, *subak* or the *awig-awig* of the *desa adat* | no fault; the Holder may exit with unamortised prepayment plus the value of works completed at independent valuation, without damages; payment is secured by the Guarantee Fund under 9B.7 |
+| the change originates with the Landowner | the Holder may exit with the Unamortised premium under Annex E §1, plus the documented value of works completed at independent valuation, plus direct loss; or remain and be compensated in the certified amount of the increased cost |
+| the change is required by law, regulation or an act of authority, or by *adat*, *subak* or the *awig-awig* of the *desa adat* | no fault; the Holder may exit with the Unamortised premium plus the value of works completed at independent valuation, without damages; payment is secured by the Guarantee Fund under 9B.7 |
 
 ⚠ The Holder's exit right exists in both rows. A regime in which a law-driven change leaves the Holder with nothing loads on the Holder a risk it cannot price, and gives the Landowner a reason to prefer changes that arrive through the regulator. Fault governs damages; it does not govern the exit.
 
@@ -427,7 +427,7 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 |---|---|
 | defect curable within 90 days, use unaffected | cure at the Landowner's cost; [§6](#6-construction-timeline-and-the-build-obligation) deadlines suspended and time-based rights extended day for day |
 | Holder deprived of use for more than 90 consecutive days | pro-rata abatement for the period |
-| deprivation exceeding 180 days, or incurable defect | termination for the Landowner's default, with payment of unamortised prepayment under Annex E, plus the documented value of Improvements at independent valuation, plus direct loss |
+| deprivation exceeding 180 days, or incurable defect | termination for the Landowner's default, with payment of the Unamortised premium under Annex E §1, plus the documented value of Improvements at independent valuation, plus direct loss |
 
 9B.7 Guarantee Fund. The Landowner's payment obligations under 6.0.3, 9A.4, 9B.5, 9B.6 and [§10](#10-termination-and-end-of-term) are met from a Guarantee Fund held on a separate Company account, ring-fenced from operating money and used for no other purpose.
 
@@ -464,7 +464,7 @@ Failure to file in time is a breach to which 9B.5 and 9B.6 apply. Allowing a Tit
 10.2 Fate of Improvements. ▲ At natural expiry without renewal, Improvements pass to the Landowner against compensation at independent valuation. The Holder may instead elect to remove them within [__] months. On termination for the Landowner's default, 9B.6 applies. On termination for the Holder's default, compensation is reduced by the Landowner's documented loss.
 The free-reversion option is not used: the strategy records that buildings and use-rights trade while the land does not, and free reversion would take back the part that trades.
 
-10.3 Master-title failure. Consequences if the HGB is not renewed: compensation under 10.2 plus unamortised prepayment under Annex E, secured by the Guarantee Fund. ▲ The status of the master title and the progress of its renewal are published in the Register annually.
+10.3 Master-title failure. Consequences if the HGB is not renewed: compensation under 10.2 plus the Unamortised premium under Annex E §1, secured by the Guarantee Fund. ▲ The status of the master title and the progress of its renewal are published in the Register annually.
 
 ---
 

@@ -46,7 +46,9 @@ The Landowner and the Holder record that hak sewa is a contractual right under I
 | Guarantee Fund | the reserve under 3.5 |
 | Community Council | the body under Part 11 |
 | Licence Event | as defined in 14.2 |
-| Plot price | the upfront price of the Plot recorded in the recitals, L₀ for Annex E |
+| Plot price | the price of the Plot recorded in the recitals, L₀ for Annex E |
+| Premium | the share of the Plot price paid at signing, recited as a percentage and a sum; 100% is the upfront form |
+| Unamortised premium | the Premium × (whole months of the Term remaining ÷ whole months of the Term), carried in the Annex E quantities from signing and valued at the date it is paid. Rent already paid is never part of it: rent buys time already held |
 | Design Envelope | the figures locked under 10.6 |
 | working day | a day banks in Denpasar are open |
 
@@ -82,7 +84,7 @@ Singular includes plural. Headings guide reading and bind nothing.
 
 3.2 Rent under the century index form. The rent is the index and nothing else: no interest, no fee, no review against market value. R₀ follows from the premium through the pricer frozen in Annex J. The Holder may at any time raise the premium to 100% by paying the rent for the remaining Term at the current R(t), discounted at the base rate stated in Annex J, and stands thereafter as a Holder on the upfront form.
 
-3.3 Arrears. An instalment is in arrears 30 days after its due date. Arrears open a period of 6 months from the first missed due date during which the Holder may clear them, or assign under Part 4 with the assignee assuming the schedule. On the day that period ends with arrears outstanding, the Landowner may terminate by written notice; sums paid stay with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest. Improvements follow 16.2.
+3.3 Arrears. An instalment is in arrears 30 days after its due date. Arrears open a period of 6 months from the first missed due date during which the Holder may clear them, or assign under Part 4 with the assignee assuming the rent. On the day that period ends with arrears outstanding, the Landowner may terminate by written notice; sums paid stay with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest. Improvements follow 16.2.
 
 3.4 Denomination. Indexed sums are denominated in the [[cx|century index]] under Annex E: the quantities qᵢ, the collar and the floor are fixed at signing, the invoice moves with the basket within the collar of +35% / −15% per year in sats, and the annex prevails over prose. The Holder may recompute any invoice from public sources within 30 days; the recomputation prevails. Settlement is in IDR at [[jisdor|JISDOR]] on the invoice date under [[uu 7-2011 mata uang|UU 7/2011]]. Annex E carries two floor legs, in satoshi and in year-0 dollars; the Holder signs having read Annex E §3.
 
@@ -207,7 +209,7 @@ Singular includes plural. Headings guide reading and bind nothing.
 9.5 Remedy ladder, in order:
 
 1. Holding charge: [0.5]% of the Plot price per month of overrun, rising by [0.25] percentage points every 6 months, paid to the biosphere and desa reserves the Landowner publishes in the Register.
-2. Buy-back offer: after [12] months of overrun the Landowner offers to acquire the interest at the unamortised prepayment under Annex E plus an independent valuation of works completed.
+2. Buy-back offer: after [12] months of overrun the Landowner offers to acquire the interest at the Unamortised premium plus an independent valuation of works completed.
 3. Reversion: available once the Holder declines the offer or leaves it unanswered for 60 days.
 
 9.6 Purpose, recited: idle plots and permanent building sites harm a small community; every Holder keeps either the land or the money.
@@ -232,7 +234,7 @@ Singular includes plural. Headings guide reading and bind nothing.
 
 10.6.2 Within 30 days of notice the Landowner may withdraw the change for the Plot, grant a variance or offer an equivalent Plot.
 
-10.6.3 Uncured, the Holder may exit within 90 days of notice with the unamortised prepayment and the value of works at independent valuation, secured by the Guarantee Fund; where the change originates with the Landowner, direct loss is added, or the Holder may remain and be paid the certified increased cost. Silence past 90 days is acceptance.
+10.6.3 Uncured, the Holder may exit within 90 days of notice with the Unamortised premium and the value of works at independent valuation, secured by the Guarantee Fund; where the change originates with the Landowner, direct loss is added, or the Holder may remain and be paid the certified increased cost. Silence past 90 days is acceptance.
 
 ---
 
@@ -284,9 +286,9 @@ Singular includes plural. Headings guide reading and bind nothing.
 
 Mixed causes follow the cause without which registration would have succeeded; the Landowner carries the burden of showing the second row.
 
-12.1.11 Remedies for the Landowner's cause, cumulative at the Holder's election: specific performance, damages being recorded as inadequate; delay compensation of [0.5]% of the sums paid under this deed per month from the exceeded period until performance; exit with the unamortised prepayment, the value of Improvements at independent valuation and direct loss, secured by the Guarantee Fund; suspension of the area revenue charge and of instalments until cure, without default. The cap of 15.4 leaves specific performance and the exit sum untouched.
+12.1.11 Remedies for the Landowner's cause, cumulative at the Holder's election: specific performance, damages being recorded as inadequate; delay compensation of [0.5]% of the sums paid under this deed per month from the exceeded period until performance; exit with the Unamortised premium, the value of Improvements at independent valuation and direct loss, secured by the Guarantee Fund; suspension of the area revenue charge and of instalments until cure, without default. The cap of 15.4 leaves specific performance and the exit sum untouched.
 
-12.1.12 No-fault failure. The hak sewa continues with every right. The Landowner refunds the Holder's documented application costs, re-applies at the Holder's request and cost whenever within 24 months the law or the office's practice changes to permit it, and the Holder may within 12 months of final refusal elect to exit with the unamortised prepayment and the value of Improvements at independent valuation, secured by the Guarantee Fund.
+12.1.12 No-fault failure. The hak sewa continues with every right. The Landowner refunds the Holder's documented application costs, re-applies at the Holder's request and cost whenever within 24 months the law or the office's practice changes to permit it, and the Holder may within 12 months of final refusal elect to exit with the Unamortised premium and the value of Improvements at independent valuation, secured by the Guarantee Fund.
 
 12.1.13 Before the first Notice the Landowner obtains in writing, at its cost, the answers Annex K lists, and this Part is conformed to them.
 
@@ -324,7 +326,7 @@ Mixed causes follow the cause without which registration would have succeeded; t
 |---|---|
 | none | cure within 180 days, extended while diligently pursued |
 | the Landowner is unable to process PBG or perform an agreed act | the matching Holder obligation and construction deadlines are suspended; time-based rights extend day for day |
-| the Holder is deprived of use for more than 90 consecutive days | pro-rata abatement; thereafter termination with the unamortised prepayment, secured by the Guarantee Fund |
+| the Holder is deprived of use for more than 90 consecutive days | pro-rata abatement; thereafter termination with the Unamortised premium, secured by the Guarantee Fund |
 
 14.5 During a Licence Event the Landowner reports quarterly to the Council and makes no grant that aggravates the position. 14.3 and 14.4 fall away where the event results from the Landowner's fraud, wilful misconduct or failure to remedy after repeated written warnings from the authorities.
 
@@ -350,7 +352,7 @@ Mixed causes follow the cause without which registration would have succeeded; t
 |---|---|
 | curable within 90 days, use unaffected | cure at the Landowner's cost; deadlines suspended, time-based rights extended day for day |
 | deprivation of use beyond 90 consecutive days | pro-rata abatement |
-| deprivation beyond 180 days, or incurable | termination for the Landowner's default: unamortised prepayment, Improvements at independent valuation, direct loss |
+| deprivation beyond 180 days, or incurable | termination for the Landowner's default: the Unamortised premium, Improvements at independent valuation, direct loss |
 
 ---
 
@@ -360,7 +362,7 @@ Mixed causes follow the cause without which registration would have succeeded; t
 
 16.2 Improvements. At expiry without renewal, Improvements pass to the Landowner against compensation at independent valuation, unless the Holder elects within [6] months before expiry to remove them by the end of the Term. On termination for the Landowner's default 15.5 applies. On termination for the Holder's default compensation is reduced by the Landowner's documented loss. Valuation: one valuer agreed within 15 working days, failing which each party appoints one and the two appoint a third whose figure binds.
 
-16.3 Title failure. Where the Title lapses through no act of the Holder: compensation under 16.2 plus the unamortised prepayment, secured by the Guarantee Fund.
+16.3 Title failure. Where the Title lapses through no act of the Holder: compensation under 16.2 plus the Unamortised premium, secured by the Guarantee Fund.
 
 16.4 The Guarantee Fund secures the payments under 9.3, 9.5(2), 10.6.3, 12.1.11, 12.1.12, 14.4, 15.4, 15.5 and this Part.
 
