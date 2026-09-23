@@ -78,15 +78,14 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 ## Part 3. Consideration
 
-3.1 Form. The Holder takes the Plot under one of three forms:
+3.1 Form. The Holder takes the Plot under one of two forms:
 
 | form | at signing | thereafter |
 |---|---|---|
 | upfront | premium 100% of the Plot price | nothing beyond the area revenue charge, service charge and taxes |
 | century index | the premium elected, below 100% | indexed rent for every lease year of the Term, paid monthly, under [3.2](#part-3-consideration) |
-| rent | none | annual rent under a separate written agreement between the Landowner and the specific Holder; where elected, [[annex e century index\|Annex E]] governs the rent in full and this Part applies only to the extent the rent agreement adopts it |
 
-The rent form carries no path to any of the rights, titles or upgrade tracks elsewhere in this deed; it is occupation for the agreed term only, and is offered where the Landowner elects to let rather than sell a Plot — a Holder not yet eligible for [12.1.2](#part-12-upgrade-tracks), or occupation by season or by event, or a Plot the Landowner is not yet ready to sell.
+Two forms exist on the market and no other: the lease paid upfront for the Term, or the lease taken under the century index.
 
 3.2 Rent under the century index form. ▲ The Holder pays the premium at signing and, for every lease year of the Term, the rent R(t) under [[annex e century index|Annex E]]: R₀ is recited, and the annex carries it with its annual reset on the anniversary, the collar of +35% / −15% per year in sats and the dual floor. Each year's R(t) is paid in 12 (twelve) equal monthly instalments. R₀ follows from the premium through the pricer at cyberia.my/cx, frozen for the deal in Annex J. Two forms exist and no other: the upfront form at a premium of 100%, or this — no interest, no fee, the index alone. An instalment is in arrears 30 (thirty) days after its due date; the Holder has 6 (six) months from the first missed due date to clear arrears or to assign under Part 4 with the assignee assuming the rent; arrears outstanding at the end of that period entitle the Landowner to terminate by written notice, sums paid staying with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest.
 
@@ -120,16 +119,15 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 4.4 Assignee conditions. Written accession to the Design Code, the Community Rules and the Community Council; representations as to absence of nominee arrangement and source of funds. No residency test applies to the assignee.
 
-4.5 Transfer fee. ▲ 2.0% of the transaction price, payable on notice, reduced for contribution; each of the first three conditions met takes 0.5 percentage points off the base, the last two set the fee at 0%:
+4.5 Transfer fee. ▲ 2.0% of the transaction price, payable on notice. Each of the first three conditions below takes 0.5 percentage points off; the fee never falls below [1.0]%, because every sale on the Estate funds the city. Succession carries no fee, no sale taking place.
 
-| the Holder's position | fee |
+| the Holder's position | fee reduction |
 |---|---|
-| base | 2.0% |
-| built within time, SLF issued | 1.5% |
-| no unremedied Design Code breach for the whole term | 1.0% |
-| soil and water results published to the ledger without gaps | 0.5% |
-| referred residents above the threshold in Annex G §6 | 0% |
-| succession under [4.10](#part-4-transfer) | 0% |
+| built within time, SLF issued | 0.5 percentage points |
+| no unremedied Design Code breach for the whole term | 0.5 percentage points |
+| soil and water results published to the ledger without gaps | 0.5 percentage points |
+| referred residents above the threshold in Annex G §6 | to the minimum of [1.0]% |
+| succession under [4.10](#part-4-transfer) | no fee |
 
 4.5.1 Right of first refusal. ▲ Exists only in Wave 1 and only until the build obligation is discharged; it lapses permanently on [[slf|SLF]]. Its mechanics mirror the share [[rofr|ROFR]] of the pack: a notice stating price and terms, a 30-day offer period and a 3-day window to take up the offer as [[shareholders agreement|the shareholders agreement]] [Article 1](/cyber-valley/cve/legal/07-shareholders-agreement/shareholders-agreement#article-1-right-of-first-refusal) sets them, the 3 days matching [[articles of association]] [Article 7(4)](/cyber-valley/cve/legal/01-articles-of-association/articles-of-association#article-7-transfer-of-shares); right to withdraw the offer thereafter.
 
@@ -143,13 +141,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 4.10 Succession. ▲ On the death of the Holder the interest passes to the heirs by operation of law, with no transfer fee. The heirs accede to the Community Rules within 12 months. Pending accession the interest subsists and the Landowner shall not treat the death as a default.
 
-4.11 Security over the interest. ▲ ⚠ Hak sewa is outside [[uu 4-1996 hak tanggungan|UU 4/1996]] Pasal 4 and cannot be charged. This deed uses assignment by way of security:
-
-- the Holder may assign by way of security (*cessie tot zekerheid*) to a financier, by notarial deed, on written notice;
-- the Landowner acknowledges the financier, issues the Estate Certificate to it, and notifies it of any material breach before terminating, allowing it the Holder's cure period;
-- on enforcement the financier takes the whole bundle and accedes under [4.4](#part-4-transfer); no transfer fee is charged on enforcement, and [4.5](#part-4-transfer) applies on the financier's onward sale.
-
-○ Confirm the construction with the notary before use. Neither side can charge easily: [[articles of association]] Article 12(3) now prohibits the Company from pledging or encumbering its land by the nature of its constitution, not merely subject to approval, and the Holder cannot charge its lease at all — the asymmetry this clause used to describe is closed at the constitutional level; this clause is the Holder's route to raise finance against the position it does hold.
+4.11 No security. ▲ By design of the Estate, the hak sewa, the Improvements and every right under this deed stay outside any pledge, security assignment, fiduciary transfer or other security for any debt; [[articles of association]] Article 12(3) keeps the Company's land outside any encumbrance on the same principle. An instrument purporting to create security binds nobody under this deed and is a material default.
 
 ---
 
@@ -575,7 +567,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [3.3.1](#part-3-consideration) | recomputation window | 30 days | framework §2.3 | settled |
 | [3.5](#part-3-consideration) | Guarantee Fund share | 5% of consideration on each grant, assignment or upgrade | D4 | settled |
 | [4.3](#part-4-transfer) | notice of assignment | 7 days | framework §2.5.3 | settled |
-| [4.5](#part-4-transfer) | transfer fee scale | 2.0 / 1.5 / 1.0 / 0.5 / 0% | D1 | settled |
+| [4.5](#part-4-transfer) | transfer fee scale | 2.0% less 0.5 per condition, floor 1.0%, succession free | D1 as amended 2026-09-23 | proposed |
 | [4.5.1](#part-4-transfer) | ROFR response | 30-day offer, 3-day take-up | [[shareholders agreement]] Art 1; Articles Art 7(4) | settled |
 | [4.6](#part-4-transfer) | Estate Certificate issue | 10 working days, valid 30 days | D2 | settled |
 | [4.7](#part-4-transfer) | deemed consent | 10 working days | D2 | settled |

@@ -17,27 +17,26 @@ Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Source
 |---|---|---|
 | **A** — [[leasehold upfront]] | 100% at signing, [[hak sewa]], 25-year Term | [[hak sewa deed]] §3.1 "upfront" |
 | **B** — [[annual leasehold]] | premium below 100% at signing; the rest as rent in century index quantities for the Term, reset yearly within the collar, paid monthly; no interest, no fee | [[hak sewa template]] 3.1 "century index" |
-| **B-rent** — annual rent | No transfer of right; occupation only, by separate agreement | [[hak sewa deed]] §3.1 "rent"; [[annex e century index\|Annex E]] |
 | **C** — [[joint venture]] | Lease contributed to an OpCo for an equity stake, 40–60% split | separate JV agreement, not this deed |
 | **D** — [[hak pakai]] | Right-of-use title on a completed structure, registered to the Holder | [[hak sewa deed]] Track F, [12.1](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) |
 | **E** — [[hak milik]] | Freehold transfer, WNI only | outside this deed — AJB before PPAT |
 
 ## G2. Holder class eligibility
 
-| Holder class | A | B | B-rent | C | D | E |
-|---|---|---|---|---|---|---|
-| Indonesian citizen (WNI) | yes | yes | yes | yes | n/a — already eligible for stronger titles | yes |
-| Foreign individual (KITAS/KITAP) | yes | yes | yes | via a PT PMA vehicle | yes — the track this deed exists for | no — [[pp 18-2021 hak atas tanah\|PP 18/2021]] Pasal 34 reserves HGB-track ownership to WNI and Indonesian legal entities; Hak Milik is WNI-only by the same logic |
-| Foreign legal entity | via a PT PMA vehicle | via a PT PMA vehicle | yes | yes | via a PT PMA vehicle | no |
+| Holder class | A | B | C | D | E |
+|---|---|---|---|---|---|
+| Indonesian citizen (WNI) | yes | yes | yes | n/a — already eligible for stronger titles | yes |
+| Foreign individual (KITAS/KITAP) | yes | yes | via a PT PMA vehicle | yes — the track this deed exists for | no — [[pp 18-2021 hak atas tanah\|PP 18/2021]] Pasal 34 reserves HGB-track ownership to WNI and Indonesian legal entities; Hak Milik is WNI-only by the same logic |
+| Foreign legal entity | via a PT PMA vehicle | via a PT PMA vehicle | yes | via a PT PMA vehicle | no |
 
-D is the only instrument built specifically to move a foreign individual holder into a registered title; A, B and B-rent hold everyone under the same contractual right regardless of nationality, since [[hak sewa]] is personal, not a registered land right ([[land rights agreement]] §2.2).
+D is the only instrument built specifically to move a foreign individual holder into a registered title; A and B hold everyone under the same contractual right regardless of nationality, since [[hak sewa]] is personal, not a registered land right ([[land rights agreement]] §2.2).
 
 ## G3. Zone × instrument
 
 | Zone | Function | Instruments live | Note |
 |---|---|---|---|
 | Z1 — Residences | Villa plots, 5–15 are | A, B, D (post-build), E (WNI) | Released in waves; Wave 1 carries A + the build obligation only, B opens from Wave 3 |
-| Z2 — Anchor | Spa, market, restaurant, retreat villas | C (core), B-rent (peripheral, Phase 3 sale-leaseback) | Never sold outright; each deal reviewed individually |
+| Z2 — Anchor | Spa, market, restaurant, retreat villas | C (core) | Never sold outright; each deal reviewed individually |
 | Z3 — Community | School, hospital, cowork, common house | B (near-zero rent) | Deed-restricted use; reversion on change of function |
 | Z4 — Infra | Roads, energy, water, connectivity, mobility hub | none on the core; parking slots only, a separate micro-instrument outside A–E | Ownership retained by the Landowner; all structures revert |
 | Z5 — Innovation | Labs, studios, startup plots | B (land-for-equity, ~×0.2 rent for 2–5% equity), C for larger operators | Selection is discretionary, not first-come |

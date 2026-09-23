@@ -39,6 +39,7 @@ shareholders-agreement accession · entry payment side letter · disclosure
 | [[hak sewa deed]] | base deed — reasoning, markers and the value sheet, assembled from the framework |
 | [[hak sewa template]] | the signable text — operative clauses, proposals closed, annexes A–K, map to the notary's Pasal |
 | [[hak sewa simple]] | the notarial akta, eight clauses — premium at signing, the rest as rent in [[annex e century index\|century index]] quantities paid monthly, 6 months to clear arrears; signed with [[hak sewa template]] as its private counterpart |
+| [[register of leases]] | the register under the template's 4.8 — one row per Plot, events, district figures; identity stays in the Company file |
 | [[annexes]] | annex index — eleven schedules A–K, per deal or standing |
 
 ## Notes

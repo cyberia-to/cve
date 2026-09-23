@@ -211,7 +211,7 @@ h1 { font-size: 16pt; margin: 0 0 4pt; }
 section.keep { break-inside: avoid-page; }
 h2 { font-size: 12.5pt; margin: 16pt 0 5pt; border-bottom: .5pt solid #999; padding-bottom: 2pt; page-break-after: avoid; }
 h3 { font-size: 11pt; margin: 12pt 0 4pt; page-break-after: avoid; }
-p { margin: 0 0 6pt; text-align: justify; }
+p { margin: 0 0 6pt; text-align: justify; break-inside: avoid; orphans: 3; widows: 3; }
 img { display: block; max-width: 100%; max-height: 320pt; margin: 8pt auto; page-break-inside: avoid; }
 table { border-collapse: collapse; width: 100%; margin: 6pt 0 10pt; font-size: 9.5pt; page-break-inside: auto; }
 th, td { border: .5pt solid #666; padding: 3pt 5pt; vertical-align: top; text-align: left; }
@@ -219,7 +219,7 @@ th { background: #eee; font-weight: bold; }
 tr { page-break-inside: avoid; }
 blockquote { margin: 6pt 0 8pt; padding: 5pt 9pt; border-left: 2pt solid #666; background: #f6f6f6; }
 blockquote p { margin: 0 0 4pt; }
-li { margin-bottom: 3pt; }
+li { margin-bottom: 3pt; break-inside: avoid; }
 code { font-family: 'Play', monospace; font-size: 9.5pt; }
 hr { border: 0; border-top: .5pt solid #bbb; margin: 10pt 0; }
 a { color: #000; text-decoration: none; }

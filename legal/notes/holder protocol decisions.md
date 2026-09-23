@@ -29,6 +29,9 @@ No decision below takes a single power away from the Company under Pasal 12 of t
 
 ## D1 · Freedom of exit and a fee for contribution
 
+Amended 2026-09-23: the fee never falls below 1.0%. Meeting the city's own conditions earns a reduction, never a free exit; succession alone carries no fee, no sale taking place.
+
+
 Problem: [§2.5](/cyber-valley/cve/legal/11-land-rights-agreement#2-part-a-base-grant-hak-sewa-all-holders) is unresolved, there is no secondary market, and a [[rofr|ROFR]] collapses the resale price.
 
 Decision. Assignment is free, without consent. The transfer fee is 2% of the transaction price, reduced for contribution:
