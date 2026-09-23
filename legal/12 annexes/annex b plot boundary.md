@@ -9,7 +9,7 @@ icon: "📐"
 
 # Annex B — Plot Boundary
 
-Annexed to [[land rights agreement]]. One Annex B is completed per Plot, at the date of grant, and entered in the Register — this page carries the form, not a filled example. A Plot does not exist as a bounded thing until this record exists; before that it is an indicative area inside a titled parcel of [[annex a estate registry|Annex A]].
+Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. One Annex B is completed per Plot, at the date of grant, and entered in the Register — this page carries the form, not a filled example. A Plot does not exist as a bounded thing until this record exists; before that it is an indicative area inside a titled parcel of [[annex a estate registry|Annex A]].
 
 ## Form
 
@@ -20,7 +20,7 @@ Annexed to [[land rights agreement]]. One Annex B is completed per Plot, at the 
 | Boundary markers (*patok*) | site survey at grant | coordinates of each corner marker, referenced to the *peta bidang* |
 | GPS / UTM | site survey at grant | centroid and corner points, UTM zone 50S (Bali) |
 | *Peta bidang* reference | BPN or Company survey | drawing number and date |
-| Indicative area, m² | site survey at grant | the figure the Holder is quoted; final area on *pemecahan* or SLF may differ within the tolerance stated in the grant |
+| Indicative area, m² | site survey at grant | the figure the Holder is quoted; the Plot is demised *per aversionem* under [[hak sewa template]] Part 6, so a later survey adjusts neither price nor term |
 | Adjoining owners/Plots | Register, cross-checked at survey | name or Plot reference on each boundary side |
 | Access | Register | which internal road or corridor under [[annex f utilities access mobility\|Annex F]] reaches this Plot |
 

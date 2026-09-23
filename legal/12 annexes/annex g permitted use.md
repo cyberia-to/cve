@@ -9,14 +9,14 @@ icon: "🧭"
 
 # Annex G — Permitted-Use Matrix
 
-Annexed to [[land rights agreement]]. Source: [[cyber-valley/strategy|strategy]] §4 (Eight Zones) and §6 (Deal Architecture), restated here as the binding cross-reference between Holder class, zone and instrument. Where this annex and the strategy page conflict, this annex prevails as against a Holder; the strategy page is the estate's own working record and amends this annex under the same version-lock procedure as [[annex c design code|Annex C]] §7.3.
+Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Source: [[cyber-valley/strategy|strategy]] §4 (Eight Zones) and §6 (Deal Architecture), restated here as the binding cross-reference between Holder class, zone and instrument. Where this annex and the strategy page conflict, this annex prevails as against a Holder; the strategy page is the estate's own working record and amends this annex under the same version-lock procedure as [[annex c design code|Annex C]], [[hak sewa template]] 10.5.
 
 ## G1. Instruments
 
 | Instrument | Mechanics | Governing deed |
 |---|---|---|
 | **A** — [[leasehold upfront]] | 100% at signing, [[hak sewa]], 25-year Term | [[hak sewa deed]] §3.1 "upfront" |
-| **B** — [[annual leasehold]] | 30% down, balance in equal instalments over 1 or 5 years, no interest, no index | [[hak sewa deed]] §3.1 "scheduled" |
+| **B** — [[annual leasehold]] | 1 year: 30% down, 6% fee; 5 years: 35% down, 15% fee; balance in equal instalments, no interest, no index | [[hak sewa template]] 3.1 "scheduled" |
 | **B-rent** — annual rent | No transfer of right; occupation only, by separate agreement | [[hak sewa deed]] §3.1 "rent"; [[annex e century index\|Annex E]] |
 | **C** — [[joint venture]] | Lease contributed to an OpCo for an equity stake, 40–60% split | separate JV agreement, not this deed |
 | **D** — [[hak pakai]] | Right-of-use title on a completed structure, registered to the Holder | [[hak sewa deed]] Track F, [12.1](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) |
@@ -45,13 +45,13 @@ D is the only instrument built specifically to move a foreign individual holder 
 | Z7 — Conservation | Watershed, biodiversity | none | No transactions; revenue only through carbon/biodiversity credits, naming rights, priced trail access |
 | Z8 — Commons | Trails, plazas, public space | none | Public space; no instrument applies, same as Z7 |
 
-## G4. Track D — the upgrade path this deed builds
+## G4. Instrument D by Track F — the upgrade path this deed builds
 
 An A or B Holder who completes construction to SLF may apply to convert to D (Hak Pakai) under [[hak sewa deed]] [12.1](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-12-upgrade-tracks) — a foreign natural person only, subject to the Rp 5,000,000,000 minimum value once the ministerial regulation figure is confirmed (see that Part's own flag on the source instrument). E (Hak Milik) is reached only by a WNI Holder, outside this deed, by ordinary AJB — there is no conversion mechanic from A/B/D to E inside [[hak sewa deed]] because a foreign Holder can never reach E by any route.
 
 ## G5. Net-exporter certification — proposal, not yet settled elsewhere
 
-[[hak sewa deed]] 5.3 and [[land rights agreement]] §2.6 point here for the mechanics behind the 10%/5% area revenue charge split; neither document defines them. Working proposal:
+[[hak sewa template]] 5.3 and [[land rights agreement]] §2.6 point here for the mechanics behind the 10%/5% area revenue charge split; neither document defines them. Working proposal:
 
 - **Revenue** (land-time channel): gross amount actually received by the Holder for bare-land occupation, before any deduction, in the invoice period.
 - **Net-exporter status**: measured per district, annually, aligned with the Company's financial year. A district is a net exporter of a given resource (energy, water, food) where its metered or estimated production exceeds its consumption over that year. The Company's accountant certifies the result and publishes it in the Register before the following year's invoices are issued at the discounted rate.
@@ -59,3 +59,7 @@ An A or B Holder who completes construction to SLF may apply to convert to D (Ha
 - **Understatement**: the shortfall is payable on demand plus 20% of the shortfall as liquidated compensation for the cost of the audit, consistent with the [[director disclosure indemnity agreement]] Art 5.4 uplift used elsewhere in the pack for knowing non-disclosure; an honest reporting error corrected before audit carries no uplift.
 
 This section is new drafting, not a restatement of an existing decision — confirm the certification body, the audit window and the uplift figure before this annex is treated as settled.
+
+## G6. Referral threshold — proposal
+
+[[hak sewa template]] 4.5 sets the transfer fee at 0% for a Holder whose referrals reach the threshold. Proposal: **3 referred Holders**, each holding a lease in good standing (payments current, no uncured material default) on the date of the assignment notice. A referral is the one recorded under [[leasehold referrals]] at the referred Holder's signing; the same Holder counts once. The Register carries the count per Holder.

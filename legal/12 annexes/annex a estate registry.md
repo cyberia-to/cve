@@ -9,7 +9,9 @@ icon: "🗺"
 
 # Annex A — Estate Registry
 
-Annexed to [[land rights agreement]]. One row per land title held or claimed by the Company, as required by the [[land rights agreement|framework]] package map. Source: the Company's land files as reconciled in the independent audit of 21 August 2026 and recorded in [[director disclosure indemnity agreement]] Appendix B, cross-checked against the certificates the Owners produced. On any conflict between this annex and Appendix B, this annex prevails as the current registry; Appendix B is the audit snapshot it was built from.
+Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. One row per land title held or claimed by the Company, as required by the [[land rights agreement|framework]] package map. Source: the Company's land files as reconciled in the independent audit of 21 August 2026 and recorded in [[director disclosure indemnity agreement]] Appendix B, cross-checked against the certificates the Owners produced. On any conflict between this annex and Appendix B, this annex prevails as the current registry; Appendix B is the audit snapshot it was built from.
+
+⚠ [[hak sewa template]] 0.4 and 15.1 need a subsisting PKKPR for the parcel: the PKKPR column below is the first gate for any lease, and a parcel showing "not on file" or "none" is leased only once its PKKPR is in hand.
 
 **What is not yet in this annex.** [RTRW](/cyber-valley/cve/legal/terms/rtrw) and [LP2B](/cyber-valley/cve/legal/terms/lp2b) status are not in the source audit for any parcel and are left blank below, not guessed.
 
@@ -50,7 +52,7 @@ Portfolio total across the 18 titles with a computed Term 1: **318,570 m² (≈3
 
 ## 2. Notes carried over from the audit
 
-Six titles (3, 4, 12, 15, 18, 19) are up for a routine PPKPR renewal — the Company already holds the land, this is a continuation of existing use, not a new approval. The Director tracks it in the ordinary course under [15.6](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-15-title-warranties-negative-pledge-indemnity).
+Six titles (3, 4, 12, 15, 18, 19) are up for a routine PKKPR renewal — the Company already holds the land, this is a continuation of existing use, not a new approval. The Director tracks it in the ordinary course under [15.6](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-15-title-warranties-negative-pledge-indemnity).
 
 Parcels 18 & 19: their paper AJB deeds are filed under each other's folder (titles themselves are registered and clean) — correct the physical filing when convenient.
 
@@ -82,4 +84,4 @@ From the Company's OSS RBA record. Project code identifies the row where the NIB
 
 ## 4. Maintenance
 
-The Director maintains this registry current — updating expiry, renewal filings and PPKPR status — per [hak-sewa-deed 15.6](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-15-title-warranties-negative-pledge-indemnity). A discrepancy between this annex and a certificate in hand is resolved in favour of the certificate; report it for correction here.
+The Director maintains this registry current — updating expiry, renewal filings and PKKPR status — per [hak-sewa-deed 15.6](/cyber-valley/cve/legal/10-hak-sewa/hak-sewa-deed#part-15-title-warranties-negative-pledge-indemnity). A discrepancy between this annex and a certificate in hand is resolved in favour of the certificate; report it for correction here.

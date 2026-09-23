@@ -7,7 +7,7 @@ icon: "📜"
 ---
 # Hak Sewa — base deed
 
-Assembled from [[land rights agreement|Land Rights Agreement]] under the rule in [[holder protocol decisions|holder protocol]]. Written to be marked up by an Indonesian notary and counsel: where the framework reasons, this deed instructs. No version of this text is executed while any item in [[open questions]] stands open against the clause being executed.
+Assembled from [[land rights agreement|Land Rights Agreement]] under the rule in [[holder protocol decisions|holder protocol]]. The signable operative text, closed where this deed leaves a value open, is [[hak sewa template]]. Written to be marked up by an Indonesian notary and counsel: where the framework reasons, this deed instructs. No version of this text is executed while any item in [[open questions]] stands open against the clause being executed.
 
 Three markers run through the text and each carries a different instruction to the reader:
 
@@ -46,7 +46,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 1.4 The Title: [[hgb|HGB]] certificate No. [___], granted [___], expiring [___], remaining term at signing [___] years, recited as a date.
 
-1.5 Defined terms carry the meanings given in §1 of the framework: Estate, Improvements, Design Code, Community Rules, Index Annex, Register, Estate Certificate, Guarantee Fund, Community Council, Licence Event.
+1.5 Defined terms carry the meanings given in [[hak sewa template]] Part 1, mirrored from §1 of the framework: Estate, Improvements, Design Code, Community Rules, Index Annex, Register, Estate Certificate, Guarantee Fund, Community Council, Licence Event.
 
 ---
 
@@ -56,7 +56,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 2.2 Term. ▲ The Term is the lesser of 25 years and the remaining term of the Title at signing, less a buffer of 12 months for the extension procedure — matching the filing deadline [15.6](#part-15-title-warranties-negative-pledge-indemnity) sets for the Landowner, so the buffer costs the Holder no more term than the procedure it covers actually needs. It is stated in the recitals as a date.
 
-2.2.1 Automatic extension. On a *perpanjangan* of the Title, this deed extends by the lesser of **20 years** — [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 37(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-37--the-term) sets that as the statutory ceiling for an extension, regardless of remaining term — and the new remaining term less the same buffer, without further consideration beyond the price formula in Annex E and without renegotiation. A *pembaruan* is a discretionary priority under Pasal 37(4), not an automatic right; where the Landowner obtains one, this clause is renegotiated fresh at that point and does not extend automatically.
+2.2.1 Renewal by right. On a *perpanjangan* of the Title, the Holder may renew by notice served between 24 and 12 months before the Term ends, and the deed then extends by the lesser of **20 years** — [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 37(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-37--the-term) sets that as the statutory ceiling for an extension, regardless of remaining term — and the new remaining term less the same buffer, without further consideration beyond the price formula in Annex E and without renegotiation. A *pembaruan* is a discretionary priority under Pasal 37(4), not an automatic right; where the Landowner obtains one, this clause is renegotiated fresh at that point and does not extend automatically.
 
 2.2.2 Extension covenant. ▲ The Landowner applies for extension and, where extension is exhausted, for renewal of each Title within the windows [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 41 allows, pursues each application diligently at its own cost, and reports progress in the Register. The outcome is not warranted: after the extension cycle the land returns to the State and the former holder holds a priority on stated conditions under Pasal 37(4), not a right. The recitals state for the Plot the date to which the Term is certain and the date to which it depends on renewal.
 
@@ -88,7 +88,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 The rent form carries no path to any of the rights, titles or upgrade tracks elsewhere in this deed; it is occupation for the agreed term only, and is offered where the Landowner elects to let rather than sell a Plot — a Holder not yet eligible for [12.1.2](#part-12-upgrade-tracks), or occupation by season or by event, or a Plot the Landowner is not yet ready to sell.
 
-3.2 Instalments. ▲ On the scheduled form the Holder pays a deposit of at least 30% of the Plot price at signing and clears the balance in equal instalments over the elected period, with no interest and no deferral fee. Two periods are offered: **1 (one) year at the upfront price**, and **5 (five) years at 115% of the upfront price**, the deposit being computed on the price of the elected form. Nothing else is added: the balance carries no rate and no index — [[annex e century index|Annex E]] governs indexed rent only, never this balance. An instalment unpaid 30 (thirty) days after its due date, and not cured within a further 14 (fourteen) days of written notice, entitles the Landowner to terminate; on termination the deposit and every instalment paid are retained, and the Plot returns to the Landowner free of the Holder's interest.
+3.2 Instalments. ▲ On the scheduled form the Holder pays a deposit of at least 30% of the Plot price at signing and clears the balance in equal instalments over the elected period, with no interest, the deferral fee being stated in the price. Two periods are offered, as [[annual leasehold]] states them: **1 (one) year at 106% of the upfront price with 30% down**, and **5 (five) years at 115% of the upfront price with 35% down**, the deposit being computed on the price of the elected form. The fee is the whole cost of deferral: the balance carries no rate and no index — [[annex e century index|Annex E]] governs indexed rent only, never this balance. An instalment is in arrears 30 (thirty) days after its due date; the Holder has 6 (six) months from the first missed due date to clear arrears or to assign under Part 4 with the assignee assuming the schedule; arrears outstanding at the end of that period entitle the Landowner to terminate by written notice, sums paid staying with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest.
 
 3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ and the floor — not the amount of any future invoice. R(t) tracks the basket uncapped, subject only to the floor. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, floor and one worked invoice, and prevails over prose.
 
@@ -106,7 +106,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 ○ The Fund is the Company's own asset and is not insolvency-remote: on insolvency the Holder ranks as an unsecured creditor. This is disclosed in these words, and no marketing material describes the Fund as a bank guarantee, escrow or insurance. Where a Holder is also a shareholder of the Landowner, he takes no part in any decision concerning his own claim on the Fund.
 
-3.6 Renewal price. ▲ On renewal under [2.2.1](#part-2-the-grant) the price is L(T) = L₀ · I(T)/I(t₀) under the Index Annex. ⚠ The formula is arithmetic and complete; a renewal clause pointing at an empty annex reproduces the defect it exists to cure.
+3.6 Renewal price. ▲ On renewal under [2.2.1](#part-2-the-grant) the price is L(T) = L₀ · (T₂ ÷ T₁) · I(T)/I(t₀) under the Index Annex, L₀ being the Plot price, T₁ and T₂ the first and the renewal Terms in years, floored at L₀ · T₂ ÷ T₁. ⚠ The formula is arithmetic and complete; a renewal clause pointing at an empty annex reproduces the defect it exists to cure.
 
 ---
 
@@ -120,7 +120,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 4.4 Assignee conditions. Written accession to the Design Code, the Community Rules and the Community Council; representations as to absence of nominee arrangement and source of funds. No residency test applies to the assignee.
 
-4.5 Transfer fee. ▲ 2.0% of the transaction price, payable on notice, reduced for contribution:
+4.5 Transfer fee. ▲ 2.0% of the transaction price, payable on notice, reduced for contribution; each of the first three conditions met takes 0.5 percentage points off the base, the last two set the fee at 0%:
 
 | the Holder's position | fee |
 |---|---|
@@ -128,7 +128,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 | built within time, SLF issued | 1.5% |
 | no unremedied Design Code breach for the whole term | 1.0% |
 | soil and water results published to the ledger without gaps | 0.5% |
-| referred residents above the threshold in Annex D | 0% |
+| referred residents above the threshold in Annex G §6 | 0% |
 | succession under [4.10](#part-4-transfer) | 0% |
 
 4.5.1 Right of first refusal. ▲ Exists only in Wave 1 and only until the build obligation is discharged; it lapses permanently on [[slf|SLF]]. Its mechanics mirror the share [[rofr|ROFR]] of the pack: a notice stating price and terms, a 30-day offer period and a 3-day window to take up the offer as [[shareholders agreement|the shareholders agreement]] [Article 1](/cyber-valley/cve/legal/07-shareholders-agreement/shareholders-agreement#article-1-right-of-first-refusal) sets them, the 3 days matching [[articles of association]] [Article 7(4)](/cyber-valley/cve/legal/01-articles-of-association/articles-of-association#article-7-transfer-of-shares); right to withdraw the offer thereafter.
@@ -247,7 +247,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 9.3 Symmetry. While the clock is stopped no holding charge accrues, and the Design Envelope lock extends by the same period.
 
-9.4 Long stop. If the Conditions Precedent are not satisfied within 12 months of signing, the Holder may terminate and recover all sums paid, the deferred purchase balance carrying the rate under [3.2](#part-3-consideration) and any indexed rent under Annex E, secured under [3.5](#part-3-consideration).
+9.4 Long stop. If the Conditions Precedent are not satisfied within 12 months of signing, the Holder may terminate and recover all sums paid, including any indexed rent under Annex E, secured under [3.5](#part-3-consideration).
 
 9.5 Timing. Commence within 12 months of the Commencement Certificate; complete within 36 months of it.
 
@@ -376,7 +376,7 @@ Where this deed, a product page or any other estate document describes the upgra
 The acts within the Landowner's power include, without limitation:
 
 - applying for and procuring *pemecahan* of the Plot from the master HGB, including the cadastral survey, the *Surat Ukur* and the boundary process with adjoining owners;
-- applying for the *perubahan hak* over the split parcel;
+- executing the *pelepasan hak* over the split parcel and lodging the application for the grant of Hak Pakai, in the order Annex K records;
 - executing before the PPAT every deed, application, consent, declaration, power of attorney, statement and affidavit required by the PPAT, ATR/BPN or any other authority;
 - procuring the corporate authorisations its own constitution requires, including any approval of the Board of Commissioners under Articles of Association Article 12(3) for establishing a new business where the route involves one;
 - delivering the certificate, *Surat Ukur*, [[pbb|PBB]] receipts, [[nib|NIB]], tax documents and every other instrument in its possession that the application requires;
@@ -390,7 +390,7 @@ The acts within the Landowner's power include, without limitation:
 |---|---|
 | written acknowledgement of the Notice, stating the officer responsible | 10 working days |
 | filing of the *pemecahan* application, complete in form | 60 days |
-| filing of the *perubahan hak* application once *pemecahan* is registered | 30 days |
+| lodging of the grant application, with the *pelepasan*, once *pemecahan* is registered | 30 days |
 | execution of any deed or instrument requested by the PPAT thereafter | 14 days of request |
 | supply of any document or signature requested by the office | 10 working days of request |
 
@@ -438,7 +438,7 @@ The cap in [15.4](#part-15-title-warranties-negative-pledge-indemnity) does not 
 - the Landowner shall re-apply, at the Holder's request and cost, on each occasion within [24] months on which the law or the practice of the office changes so as to permit the application, for as long as the Term subsists;
 - the Holder may, within 12 months of the final refusal, elect instead to terminate and receive the unamortised prepayment under Annex E plus the value of the Improvements at independent valuation, without damages, secured by the Guarantee Fund. ▲ This mirrors the no-fault exit in [10.6.4](#part-10-design-code) and exists for the same reason: a risk the Holder cannot price is not left with the Holder.
 
-12.1.13 Verification before the first application. ⚠ ○ Before the first Hak Pakai Notice is served the Landowner obtains, in writing and at its own cost, from counsel and from the Kantor Pertanahan of Buleleng: the sequence of *pemecahan* and *perubahan hak* the office requires; the stage of construction at which an application is accepted, and specifically whether PBG suffices in place of SLF; the documents the office requires from a PT PMA as registered holder; the treatment of the Estate's parcels under RTRW, [[lp2b|LP2B]] and *sempadan* for this purpose; and the current minimum-value figure for the Province of Bali. The answers are annexed as Annex K and this Part is conformed to them before use.
+12.1.13 Verification before the first application. ⚠ ○ Before the first Hak Pakai Notice is served the Landowner obtains, in writing and at its own cost, from counsel and from the Kantor Pertanahan of Buleleng: the sequence of *pemecahan*, *pelepasan hak* and grant the office requires; the stage of construction at which an application is accepted, and specifically whether PBG suffices in place of SLF; the documents the office requires from a PT PMA as registered holder; the treatment of the Estate's parcels under RTRW, [[lp2b|LP2B]] and *sempadan* for this purpose; and the current minimum-value figure for the Province of Bali. The answers are annexed as Annex K and this Part is conformed to them before use.
 
 12.1.14 Costs. Borne by the Holder: the cadastral survey and *pemecahan*; the *perubahan hak*; PPAT and notarial fees; registration fees at ATR/BPN; [[bphtb|BPHTB]], PPh and any other tax or state levy on the acquisition; the independent valuation under [12.1.4](#part-12-upgrade-tracks); and the Holder's own advisers.
 
@@ -537,7 +537,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 16.3 Title failure. ▲ If the Title is not renewed: compensation under [16.2](#part-16-termination-and-end-of-term) plus unamortised prepayment, secured by the Guarantee Fund. The status of the Title and the progress of its renewal are published in the Register annually.
 
-16.4 What the Guarantee Fund secures: the payments under [9.4](#part-9-the-build-obligation), [14.4](#part-14-licences), [15.4](#part-15-title-warranties-negative-pledge-indemnity), [15.5](#part-15-title-warranties-negative-pledge-indemnity) and this Part.
+16.4 What the Guarantee Fund secures: the payments under [9.4](#part-9-the-build-obligation), [9.6](#part-9-the-build-obligation) item 2, [10.6.4](#part-10-design-code), [12.1.11](#part-12-upgrade-tracks), [12.1.12](#part-12-upgrade-tracks), [14.4](#part-14-licences), [15.4](#part-15-title-warranties-negative-pledge-indemnity), [15.5](#part-15-title-warranties-negative-pledge-indemnity) and this Part.
 
 ---
 
@@ -547,7 +547,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 17.2 Adat, subak and desa. ▲ ⚠ Compliance with the *awig-awig* of the *desa adat*, the *banjar* and *subak* arrangements affecting the Estate; ceremonial access and processional routes; customary contributions expected of residents; and their interaction with the Design Code. On Bali customary law binds land use in practice regardless of the certificate, and a deed silent on it transfers an unpriced risk to the Holder.
 
-17.3 Disputes. Governing law Indonesian. Escalation: negotiation, then mediation, then [[bani|BANI]] arbitration in Denpasar in English and Indonesian, or the District Court of Denpasar (Pengadilan Negeri Denpasar) — the forum chosen throughout the pack, in preference to the District Court of Singaraja that covers the Company's domicile under Pasal 1. Language of proceedings and interim relief stated expressly.
+17.3 Disputes. Governing law Indonesian. Escalation: negotiation, then mediation, then [[bani|BANI]] arbitration seated in Denpasar, three arbitrators, Indonesian with an English translation of the award, as the sole forum on the merits; the District Court of Denpasar (Pengadilan Negeri Denpasar) is the chosen domicile for interim relief and enforcement — the forum chosen throughout the pack, in preference to the District Court of Singaraja that covers the Company's domicile under Pasal 1.
 
 ---
 
@@ -568,19 +568,19 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | clause | figure | value | source | status |
 |---|---|---|---|---|
 | [2.2](#part-2-the-grant) | term | 25 years | leasehold upfront, instrument A | settled |
-| [2.2](#part-2-the-grant) | extension buffer | 12 months, matching the [15.6](#part-15-title-warranties-negative-pledge-indemnity) filing deadline | framework [2.1](#part-2-the-grant) | settled |
+| [2.2](#part-2-the-grant) | extension buffer | 12 months, matching the [15.6](#part-15-title-warranties-negative-pledge-indemnity) filing deadline | framework §2.1 | settled |
 | [3.1](#part-3-consideration) | minimum deposit, scheduled form | 30% | annual leasehold | settled |
-| [3.2](#part-3-consideration) | instalment periods | 1 year at price; 5 years at 115% | leasehold upfront | settled |
-| [3.2](#part-3-consideration) | minimum deposit | 30% of the elected price | leasehold upfront | settled |
-| [3.2](#part-3-consideration) | default on instalments | 30 days + 14-day cure, then termination, no refund | leasehold upfront | settled |
-| [3.3.1](#part-3-consideration) | recomputation window | 30 days | framework [2.3](#part-2-the-grant) | settled |
+| [3.2](#part-3-consideration) | instalment periods | 1 year at 106%; 5 years at 115% | [[annual leasehold]] | settled |
+| [3.2](#part-3-consideration) | deposit | 30% of the 1-year price; 35% of the 5-year price | [[annual leasehold]] | settled |
+| [3.2](#part-3-consideration) | default on instalments | 30 days to arrears, 6 months to clear or assign, then termination, sums paid retained | [[annual leasehold]] | settled |
+| [3.3.1](#part-3-consideration) | recomputation window | 30 days | framework §2.3 | settled |
 | [3.5](#part-3-consideration) | Guarantee Fund share | 5% of consideration on each grant, assignment or upgrade | D4 | settled |
-| [4.3](#part-4-transfer) | notice of assignment | 7 days | framework [2.5.3](#part-2-the-grant) | settled |
-| [4.5](#part-4-transfer) | transfer fee scale | [2.0](#part-2-the-grant) / [1.5](#part-1-parties-plot-and-definitions) / [1.0](#part-1-parties-plot-and-definitions) / [0.5](#part-0-conditions-of-execution) / 0% | D1 | settled |
+| [4.3](#part-4-transfer) | notice of assignment | 7 days | framework §2.5.3 | settled |
+| [4.5](#part-4-transfer) | transfer fee scale | 2.0 / 1.5 / 1.0 / 0.5 / 0% | D1 | settled |
 | [4.5.1](#part-4-transfer) | ROFR response | 30-day offer, 3-day take-up | [[shareholders agreement]] Art 1; Articles Art 7(4) | settled |
 | [4.6](#part-4-transfer) | Estate Certificate issue | 10 working days, valid 30 days | D2 | settled |
 | [4.7](#part-4-transfer) | deemed consent | 10 working days | D2 | settled |
-| [4.10](#part-4-transfer) | heirs' accession | 12 months | framework [2.8](#part-2-the-grant) | proposed |
+| [4.10](#part-4-transfer) | heirs' accession | 12 months | framework §2.8 | proposed |
 | [5.1](#part-5-subletting) | area revenue charge | 10%, or 5% net-exporter | D10 | settled |
 | [5.1](#part-5-subletting) | settlement fee | 1 to 3% | D10 | settled |
 | [6.1](#part-6-the-plot-as-a-single-unit) | indicative area | per Plot | Annex B | per deal |
@@ -589,22 +589,22 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [8.5](#part-8-construction-control) | completion security | — | framework 5A.5 | open |
 | [8.6](#part-8-construction-control) | defects period, retention | 12 months, 5% | framework 5A.6 | proposed |
 | [8.8](#part-8-construction-control) | indemnity survival | 5 years | framework 5A.8 | proposed |
-| [9.2](#part-9-the-build-obligation) | notice of cessation | 14 days | framework [6.0.1](#part-6-the-plot-as-a-single-unit) | settled |
-| [9.4](#part-9-the-build-obligation) | long stop | 12 months | framework [6.0.3](#part-6-the-plot-as-a-single-unit) | settled |
-| [9.5](#part-9-the-build-obligation) | commence / complete | 12 / 36 months | framework [6.1](#part-6-the-plot-as-a-single-unit) | proposed |
+| [9.2](#part-9-the-build-obligation) | notice of cessation | 14 days | framework §6.0.1 | settled |
+| [9.4](#part-9-the-build-obligation) | long stop | 12 months | framework §6.0.3 | settled |
+| [9.5](#part-9-the-build-obligation) | commence / complete | 12 / 36 months | framework §6.1 | proposed |
 | [9.6](#part-9-the-build-obligation) | holding charge, buy-back trigger | — | release gate, D8 | open |
 | [9.6](#part-9-the-build-obligation) | buy-back response | 60 days | D8 | settled |
 | [10.3](#part-10-design-code) | footprint, multiplier | 10% per Plot, ×2 | D7, Annex C | settled |
 | [10.4](#part-10-design-code) | density settlement fee | — | D7 | open |
 | [10.6](#part-10-design-code) | Design Envelope lock | signing to SLF + 12 months | D13 | settled |
-| [10.6.2](#part-10-design-code) | materiality threshold | 10% | framework [7.4.5](#part-7-building-rights-and-permits) | proposed |
-| [10.6.3](#part-10-design-code) | cure window | 30 days | framework [7.4.6](#part-7-building-rights-and-permits) | settled |
-| [10.6.5](#part-10-design-code) | invocation window | 90 days | framework [7.4.8](#part-7-building-rights-and-permits) | settled |
+| [10.6.2](#part-10-design-code) | materiality threshold | 10% | framework §7.4.5 | proposed |
+| [10.6.3](#part-10-design-code) | cure window | 30 days | framework §7.4.6 | settled |
+| [10.6.5](#part-10-design-code) | invocation window | 90 days | framework §7.4.8 | settled |
 | [11.2](#part-11-community-council) | veto threshold | two thirds of affected Holders | D11 | settled |
 | [11.1.1](#part-11-community-council) | voting weight base | √(area share) + √(shareholding), fixed on entry | this draft | proposed |
 | [11.1.2](#part-11-community-council) | bonus increment | 0.25 each, four conditions | this draft | proposed |
 | [11.1.2](#part-11-community-council) | weight cap per Holder | 10% of the district | this draft | proposed |
-| [11.1.3](#part-11-community-council) | recomputation | every moon cycle | settled | settled |
+| [11.1.3](#part-11-community-council) | recomputation | every moon cycle | D11 | settled |
 | [11.3](#part-11-community-council) | initiative threshold | — | D11 | open |
 | [12.2.1](#part-12-upgrade-tracks) | simplified route ceiling | 600 m² | Indonesian practice | settled |
 | [12.2.1](#part-12-upgrade-tracks) | aggregate holdings ceiling | 5 parcels or 5,000 m² | Indonesian practice | settled |
@@ -615,7 +615,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [15.3](#part-15-title-warranties-negative-pledge-indemnity) | area charge reduction | — | D3 | open |
 | [15.4](#part-15-title-warranties-negative-pledge-indemnity) | limitation after termination | — | D12 | open |
 | [15.6](#part-15-title-warranties-negative-pledge-indemnity) | extension filing | no later than 12 months before expiry | framework 9B.9 | settled |
-| [16.2](#part-16-termination-and-end-of-term) | removal election window | — | framework [10.2](#part-10-design-code) | open |
+| [16.2](#part-16-termination-and-end-of-term) | removal election window | — | framework §10.2 | open |
 | [17.1](#part-17-force-majeure-adat-and-disputes) | force majeure termination | — | framework 10A | open |
 
 | [12.1.2](#part-12-upgrade-tracks) | minimum value, rumah tapak in Bali | Rp 5,000,000,000 | Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 | settled by law |
