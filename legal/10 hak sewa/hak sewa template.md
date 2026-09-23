@@ -22,7 +22,7 @@ Two instruments per Plot. The notary executes [[hak sewa simple]], the eight-cla
 | Title | HGB No. [___], Annex A parcel [___], granted [___], expiring [___] |
 | Plot | Annex B reference [___], indicative area ±[___] m² |
 | Term | from [___] to [___] (Part 2) |
-| Form and price | [upfront / scheduled] · Plot price Rp [___] at signing, quantities qᵢ per Annex E §4 · deposit Rp [___] (Part 3) |
+| Form and price | Plot price Rp [___] · premium [___]% = Rp [___] at signing · year-0 rent R₀ Rp [___], quantities qᵢ per Annex E §4 (Part 3); premium 100% is the upfront form |
 | Offer of record | Annex J entry [___], commit [___], dated [___] |
 | Design Envelope | Annex C version [___], hash [___] |
 | Title check | *pengecekan sertifikat* of [___] clear; Annex I delivered [___] |
@@ -76,11 +76,11 @@ Singular includes plural. Headings guide reading and bind nothing.
 
 | form | at signing | thereafter |
 |---|---|---|
-| upfront | 100% of the Plot price | area revenue charge, service charge, taxes |
-| scheduled | 30% of the Plot price | the balance, held as quantities qᵢ under Annex E, due within 12 months at its Annex E value on the payment date; a balance unpaid at 12 months converts to 5 equal annual instalments in the same quantities, each valued on its due date |
+| upfront | premium 100% of the Plot price | area revenue charge, service charge, taxes |
+| century index | the premium recited, below 100% | rent for every lease year of the Term: R₀ recited, carried by Annex E with its annual reset, collar and floor; each year's R(t) paid in 12 equal monthly instalments |
 | rent | a separate rent agreement; Annex E governs the rent | occupation only; Parts 4, 9, 12 apply only where the rent agreement adopts them |
 
-3.2 Scheduled balance. The balance is the century index and nothing else: no interest, no fee, the quantities qᵢ of Annex E marked to market on each payment date. Early redemption at any time at the Annex E value of the remaining quantities moves the Holder to the upfront form.
+3.2 Rent under the century index form. The rent is the index and nothing else: no interest, no fee, no review against market value. R₀ follows from the premium through the pricer frozen in Annex J. The Holder may at any time raise the premium to 100% by paying the rent for the remaining Term at the current R(t), discounted at the base rate stated in Annex J, and stands thereafter as a Holder on the upfront form.
 
 3.3 Arrears. An instalment is in arrears 30 days after its due date. Arrears open a period of 6 months from the first missed due date during which the Holder may clear them, or assign under Part 4 with the assignee assuming the schedule. On the day that period ends with arrears outstanding, the Landowner may terminate by written notice; sums paid stay with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest. Improvements follow 16.2.
 
@@ -421,7 +421,8 @@ Settled figures come from [[holder protocol decisions]] D1–D13 and [[hak sewa 
 
 | clause | figure | proposal |
 |---|---|---|
-| 3.1 | scheduled form | 30% down, balance within 12 months at Annex E value, then 5 annual indexed instalments, per [[annual leasehold]] |
+| 3.1 | century index form | premium elected per deal, the rest as indexed rent paid monthly, per [[annual leasehold]] and the pricer at cyberia.my/cx |
+| 3.2 | early redemption | remaining rent at current R(t), discounted at the Annex J base rate |
 | 3.3 | arrears window | 6 months, per [[annual leasehold]] |
 | 5.1 | settlement fee | 2% within the 1 to 3% of D10 |
 | 8.5 | completion security | 5% of budget, 50/50 at PHO and SLF |

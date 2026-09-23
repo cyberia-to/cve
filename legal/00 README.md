@@ -38,7 +38,7 @@ shareholders-agreement accession · entry payment side letter · disclosure
 | [[land rights agreement]] | drafting framework — the whole land-rights system, reasons and options |
 | [[hak sewa deed]] | base deed — reasoning, markers and the value sheet, assembled from the framework |
 | [[hak sewa template]] | the signable text — operative clauses, proposals closed, annexes A–K, map to the notary's Pasal |
-| [[hak sewa simple]] | the notarial akta, eight clauses — Recited Rent from [[annex e century index\|century index]] quantities, upfront or 30% down with the balance in index quantities, 6 months to clear arrears; signed with [[hak sewa template]] as its private counterpart |
+| [[hak sewa simple]] | the notarial akta, eight clauses — premium at signing, the rest as rent in [[annex e century index\|century index]] quantities paid monthly, 6 months to clear arrears; signed with [[hak sewa template]] as its private counterpart |
 | [[annexes]] | annex index — eleven schedules A–K, per deal or standing |
 
 ## Notes

@@ -82,13 +82,13 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 | form | at signing | thereafter |
 |---|---|---|
-| upfront | 100% of the Plot price | nothing beyond the area revenue charge, service charge and taxes |
-| scheduled | 30% deposit of the Plot price | balance in century index quantities, within 12 months, then 5 annual indexed instalments, under [3.2](#part-3-consideration) |
+| upfront | premium 100% of the Plot price | nothing beyond the area revenue charge, service charge and taxes |
+| century index | the premium elected, below 100% | indexed rent for every lease year of the Term, paid monthly, under [3.2](#part-3-consideration) |
 | rent | none | annual rent under a separate written agreement between the Landowner and the specific Holder; where elected, [[annex e century index\|Annex E]] governs the rent in full and this Part applies only to the extent the rent agreement adopts it |
 
 The rent form carries no path to any of the rights, titles or upgrade tracks elsewhere in this deed; it is occupation for the agreed term only, and is offered where the Landowner elects to let rather than sell a Plot — a Holder not yet eligible for [12.1.2](#part-12-upgrade-tracks), or occupation by season or by event, or a Plot the Landowner is not yet ready to sell.
 
-3.2 Instalments. ▲ On the scheduled form the Holder pays 30% of the Plot price at signing; the balance is held as quantities qᵢ under [[annex e century index|Annex E]] and is due within 12 (twelve) months at its Annex E value on the payment date. A balance unpaid at 12 months converts to 5 (five) equal annual instalments in the same quantities, each valued on its due date. Two forms exist and no other: upfront, or scheduled under the century index — no interest, no fee, the index alone. An instalment is in arrears 30 (thirty) days after its due date; the Holder has 6 (six) months from the first missed due date to clear arrears or to assign under Part 4 with the assignee assuming the schedule; arrears outstanding at the end of that period entitle the Landowner to terminate by written notice, sums paid staying with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest.
+3.2 Rent under the century index form. ▲ The Holder pays the premium at signing and, for every lease year of the Term, the rent R(t) under [[annex e century index|Annex E]]: R₀ is recited, and the annex carries it with its annual reset on the anniversary, the collar of +35% / −15% per year in sats and the dual floor. Each year's R(t) is paid in 12 (twelve) equal monthly instalments. R₀ follows from the premium through the pricer at cyberia.my/cx, frozen for the deal in Annex J. Two forms exist and no other: the upfront form at a premium of 100%, or this — no interest, no fee, the index alone. An instalment is in arrears 30 (thirty) days after its due date; the Holder has 6 (six) months from the first missed due date to clear arrears or to assign under Part 4 with the assignee assuming the rent; arrears outstanding at the end of that period entitle the Landowner to terminate by written notice, sums paid staying with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest.
 
 3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ, the collar and the floor — not the amount of any future invoice. R(t) tracks the basket, metered by the collar of +35% / −15% per year in sats and held by the dual floor, as the [[cyberia/protocol/century-index|century index]] protocol states. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor and one worked invoice, and prevails over prose.
 
@@ -98,7 +98,7 @@ The rent form carries no path to any of the rights, titles or upgrade tracks els
 
 3.3.3 Divergence. Where an on-chain fix diverges from the annex computation, the annex computation prevails.
 
-3.4 Early redemption. ▲ A Holder on the scheduled form may at any time pay the remaining quantities at their Annex E value and stand as a Holder on the upfront form.
+3.4 Early redemption. ▲ A Holder on the century index form may at any time raise the premium to 100% by paying the rent for the remaining Term at the current R(t), discounted at the base rate stated in Annex J, and stand as a Holder on the upfront form.
 
 3.5 Guarantee Fund. ▲ 5% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex e century index|Annex E]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
 
@@ -569,8 +569,8 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 |---|---|---|---|---|
 | [2.2](#part-2-the-grant) | term | 25 years | leasehold upfront, instrument A | settled |
 | [2.2](#part-2-the-grant) | extension buffer | 12 months, matching the [15.6](#part-15-title-warranties-negative-pledge-indemnity) filing deadline | framework §2.1 | settled |
-| [3.1](#part-3-consideration) | minimum deposit, scheduled form | 30% | annual leasehold | settled |
-| [3.2](#part-3-consideration) | scheduled form | 30% down; balance in Annex E quantities within 12 months; then 5 annual indexed instalments | [[annual leasehold]] | settled |
+| [3.1](#part-3-consideration) | premium, century index form | elected per deal, below 100% | [[annual leasehold]], pricer at cyberia.my/cx | per deal |
+| [3.2](#part-3-consideration) | century index form | premium at signing; R₀ recited; R(t) under Annex E paid in 12 monthly instalments | [[annual leasehold]] | settled |
 | [3.2](#part-3-consideration) | default on instalments | 30 days to arrears, 6 months to clear or assign, then termination, sums paid retained | [[annual leasehold]] | settled |
 | [3.3.1](#part-3-consideration) | recomputation window | 30 days | framework §2.3 | settled |
 | [3.5](#part-3-consideration) | Guarantee Fund share | 5% of consideration on each grant, assignment or upgrade | D4 | settled |

@@ -22,11 +22,11 @@ At signing, the Landowner records: the file(s) that made up the product page and
 | Files | `strategy/README.md`, `strategy/annual-leasehold.md` |
 | Commit | `2f4d487cb6fdc9bf4f9a7a8a4bac4b826cd3ce84` |
 | Date | 2026-08-27 |
-| What the Holder was shown | Instrument B (annual leasehold): 30% down, balance in century index quantities within 12 months, then 5 annual indexed instalments; no interest, no fee |
-| Binding vs informational | The instalment mechanic and the index-only treatment of the balance are commitments — [[hak sewa template]] 3.0 says commitments bind through the deed. Wave pricing, KPI figures and the pricer widget's live output are current-state information and are not frozen by this entry. |
+| What the Holder was shown | Instrument B (annual leasehold): premium [__]% at signing, year-0 rent R₀ from the pricer at cyberia.my/cx with base rate [__]% and spread [__]%, rent in century index quantities for the Term, paid monthly; no interest, no fee |
+| Binding vs informational | The premium, R₀, the pricer's base rate for early redemption and the index-only treatment of the rent are commitments — [[hak sewa template]] 3.0 says commitments bind through the deed. Wave pricing, KPI figures and the pricer widget's live output are current-state information and are not frozen by this entry. |
 
 This row is illustrative of the format only; no Holder has relied on it and no lease has been signed against it. A real Annex J entry is created at the moment a specific Holder is shown a specific page, not before.
 
 ## What is frozen and what is not
 
-The template's 3.0 draws this line for every entry: commitments freeze (renewal by right, the area revenue charge, the assignment regime, the non-disturbance covenant, and — as of this deed — the index-only deferred balance under [[hak sewa template]] 3.2); statements of current state do not (wave-release status, indicative pricing not yet quoted to a specific Holder, the pricer widget's output before a specific number is agreed). Where it is unclear which side of that line a given statement falls on, the Landowner resolves it in the Holder's favour at the time of signing, not afterward.
+The template's 3.0 draws this line for every entry: commitments freeze (renewal by right, the area revenue charge, the assignment regime, the non-disturbance covenant, and — as of this deed — the index-only rent under [[hak sewa template]] 3.2); statements of current state do not (wave-release status, indicative pricing not yet quoted to a specific Holder, the pricer widget's output before a specific number is agreed). Where it is unclear which side of that line a given statement falls on, the Landowner resolves it in the Holder's favour at the time of signing, not afterward.

@@ -31,33 +31,32 @@ currency.
 > lease the Plot and does not disturb the Holder's use while this deed
 > stands.
 >
-> **4. Rent.** The rent for the whole term (*uang sewa*), as recited in
-> this akta, is **Rp [___]** (the "Recited Rent") — the value at signing
-> of the fixed quantities carried in [[annex e century index|Annex E]],
-> converted at [[jisdor|JISDOR]] on the signing date. Form elected:
-> [upfront / scheduled]. Upfront: 100% at signing. Scheduled: **30% of
-> the Recited Rent at signing**; the balance, held as the Annex E
-> quantities, is due within **12 months of signing** at its Annex E value
-> on the payment date.
+> **4. Rent.** The premium for the lease, as recited in this akta, is
+> **Rp [___]** ([___]% of the leasehold value), paid at signing. Where
+> the premium is below 100%, the Holder pays in addition an annual rent
+> of **Rp [___]** in the first lease year (the "Recited Rent") — the
+> value at signing of the fixed quantities carried in
+> [[annex e century index|Annex E]], converted at [[jisdor|JISDOR]] on
+> the signing date — and in every later lease year the amount Annex E
+> derives from those quantities, reset on each anniversary within its
+> collar and floor. Each year's rent is paid in **12 equal monthly
+> instalments**.
 >
 > What the akta cannot recite. A notary and [[ppat|PPAT]] register a
 > price in rupiah, not in units of an external index — Annex E's
 > quantities and its formula are the private mechanism the parties use
-> to compute the Recited Rent, every later instalment and the renewal
+> to compute the Recited Rent, every later year's rent and the renewal
 > price; they are not themselves stated as the unit of account in this
-> akta. Where a sum falls due later than signing, its rupiah amount is
-> recomputed from Annex E as of the payment date, per
-> [[uu 7-2011 mata uang|UU 7/2011]] on denomination and settlement.
+> akta. The rupiah amount of each later year is computed from Annex E
+> at its reset, per [[uu 7-2011 mata uang|UU 7/2011]] on denomination
+> and settlement.
 >
-> **5. Late balance and arrears.** A balance unpaid 12 months after
-> signing converts to **5 equal annual instalments** in the same
-> quantities, each valued on its due date. An instalment is in arrears
-> 30 days after its due date. The Holder has 6 months from the first
-> missed due date to clear the arrears or to assign the lease, the
-> assignee taking over the schedule. Arrears outstanding at the end of
-> that period entitle the Landowner to terminate this akta by written
-> notice; sums paid stay with the Landowner as the price of the time
-> held.
+> **5. Arrears.** An instalment is in arrears 30 days after its due
+> date. The Holder has 6 months from the first missed due date to clear
+> the arrears or to assign the lease, the assignee taking over the rent.
+> Arrears outstanding at the end of that period entitle the Landowner to
+> terminate this akta by written notice; sums paid stay with the
+> Landowner as the price of the time held.
 >
 > **6. Use.** Lawful use consistent with the estate's published rules as
 > at signing. No nominee arrangement (*perjanjian pinjam nama*); nothing

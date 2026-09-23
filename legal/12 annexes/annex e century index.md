@@ -8,7 +8,7 @@ icon: "📈"
 ---
 # Annex E — Index Annex
 
-Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Referred to in the template's 3.1 and 3.2 for the scheduled balance, 3.4 as the unit of account for indexed consideration, 2.4 as the renewal formula, and 3.5 and 11.4 as the denomination of the Guarantee Fund and the service charge cap. On any conflict between this annex and the prose of the deed, this annex prevails.
+Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Referred to in the template's 3.1 and 3.2 for the rent of the century index form, 3.4 as the unit of account for indexed consideration, 2.4 as the renewal formula, and 3.5 and 11.4 as the denomination of the Guarantee Fund and the service charge cap. On any conflict between this annex and the prose of the deed, this annex prevails.
 
 The unit is the [[cx|century index]] — a fixed basket of eight world assets. What is fixed at signing is the set of quantities; what moves is their price. The machine is the one [[cyberia/protocol/century-index|century index]] protocol states, in full — reset, collar, dual floor, fallbacks, valve — and that page is the source of this annex: where the two differ, the protocol page is corrected first and this annex follows it. Contract theses T1–T8 of the protocol are restated in §7.
 
@@ -24,13 +24,13 @@ The same machine prices every sum under the deed, each with its own R₀:
 
 | sum | R₀ | how it is paid |
 |---|---|---|
-| Plot price, scheduled form | the Plot price; 30% settles at signing, the balance is 70% of each qᵢ | within 12 months in one sum, thereafter in 5 equal annual instalments of the same quantities, each valued on its day under §3 |
-| annual rent, rent form | the year-0 rent | on each anniversary |
+| rent, century index form | the year-0 rent recited, derived from the premium by the pricer at [cyberia.my/cx](https://cyberia.my/cx) and frozen in Annex J | R(t) for each lease year under §3, in 12 equal monthly instalments |
+| rent, rent form | the year-0 rent | the same, on the cadence the rent agreement states |
 | service charge cap, 11.4 | 1% of the Plot price | per year |
 | Guarantee Fund, 3.5 | each contribution at the fix of the day it enters | held, and paid out at value |
 | renewal price, 2.4 | L₀, the Plot price | L(T) = L₀ · (T₂ ÷ T₁) · I(T) ÷ I(t₀), floored at L₀ · T₂ ÷ T₁; T₁ and T₂ the first and the renewal Terms in years |
 
-Two forms of purchase exist and no other: upfront, or the scheduled balance held in these quantities. No fee and no interest sit on top of the index.
+Two forms of purchase exist and no other: the upfront form at a premium of 100%, or a premium below it with the rest carried as this rent for the Term. No fee, no interest and no market review sit on top of the index.
 
 ## 2. Basket and weights
 
@@ -66,7 +66,7 @@ Every price enters as a trailing 365-day average of daily fixes. The index publi
 
 The collar meters the move year over year: the amount rises at most 35% and falls at most 15% against the previous anniversary, in sats. The floor has two legs: the sat leg guarantees the Landowner no fewer satoshi than year 0; the fiat leg guarantees the year-0 dollar value. Read as one instrument, the Holder owes the basket, metered by the collar, and owes more than the basket whenever bitcoin outruns it: the Holder signs [[hak sewa template]] 3.4 having read this paragraph. A devaluation of the rupiah flows through in full, which is the point of denominating in the index at all.
 
-The same clamp and floor apply to every sum in §1, each measured against its own quantities: a scheduled balance paid in month eight is clamped against S₀ of its 70% share; each of the five annual instalments against the value of that share at the previous anniversary.
+The same clamp and floor apply to every sum in §1, each measured against its own quantities. A lease year's R(t) is set once, at the reset, and its twelve monthly instalments are R(t) ÷ 12 converted at JISDOR on each invoice date.
 
 ## 4. Quantities — completed at signing
 
