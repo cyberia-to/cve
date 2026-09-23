@@ -9,7 +9,7 @@ icon: "🖋"
 
 The operative text of [[hak sewa deed]], stripped of reasoning and closed where a value was open. The deed keeps the reasons; this page is what the notary marks up and the parties sign. [[annexes]] A–K travel with it. `[___]` is a per-deal field. `[x]` is a proposed value: it binds once the sign-off sheet in [[holder protocol decisions]] marks it, and Schedule 1 lists every one.
 
-Execution follows [[hak sewa deed]] Part 0: bilingual (the Indonesian column drafted alongside this text, prevailing on discrepancy), *akta* before a notary and [[ppat|PPAT]], anti-nominee, certificated [[hgb|HGB]] parcel with a subsisting [[pkkpr|PKKPR]], Director's signature under Articles Pasal 12(2)(c). The notary's own format is [[perjanjian sewa menyewa template]]; the map from this text to its Pasal numbering is in Schedule 3.
+Two instruments per Plot. The notary executes [[hak sewa simple]], the eight-clause *akta sewa* in the form the notary accepts; this text is signed by the same parties as a private agreement alongside it, because the notary declines to register a non-standard deed. Execution otherwise follows [[hak sewa deed]] Part 0: bilingual, Indonesian prevailing on discrepancy, anti-nominee, certificated [[hgb|HGB]] parcel with a subsisting [[pkkpr|PKKPR]], Director's signature under Articles Pasal 12(2)(c). ○ The precedence rule between the akta and this agreement is settled before first use. The notary's own long format is [[perjanjian sewa menyewa template]]; the map from this text to its Pasal numbering is in Schedule 3.
 
 ---
 
@@ -444,7 +444,7 @@ Settled figures come from [[holder protocol decisions]] D1–D13 and [[hak sewa 
 
 | blocks | item |
 |---|---|
-| recitals, 0.4 | PKKPR per parcel: Annex A lists most parcels "not on file" or "none"; a lease is signed only on a parcel whose PKKPR is in hand |
+| recitals, 0.4 | PKKPR per parcel: sinwood holds one, so the first signings run there; the remaining parcels obtain theirs from leasehold proceeds, in the order sinwood, core, bridge, etherland, asgard, avalon, with parcels 12 and 15 after them |
 | 2.2 | certificate audit: grant and expiry dates, the parcels without a certificate, the LP2B check |
 | 6.4 | any known area shortfall |
 | 4.11 | admissibility of assignment by way of security |
