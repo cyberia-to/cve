@@ -12,7 +12,7 @@ The register the Landowner keeps under [[hak sewa template]] 4.8. One row per Pl
 
 ## Leases
 
-| Plot | Annex A parcel | Holder ref | form | Premium | R₀ | Term from | Term to | Title expiry | PBG | SLF | open breaches | arrears | Council weight | last entry |
+| Plot | Annex A (Estate Registry) parcel | Holder ref | form | Premium | R₀ | Term from | Term to | Title expiry | PBG | SLF | open breaches | arrears | Council weight | last entry |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | | | | | | | | | | | | | | | |
 
@@ -20,14 +20,14 @@ The register the Landowner keeps under [[hak sewa template]] 4.8. One row per Pl
 
 | column | what it holds | source |
 |---|---|---|
-| Plot | Annex B reference | Annex B, at grant |
-| Annex A parcel | the Title the Plot sits on | Annex A |
+| Plot | Annex B (Plot Boundary) reference | Annex B (Plot Boundary), at grant |
+| Annex A (Estate Registry) parcel | the Title the Plot sits on | Annex A (Estate Registry) |
 | Holder ref | the Company's file number for the Holder | Company file; the name stays there |
 | form | upfront or century index | recitals, 3.1 |
 | Premium | percentage and rupiah sum paid at signing | recitals |
-| R₀ | year-0 rent in rupiah, blank on the upfront form; the quantities qᵢ sit in the executed Annex E | recitals, Annex E §4 |
+| R₀ | year-0 rent in rupiah, blank on the upfront form; the quantities qᵢ sit in the executed Annex E (Century Index) | recitals, Annex E (Century Index) §4 |
 | Term from, Term to | dates | recitals, Part 2 |
-| Title expiry | expiry of the Title and the date by which its extension is filed | Annex A, 2.5 |
+| Title expiry | expiry of the Title and the date by which its extension is filed | Annex A (Estate Registry), 2.5 |
 | PBG, SLF | date issued, or pending | Part 7, 8.7 |
 | open breaches | Design Code or Community Rules breaches under notice, with the notice date | 16.1 |
 | arrears | amount and first missed due date, or none | 3.3 |

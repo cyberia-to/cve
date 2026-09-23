@@ -9,7 +9,7 @@ icon: "📐"
 
 # Sinwood — certificate boundary and two holder plots
 
-Worked example under [[annex a estate registry|Annex A]] and [[annex b plot boundary|Annex B]]. Source: the "cyber valley" Google My Maps layer maintained by Cyberia (`mid=1txZioQKBBvOdmox1Had5aI-Zz4kUEJI`), KML pulled 30 August 2026. Coordinates below are read directly from that KML, not eyeballed from a screenshot.
+Worked example under [[annex a estate registry|Annex A (Estate Registry)]] and [[annex b plot boundary|Annex B (Plot Boundary)]]. Source: the "cyber valley" Google My Maps layer maintained by Cyberia (`mid=1txZioQKBBvOdmox1Had5aI-Zz4kUEJI`), KML pulled 30 August 2026. Coordinates below are read directly from that KML, not eyeballed from a screenshot.
 
 ![sinwood boundary and the two holder plots](https://gateway.pinata.cloud/ipfs/bafkreifdrsh56yaypbau4pk7gox34csrrqefyljj3owtcluenv3vwybhqq)
 
@@ -24,9 +24,9 @@ Worked example under [[annex a estate registry|Annex A]] and [[annex b plot boun
 | Expiration | 02.02.2053 |
 | Declared size | 400 (are) = 40,000 m² |
 | Flat area, this KML | 407.24 are — 4.0724 ha (measured; the certificate's own figure is 40,000 m²) |
-| Annex A row | Parcel 4 — [[hgb\|HGB]] 00048 |
+| Annex A (Estate Registry) row | Parcel 4 — [[hgb\|HGB]] 00048 |
 
-**Identity confirmed.** "sinwood" is Parcel 4 — [[hgb|HGB]] 00048 — in [[annex a estate registry|Annex A]] and in [[director disclosure indemnity agreement]] Appendix B. Three independent fields match: the map layer's own `id: 4` against our Parcel 4 index, the declared size 400 are = 40,000 m² against Annex A's 40,000 m², and the expiry 02.02.2053 against Annex A's 02.02.2053 — the same match already seen elsewhere in the pack (Parcel 0: 6,800 m² declared, 6,400 m² on resurvey). The 407.24 are this KML shows is the measured area; 400 are is the certificate's declared figure.
+**Identity confirmed.** "sinwood" is Parcel 4 — [[hgb|HGB]] 00048 — in [[annex a estate registry|Annex A (Estate Registry)]] and in [[director disclosure indemnity agreement]] Appendix B. Three independent fields match: the map layer's own `id: 4` against our Parcel 4 index, the declared size 400 are = 40,000 m² against Annex A (Estate Registry)'s 40,000 m², and the expiry 02.02.2053 against Annex A (Estate Registry)'s 02.02.2053 — the same match already seen elsewhere in the pack (Parcel 0: 6,800 m² declared, 6,400 m² on resurvey). The 407.24 are this KML shows is the measured area; 400 are is the certificate's declared figure.
 
 ### Certificate boundary vertices (WGS84, from the map layer)
 

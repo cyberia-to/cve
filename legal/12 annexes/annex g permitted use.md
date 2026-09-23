@@ -9,7 +9,7 @@ icon: "🧭"
 
 # Annex G — Permitted-Use Matrix
 
-Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Source: [[cyber-valley/strategy|strategy]] §4 (Eight Zones) and §6 (Deal Architecture), restated here as the binding cross-reference between Holder class, zone and instrument. Where this annex and the strategy page conflict, this annex prevails as against a Holder; the strategy page is the estate's own working record and amends this annex under the same version-lock procedure as [[annex c design code|Annex C]], [[hak sewa template]] 10.5.
+Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Source: [[cyber-valley/strategy|strategy]] §4 (Eight Zones) and §6 (Deal Architecture), restated here as the binding cross-reference between Holder class, zone and instrument. Where this annex and the strategy page conflict, this annex prevails as against a Holder; the strategy page is the estate's own working record and amends this annex under the same version-lock procedure as [[annex c design code|Annex C (Design Code)]], [[hak sewa template]] 10.5.
 
 ## G1. Instruments
 

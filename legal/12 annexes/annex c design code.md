@@ -25,13 +25,13 @@ Section pairs across the two representations. The six policy pages named in C5 �
 | [C5](#c5-pollution-limits) pollution limits | pollution, and the six policy pages under it |
 | [C1](#c1-measurement) measurement, [C6](#c6-monitoring-and-publication) monitoring, [C7](#c7-district-balance) district balance | held here alone — contractual machinery for measuring and publishing compliance |
 | [C8](#c8-built-form) built form, [C9](#c9-overlays-that-bind-regardless) overlays, [C10](#c10-grandfathering) grandfathering | held here alone — deed machinery |
-| carried by [[hak sewa template]] 4.5 transfer fee scale and Annex G | construction distribution, incentives |
+| carried by [[hak sewa template]] 4.5 transfer fee scale and Annex G (Permitted Use) | construction distribution, incentives |
 
 ⚠ Construction distribution and incentives live on the policy page with several min/max fields still open. Until those figures are settled they bind nothing under this annex.
 
 ## C1. Measurement
 
-C1.1 Ratios in C2 and C3 are measured per Plot, on the area shown in Annex B.
+C1.1 Ratios in C2 and C3 are measured per Plot, on the area shown in Annex B (Plot Boundary).
 
 C1.2 Unused footprint entitlement is transferable to another Plot in the same district through the Register under [[hak sewa template]] 10.4, against a settlement fee, and only where the district balance in C7 is maintained. Transfers open from Wave 2.
 
@@ -81,7 +81,7 @@ policy page — [[sound policy]], [[water policy]], [[light policy]],
 [[air policy]], [[soil policy]], [[carbon policy]] — and compliance is a
 condition of land use. The limits are not restated here: the pages are
 incorporated by reference and version-locked at signing through
-[[annex d community rules|Annex D]], which also carries the two-strike
+[[annex d community rules|Annex D (Community Rules)]], which also carries the two-strike
 enforcement and the routing into [[hak sewa deed]].
 
 ## C6. Monitoring and publication
@@ -113,7 +113,7 @@ Proposal, drawn from the policy pages; each figure binds once the sign-off sheet
 | lighting | 2200 K or warmer, full cutoff, bollards ≤ 0.6 m on paths, off by 23:00, intensity per zone | [[light policy]] |
 | fencing | living hedges or open post-and-wire under [1.5] m; solid walls only within 3 m of a dwelling | wildlife movement under C4 |
 | renewables | photovoltaic and collector surfaces within the C3 absorber band (1–10%); battery and inverter rooms ventilated and shielded | C3, [[sound policy]] |
-| waste | two-bin compost per residence; residual waste to the hub under Annex F §2 | [[soil policy]] |
+| waste | two-bin compost per residence; residual waste to the hub under Annex F (Utilities, Access and Mobility) §2 | [[soil policy]] |
 
 ## C9. Overlays that bind regardless
 

@@ -10,7 +10,7 @@ icon: "🌿"
 # Annex D — Community Rules
 
 Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Binding on all Holders under
-[[annex c design code|Annex C]] §5, which names the estate's policy pages
+[[annex c design code|Annex C (Design Code)]] §5, which names the estate's policy pages
 as the pollution and resource standards a Holder's construction and
 occupation must meet.
 
@@ -19,7 +19,7 @@ on the policy side of the graph. The policy pages are the standard,
 **incorporated by reference** and version-locked at signing: the version
 that binds a Holder is the page as it stood on the signing date,
 identified by commit hash and date on the same mechanism [[annex j offer
-of record|Annex J]] uses for the offer. Amendments reach a Holder only
+of record|Annex J (Offer of Record)]] uses for the offer. Amendments reach a Holder only
 through [[hak sewa template]] 10.5, subject to the Community Council veto under 11.2.
 
 ## 1. Standards
@@ -33,7 +33,7 @@ through [[hak sewa template]] 10.5, subject to the Community Council veto under 
 | D5 | air — burning rules, kilns, cooking fires | [[air policy]] |
 | D6 | carbon — electric-only movement, generators, removal pathway | [[carbon policy]] |
 
-Other annexes cite a row by its number: Annex F cites D1 and D6, Annex H cites D3.
+Other annexes cite a row by its number: Annex F (Utilities, Access and Mobility) cites D1 and D6, Annex H (Handover Condition) cites D3.
 
 ## 2. Adat record
 
@@ -46,7 +46,7 @@ Other annexes cite a row by its number: Annex F cites D1 and D6, Annex H cites D
 | ceremonial access | processional routes and temple approaches; days on which they are used |
 | customary contributions | the resident's expected contribution, in kind or in money, and its cadence |
 
-An item recorded here is disclosed under 13.3 and initialled with Annex C. An item arising later reaches the Holder through 10.5 as an act of adat under 10.6.3.
+An item recorded here is disclosed under 13.3 and initialled with Annex C (Design Code). An item arising later reaches the Holder through 10.5 as an act of adat under 10.6.3.
 
 ## 3. Enforcement and relation to the deed
 

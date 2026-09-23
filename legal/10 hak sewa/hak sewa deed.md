@@ -30,7 +30,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 0.3 Anti-nominee. ⚠ Each party represents that no part of this arrangement is a *perjanjian pinjam nama*. A nominee arrangement offends the Basic Agrarian Law and Article 1320 [[kuhperdata|KUHPerdata]] and is void. Nothing in this deed simulates freehold for a foreign party, and the Holder receives no share or share-like economics in exchange for the Plot outside a separately reviewed instrument.
 
-0.4 Title condition. ⚠ This deed is executed only where the Plot sits on a certificated [[hgb|HGB]] parcel listed in Annex A and a [[pkkpr|PKKPR]] covering the intended use subsists for that parcel. Parcels recorded as *Pipil*, held on agreement, or awaiting certification are outside this deed until converted.
+0.4 Title condition. ⚠ This deed is executed only where the Plot sits on a certificated [[hgb|HGB]] parcel listed in Annex A (Estate Registry) and a [[pkkpr|PKKPR]] covering the intended use subsists for that parcel. Parcels recorded as *Pipil*, held on agreement, or awaiting certification are outside this deed until converted.
 
 0.5 Signing authority. The Director signs under Articles of Association Pasal 12(2)(c), within [[kbli|KBLI]] 68111 and 68200, without prior approval. Payment dates in this deed accommodate the separate maker and authorizer roles required by [[shareholders agreement]] Article 6.
 
@@ -38,11 +38,11 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 ## Part 1. Parties, Plot and definitions
 
-1.1 Landowner: PT CYBER VALLEY ESTATE, PT PMA, domiciled in Gesing, Banjar, Buleleng, Bali, holder of the titles listed in Annex A, [[nib|NIB]] [___].
+1.1 Landowner: PT CYBER VALLEY ESTATE, PT PMA, domiciled in Gesing, Banjar, Buleleng, Bali, holder of the titles listed in Annex A (Estate Registry), [[nib|NIB]] [___].
 
 1.2 Holder: [___], classified at signing as Foreign Holder or Indonesian Holder. No residency test applies to the grant.
 
-1.3 The Plot: described in Annex B by physical marks (*patok*), adjoining owners by name, and GPS/UTM coordinates, with the *peta bidang* annexed and initialled. Indicative area ±[___] m².
+1.3 The Plot: described in Annex B (Plot Boundary) by physical marks (*patok*), adjoining owners by name, and GPS/UTM coordinates, with the *peta bidang* annexed and initialled. Indicative area ±[___] m².
 
 1.4 The Title: [[hgb|HGB]] certificate No. [___], granted [___], expiring [___], remaining term at signing [___] years, recited as a date.
 
@@ -56,7 +56,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 2.2 Term. ▲ The Term is the lesser of 25 years and the remaining term of the Title at signing, less a buffer of 12 months for the extension procedure — matching the filing deadline [15.6](#part-15-title-warranties-negative-pledge-indemnity) sets for the Landowner, so the buffer costs the Holder no more term than the procedure it covers actually needs. It is stated in the recitals as a date.
 
-2.2.1 Renewal by right. On a *perpanjangan* of the Title, the Holder may renew by notice served between 24 and 12 months before the Term ends, and the deed then extends by the lesser of **20 years** — [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 37(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-37--the-term) sets that as the statutory ceiling for an extension, regardless of remaining term — and the new remaining term less the same buffer, without further consideration beyond the price formula in Annex E and without renegotiation. A *pembaruan* is a discretionary priority under Pasal 37(4), not an automatic right; where the Landowner obtains one, this clause is renegotiated fresh at that point and does not extend automatically.
+2.2.1 Renewal by right. On a *perpanjangan* of the Title, the Holder may renew by notice served between 24 and 12 months before the Term ends, and the deed then extends by the lesser of **20 years** — [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 37(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-37--the-term) sets that as the statutory ceiling for an extension, regardless of remaining term — and the new remaining term less the same buffer, without further consideration beyond the price formula in Annex E (Century Index) and without renegotiation. A *pembaruan* is a discretionary priority under Pasal 37(4), not an automatic right; where the Landowner obtains one, this clause is renegotiated fresh at that point and does not extend automatically.
 
 2.2.2 Extension covenant. ▲ The Landowner applies for extension and, where extension is exhausted, for renewal of each Title within the windows [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 41 allows, pursues each application diligently at its own cost, and reports progress in the Register. The outcome is not warranted: after the extension cycle the land returns to the State and the former holder holds a priority on stated conditions under Pasal 37(4), not a right. The recitals state for the Plot the date to which the Term is certain and the date to which it depends on renewal.
 
@@ -87,7 +87,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 Two forms exist on the market and no other: the lease paid upfront for the Term, or the lease taken under the century index.
 
-3.2 Rent under the century index form. ▲ The Holder pays the premium at signing and, for every lease year of the Term, the rent R(t) under [[annex e century index|Annex E]]: R₀ is recited, and the annex carries it with its annual reset on the anniversary, the collar of +35% / −15% per year in sats and the dual floor. Each year's R(t) is paid in 12 (twelve) equal monthly instalments. R₀ follows from the premium through the pricer at cyberia.my/cx, frozen for the deal in Annex J. Two forms exist and no other: the upfront form at a premium of 100%, or this — no interest, no fee, the index alone. An instalment is in arrears 30 (thirty) days after its due date; the Holder has 6 (six) months from the first missed due date to clear arrears or to assign under Part 4 with the assignee assuming the rent; arrears outstanding at the end of that period entitle the Landowner to terminate by written notice, sums paid staying with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest.
+3.2 Rent under the century index form. ▲ The Holder pays the premium at signing and, for every lease year of the Term, the rent R(t) under [[annex e century index|Annex E (Century Index)]]: R₀ is recited, and the annex carries it with its annual reset on the anniversary, the collar of +35% / −15% per year in sats and the dual floor. Each year's R(t) is paid in 12 (twelve) equal monthly instalments. R₀ follows from the premium through the pricer at cyberia.my/cx, frozen for the deal in Annex J (Offer of Record). Two forms exist and no other: the upfront form at a premium of 100%, or this — no interest, no fee, the index alone. An instalment is in arrears 30 (thirty) days after its due date; the Holder has 6 (six) months from the first missed due date to clear arrears or to assign under Part 4 with the assignee assuming the rent; arrears outstanding at the end of that period entitle the Landowner to terminate by written notice, sums paid staying with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest.
 
 3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ, the collar and the floor — not the amount of any future invoice. R(t) tracks the basket, metered by the collar of +35% / −15% per year in sats and held by the dual floor, as the [[cyberia/protocol/century-index|century index]] protocol states. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor and one worked invoice, and prevails over prose.
 
@@ -97,9 +97,9 @@ Two forms exist on the market and no other: the lease paid upfront for the Term,
 
 3.3.3 Divergence. Where an on-chain fix diverges from the annex computation, the annex computation prevails.
 
-3.4 Early redemption. ▲ A Holder on the century index form may at any time raise the premium to 100% by paying the rent for the remaining Term at the current R(t), discounted at the base rate stated in Annex J, and stand as a Holder on the upfront form.
+3.4 Early redemption. ▲ A Holder on the century index form may at any time raise the premium to 100% by paying the rent for the remaining Term at the current R(t), discounted at the base rate stated in Annex J (Offer of Record), and stand as a Holder on the upfront form.
 
-3.5 Guarantee Fund. ▲ 5% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex e century index|Annex E]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
+3.5 Guarantee Fund. ▲ 5% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex e century index|Annex E (Century Index)]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
 
 The Fund is whatever has accumulated less payments properly made out of it: there is no target level and no obligation on the Landowner to top it up from other money. Money leaves the Fund only to pay a Holder a sum due, on the maker and authorizer mandate under [[shareholders agreement]] Article 6, within 30 days of a supported claim or 10 days of an arbitral award. No commissioner approval is needed to pay a Holder; approval is needed to take money out for anything else, and the only permitted other use is a return of surplus.
 
@@ -126,7 +126,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 | built within time, SLF issued | 0.5 percentage points |
 | no unremedied Design Code breach for the whole term | 0.5 percentage points |
 | soil and water results published to the ledger without gaps | 0.5 percentage points |
-| referred residents above the threshold in Annex G §6 | to the minimum of [1.0]% |
+| referred residents above the threshold in Annex G (Permitted Use) §6 | to the minimum of [1.0]% |
 | succession under [4.10](#part-4-transfer) | no fee |
 
 4.5.1 Right of first refusal. ▲ Exists only in Wave 1 and only until the build obligation is discharged; it lapses permanently on [[slf|SLF]]. Its mechanics mirror the share [[rofr|ROFR]] of the pack: a notice stating price and terms, a 30-day offer period and a 3-day window to take up the offer as [[shareholders agreement|the shareholders agreement]] [Article 1](/cyber-valley/cve/legal/07-shareholders-agreement/shareholders-agreement#article-1-right-of-first-refusal) sets them, the 3 days matching [[articles of association]] [Article 7(4)](/cyber-valley/cve/legal/01-articles-of-association/articles-of-association#article-7-transfer-of-shares); right to withdraw the offer thereafter.
@@ -156,7 +156,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 5.2 Settlement. Both settle in IDR at JISDOR on the invoice date. Horizon and use are gated by the Design Code: a day market and a month-long camp are different permitted uses.
 
-5.3 Definitions and audit. Revenue, the certification and review cycle for net-exporter status, reporting cadence, audit rights and the consequences of understatement are in Annex G.
+5.3 Definitions and audit. Revenue, the certification and review cycle for net-exporter status, reporting cadence, audit rights and the consequences of understatement are in Annex G (Permitted Use).
 
 ○ The licensing route for stay activity and the regional accommodation tax treatment stand open in the release gate.
 
@@ -166,11 +166,11 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 6.1 Per aversionem. ⚠ The Plot is demised as one contiguous parcel defined by its boundaries, not by a certified area number.
 
-> The Object is demised as a single land parcel (*per aversionem* / ad corpus) within the boundaries described in Article […] and Annex B, and not by unit of area. Any figure of approximately [___] m² is indicative only. The Parties agree, as [Article 1486](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale) of the Civil Code ([[kuhperdata|KUHPerdata]]) permits in its closing words, that the stated measure gives neither Party any claim and that the one-twentieth threshold in that Article does not apply between them. [Article 1588](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1588-1592-special-rules-for-a-lease-of-land) is set aside to the same effect for the lease, and Articles 1589 to 1592, which govern an agricultural tenancy, do not apply to this demise. There shall be no price adjustment, compensation or rescission if a later BPN cadastral survey yields a larger or smaller area, and any claim that would otherwise arise is barred one year after delivery under [Article 1489](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale).
+> The Object is demised as a single land parcel (*per aversionem* / ad corpus) within the boundaries described in Article […] and Annex B (Plot Boundary), and not by unit of area. Any figure of approximately [___] m² is indicative only. The Parties agree, as [Article 1486](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale) of the Civil Code ([[kuhperdata|KUHPerdata]]) permits in its closing words, that the stated measure gives neither Party any claim and that the one-twentieth threshold in that Article does not apply between them. [Article 1588](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1588-1592-special-rules-for-a-lease-of-land) is set aside to the same effect for the lease, and Articles 1589 to 1592, which govern an agricultural tenancy, do not apply to this demise. There shall be no price adjustment, compensation or rescission if a later BPN cadastral survey yields a larger or smaller area, and any claim that would otherwise arise is barred one year after delivery under [Article 1489](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale).
 
 > Objek disewakan sebagai satu kesatuan bidang tanah (per aversionem) dalam batas-batas sebagaimana diuraikan dalam Pasal … dan Lampiran …, bukan berdasarkan satuan luas. Luas ±[___] m² bersifat perkiraan. Sebagaimana dimungkinkan oleh kalimat penutup [Pasal 1486](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale) KUHPerdata, Para Pihak sepakat bahwa penyebutan ukuran tidak menimbulkan tuntutan apa pun bagi masing-masing Pihak dan bahwa batas seperdua puluh dalam Pasal tersebut tidak berlaku di antara mereka. [Pasal 1588](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1588-1592-special-rules-for-a-lease-of-land) dikesampingkan dengan akibat yang sama untuk sewa ini, dan [Pasal 1589](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1588-1592-special-rules-for-a-lease-of-land) sampai dengan [Pasal 1592](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1588-1592-special-rules-for-a-lease-of-land), yang mengatur sewa tanah pertanian, tidak berlaku terhadap sewa ini. Tidak ada penyesuaian harga, kompensasi, maupun pembatalan apabila pengukuran kadastral BPN di kemudian hari menghasilkan luas yang lebih besar atau lebih kecil, dan setiap tuntutan yang mungkin timbul gugur satu tahun setelah penyerahan berdasarkan [Pasal 1489](/cyber-valley/cve/legal/laws/kuhperdata#pasal-1484-1490-area-stated-in-a-sale).
 
-6.2 Boundary description is a condition of this Part. Without Annex B in the form required by [1.3](#part-1-parties-plot-and-definitions) the clause is empty.
+6.2 Boundary description is a condition of this Part. Without Annex B (Plot Boundary) in the form required by [1.3](#part-1-parties-plot-and-definitions) the clause is empty.
 
 6.3 Limits of the clause. It binds neither BPN nor third parties, and it creates no land. *Surat Ukur* will carry whatever BPN measures; overlap with a neighbour, *sempadan sungai*, *subak* or *jalan desa* falls outside it; if the ground is physically smaller, the Holder receives what is there.
 
@@ -213,7 +213,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 | 3 | SLF | authority → applicant | confirmation that the building may be occupied |
 | 4 | FHO — *final hand over* | Contractor → Holder | end of defects period; retention released |
 | 5 | BAST Operasional | Holder ↔ Operator | day-to-day operation, maintenance, guest liability |
-| 6 | BAST Pengembalian | Holder → Landowner | condition on return, measured against Annex H |
+| 6 | BAST Pengembalian | Holder → Landowner | condition on return, measured against Annex H (Handover Condition) |
 
 8.7 SLF. The application follows the PBG applicant. The Holder funds the process, delivers as-built drawings and test certificates, procures the contractor's cooperation and provides access to the inspecting commission. No occupation before SLF. Periodic renewal is treated the same way.
 
@@ -228,25 +228,25 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 9.1 Commencement Certificate. ▲ The construction clock starts on the date of a *Berita Acara Mulai* signed by both parties recording that all Landowner Conditions Precedent are satisfied:
 
 1. the Plot is physically handed over under BAST Lahan;
-2. boundaries are accepted — Annex B initialled, *patok* set, *Berita Acara Persetujuan Batas* signed by adjoining owners and by any *subak*, *desa* or *sempadan* interest;
+2. boundaries are accepted — Annex B (Plot Boundary) initialled, *patok* set, *Berita Acara Persetujuan Batas* signed by adjoining owners and by any *subak*, *desa* or *sempadan* interest;
 3. legal access subsists by title or registered easement;
 4. PKKPR and zoning confirm the intended use;
 5. a PBG application for the approved design is legally capable of being filed;
-6. the utility connection points in Annex F are physically ready to the specified capacity;
-7. title due diligence is clean — Annex I delivered and the search under [15.1](#part-15-title-warranties-negative-pledge-indemnity) clear.
+6. the utility connection points in Annex F (Utilities, Access and Mobility) are physically ready to the specified capacity;
+7. title due diligence is clean — Annex I (Due Diligence Pack) delivered and the search under [15.1](#part-15-title-warranties-negative-pledge-indemnity) clear.
 
 9.2 Suspension. If any condition ceases to be satisfied, the clock stops and all time-based rights extend day for day. Cessation is notified within 14 days by the party that becomes aware of it.
 
 9.3 Symmetry. While the clock is stopped no holding charge accrues, and the Design Envelope lock extends by the same period.
 
-9.4 Long stop. If the Conditions Precedent are not satisfied within 12 months of signing, the Holder may terminate and recover all sums paid, including any indexed rent under Annex E, secured under [3.5](#part-3-consideration).
+9.4 Long stop. If the Conditions Precedent are not satisfied within 12 months of signing, the Holder may terminate and recover all sums paid, including any indexed rent under Annex E (Century Index), secured under [3.5](#part-3-consideration).
 
 9.5 Timing. Commence within 12 months of the Commencement Certificate; complete within 36 months of it.
 
 9.6 Three-tier remedy. ▲ Escalating, and in this order:
 
 1. Holding charge. ○ On overrun, a charge of [___] per month, rising by [___] every 6 months, paid into the biosphere and desa tithes rather than into the Landowner's profit.
-2. Buy-back offer. ○ After [___] months of overrun the Landowner shall offer to acquire the interest at the Unamortised premium under [[annex e century index|Annex E]] §1 plus independent valuation of works completed.
+2. Buy-back offer. ○ After [___] months of overrun the Landowner shall offer to acquire the interest at the Unamortised premium under [[annex e century index|Annex E (Century Index)]] §1 plus independent valuation of works completed.
 3. Reversion. Available only after the Holder declines the buy-back or fails to respond within 60 days.
 
 9.7 Purpose, recited: to prevent speculative idle plots and permanent construction sites inside a small community. No Holder loses both the land and the money paid for it.
@@ -255,7 +255,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 ## Part 10. Design Code
 
-10.1 Binding on all Holders, all tracks, all zones. [Annex C](/cyber-valley/cve/legal/12-annexes/annex-c-design-code) states the code as numbers. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds.
+10.1 Binding on all Holders, all tracks, all zones. [Annex C (Design Code)](/cyber-valley/cve/legal/12-annexes/annex-c-design-code) states the code as numbers. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds.
 
 10.2 ⚠ Bali-specific overlays bind regardless: provincial height limits, architectural requirements, slope and ravine setbacks, water-catchment restrictions.
 
@@ -265,11 +265,11 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 10.5 Amendment and grandfathering. Amendment by the Landowner. Completed Improvements are grandfathered. An amendment worsening the position of already-built Improvements is subject to the veto in [11.2](#part-11-community-council).
 
-10.6 Design Envelope lock. ▲ From signing until SLF plus 12 months the Plot is governed by the Design Envelope in force at signing — the figures in C2 and C3 as adjusted for density transferred, the Holder's row in Annex G, and so much of Annex F as applies to the Plot. The version of Annex C is identified by version number and content hash and initialled by both parties. Later amendments apply only with the Holder's written consent.
+10.6 Design Envelope lock. ▲ From signing until SLF plus 12 months the Plot is governed by the Design Envelope in force at signing — the figures in C2 and C3 as adjusted for density transferred, the Holder's row in Annex G (Permitted Use), and so much of Annex F (Utilities, Access and Mobility) as applies to the Plot. The version of Annex C (Design Code) is identified by version number and content hash and initialled by both parties. Later amendments apply only with the Holder's written consent.
 
 10.6.1 Duration. The lock runs no longer than the build obligation plus 12 months, transfers with the bundle, does not restart on assignment, and lapses with the build obligation.
 
-10.6.2 Material change. A change is material where it reduces permitted footprint or floor area by more than 10%, removes a use from the Holder's row in Annex G, or increases the cost of compliance for an approved design by more than 10% of budgeted construction cost. Fact and amount are certified by the independent supervisor or an independent valuer. Materiality is not determined by the Landowner.
+10.6.2 Material change. A change is material where it reduces permitted footprint or floor area by more than 10%, removes a use from the Holder's row in Annex G (Permitted Use), or increases the cost of compliance for an approved design by more than 10% of budgeted construction cost. Fact and amount are certified by the independent supervisor or an independent valuer. Materiality is not determined by the Landowner.
 
 10.6.3 Cure. Within 30 days of notice the Landowner may withdraw the change as to that Plot, grant a variance, or offer an equivalent Plot.
 
@@ -321,7 +321,7 @@ A participant who has earned nothing is multiplied by 1 and keeps the full base.
 
 11.4 Service charge. ○ Basis, cap, escalation, audit rights and the published annual account.
 
-11.5 Landowner's infrastructure obligations. Access roads, drainage, water and power connection points, defined in Annex F, since a Plot without legal access and connections cannot obtain PBG. ⚠ Annex F also states the car-free core: vehicles stop at the perimeter mobility hub, and the Holder's access, parking, construction logistics and waste removal are specified there. This is a material restriction on use and is disclosed before signing.
+11.5 Landowner's infrastructure obligations. Access roads, drainage, water and power connection points, defined in Annex F (Utilities, Access and Mobility), since a Plot without legal access and connections cannot obtain PBG. ⚠ Annex F (Utilities, Access and Mobility) also states the car-free core: vehicles stop at the perimeter mobility hub, and the Holder's access, parking, construction logistics and waste removal are specified there. This is a material restriction on use and is disclosed before signing.
 
 ---
 
@@ -346,7 +346,7 @@ Where this deed, a product page or any other estate document describes the upgra
 
 ⚠ Between step 3 and step 4 the parcel is State land and neither party holds a registered right over it. The Landowner does not execute the *pelepasan* until the Holder's eligibility under [12.1.2](#part-12-upgrade-tracks) is confirmed in writing and the application for the grant is lodged, and the Landowner bears the risk and the cost of restoring its own position if the grant is refused.
 
-⚠ The Landowner obtains the office's practice on the sequence in writing before the first application and annexes it as Annex K. Where the office requires a different order of the same steps, the order follows the office; the steps themselves do not change.
+⚠ The Landowner obtains the office's practice on the sequence in writing before the first application and annexes it as Annex K (Office Practice). Where the office requires a different order of the same steps, the order follows the office; the steps themselves do not change.
 
 12.1.2 Statutory conditions on the Holder. ⚠ These are conditions of law which the Landowner neither controls nor warrants. Under [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 49(2)(e)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-49-who-may-hold-it) a foreign individual may hold hak pakai with a term, and under [Pasal 69(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-69-who-qualifies) only while holding the immigration documents the law requires. [Pasal 50](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-50-losing-eligibility) gives one year to transfer if he ceases to qualify, after which the right lapses by operation of law. Under Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 a landed house acquired by a foreign national in the Province of Bali must reach a minimum value of Rp 5,000,000,000, fall within the luxury category, sit on no more than 2,000 m², and be limited to one parcel per person or family.
 
@@ -368,7 +368,7 @@ Where this deed, a product page or any other estate document describes the upgra
 The acts within the Landowner's power include, without limitation:
 
 - applying for and procuring *pemecahan* of the Plot from the master HGB, including the cadastral survey, the *Surat Ukur* and the boundary process with adjoining owners;
-- executing the *pelepasan hak* over the split parcel and lodging the application for the grant of Hak Pakai, in the order Annex K records;
+- executing the *pelepasan hak* over the split parcel and lodging the application for the grant of Hak Pakai, in the order Annex K (Office Practice) records;
 - executing before the PPAT every deed, application, consent, declaration, power of attorney, statement and affidavit required by the PPAT, ATR/BPN or any other authority;
 - procuring the corporate authorisations its own constitution requires, including any approval of the Board of Commissioners under Articles of Association Article 12(3) for establishing a new business where the route involves one;
 - delivering the certificate, *Surat Ukur*, [[pbb|PBB]] receipts, [[nib|NIB]], tax documents and every other instrument in its possession that the application requires;
@@ -419,7 +419,7 @@ Where causes are mixed, the consequence follows the cause without which the regi
 
 1. Specific performance. The Holder may require the Landowner to perform the outstanding act, and may apply for an order to that effect. The parties record that damages alone are an inadequate remedy for this Part.
 2. Delay compensation. From the day a period in [12.1.6](#part-12-upgrade-tracks) is exceeded until the act is performed, the Landowner pays the Holder [___] per month, ○ set as a proportion of the sums paid under this deed rather than as a flat figure.
-3. Exit at full value. The Holder may terminate and receive the Unamortised premium under [[annex e century index|Annex E]] §1, the documented value of the Improvements at independent valuation, and direct loss, secured by the Guarantee Fund under [3.5](#part-3-consideration).
+3. Exit at full value. The Holder may terminate and receive the Unamortised premium under [[annex e century index|Annex E (Century Index)]] §1, the documented value of the Improvements at independent valuation, and direct loss, secured by the Guarantee Fund under [3.5](#part-3-consideration).
 4. Suspension. The Holder may suspend the area revenue charge under [Part 5](#part-5-subletting) and any instalment under [3.1](#part-3-consideration) until the breach is cured, without that suspension being a default.
 
 The cap in [15.4](#part-15-title-warranties-negative-pledge-indemnity) does not limit remedy 1 and does not limit remedy 3 below the sum of the Unamortised premium and the valuation of Improvements.
@@ -428,9 +428,9 @@ The cap in [15.4](#part-15-title-warranties-negative-pledge-indemnity) does not 
 
 - the Landowner refunds the Holder's documented costs of the failed application, save the Landowner's own costs under [12.1.13](#part-12-upgrade-tracks);
 - the Landowner shall re-apply, at the Holder's request and cost, on each occasion within [24] months on which the law or the practice of the office changes so as to permit the application, for as long as the Term subsists;
-- the Holder may, within 12 months of the final refusal, elect instead to terminate and receive the Unamortised premium under [[annex e century index|Annex E]] §1 plus the value of the Improvements at independent valuation, without damages, secured by the Guarantee Fund. ▲ This mirrors the no-fault exit in [10.6.4](#part-10-design-code) and exists for the same reason: a risk the Holder cannot price is not left with the Holder.
+- the Holder may, within 12 months of the final refusal, elect instead to terminate and receive the Unamortised premium under [[annex e century index|Annex E (Century Index)]] §1 plus the value of the Improvements at independent valuation, without damages, secured by the Guarantee Fund. ▲ This mirrors the no-fault exit in [10.6.4](#part-10-design-code) and exists for the same reason: a risk the Holder cannot price is not left with the Holder.
 
-12.1.13 Verification before the first application. ⚠ ○ Before the first Hak Pakai Notice is served the Landowner obtains, in writing and at its own cost, from counsel and from the Kantor Pertanahan of Buleleng: the sequence of *pemecahan*, *pelepasan hak* and grant the office requires; the stage of construction at which an application is accepted, and specifically whether PBG suffices in place of SLF; the documents the office requires from a PT PMA as registered holder; the treatment of the Estate's parcels under RTRW, [[lp2b|LP2B]] and *sempadan* for this purpose; and the current minimum-value figure for the Province of Bali. The answers are annexed as Annex K and this Part is conformed to them before use.
+12.1.13 Verification before the first application. ⚠ ○ Before the first Hak Pakai Notice is served the Landowner obtains, in writing and at its own cost, from counsel and from the Kantor Pertanahan of Buleleng: the sequence of *pemecahan*, *pelepasan hak* and grant the office requires; the stage of construction at which an application is accepted, and specifically whether PBG suffices in place of SLF; the documents the office requires from a PT PMA as registered holder; the treatment of the Estate's parcels under RTRW, [[lp2b|LP2B]] and *sempadan* for this purpose; and the current minimum-value figure for the Province of Bali. The answers are annexed as Annex K (Office Practice) and this Part is conformed to them before use.
 
 12.1.14 Costs. Borne by the Holder: the cadastral survey and *pemecahan*; the *perubahan hak*; PPAT and notarial fees; registration fees at ATR/BPN; [[bphtb|BPHTB]], PPh and any other tax or state levy on the acquisition; the independent valuation under [12.1.4](#part-12-upgrade-tracks); and the Holder's own advisers.
 
@@ -471,7 +471,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 ## Part 14. Licences
 
-14.1 Warranty. ▲ The Landowner warrants that it holds a valid NIB and the licences required for the activity contemplated, covering the location of the Estate, across the KBLI in Articles of Association Pasal 3: 68111, 68200, 55199, 56101, 96122, 82302, 55192, 93299. Locational scope per KBLI is listed in Annex A, one row per KBLI and business address, from the NIB in OSS RBA.
+14.1 Warranty. ▲ The Landowner warrants that it holds a valid NIB and the licences required for the activity contemplated, covering the location of the Estate, across the KBLI in Articles of Association Pasal 3: 68111, 68200, 55199, 56101, 96122, 82302, 55192, 93299. Locational scope per KBLI is listed in Annex A (Estate Registry), one row per KBLI and business address, from the NIB in OSS RBA.
 
 14.1.1 ⚠ ○ The known discrepancy — the NIB showing a different location for 68111 than for the other codes — is resolved before any lease is signed, 68111 being the code under which leases are granted.
 
@@ -499,9 +499,9 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 ## Part 15. Title warranties, negative pledge, indemnity
 
-15.1 Warranties. ▲ Given at signing and repeated on each anniversary and on the date of each assignment in favour of the assignee: the Company is duly incorporated and subsisting with fully paid capital and a valid NIB; the Title is a valid HGB certificate whose number, dates and remaining term are disclosed in Annex A and recited as a number; a PKKPR covering the intended use subsists and is annexed, and the Plot does not sit on land recorded as *Pipil*, uncertificated or held on agreement; the Plot is free of *hak tanggungan*, *sita* and other encumbrances, has not been let, promised under a [[ppjb|PPJB]] or optioned, and is not in the physical possession of a third party; no proceedings and no asserted adat, subak or desa claims affect it; zoning and KKPR permit the intended use, and the Plot carries no [[lp2b|LP2B]] designation and falls outside *sempadan*; [[pbb|PBB]] is paid; the chain of title is disclosed. Given without knowledge qualification save where expressly marked.
+15.1 Warranties. ▲ Given at signing and repeated on each anniversary and on the date of each assignment in favour of the assignee: the Company is duly incorporated and subsisting with fully paid capital and a valid NIB; the Title is a valid HGB certificate whose number, dates and remaining term are disclosed in Annex A (Estate Registry) and recited as a number; a PKKPR covering the intended use subsists and is annexed, and the Plot does not sit on land recorded as *Pipil*, uncertificated or held on agreement; the Plot is free of *hak tanggungan*, *sita* and other encumbrances, has not been let, promised under a [[ppjb|PPJB]] or optioned, and is not in the physical possession of a third party; no proceedings and no asserted adat, subak or desa claims affect it; zoning and KKPR permit the intended use, and the Plot carries no [[lp2b|LP2B]] designation and falls outside *sempadan*; [[pbb|PBB]] is paid; the chain of title is disclosed. Given without knowledge qualification save where expressly marked.
 
-15.1.1 Due diligence and the search at signing. Annex I is delivered before signing: certified copy of the Title, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR. As a condition of execution the PPAT performs *pengecekan sertifikat* on the day of signing and the result is recited. The Landowner warrants that nothing has been created over the Plot between search and signing.
+15.1.1 Due diligence and the search at signing. Annex I (Due Diligence Pack) is delivered before signing: certified copy of the Title, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR. As a condition of execution the PPAT performs *pengecekan sertifikat* on the day of signing and the result is recited. The Landowner warrants that nothing has been created over the Plot between search and signing.
 
 15.2 Negative pledge. ▲ For a Plot under a Hak Pakai Notice the standstill in [12.1.7](#part-12-upgrade-tracks) applies in addition and, where stricter, in place of this clause. The Landowner shall not, without the Holder's written consent, encumber the Plot with *hak tanggungan* or other security, grant competing rights over it, or dispose of it otherwise than subject to this deed, the transferee taking bound. [[articles of association]] Article 12(3) independently prohibits the Company from pledging or encumbering its land at all, by the nature of its constitution; this clause is the Holder's own contractual right on top of that constitutional prohibition, and controls if the Articles are ever amended to permit encumbrance again.
 
@@ -562,7 +562,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [2.2](#part-2-the-grant) | term | 25 years | leasehold upfront, instrument A | settled |
 | [2.2](#part-2-the-grant) | extension buffer | 12 months, matching the [15.6](#part-15-title-warranties-negative-pledge-indemnity) filing deadline | framework §2.1 | settled |
 | [3.1](#part-3-consideration) | premium, century index form | elected per deal, below 100% | [[annual leasehold]], pricer at cyberia.my/cx | per deal |
-| [3.2](#part-3-consideration) | century index form | premium at signing; R₀ recited; R(t) under Annex E paid in 12 monthly instalments | [[annual leasehold]] | settled |
+| [3.2](#part-3-consideration) | century index form | premium at signing; R₀ recited; R(t) under Annex E (Century Index) paid in 12 monthly instalments | [[annual leasehold]] | settled |
 | [3.2](#part-3-consideration) | default on instalments | 30 days to arrears, 6 months to clear or assign, then termination, sums paid retained | [[annual leasehold]] | settled |
 | [3.3.1](#part-3-consideration) | recomputation window | 30 days | framework §2.3 | settled |
 | [3.5](#part-3-consideration) | Guarantee Fund share | 5% of consideration on each grant, assignment or upgrade | D4 | settled |
@@ -574,8 +574,8 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [4.10](#part-4-transfer) | heirs' accession | 12 months | framework §2.8 | proposed |
 | [5.1](#part-5-subletting) | area revenue charge | 10%, or 5% net-exporter | D10 | settled |
 | [5.1](#part-5-subletting) | settlement fee | 1 to 3% | D10 | settled |
-| [6.1](#part-6-the-plot-as-a-single-unit) | indicative area | per Plot | Annex B | per deal |
-| [3.1](#part-3-consideration) | Plot price | per Plot, per form (upfront / scheduled / rent) | [[annex j offer of record\|Annex J]], offer of record | per deal |
+| [6.1](#part-6-the-plot-as-a-single-unit) | indicative area | per Plot | Annex B (Plot Boundary) | per deal |
+| [3.1](#part-3-consideration) | Plot price | per Plot, per form (upfront / scheduled / rent) | [[annex j offer of record\|Annex J (Offer of Record)]], offer of record | per deal |
 | [8.1](#part-8-construction-control) | approval window | 10 working days | framework 5A.1 | settled |
 | [8.5](#part-8-construction-control) | completion security | — | framework 5A.5 | open |
 | [8.6](#part-8-construction-control) | defects period, retention | 12 months, 5% | framework 5A.6 | proposed |
@@ -585,7 +585,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [9.5](#part-9-the-build-obligation) | commence / complete | 12 / 36 months | framework §6.1 | proposed |
 | [9.6](#part-9-the-build-obligation) | holding charge, buy-back trigger | — | release gate, D8 | open |
 | [9.6](#part-9-the-build-obligation) | buy-back response | 60 days | D8 | settled |
-| [10.3](#part-10-design-code) | footprint, multiplier | 10% per Plot, ×2 | D7, Annex C | settled |
+| [10.3](#part-10-design-code) | footprint, multiplier | 10% per Plot, ×2 | D7, Annex C (Design Code) | settled |
 | [10.4](#part-10-design-code) | density settlement fee | — | D7 | open |
 | [10.6](#part-10-design-code) | Design Envelope lock | signing to SLF + 12 months | D13 | settled |
 | [10.6.2](#part-10-design-code) | materiality threshold | 10% | framework §7.4.5 | proposed |
@@ -642,11 +642,11 @@ Parts [12.1](#part-12-upgrade-tracks), [8.3](#part-8-construction-control), [11.
 
 ## Provenance
 
-Assembled from [[land rights agreement]] v0.4.3, which holds the reasoning for every clause here; [[holder protocol decisions]] D1–D12, which settle the values marked settled; [[open questions]], which holds the release gate; [Annex C](/cyber-valley/cve/legal/12-annexes/annex-c-design-code) and its informal counterpart [[cyber-valley/policies/zoning system|land usage policy]]; and the product pages [[cyber-valley/strategy/leasehold-upfront|leasehold upfront]], [[cyber-valley/strategy/annual-leasehold|annual leasehold]] and [[cyber-valley/strategy/hak-sewa|hak sewa]], whose commercial terms are annexed as the offer of record.
+Assembled from [[land rights agreement]] v0.4.3, which holds the reasoning for every clause here; [[holder protocol decisions]] D1–D12, which settle the values marked settled; [[open questions]], which holds the release gate; [Annex C (Design Code)](/cyber-valley/cve/legal/12-annexes/annex-c-design-code) and its informal counterpart [[cyber-valley/policies/zoning system|land usage policy]]; and the product pages [[cyber-valley/strategy/leasehold-upfront|leasehold upfront]], [[cyber-valley/strategy/annual-leasehold|annual leasehold]] and [[cyber-valley/strategy/hak-sewa|hak sewa]], whose commercial terms are annexed as the offer of record.
 
 ⚠ D13, the Design Envelope lock at [10.6](#part-10-design-code), postdates the decision sheet and is not written up there. It is added to the sheet before the sheet is treated as complete.
 
-Annex K, the written practice of the Kantor Pertanahan of Buleleng and counsel's confirmation under [12.1.13](#part-12-upgrade-tracks), does not yet exist.
+Annex K (Office Practice), the written practice of the Kantor Pertanahan of Buleleng and counsel's confirmation under [12.1.13](#part-12-upgrade-tracks), does not yet exist.
 
 Statutory sources relied on in Part [12.1](#part-12-upgrade-tracks): [[pp 18-2021 hak atas tanah|PP 18/2021]], Pasal 49(2)(e) and 69(1) for the eligibility of a foreign individual, Pasal 51 for the land that may carry a hak pakai — which is why the route runs through *pelepasan*, HGB not being on that list, Pasal 52(1) for the term. The regulation runs to Pasal 104; Pasal 103 repeals PP 40/1996 and PP 103/2015, so any figure taken from those is out of date. Permen ATR/BPN 18/2021 governs the procedure for establishing land rights, Pasal 187 and the surrounding articles for the modes by which a foreign national acquires; Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 for the minimum value, the area ceiling and the one-parcel limit. ⚠ Each is verified against JDIH and against the current practice of the office before execution.
 

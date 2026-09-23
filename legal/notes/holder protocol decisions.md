@@ -112,7 +112,7 @@ Recommending (a). Variant (b) is unacceptable: it is exactly the case where "loo
 
 ## D6 · No collar — superseded
 
-Reversed on 2026-09-23: the [[cyberia/protocol/century-index|century index]] protocol page is the source, and it carries the collar of +35% / −15% per year in sats with the dual floor. [[annex e century index|Annex E]] follows the protocol in full; the floor and the early redemption of this decision stay, the dropping of the collar does not. The original text is kept below for the record.
+Reversed on 2026-09-23: the [[cyberia/protocol/century-index|century index]] protocol page is the source, and it carries the collar of +35% / −15% per year in sats with the dual floor. [[annex e century index|Annex E (Century Index)]] follows the protocol in full; the floor and the early redemption of this decision stay, the dropping of the collar does not. The original text is kept below for the record.
 
 
 Problem: page B promises "fixed yearly rent, locked on day one", and the index does not work that way.

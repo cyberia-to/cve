@@ -31,7 +31,7 @@ Grant and expiry dates for the HGB appear neither in this spreadsheet nor anywhe
 
 What can be said structurally, without the certificates. The acquisitions are dated 2022–2024 (from the [[ppjb|PPJB]] dates and authorisations in the spreadsheet). An HGB under PP 18/2021 runs 30 years, with an extension of 20 and a renewal of 30. Even counting from 2022, the first two cycles end around 2072–2074. A 25+25 lease signed in 2026 runs to 2076. The product structurally exceeds the first two cycles and relies on a third that is not guaranteed.
 
-What changes in the document: the wording "master title" in the singular is replaced by "Title" — the specific certificate on which the plot sits; Annex A becomes a table with one row per title, with dates and remaining term; the remaining term goes into the recitals of the lease as a number; and a condition precedent is added — a plot is not offered unless it sits on a certificated HGB.
+What changes in the document: the wording "master title" in the singular is replaced by "Title" — the specific certificate on which the plot sits; Annex A (Estate Registry) becomes a table with one row per title, with dates and remaining term; the remaining term goes into the recitals of the lease as a number; and a condition precedent is added — a plot is not offered unless it sits on a certificated HGB.
 
 ## 2. ITR and [[rdtr|RDTR]] Buleleng
 
@@ -81,7 +81,7 @@ The item has been added to the document's open questions.
 
 ## 4b. Locational scope of the KBLI in Pasal 3 of the Articles
 
-Answer: this data is not in the Articles, it is in the [[nib|NIB]]. The structure has been entered into Annex A.
+Answer: this data is not in the Articles, it is in the [[nib|NIB]]. The structure has been entered into Annex A (Estate Registry).
 
 The Articles give eight codes: 68111 real estate owned or leased · 68200 real estate on a fee or contract basis · 55199 other short-term accommodation · 56101 restaurant · 96122 SPA · 82302 special event organiser · 55192 campgrounds and caravan parks · 93299 other amusement and recreation.
 
@@ -89,7 +89,7 @@ Locational scope is not stated in the Articles at all: it lives in the NIB in th
 
 What needs to be exported and placed into Annex A — one row per KBLI × address pair:
 
-| KBLI | name | alamat usaha | skala usaha | risk class | perizinan berusaha status | PB-UMKU | Annex A plots covered |
+| KBLI | name | alamat usaha | skala usaha | risk class | perizinan berusaha status | PB-UMKU | Annex A (Estate Registry) plots covered |
 |---|---|---|---|---|---|---|---|
 | 68111 | | | | | | | |
 | 68200 | | | | | | | |
@@ -100,7 +100,7 @@ What needs to be exported and placed into Annex A — one row per KBLI × addres
 | 55192 | | | | | | | |
 | 93299 | | | | | | | |
 
-How to obtain it: OSS RBA → company account → cetak NIB → daftar kegiatan usaha; take the address, scale, risk and status for each row; reconcile the addresses against the list of titles in Annex A.
+How to obtain it: OSS RBA → company account → cetak NIB → daftar kegiatan usaha; take the address, scale, risk and status for each row; reconcile the addresses against the list of titles in Annex A (Estate Registry).
 
 Check first of all the discrepancy already noted at v0.3: the NIB shows a different address for 68111 than for the other codes. 68111 is the code under which leases are granted. If its location does not cover the plot, the warranty in [§9A.1](/cyber-valley/cve/legal/11-land-rights-agreement#9a-licences-warranty-and-licence-event-regime) is untrue for that plot — and `Pasal 12(2)(c)` of the Articles gives the Director authority to sign leases precisely within 68111 and 68200.
 
@@ -112,11 +112,11 @@ The second consequence of the list, already entered into [§2.6](#2-itr-and-bule
 
 | check | result | next step |
 |---|---|---|
-| remaining term of the title | not determinable; a single master title is a myth, there are 18 titles, and a further 14% of the area has none | read the 18 certificates, fill in Annex A |
+| remaining term of the title | not determinable; a single master title is a myth, there are 18 titles, and a further 14% of the area has none | read the 18 certificates, fill in Annex A (Estate Registry) |
 | ITR / RDTR Buleleng | RTRW is Kawasan Pertanian; PKKPR covers 45.6% of the area | obtain the missing PKKPR, check LP2B for each plot |
 | charging a hak sewa | impossible under UU 4/1996 Pasal 4; replaced by cessie tot zekerheid | confirm the construction with the notary |
 | [[kuhperdata\|KUHPerdata]] 1588–1592 | unconfirmed, sources unavailable | one question to the notary against JDIH |
-| KBLI scope | absent from the Articles, present in the NIB; the table is set up in Annex A | export from OSS RBA, starting with 68111 |
+| KBLI scope | absent from the Articles, present in the NIB; the table is set up in Annex A (Estate Registry) | export from OSS RBA, starting with 68111 |
 
 This is not legal advice. Two items — the charge and the article numbering — are stated from knowledge rather than from a retrieved primary source, and are marked as requiring confirmation. The figures for areas and PKKPR are computed from the `land` spreadsheet and are reproducible.
 

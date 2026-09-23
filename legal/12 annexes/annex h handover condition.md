@@ -9,18 +9,18 @@ icon: "🔑"
 
 # Annex H — Condition Schedule at Handover
 
-Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Referred to at [[hak sewa template]] 8.6 item 6, *BAST Pengembalian* (redelivery): condition on return at Term end is measured against this annex. One Annex H is completed per Plot, at BAST Lahan (site handover, item 1 of the chain) — this page carries the form.
+Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Referred to at [[hak sewa template]] 8.6 item 6, *BAST Pengembalian* (redelivery): condition on return at Term end is measured against this annex. One Annex H (Handover Condition) is completed per Plot, at BAST Lahan (site handover, item 1 of the chain) — this page carries the form.
 
 ## Form
 
 | field | recorded at | note |
 |---|---|---|
 | Photographic record | BAST Lahan | dated, timestamped, covering every boundary and any existing structure |
-| Inventory | BAST Lahan | fixtures, existing vegetation of record, any Company infrastructure crossing the Plot (Z4 access, utility runs under [[annex f utilities access mobility\|Annex F]]) |
-| Soil baseline | BAST Lahan | test result under [[annex d community rules\|Annex D]] D3 (soil), for comparison against the soil-building requirement over the Term |
-| Boundary state | BAST Lahan | cross-references [[annex b plot boundary\|Annex B]] for this Plot |
-| Redelivery condition | BAST Pengembalian | compared against the baseline above; wear consistent with the permitted use under [[annex g permitted use\|Annex G]] is not a defect |
+| Inventory | BAST Lahan | fixtures, existing vegetation of record, any Company infrastructure crossing the Plot (Z4 access, utility runs under [[annex f utilities access mobility\|Annex F (Utilities, Access and Mobility)]]) |
+| Soil baseline | BAST Lahan | test result under [[annex d community rules\|Annex D (Community Rules)]] D3 (soil), for comparison against the soil-building requirement over the Term |
+| Boundary state | BAST Lahan | cross-references [[annex b plot boundary\|Annex B (Plot Boundary)]] for this Plot |
+| Redelivery condition | BAST Pengembalian | compared against the baseline above; wear consistent with the permitted use under [[annex g permitted use\|Annex G (Permitted Use)]] is not a defect |
 
 ## What "baseline" means for redelivery
 
-The Holder returns the Plot in the condition this annex records, adjusted for: (a) fair wear from the permitted use over the Term; (b) Improvements the Holder is entitled to leave or is required to remove under the deed's own end-of-term provisions; (c) soil condition, which is expected to have improved under Annex D D3, not merely been preserved. A dispute over redelivery condition is resolved by the independent supervisor under [[hak sewa template]] 8.3, comparing the current state to this annex.
+The Holder returns the Plot in the condition this annex records, adjusted for: (a) fair wear from the permitted use over the Term; (b) Improvements the Holder is entitled to leave or is required to remove under the deed's own end-of-term provisions; (c) soil condition, which is expected to have improved under Annex D (Community Rules) D3, not merely been preserved. A dispute over redelivery condition is resolved by the independent supervisor under [[hak sewa template]] 8.3, comparing the current state to this annex.

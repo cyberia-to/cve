@@ -6,7 +6,7 @@ crystal-domain: socio
 crystal-size: article
 icon: "📈"
 ---
-# Annex E — Index Annex
+# Annex E — Century Index
 
 Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Referred to in the template's 3.1 and 3.2 for the rent of the century index form, 3.4 as the unit of account for indexed consideration, 2.4 as the renewal formula, and 3.5 and 11.4 as the denomination of the Guarantee Fund and the service charge cap. On any conflict between this annex and the prose of the deed, this annex prevails.
 
@@ -24,7 +24,7 @@ The same machine prices every sum under the deed, each with its own R₀:
 
 | sum | R₀ | how it is paid |
 |---|---|---|
-| rent, century index form | the year-0 rent recited, derived from the premium by the pricer at [cyberia.my/cx](https://cyberia.my/cx) and frozen in Annex J | R(t) for each lease year under §3, in 12 equal monthly instalments |
+| rent, century index form | the year-0 rent recited, derived from the premium by the pricer at [cyberia.my/cx](https://cyberia.my/cx) and frozen in Annex J (Offer of Record) | R(t) for each lease year under §3, in 12 equal monthly instalments |
 | service charge cap, 11.4 | 1% of the Plot price | per year |
 | Guarantee Fund, 3.5 | each contribution at the fix of the day it enters | held, and paid out at value |
 | Unamortised premium, exit under 9.5, 10.6.3, 12.1.11, 12.1.12, 14.4, 15.5, 16.3 | the Premium paid at signing | Premium × (whole months of Term remaining ÷ whole months of Term), carried in these quantities from signing and valued under §3 on the day it is paid; rent already paid is never part of it |

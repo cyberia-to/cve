@@ -9,7 +9,7 @@ icon: "📌"
 
 # Annex J — Offer of Record
 
-Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Per [[hak sewa template]] 3.0 and framework 2.1.2: "the version of the product page and price schedule on which the Holder relied is annexed as Annex J, identified by commit hash and date. Later amendment of those pages alters neither this deed nor that annex." The product pages are the estate's own repository (`cyber-valley/strategy/`), version-controlled; this annex freezes the exact commit a given Holder relied on.
+Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Per [[hak sewa template]] 3.0 and framework 2.1.2: "the version of the product page and price schedule on which the Holder relied is annexed as Annex J (Offer of Record), identified by commit hash and date. Later amendment of those pages alters neither this deed nor that annex." The product pages are the estate's own repository (`cyber-valley/strategy/`), version-controlled; this annex freezes the exact commit a given Holder relied on.
 
 ## Mechanism
 
@@ -25,7 +25,7 @@ At signing, the Landowner records: the file(s) that made up the product page and
 | What the Holder was shown | Instrument B (annual leasehold): premium [__]% at signing, year-0 rent R₀ from the pricer at cyberia.my/cx with base rate [__]% and spread [__]%, rent in century index quantities for the Term, paid monthly; no interest, no fee |
 | Binding vs informational | The premium, R₀, the pricer's base rate for early redemption and the index-only treatment of the rent are commitments — [[hak sewa template]] 3.0 says commitments bind through the deed. Wave pricing, KPI figures and the pricer widget's live output are current-state information and are not frozen by this entry. |
 
-This row is illustrative of the format only; no Holder has relied on it and no lease has been signed against it. A real Annex J entry is created at the moment a specific Holder is shown a specific page, not before.
+This row is illustrative of the format only; no Holder has relied on it and no lease has been signed against it. A real Annex J (Offer of Record) entry is created at the moment a specific Holder is shown a specific page, not before.
 
 ## What is frozen and what is not
 

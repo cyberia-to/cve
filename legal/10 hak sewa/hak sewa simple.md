@@ -36,18 +36,18 @@ currency.
 > the premium is below 100%, the Holder pays in addition an annual rent
 > of **Rp [___]** in the first lease year (the "Recited Rent") — the
 > value at signing of the fixed quantities carried in
-> [[annex e century index|Annex E]], converted at [[jisdor|JISDOR]] on
-> the signing date — and in every later lease year the amount Annex E
+> [[annex e century index|Annex E (Century Index)]], converted at [[jisdor|JISDOR]] on
+> the signing date — and in every later lease year the amount Annex E (Century Index)
 > derives from those quantities, reset on each anniversary within its
 > collar and floor. Each year's rent is paid in **12 equal monthly
 > instalments**.
 >
 > What the akta cannot recite. A notary and [[ppat|PPAT]] register a
-> price in rupiah, not in units of an external index — Annex E's
+> price in rupiah, not in units of an external index — Annex E (Century Index)'s
 > quantities and its formula are the private mechanism the parties use
 > to compute the Recited Rent, every later year's rent and the renewal
 > price; they are not themselves stated as the unit of account in this
-> akta. The rupiah amount of each later year is computed from Annex E
+> akta. The rupiah amount of each later year is computed from Annex E (Century Index)
 > at its reset, per [[uu 7-2011 mata uang|UU 7/2011]] on denomination
 > and settlement.
 >
