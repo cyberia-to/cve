@@ -14,11 +14,10 @@ The annexes of [[hak sewa template]]: what is fixed per deal. Rules the city cha
 |---|---|---|
 | A | [[annex a estate registry\|Estate Registry — the Title]] | once |
 | B | [[annex b plot boundary\|Plot Boundary — corners, neighbours, access, drawing]] | per Plot |
+| C | [[annex c due diligence pack\|Due Diligence Pack — inventory and record of handover]] | per deal |
+| D | [[annex d offer of record\|Offer of Record — the page and price shown]] | per deal |
 | E | [[annex e century index\|Century Index — terms, formulas, rules, quantities]] | per deal |
 | F | [[annex f utilities access mobility\|Utilities, Access and Mobility — self-sufficiency norms]] | once |
-| H | [[annex g handover condition\|Annex G (Handover Condition)]] | per Plot |
-| I | [[annex c due diligence pack\|Annex C (Due Diligence Pack)]] | per deal |
-| J | [[annex d offer of record\|Annex D (Offer of Record)]] | per deal |
-| K | [[office practice\|Office Practice]] | once |
+| G | [[annex g handover condition\|Handover Condition — record of handover of the Plot]] | per Plot |
 
 Annex E keeps its letter across the pack: the signed [[perjanjian sewa fedorov|Fedorov lease]] names the century index Lampiran E.

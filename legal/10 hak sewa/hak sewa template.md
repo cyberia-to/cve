@@ -201,14 +201,14 @@ The quantities are the ones fixed at signing; only their prices move. The Landow
 
 | channel | what it is | licence | the Landowner receives |
 |---|---|---|---|
-| land-time | bare land, an hour to a season, no accommodation service | the Holder | area revenue charge of 10% of revenue, or 5% in a district certified as a net exporter of energy, water and food; plus a settlement fee of [2]% of revenue for the booking and payment rails |
+| land-time | bare land, an hour to a season, no accommodation service | the Holder | area revenue charge of 10% of revenue, or 5% on a Plot that is a net exporter under 5.3; plus a settlement fee of [2]% of revenue for the booking and payment rails |
 | stay | occupation with an accommodation service | the Landowner under KBLI 55199 and 55192 | management fee of [30]% of revenue, the operator's share under [[property management]] |
 
-Land-time totals 12% of revenue, or 7% in a net-exporter district. Stay totals [30]%, from which the operator runs guests, requests, upkeep and listing on marketplaces.
+Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [30]%, from which the operator runs guests, requests, upkeep and listing on marketplaces.
 
 5.2 Both channels settle in IDR at [[jisdor|JISDOR]] on the invoice date. Letting periods and uses follow the Permitted Use page and the Design Code.
 
-5.3 Revenue, net-exporter status, reporting and audit follow the Permitted Use page.
+5.3 Net-exporter Plot. A Holder who wants the 5% rate meters the energy and water its Plot produces and consumes, keeps a harvest log of the food it produces, and publishes both monthly in the register. A Plot whose published production over the last 12 months exceeds its consumption of all three pays 5% from the next invoice. Revenue and reporting follow the Permitted Use page.
 
 ---
 
@@ -377,7 +377,7 @@ Weights are normalised per district each moon cycle, capped at 10% per participa
 
 12.1.8 Power of attorney. To the extent the law permits, the Landowner grants the Holder an irrevocable power, in the notary's form executed with this deed, to sign in its name the instruments of 12.1.5 left unsigned past the periods of 12.1.6. The obligation of 12.1.5 stands on its own.
 
-12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, BPHTB on the grant, the PPh due on the *pelepasan* (paid by the Landowner and reimbursed by the Holder within 10 working days of evidence of payment), the valuation, its own advisers, and a processing fee of [2.0]% of the valuation under 12.1.4. Landowner: its own authorisations and advisers, the the Office Practice page verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
+12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, BPHTB on the grant, the PPh due on the *pelepasan* (paid by the Landowner and reimbursed by the Holder within 10 working days of evidence of payment), the valuation, its own advisers, and a processing fee of [2.0]% of the valuation under 12.1.4. Landowner: its own authorisations and advisers, the Office Practice verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
 
 12.1.9A Conversion price. The hak sewa is a lease and its consideration buys the Term only. The Plot under Hak Pakai is acquired for a conversion price equal to the valuation under 12.1.4 of the Plot held under Hak Pakai, fixed as at the date of the Notice, less the Unamortised premium at that date. The conversion price is paid before the *pelepasan* is executed and is refunded in full on any failure under 12.1.10.
 
@@ -513,7 +513,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 |---|---|
 | [[cyber-valley/policies/design code\|Design Code]] | what is built and how |
 | [[cyber-valley/policies/community rules\|Community Rules]] | how the Plot is lived on |
-| [[cyber-valley/policies/permitted use\|Permitted Use]] | instruments, zones, net-exporter status |
+| [[cyber-valley/policies/permitted use\|Permitted Use]] | instruments, zones, land-time reporting |
 | [[cyber-valley/policies/guarantee fund policy\|Guarantee fund policy]] | inflows, ledger, order of payment |
 | [[cyber-valley/policies/biosphere and desa reserves\|Biosphere and desa reserves]] | where holding charges and tithes go |
 | [[company licences\|Company licences]] | NIB, KBLI, PKKPR |
