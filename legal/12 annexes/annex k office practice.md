@@ -26,4 +26,4 @@ Annexed to [[hak sewa template]] under 12.1.13. The written answers of the Kanto
 
 ## Effect
 
-Where an answer differs from the route in [[hak sewa template]] 12.1.1, the office's order of the same steps governs and the steps themselves stand. The Landowner refreshes K5 each year, and every answer older than 24 months before a Notice is served.
+Where an answer differs from the route in [[hak sewa template]] 12.1.1, the office's order of the same steps governs and the steps themselves stand. The Landowner refreshes K5 each year and, before serving a Notice, every answer older than 24 months.

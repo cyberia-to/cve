@@ -35,7 +35,7 @@ The Landowner and the Holder record that hak sewa is a contractual right under I
 
 | term | meaning |
 |---|---|
-| Estate | the land of the Landowner in Desa Gesing, of which the Title in Annex A (Estate Registry) forms part |
+| Estate | the land of the Landowner in Desa Gesing, including the Title in Annex A (Estate Registry) |
 | Plot | the area described in Annex B (Plot Boundary) |
 | Improvements | every building and structure the Holder erects on the Plot |
 | Design Code | the [[cyber-valley/policies/design code\|Design Code]] page, as amended under 10.5 |
@@ -156,7 +156,7 @@ The quantities are the ones fixed at signing; only their prices move. The Landow
 
 3.4 Denomination. Indexed sums are denominated in the [[cx|century index]] under Annex E (Century Index): the quantities qᵢ, the collar and the floor are fixed at signing, the invoice moves with the basket within the collar of +35% / −15% per year measured in bitcoin, and the annex prevails over prose. The Holder may recompute any invoice from public sources within 30 days; the recomputation prevails. Settlement is in IDR at [[jisdor|JISDOR]] on the invoice date under [[uu 7-2011 mata uang|UU 7/2011]]. The floor keeps each year's rent at or above its year-0 value in bitcoin and in dollars.
 
-3.5 Guarantee Fund. Every sum this deed promises to pay a Holder is backed by money set aside, held apart from the Company's operations. 5% of every sum the Landowner receives under this Part, under 4.5 and under 12.1.14 enters the Guarantee Fund before any other application. The Fund sits on a separate Company account, is denominated under Annex E (Century Index), and its balance is published in the Register and stated in every Estate Certificate. It secures the payments listed in 16.4 and the cover under 8.9, and is kept under [[cyber-valley/policies/guarantee fund policy|guarantee fund policy]], which sets the order of payment. Money leaves the Fund to pay a Holder a sum due, within 30 days of a supported claim or 10 days of an arbitral award, on the signatures of the Director and a Commissioner; any other outflow needs commissioner approval and is limited to a return of surplus. The Fund is a Company asset held for Holders; on insolvency a Holder ranks as an unsecured creditor. A Holder who is also a shareholder takes no part in a decision on its own claim.
+3.5 Guarantee Fund. Every sum this deed promises to pay a Holder is backed by money set aside, held apart from the Company's operations. 5% of every sum the Landowner receives under this Part, under 4.5 and under 12.1.14 enters the Guarantee Fund before any other application. The Fund sits on a separate Company account, is denominated under Annex E (Century Index), and its balance is published in the Register and stated in every Estate Certificate. It secures the payments listed in 16.4 and the cover under 8.9, and is kept under [[cyber-valley/policies/guarantee fund policy|guarantee fund policy]], which sets the order of payment. Money leaves the Fund to pay a Holder a sum due, within 30 days of a supported claim or 10 days of an arbitral award, on the signatures of the Director and one Commissioner; any other outflow needs commissioner approval and is limited to a return of surplus. The Fund is a Company asset held for Holders; on insolvency a Holder ranks as an unsecured creditor. A Holder who is also a shareholder takes no part in a decision on its own claim.
 
 ---
 
@@ -295,15 +295,15 @@ Land-time totals 12% of revenue, or 7% in a net-exporter district. Stay totals [
 
 10.4 Density transfer. From Wave 2 unused footprint entitlement may pass to another Plot in the same district through the Register, district balance maintained, against a settlement fee of [2]% of the price paid for the entitlement. Untransferred entitlement stays with the Plot.
 
-10.5 Amendment. The Community Council amends the Design Code by a proposal under 11.3 carried by two thirds of district weight under 11.1.1. An amendment reaches completed Improvements where it keeps or improves their position; otherwise they keep the rule they were built under.
+10.5 Amendment. The Community Council amends the Design Code and the Community Rules by a proposal under 11.3 carried by two thirds of district weight under 11.1.1. An amendment reaches completed Improvements where it keeps or improves their position; otherwise they keep the rule they were built under.
 
 10.6 Approved design. A design approved under 8.1 stays approved from signing to SLF plus 12 months, whatever amendment is adopted meanwhile, and passes with the lease on assignment.
 
 10.6.1 Change required by law. Where a law, an act of authority or adat requires a change to an approved design, the Landowner notifies the Holder within 10 working days of learning of it. The change is material where it cuts the permitted footprint or floor area by more than 10%, removes a use on the Permitted Use page, or raises the compliance cost of the approved design by more than 10% of the budgeted construction cost, as certified by the supervisor or an independent valuer.
 
-10.6.2 Within 30 days of its notice under 10.6.1 the Landowner may obtain an exemption for the Plot, grant a variance or offer an equivalent Plot.
+10.6.2 Within 30 days of its notice under 10.6.1 the Landowner may obtain from the authority an exemption for the Plot, grant a variance or offer an equivalent Plot.
 
-10.6.3 Where a material change stands after 10.6.2, the Holder may within 90 days of the notice exit with the Unamortised premium and the value of works at independent valuation, secured by the Guarantee Fund, or remain and be paid the certified increased cost. Silence past 90 days is acceptance.
+10.6.3 Where a material change stands after 10.6.2, the Holder may within 90 days of the notice exit with the Unamortised premium and the value of works at independent valuation, secured by the Guarantee Fund, or remain and be paid the certified increased cost. A Holder silent past 90 days remains and accepts the change.
 
 ---
 
