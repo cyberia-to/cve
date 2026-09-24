@@ -126,7 +126,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 | built within time, SLF issued | 0.5 percentage points |
 | no unremedied Design Code breach for the whole term | 0.5 percentage points |
 | soil and water results published to the ledger without gaps | 0.5 percentage points |
-| referred residents above the threshold in Annex G (Permitted Use) §6 | to the minimum of [1.0]% |
+| referred residents above the threshold in Permitted Use §6 | to the minimum of [1.0]% |
 | succession under [4.10](#part-4-transfer) | no fee |
 
 4.5.1 Right of first refusal. ▲ Exists only in Wave 1 and only until the build obligation is discharged; it lapses permanently on [[slf|SLF]]. Its mechanics mirror the share [[rofr|ROFR]] of the pack: a notice stating price and terms, a 30-day offer period and a 3-day window to take up the offer as [[shareholders agreement|the shareholders agreement]] [Article 1](/cyber-valley/cve/legal/07-shareholders-agreement/shareholders-agreement#article-1-right-of-first-refusal) sets them, the 3 days matching [[articles of association]] [Article 7(4)](/cyber-valley/cve/legal/01-articles-of-association/articles-of-association#article-7-transfer-of-shares); right to withdraw the offer thereafter.
@@ -156,7 +156,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 5.2 Settlement. Both settle in IDR at JISDOR on the invoice date. Horizon and use are gated by the Design Code: a day market and a month-long camp are different permitted uses.
 
-5.3 Definitions and audit. Revenue, the certification and review cycle for net-exporter status, reporting cadence, audit rights and the consequences of understatement are in Annex G (Permitted Use).
+5.3 Definitions and audit. Revenue, the certification and review cycle for net-exporter status, reporting cadence, audit rights and the consequences of understatement are in Permitted Use.
 
 ○ The licensing route for stay activity and the regional accommodation tax treatment stand open in the release gate.
 
@@ -255,7 +255,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 ## Part 10. Design Code
 
-10.1 Binding on all Holders, all tracks, all zones. [Annex C (Design Code)](/cyber-valley/cve/legal/12-annexes/annex-c-design-code) states the code as numbers. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds.
+10.1 Binding on all Holders, all tracks, all zones. [[cyber-valley/policies/design code|Design Code]] states the code as numbers. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds.
 
 10.2 ⚠ Bali-specific overlays bind regardless: provincial height limits, architectural requirements, slope and ravine setbacks, water-catchment restrictions.
 
@@ -265,11 +265,11 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 
 10.5 Amendment and grandfathering. Amendment by the Landowner. Completed Improvements are grandfathered. An amendment worsening the position of already-built Improvements is subject to the veto in [11.2](#part-11-community-council).
 
-10.6 Design Envelope lock. ▲ From signing until SLF plus 12 months the Plot is governed by the Design Envelope in force at signing — the figures in C2 and C3 as adjusted for density transferred, the Holder's row in Annex G (Permitted Use), and so much of Annex F (Utilities, Access and Mobility) as applies to the Plot. The version of Annex C (Design Code) is identified by version number and content hash and initialled by both parties. Later amendments apply only with the Holder's written consent.
+10.6 Design Envelope lock. ▲ From signing until SLF plus 12 months the Plot is governed by the Design Envelope in force at signing — the figures in C2 and C3 as adjusted for density transferred, the Holder's row in Permitted Use, and so much of Annex F (Utilities, Access and Mobility) as applies to the Plot. The version of Design Code is identified by version number and content hash and initialled by both parties. Later amendments apply only with the Holder's written consent.
 
 10.6.1 Duration. The lock runs no longer than the build obligation plus 12 months, transfers with the bundle, does not restart on assignment, and lapses with the build obligation.
 
-10.6.2 Material change. A change is material where it reduces permitted footprint or floor area by more than 10%, removes a use from the Holder's row in Annex G (Permitted Use), or increases the cost of compliance for an approved design by more than 10% of budgeted construction cost. Fact and amount are certified by the independent supervisor or an independent valuer. Materiality is not determined by the Landowner.
+10.6.2 Material change. A change is material where it reduces permitted footprint or floor area by more than 10%, removes a use from the Holder's row in Permitted Use, or increases the cost of compliance for an approved design by more than 10% of budgeted construction cost. Fact and amount are certified by the independent supervisor or an independent valuer. Materiality is not determined by the Landowner.
 
 10.6.3 Cure. Within 30 days of notice the Landowner may withdraw the change as to that Plot, grant a variance, or offer an equivalent Plot.
 
@@ -473,8 +473,6 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 14.1 Warranty. ▲ The Landowner warrants that it holds a valid NIB and the licences required for the activity contemplated, covering the location of the Estate, across the KBLI in Articles of Association Pasal 3: 68111, 68200, 55199, 56101, 96122, 82302, 55192, 93299. Locational scope per KBLI is listed in Annex A (Estate Registry), one row per KBLI and business address, from the NIB in OSS RBA.
 
-14.1.1 ⚠ ○ The known discrepancy — the NIB showing a different location for 68111 than for the other codes — is resolved before any lease is signed, 68111 being the code under which leases are granted.
-
 14.2 Licence Event means the suspension, revocation, non-renewal or material restriction of any licence of the Landowner necessary for that activity.
 
 14.3 No automatic termination. ⚠ A Licence Event is not of itself a material breach and gives no right to terminate, provided the Holder's quiet enjoyment and actual use continue undisturbed. Recited rationale: the right to grant this lease derives from the land title, not from a business licence, and an administrative matter shall not cascade into the collapse of every agreement across the Estate.
@@ -585,7 +583,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [9.5](#part-9-the-build-obligation) | commence / complete | 12 / 36 months | framework §6.1 | proposed |
 | [9.6](#part-9-the-build-obligation) | holding charge, buy-back trigger | — | release gate, D8 | open |
 | [9.6](#part-9-the-build-obligation) | buy-back response | 60 days | D8 | settled |
-| [10.3](#part-10-design-code) | footprint, multiplier | 10% per Plot, ×2 | D7, Annex C (Design Code) | settled |
+| [10.3](#part-10-design-code) | footprint, multiplier | 10% per Plot, ×2 | D7, Design Code | settled |
 | [10.4](#part-10-design-code) | density settlement fee | — | D7 | open |
 | [10.6](#part-10-design-code) | Design Envelope lock | signing to SLF + 12 months | D13 | settled |
 | [10.6.2](#part-10-design-code) | materiality threshold | 10% | framework §7.4.5 | proposed |
@@ -642,7 +640,7 @@ Parts [12.1](#part-12-upgrade-tracks), [8.3](#part-8-construction-control), [11.
 
 ## Provenance
 
-Assembled from [[land rights agreement]] v0.4.3, which holds the reasoning for every clause here; [[holder protocol decisions]] D1–D12, which settle the values marked settled; [[open questions]], which holds the release gate; [Annex C (Design Code)](/cyber-valley/cve/legal/12-annexes/annex-c-design-code) and its informal counterpart [[cyber-valley/policies/zoning system|land usage policy]]; and the product pages [[cyber-valley/strategy/leasehold-upfront|leasehold upfront]], [[cyber-valley/strategy/annual-leasehold|annual leasehold]] and [[cyber-valley/strategy/hak-sewa|hak sewa]], whose commercial terms are annexed as the offer of record.
+Assembled from [[land rights agreement]] v0.4.3, which holds the reasoning for every clause here; [[holder protocol decisions]] D1–D12, which settle the values marked settled; [[open questions]], which holds the release gate; [[cyber-valley/policies/design code|Design Code]] and its informal counterpart [[cyber-valley/policies/zoning system|land usage policy]]; and the product pages [[cyber-valley/strategy/leasehold-upfront|leasehold upfront]], [[cyber-valley/strategy/annual-leasehold|annual leasehold]] and [[cyber-valley/strategy/hak-sewa|hak sewa]], whose commercial terms are annexed as the offer of record.
 
 ⚠ D13, the Design Envelope lock at [10.6](#part-10-design-code), postdates the decision sheet and is not written up there. It is added to the sheet before the sheet is treated as complete.
 

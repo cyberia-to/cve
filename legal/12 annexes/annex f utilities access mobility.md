@@ -7,34 +7,33 @@ crystal-size: article
 icon: "🔌"
 ---
 
-# Annex F — Utilities, Access and Mobility Specification
+# Annex F — Utilities, Access and Mobility
 
-Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Referred to at [[hak sewa template]] 10.6 and 11.5 as part of the Design Envelope of a Plot: "so much of the access and connection specification in Annex F (Utilities, Access and Mobility) as applies to the Plot." Source: the Estate's current installed base (`cve.md` asset schedule) and [[cyber-valley/strategy|strategy]] §4 Z4.
+Annexed to [[hak sewa template]] under 11.5. Each Plot is self-sufficient; the norms below size its systems. The Holder builds them at its own cost under the [[cyber-valley/policies/design code|Design Code]].
 
-## F1. Installed capacity, current state
+## F1. Self-sufficiency norms per Plot
 
-| system | current | note |
+| system | norm | built by the Holder |
 |---|---|---|
-| power | 30 kW solar, off-grid | expanded per district as build-out proceeds; no PLN grid connection contemplated |
-| water | rainwater harvest and purification, on-site systems | pipe materials, collection and greywater/blackwater standards under [[annex d community rules\|Annex D (Community Rules)]] D1 |
-| connectivity | fibre where laid; Starlink as the off-grid fallback | district-by-district; a new district defaults to Starlink until fibre reaches it |
-| roads | estate-internal roads, private access corridors off the public road | see F2, mobility |
+| water | [120] litres per person per day | roof catchment and tanks holding [60] days of use: [7.2] m³ per resident |
+| blackwater | [50] litres per person per day | a biodigester sized to it; its gas cooks, its digestate feeds trees |
+| greywater | [70] litres per person per day | a planted filter or wetland treating to BOD below 30 mg/L |
+| energy | [5] kWh per person per day | generation under the Design Code energy section and batteries for [3] days |
+| connectivity | one link per household | the Holder's own Starlink terminal |
+| waste | organic waste composted on the Plot; four clean streams to the hub | two compost bins per dwelling |
 
-Figures above describe the Estate as a whole at the date of this annex; they are not a per-Plot guarantee. What a specific Plot actually receives is stated in that Plot's grant documents and the Register.
+## F2. Connections the estate may open
 
-## F2. Access and mobility
+Where the Landowner lays fibre or another estate line to a district, it offers connections for the period, capacity and tariff the register publishes, and each connection ends on the date stated. Each Plot keeps its own systems ready to run without it. Connection to the PLN grid is prohibited.
 
-- **The core is car-free.** Combustion vehicles stop at the Z4 mobility hub on the estate perimeter — [[carbon policy]] and [[cyber-valley/strategy|strategy]] §4 make this a design rule, not a suggestion. Internal movement is on foot, by e-mobility, or by shuttle.
-- **Z4 mobility hub**: target capacity ~350 car slots and ~1,800 motorbike slots at the perimeter, run by a management company on a fee-of-revenue contract; commissioned capacity is entered in the Register. A Holder's own vehicle, if combustion-powered, parks here, not on the Plot — consistent with [[annex d community rules|Annex D (Community Rules)]] D6.
-- **External access**: the estate connects to the public road at the hub; travel times are current-state information under [[annex j offer of record|Annex J (Offer of Record)]] and bind nothing.
-- **Construction logistics**: combustion construction and heavy-lift machinery enters the core only under the [[carbon policy]] exception — for the duration of one specific build, with 48-hour notice to residents within 100 m, engines off when idle, and the [[soil policy]] limits on axle load, wet soil and slopes above 15°. Deliveries stage at the hub; the Landowner designates the haul route per district in the Register.
-- **Waste removal**: organic waste is composted on the Plot under [[soil policy]]; residual and recyclable waste is carried to the collection point at the hub; construction waste leaves the estate through the designated haul route at the Holder's cost, and open burning of any of it is prohibited under [[air policy]].
-- **Internal roads**: estate-internal roads and the private access corridors serving individual districts are Company infrastructure under [Z4](/cyber-valley/strategy#4-land-use-plan-eight-zones) — ownership is retained, per [[cyber-valley/strategy|strategy]] §4 and [[annex g permitted use|Annex G (Permitted Use)]] G3, which state that all Z4 structures revert to the Landowner.
+## F3. Access and mobility
 
-## F3. What is not yet specified — populate per district
-
-No estate-wide figure exists yet for: water treatment throughput (litres/day), sewage/blackwater processing capacity, road widths and load ratings, or fibre coverage by district. These are populated in the Register district by district as each district's infrastructure is built and commissioned, cross-referenced from this annex rather than restated here — a number entered here that has not been commissioned would be a promise this annex cannot keep.
-
-## F4. Utility charges
-
-Utility consumption is billed separately from the area revenue charge and any rent under [[annex e century index|Annex E (Century Index)]] — Annex E (Century Index) and the deferred balance under [[hak sewa template]] 3.2 govern land and rent only, never utility usage. Metering and tariff are set district by district as each system is commissioned; until then a Plot on the off-grid solar/rainwater/Starlink base pays no separate utility charge beyond the service charge under [[hak sewa template]] 11.4.
+| item | rule |
+|---|---|
+| entry | the estate joins the public road at the mobility hub |
+| cars and combustion vehicles | park at the mobility hub |
+| inside the estate | on foot, by e-bike, e-scooter, electric cart or shuttle |
+| construction machinery | combustion machinery enters for one specific build, on 48 hours' notice to residents within 100 m, engines off when idle, within the axle-load and slope limits of [[soil policy]] |
+| deliveries | staged at the hub; the Landowner sets the haul route per district in the register |
+| waste | sorted streams to the hub under [[recycling]]; construction waste leaves by the haul route at the Holder's cost |
+| internal roads | estate infrastructure, kept by the Landowner under the service charge |

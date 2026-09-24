@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, draft
+tags: cyber valley, cyberia, legal
 alias: annex e, index annex, century index annex, annex-e-century-index
 crystal-type: measure
 crystal-domain: socio
@@ -8,118 +8,131 @@ icon: "📈"
 ---
 # Annex E — Century Index
 
-Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Referred to in the template's 3.1 and 3.2 for the rent of the century index form, 3.4 as the unit of account for indexed consideration, 2.4 as the renewal formula, and 3.5 and 11.4 as the denomination of the Guarantee Fund and the service charge cap. On any conflict between this annex and the prose of the deed, this annex prevails.
+Annexed to [[hak sewa template]]. It sets the rent of the century index form (3.1–3.4), the renewal price (2.4), the Guarantee Fund unit (3.5) and the service charge cap (11.4). The rules follow the [[cyberia/protocol/century-index|century index]] protocol. The daily level, its history, the calculator and worked examples are published at [cyberia.my/cx](https://cyberia.my/cx).
 
-The unit is the [[cx|century index]] — a fixed basket of eight world assets. What is fixed at signing is the set of quantities; what moves is their price. The machine is the one [[cyberia/protocol/century-index|century index]] protocol states, in full — reset, collar, dual floor, fallbacks, valve — and that page is the source of this annex: where the two differ, the protocol page is corrected first and this annex follows it. Contract theses T1–T8 of the protocol are restated in §7.
+## E1. Terms
 
-## 1. What the Holder owes
+| term | meaning |
+|---|---|
+| Century Index | a fixed basket of eight world assets used as the unit of account |
+| leg | one asset of the basket |
+| weight | the share of a leg in the basket at signing |
+| quantity | the amount of a leg the obligation holds: satoshi, grams of gold, barrels of oil; fixed at signing for the Term |
+| fix | the published price of a leg in dollars for one day |
+| TWAP | the average of a leg's daily fixes over the trailing 365 days |
+| bitcoin fix | the TWAP of BTC/USD, used as the ruler of the collar and the floor |
+| satoshi | one hundred-millionth of a bitcoin |
+| collar | the band within which the rent may change from one lease year to the next |
+| floor | the lowest rent: the year-0 rent in bitcoin and in dollars |
+| JISDOR | Bank Indonesia's daily USD/IDR reference rate |
+| anniversary | the same calendar day as signing, in each later year of the Term |
 
-At signing (t₀) the year-0 amount R₀ splits by weight into fixed quantities at the reference prices:
-
-    qᵢ = wᵢ · R₀ / Pᵢ(t₀)          I(t) = Σ qᵢ · Pᵢ(t)
-
-I(t) is the basket marked to market in dollars; R(t), the amount owed in year t, is derived from it in §3. The quantities qᵢ stay fixed for the life of this deed and travel with the interest on assignment under [[hak sewa template]] 4.2.
-
-The same machine prices every sum under the deed, each with its own R₀:
-
-| sum | R₀ | how it is paid |
-|---|---|---|
-| rent, century index form | the year-0 rent recited, derived from the premium by the pricer at [cyberia.my/cx](https://cyberia.my/cx) and frozen in Annex J (Offer of Record) | R(t) for each lease year under §3, in 12 equal monthly instalments |
-| service charge cap, 11.4 | 1% of the Plot price | per year |
-| Guarantee Fund, 3.5 | each contribution at the fix of the day it enters | held, and paid out at value |
-| Unamortised premium, exit under 9.5, 10.6.3, 12.1.11, 12.1.12, 14.4, 15.5, 16.3 | the Premium paid at signing | Premium × (whole months of Term remaining ÷ whole months of Term), carried in these quantities from signing and valued under §3 on the day it is paid; rent already paid is never part of it |
-| renewal price, 2.4 | L₀, the Plot price | L(T) = L₀ · (T₂ ÷ T₁) · I(T) ÷ I(t₀), floored at L₀ · T₂ ÷ T₁; T₁ and T₂ the first and the renewal Terms in years |
-
-Two forms of purchase exist and no other: the upfront form at a premium of 100%, or a premium below it with the rest carried as this rent for the Term. No fee, no interest and no market review sit on top of the index.
-
-## 2. Basket and weights
+## E2. Basket
 
 | leg | weight | primary fix | fallback |
 |---|---|---|---|
-| BTC | 20% | Pyth BTC/USD daily close | CME CF BRR, then median of three named exchanges |
-| ETH | 15% | Pyth ETH/USD daily close | CME CF ETH RR, then median of three named exchanges |
+| BTC | 20% | Pyth BTC/USD daily close | CME CF BRR, then the median of three named exchanges |
+| ETH | 15% | Pyth ETH/USD daily close | CME CF ETH RR, then the median of three named exchanges |
 | GOLD | 15% | Pyth XAU/USD | LBMA PM fix, then COMEX settle |
-| CNY | 15% | Pyth USD/CNH (offshore quote) | WM/Refinitiv, then PBOC parity |
-| USD | 15% | 1 (quote currency) | — |
+| CNY | 15% | Pyth USD/CNH | WM/Refinitiv, then PBOC parity |
+| USD | 15% | 1 | — |
 | CU | 10% | LME copper cash settle | COMEX HG settle |
 | OIL | 5% | ICE Brent front-month settle | EIA Brent spot |
-| UX | 5% | CME UxC U3O8 front-month settle | UxC / TradeTech weekly spot |
+| UX | 5% | CME UxC U3O8 front-month settle | UxC or TradeTech weekly spot |
 
-Every price enters as a trailing 365-day average of daily fixes. The index publishes every day of the year; a closed market carries its last fix forward. Fixes are USD-quoted by market convention; the ruler of the collar and the floor is bitcoin.
+## E3. Formulas
 
-## 3. Machine
+Quantities, fixed at signing:
 
-    X(t) = BTC/USD 365-day TWAP                       the bitcoin fix
-    S(t) = I(t) / X(t)                                basket priced in bitcoin
-    R(t) = clamp( S(t), R(t−1) · [0.85, 1.35] )       the sat amount, collared
-    R(t) ≥ max( S₀, F / X(t) )                        dual floor
-    invoice = R(t) · X(t) · JISDOR(t)                 in rupiah on the invoice date
+    qᵢ = wᵢ · R₀ ÷ Pᵢ(t₀)
 
-| parameter | value |
+| symbol | meaning |
 |---|---|
-| numéraire | BTC, fixes USD-quoted |
-| reset | annual anniversary; the TWAP window ends 30 days before payment, so the Holder knows the invoice a month ahead |
-| collar | +35% / −15% per year in sats; undelivered increase does not carry over |
-| floor | S₀ sats, and F year-0 dollars; F = R₀ unless the recitals state otherwise |
-| R(t−1) | the value of the same quantities at the previous anniversary; before the first anniversary, S₀ |
-| settlement | IDR at [[jisdor\|JISDOR]] on the invoice date, as [[uu 7-2011 mata uang\|UU 7/2011]] requires; conversion happens after the collar and is never capped |
+| qᵢ | the quantity of leg i |
+| wᵢ | the weight of leg i |
+| R₀ | the year-0 rent, in dollars |
+| Pᵢ(t₀) | the TWAP of leg i on the signing date |
 
-The collar meters the move year over year: the amount rises at most 35% and falls at most 15% against the previous anniversary, in sats. The floor has two legs: the sat leg guarantees the Landowner no fewer satoshi than year 0; the fiat leg guarantees the year-0 dollar value. Read as one instrument, the Holder owes the basket, metered by the collar, and owes more than the basket whenever bitcoin outruns it: the Holder signs [[hak sewa template]] 3.4 having read this paragraph. A devaluation of the rupiah flows through in full, which is the point of denominating in the index at all.
+Value of the basket on day t:
 
-The same clamp and floor apply to every sum in §1, each measured against its own quantities. A lease year's R(t) is set once, at the reset, and its twelve monthly instalments are R(t) ÷ 12 converted at JISDOR on each invoice date.
+    I(t) = Σ qᵢ · Pᵢ(t)
 
-## 4. Quantities — completed at signing
-
-Filled from the 365-day TWAP fixes on the signing date. The figures below are the worked model at R₀ = USD 100,000 on indicative fixes of 31 July 2026, kept here so the arithmetic is visible; the executed annex carries the real numbers.
-
-| leg | t₀ fix | quantity qᵢ |
-|---|---|---|
-| BTC | $62,626 | 0.31935618 BTC (31,935,618 sats) |
-| ETH | $1,857.97 | 8.073327 ETH |
-| GOLD | $4,039.38 / oz | 115.501 g |
-| CNY | 6.765736 / USD | ¥101,486.04 |
-| USD | 1 | $15,000.00 |
-| CU | $13,552.04 / t | 737.90 kg |
-| OIL | $91.82 / bbl | 54.454 bbl |
-| UX | $80.00 / lb U₃O₈ | 62.50 lb |
-
-Derived: X(t₀) = $62,626, S₀ = R₀ / X(t₀) = 1.596781 BTC = 159,678,089 sats. F = USD 100,000.
-
-## 5. Worked invoice
-
-Hypothetical year-1 TWAP fixes: BTC $75,000 · ETH $2,200 · GOLD $4,400 · CU $14,500/t · OIL $85 · U₃O₈ $90/lb · USD/CNY 7.00 · JISDOR 19,000.
-
-1. Mark the quantities to market: I(t₁) = Σ qᵢ · Pᵢ = **$108,503.30**
-2. Price in bitcoin: S(t₁) = 108,503.30 / 75,000 = **1.446711 BTC**
-3. Collar against R(t₀) = S₀: [1.596781 × 0.85, 1.596781 × 1.35] = [1.357264, 2.155654] → 1.446711 passes unclamped
-4. Floor: max(1.446711, S₀ = 1.596781, F / X = 100,000 / 75,000 = 1.333333) = **1.596781 → the sat leg binds**
-5. R(t₁) = 1.596781 BTC = 159,678,089 sats
-6. Settle: 1.596781 × 75,000 = **$119,758.57**, converted at JISDOR 19,000 = **IDR 2,275,412,830** on the invoice date
-
-Reading of this year: the basket grew 8.5% and bitcoin grew 19.8%, so the sat floor binds and the Holder owes the same sats as year 0, worth more dollars. The worked example is part of the annex, and where a calculation is disputed it is the template the parties follow.
-
-## 6. Review valve
-
-On every fifth anniversary, and only by mutual written consent, the parties may replace at most one leg of at most 10% weight, at the then-current TWAP, value-neutral at the moment of substitution. CNY and USD stay. Silence means no change; neither party may substitute unilaterally.
-
-## 7. Contract theses
-
-| # | thesis |
+| symbol | meaning |
 |---|---|
-| T1 | this annex — weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor, one worked invoice — prevails over prose |
-| T2 | an asset falling, even to zero, triggers nothing: the sleeve rides down. Only death of a price source triggers replacement, and the replacement prices the same asset |
-| T3 | a fix is dead on administrator cessation, 30 days unpublished, or methodology change. Then, in order: the named fallback in §2 → a regulator-designated successor → an equivalent fix set by an independent expert → the last TWAP frozen as a bridge, never as a settlement. If the bitcoin fix dies through the whole waterfall, the ruler reverts to USD |
-| T4 | the review valve of §6 |
-| T5 | the Holder may recompute any invoice from public sources within 30 days; the recomputation prevails and manifest errors are corrected retroactively. Index disputes are arithmetic |
-| T6 | settlement in IDR at JISDOR on the invoice date |
-| T7 | the annex survives assignment, sublease, succession and renewal; the same t₀ quantities define the obligation, whoever the parties are |
-| T8 | the on-chain fix published by the [[cx]] oracle is evidence and automation; on divergence the computation from the named public fixes prevails |
+| I(t) | the value of the basket, in dollars |
+| Σ | the sum over the eight legs |
+| qᵢ | the quantity of leg i |
+| Pᵢ(t) | the TWAP of leg i on day t |
 
-## 8. Open before signature
+The basket in bitcoin:
 
-| item | to settle |
+    S(t) = I(t) ÷ X(t)
+
+| symbol | meaning |
 |---|---|
-| R₀ per sum | the Plot price, the year-0 rent where the rent form is elected, and L₀ with T₁ for the renewal formula, from the recitals |
-| F | the fiat floor leg, equal to R₀ unless the recitals state otherwise |
-| signing fixes | the 365-day TWAP for each leg on the signing date, entered in §4 |
-| publication | the Register carries the annual index level, every fix used, the collar and floor test, and the invoice calculation, on the same page as the lease entry |
+| S(t) | the value of the basket, in bitcoin |
+| I(t) | the value of the basket, in dollars |
+| X(t) | the bitcoin fix on day t |
+
+Rent of a lease year, in bitcoin:
+
+    R(t) = clamp( S(t), 0.85 · R(t−1), 1.35 · R(t−1) ),   at least max( S₀, F ÷ X(t) )
+
+| symbol | meaning |
+|---|---|
+| R(t) | the rent of the lease year starting at anniversary t, in bitcoin |
+| clamp | S(t), held between the lower and the upper bound that follow |
+| S(t) | the value of the basket in bitcoin at anniversary t |
+| R(t−1) | the rent of the previous lease year, in bitcoin; for the first year, S₀ |
+| S₀ | the year-0 rent in bitcoin: R₀ ÷ X(t₀) |
+| F | the year-0 rent in dollars: R₀ |
+| X(t) | the bitcoin fix at anniversary t |
+
+Monthly instalment, in rupiah:
+
+    M = R(t) · X(t) · J ÷ 12
+
+| symbol | meaning |
+|---|---|
+| M | the instalment of the month |
+| R(t) | the rent of the lease year, in bitcoin |
+| X(t) | the bitcoin fix at anniversary t |
+| J | JISDOR on the invoice date of the month |
+
+## E4. Rules
+
+| rule | text |
+|---|---|
+| T1 Annex first | this annex governs over the prose of the deed |
+| Quantities | the quantities are fixed at signing for the Term; they pass with the lease on assignment, succession and renewal |
+| Yearly amount | at each anniversary the rent of the coming lease year is computed from the fixed quantities at the TWAP prices, with the window closing 30 days before the first payment of that year; the Holder knows the year's rent a month ahead |
+| Collar | the rent of a lease year moves at most +35% or −15% in bitcoin from the year before; an increase beyond the band lapses |
+| Floor | the rent stays at or above its year-0 value in bitcoin and in dollars |
+| T6 Settlement | invoices settle in rupiah at JISDOR on the invoice date, under UU 7/2011; conversion follows the collar and carries the full rupiah rate |
+| T2 Asset falls | a leg that falls in price, even to zero, stays in the basket |
+| T3 Price source ends | a source is ended by cessation, 30 days without publication or a change of method; the price then comes from the named fallback, then a successor named by the regulator, then an equivalent fix set by an independent expert, with the last TWAP as a bridge. Where every bitcoin source ends, the ruler becomes the dollar |
+| T5 Recomputation | the Holder may recompute any invoice from public sources within 30 days; the recomputation prevails and manifest errors are corrected back to their date |
+| T7 Continuity | the same quantities define the obligation whoever the parties are |
+| T8 On-chain fix | the fix published by the [[cx]] oracle serves as evidence; the computation from the named public sources prevails |
+| Publication | the register publishes each year's computation with every fix used; [cyberia.my/cx](https://cyberia.my/cx) publishes the daily level |
+
+## E5. Form at signing
+
+| field | value |
+|---|---|
+| signing date t₀ | [___] |
+| R₀, year-0 rent | USD [___] |
+| F, dollar floor | USD [___] |
+| X(t₀), bitcoin fix | USD [___] |
+| S₀, year-0 rent in bitcoin | [___] BTC |
+
+| leg | weight | TWAP at signing, Pᵢ(t₀) | quantity qᵢ |
+|---|---|---|---|
+| BTC | 20% | [___] | [___] BTC |
+| ETH | 15% | [___] | [___] ETH |
+| GOLD | 15% | [___] | [___] g |
+| CNY | 15% | [___] | ¥ [___] |
+| USD | 15% | 1 | $ [___] |
+| CU | 10% | [___] | [___] kg |
+| OIL | 5% | [___] | [___] bbl |
+| UX | 5% | [___] | [___] lb U₃O₈ |

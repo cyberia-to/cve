@@ -9,21 +9,20 @@ icon: "🔍"
 
 # Annex I — Due Diligence Pack
 
-Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Delivered to the Holder before signing, per [[hak sewa template]] 15.1.1: "certified copy of the Title certificate, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR document." One Annex I (Due Diligence Pack) is assembled per Plot, at signing.
+Annexed to [[hak sewa template]] under 15.1.1. Delivered to the Holder before signing.
 
 ## Checklist
 
-| document | centrally available | still needed per signing |
+| document | content | delivered |
 |---|---|---|
-| Title certificate (certified copy) | title number and expiry in [[annex a estate registry\|Annex A (Estate Registry)]] §1 | fresh certified copy from the Landowner's file |
-| *Surat Ukur* | number on file per parcel, per [[director disclosure indemnity agreement]] Appendix B | copy attached |
-| NIB | Company-level NIB on file | confirm the KBLI/address row applies, [[annex a estate registry\|Annex A (Estate Registry)]] §3 |
-| PBB receipts | payment status noted per parcel in Appendix B ("OK" / arrears) | current-year receipt |
-| BPN non-encumbrance search | not reusable — must be dated within 30 days of this signing | ordered fresh, every signing |
-| PKKPR | status per parcel in [[annex a estate registry\|Annex A (Estate Registry)]] §1; six titles were up for routine renewal at the date of that annex | current PKKPR document |
+| Title certificate | certified copy of HGB No. 00048/Gesing | [___] |
+| *Surat Ukur* | No. 00086/2002 | [___] |
+| PKKPR | No. 10082310215108014 of 09.08.2023 | [___] |
+| NIB and KBLI | the [[company licences]] page | [___] |
+| PBB | current-year receipt | [___] |
+| BPN search | non-encumbrance search dated within 30 days of signing | [___] |
+| access titles | certified copies of HGB No. 00047/Gesing and HGB No. 00052/Gesing, and PKKPR No. 17082310215108002, for the estate road of [[annex b plot boundary\|Annex B (Plot Boundary)]] | [___] |
 
-The non-encumbrance search is the one item this pack can never pre-fill: it exists to catch anything created against the title between the last check and this specific signing, so a stale search defeats its own purpose.
+## Signing day
 
-## Signing-day procedure
-
-As a condition of execution, the PPAT performs *pengecekan sertifikat* at BPN on the day of signing and the result is recited in the deed. The Landowner warrants nothing has been created over the Plot between the search above and signing.
+The PPAT performs *pengecekan sertifikat* at BPN on the day of signing, and the result is recited. The Landowner warrants that the Title is as the search shows at the moment of signing.

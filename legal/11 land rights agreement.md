@@ -21,11 +21,11 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 | `legal/notes/open questions.md` | release gate and every open item, deliberately outside the signable text |
 | [[annex a estate registry\|Annex A (Estate Registry)]] | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, [[rtrw\|RTRW]] classification, [[pkkpr\|PKKPR]] number or its absence, [[lp2b\|LP2B]] status; plus the KBLI × location table under [§9A.1](#9a-licences-warranty-and-licence-event-regime) |
 | [[annex b plot boundary\|Annex B (Plot Boundary)]] | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
-| [[annex c design code\|Annex C (Design Code)]] | Design Code — the zoning code as numbers |
-| [[annex d community rules\|Annex D (Community Rules)]] | Community Rules |
+| [[cyber-valley/policies/design code\|Design Code]] | Design Code — the zoning code as numbers |
+| [[cyber-valley/policies/community rules\|Community Rules]] | Community Rules |
 | [[annex e century index\|Annex E (Century Index)]] | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, floor, worked invoice; also the unamortised-return formula |
 | [[annex f utilities access mobility\|Annex F (Utilities, Access and Mobility)]] | Utilities, access and mobility specification |
-| [[annex g permitted use\|Annex G (Permitted Use)]] | Permitted-use matrix by Holder class, zone and track |
+| [[cyber-valley/policies/permitted use\|Permitted Use]] | Permitted-use matrix by Holder class, zone and track |
 | [[annex h handover condition\|Annex H (Handover Condition)]] | Condition schedule at site handover (baseline for redelivery, 5A.6 #6) |
 | [[annex i due diligence pack\|Annex I (Due Diligence Pack)]] | Due diligence pack under 9B.2 |
 | [[annex j offer of record\|Annex J (Offer of Record)]] | Offer of record under 2.1.2 — the product page and price schedule as they stood, by commit hash and date |
@@ -58,8 +58,8 @@ Signing authority. Under Articles of Association Pasal 12(2)(c) the Director sig
 | Estate | the land parcel(s) under the master title, described in Annex A (Estate Registry) |
 | Plot | the demarcated area allocated to the Holder, described by coordinates and site plan in Annex B (Plot Boundary) |
 | Improvements | any building or structure erected by the Holder on the Plot |
-| Design Code | [[annex c design code\|Annex C (Design Code)]], as amended under [§7](#7-design-code-annex-c) |
-| Community Rules | [[annex d community rules\|Annex D (Community Rules)]] |
+| Design Code | [[cyber-valley/policies/design code\|Design Code]], as amended under [§7](#7-design-code-annex-c) |
+| Community Rules | [[cyber-valley/policies/community rules\|Community Rules]] |
 | Index Annex | [[annex e century index\|Annex E (Century Index)]], the century index annex referred to in [§2.3](#2-part-a-base-grant-hak-sewa-all-holders) and [§2.4](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Register | the register of leases maintained by the Landowner under [§2.5.8](#2-part-a-base-grant-hak-sewa-all-holders) |
 | Estate Certificate | the statement of lease status issued under [§2.5.6](#2-part-a-base-grant-hak-sewa-all-holders) |
@@ -118,7 +118,7 @@ No marketing material may describe this instrument as a registered lease.
 | built within time, [[slf\|SLF]] issued | [1.5]% |
 | no unremedied Design Code breach for the whole term | [1.0]% |
 | soil and water results published to the ledger without gaps | [0.5]% |
-| referred residents above the threshold in Annex D (Community Rules) | [0]% |
+| referred residents above the threshold in Community Rules | [0]% |
 | succession under [§2.8](#2-part-a-base-grant-hak-sewa-all-holders) | [0]% |
 
 Right of first refusal exists only in Wave 1 and only until the build obligation under [§6](#6-construction-timeline-and-the-build-obligation) is discharged; it lapses permanently on SLF. Where it applies, its mechanics mirror the share [[rofr|ROFR]] of the pack: a notice stating price and terms, a 30-day offer period and a 3-day window to take up the offer as [[shareholders agreement|the shareholders agreement]] [Article 1](/cyber-valley/cve/legal/07-shareholders-agreement/shareholders-agreement#article-1-right-of-first-refusal) sets them, the 3 days matching [[articles of association]] [Article 7(4)](/cyber-valley/cve/legal/01-articles-of-association/articles-of-association#article-7-transfer-of-shares); right to withdraw the offer thereafter.
@@ -140,7 +140,7 @@ Right of first refusal exists only in Wave 1 and only until the build obligation
 | land-time | hour to season, bare land, no accommodation service supplied | the Holder | area revenue charge of 10%, or 5% where the district is a net exporter of energy, water and food, plus a settlement fee of [1–3]% |
 | stay | occupation with an accommodation service | the Landowner, under KBLI 55199 and 55192 | management fee, the Landowner operating |
 
-The Holder elects the channel. Both settle in IDR at JISDOR on the invoice date; where the marketplace quotes in another unit, that unit is a unit of account and not the means of payment ([[uu 7-2011 mata uang|UU 7/2011]]). Horizon and use remain gated by the Design Code: a day market and a month-long camp are different permitted uses. Definition of revenue, the certification and review cycle for net-exporter status, reporting cadence, audit rights and consequences of understatement are set out in Annex G (Permitted Use).
+The Holder elects the channel. Both settle in IDR at JISDOR on the invoice date; where the marketplace quotes in another unit, that unit is a unit of account and not the means of payment ([[uu 7-2011 mata uang|UU 7/2011]]). Horizon and use remain gated by the Design Code: a day market and a month-long camp are different permitted uses. Definition of revenue, the certification and review cycle for net-exporter status, reporting cadence, audit rights and consequences of understatement are set out in Permitted Use.
 
 2.7 Plot as a single unit ([[per aversionem lineage|per aversionem]] / ad corpus). ⚠ The Plot is leased as one contiguous parcel defined by its boundaries, not by a certified area number.
 
@@ -299,21 +299,21 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 
 ---
 
-## 7. Design Code (Annex C (Design Code))
+## 7. Design Code (Design Code)
 
-Binding on all Holders, all tracks, all zones. [[annex c design code|Annex C (Design Code)]] states the zoning code as numbers — footprint and floor multiplier, light balance allocation, species density, and the sound, water, light, air and soil limits with their monitoring and publication duties — rather than by cross-reference. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds, and it is the version-locked one under 7.4.
+Binding on all Holders, all tracks, all zones. [[cyber-valley/policies/design code|Design Code]] states the zoning code as numbers — footprint and floor multiplier, light balance allocation, species density, and the sound, water, light, air and soil limits with their monitoring and publication duties — rather than by cross-reference. The same rules stand in the graph as [[cyber-valley/policies/zoning system|land usage policy]], with the reasoning behind each number; C0 of the annex maps section to section. The annex is the representation that binds, and it is the version-locked one under 7.4.
 
 ⚠ Bali-specific overlays bind regardless of what the Design Code says: provincial building-height limits, architectural requirements, slope and ravine setbacks, water-catchment restrictions. Estate policy stack: [[cyber-valley/policies/zoning system|zoning code]], [[soil policy]], [[water policy]], [[light policy]], [[sound policy]], [[air policy]], [[carbon policy]].
 
 7.1 Scale of measurement. ▲ Footprint and canopy ratios are measured per Plot.
 
-7.2 Density transfer. ▲ Unused footprint entitlement may be transferred to another Plot within the same district through the Register, subject to the Landowner's check that the district balance in Annex C (Design Code) is maintained, against a settlement fee of [__]%. Transfers open from Wave 2. Entitlement not transferred remains with the Plot.
+7.2 Density transfer. ▲ Unused footprint entitlement may be transferred to another Plot within the same district through the Register, subject to the Landowner's check that the district balance in Design Code is maintained, against a settlement fee of [__]%. Transfers open from Wave 2. Entitlement not transferred remains with the Plot.
 
 7.3 Amendment and grandfathering. Amendment by the Landowner. Completed Improvements are grandfathered. Any amendment that would worsen the position of already-built Improvements is subject to the veto in [§8.2](#8-community-council-shared-infrastructure-and-service-charge).
 
 7.4 Design Envelope lock. ▲ Grandfathering under 7.3 and the veto under [§8.2](#8-community-council-shared-infrastructure-and-service-charge) protect what is already built. Between signing and SLF the Holder has paid and has nothing on the ground, and is therefore least protected exactly where it is most exposed. This clause closes that window.
 
-7.4.1 Design Envelope of the Plot means (a) the figures in C2 and C3 of Annex C (Design Code) in the version in force at signing, adjusted for any density transferred under C1.2; (b) the Holder's row in the permitted-use matrix, Annex G (Permitted Use); (c) so much of the access and connection specification in Annex F (Utilities, Access and Mobility) as applies to the Plot. The version of Annex C (Design Code) is identified by version number and content hash and initialled by both parties.
+7.4.1 Design Envelope of the Plot means (a) the figures in C2 and C3 of Design Code in the version in force at signing, adjusted for any density transferred under C1.2; (b) the Holder's row in the permitted-use matrix, Permitted Use; (c) so much of the access and connection specification in Annex F (Utilities, Access and Mobility) as applies to the Plot. The version of Design Code is identified by version number and content hash and initialled by both parties.
 
 7.4.2 Lock. From signing until SLF plus 12 months the Plot is governed by the Design Envelope in the version in force at signing. Later amendments apply to the Plot only with the Holder's written consent.
 
@@ -321,7 +321,7 @@ Binding on all Holders, all tracks, all zones. [[annex c design code|Annex C (De
 
 7.4.4 Scope of the Landowner's freedom. The lock is per Plot. The Landowner may amend the Design Code at any time for Plots granted after the amendment, and for Holders whose lock has expired, subject to 7.3 and [§8.2](#8-community-council-shared-infrastructure-and-service-charge).
 
-7.4.5 Material change. A change is material where it: reduces permitted footprint or floor area by more than [10]%; removes a use from the Holder's row in Annex G (Permitted Use); or increases the cost of compliance for a design already approved under 5A.1 by more than [10]% of the budgeted construction cost. Fact and amount are certified by the independent supervisor under 5A.3 or an independent valuer; disputes follow [§11](#11-dispute-resolution). Materiality is not determined by the Landowner.
+7.4.5 Material change. A change is material where it: reduces permitted footprint or floor area by more than [10]%; removes a use from the Holder's row in Permitted Use; or increases the cost of compliance for a design already approved under 5A.1 by more than [10]% of the budgeted construction cost. Fact and amount are certified by the independent supervisor under 5A.3 or an independent valuer; disputes follow [§11](#11-dispute-resolution). Materiality is not determined by the Landowner.
 
 7.4.6 Landowner's cure right. Within 30 days of the Holder's notice the Landowner may withdraw the change as to that Plot, grant a variance, or offer an equivalent Plot. Any of these extinguishes the rights in 7.4.7.
 
@@ -490,7 +490,7 @@ Currency. Obligations may be denominated in the century index; invoicing and set
 
 ## 13. General provisions ▲
 
-Notices and their language · personal data, covering publication of monitoring results to the ledger under Annex C (Design Code) and entries in the Register · KYC and source-of-funds procedure supporting the [§9](#9-representations) representation · entire agreement · severability · counterparts and electronic signature · quiet enjoyment as a positive covenant of the Landowner.
+Notices and their language · personal data, covering publication of monitoring results to the ledger under Design Code and entries in the Register · KYC and source-of-funds procedure supporting the [§9](#9-representations) representation · entire agreement · severability · counterparts and electronic signature · quiet enjoyment as a positive covenant of the Landowner.
 
 ---
 

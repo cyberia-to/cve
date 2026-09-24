@@ -9,24 +9,20 @@ icon: "📌"
 
 # Annex J — Offer of Record
 
-Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Per [[hak sewa template]] 3.0 and framework 2.1.2: "the version of the product page and price schedule on which the Holder relied is annexed as Annex J (Offer of Record), identified by commit hash and date. Later amendment of those pages alters neither this deed nor that annex." The product pages are the estate's own repository (`cyber-valley/strategy/`), version-controlled; this annex freezes the exact commit a given Holder relied on.
+Annexed to [[hak sewa template]] under 3.0. The product page and the price the Holder saw when deciding, recorded at signing. Later changes to the page leave this deal as recorded.
 
-## Mechanism
-
-At signing, the Landowner records: the file(s) that made up the product page and price schedule shown to the Holder, the git commit hash of the repository at the moment the Holder was shown it, the commit date, and the specific figures the Holder relied on (price per *are*, wave, instrument). This entry does not change afterward, regardless of what the pages say later.
-
-## Worked example — the format, not an executed entry
+## Form
 
 | field | value |
 |---|---|
-| Files | `strategy/README.md`, `strategy/annual-leasehold.md` |
-| Commit | `2f4d487cb6fdc9bf4f9a7a8a4bac4b826cd3ce84` |
-| Date | 2026-08-27 |
-| What the Holder was shown | Instrument B (annual leasehold): premium [__]% at signing, year-0 rent R₀ from the pricer at cyberia.my/cx with base rate [__]% and spread [__]%, rent in century index quantities for the Term, paid monthly; no interest, no fee |
-| Binding vs informational | The premium, R₀, the pricer's base rate for early redemption and the index-only treatment of the rent are commitments — [[hak sewa template]] 3.0 says commitments bind through the deed. Wave pricing, KPI figures and the pricer widget's live output are current-state information and are not frozen by this entry. |
+| product page | [[annual leasehold]] / [[leasehold upfront]], version of [___] |
+| Plot and price | sinwood-[___], Plot price Rp [___] |
+| form | full payment / century index |
+| Premium | [___]% = Rp [___] |
+| year-0 rent R₀ | Rp [___], from the calculator at [cyberia.my/cx](https://cyberia.my/cx) |
+| base rate for early redemption under 3.2 | [___]% |
+| initialled | Landowner [___] · Holder [___] |
 
-This row is illustrative of the format only; no Holder has relied on it and no lease has been signed against it. A real Annex J (Offer of Record) entry is created at the moment a specific Holder is shown a specific page, not before.
+## What the record fixes
 
-## What is frozen and what is not
-
-The template's 3.0 draws this line for every entry: commitments freeze (renewal by right, the area revenue charge, the assignment regime, the non-disturbance covenant, and — as of this deed — the index-only rent under [[hak sewa template]] 3.2); statements of current state do not (wave-release status, indicative pricing not yet quoted to a specific Holder, the pricer widget's output before a specific number is agreed). Where it is unclear which side of that line a given statement falls on, the Landowner resolves it in the Holder's favour at the time of signing, not afterward.
+The record fixes the commitments the page made: the form and price, renewal by right, the area revenue charge, the assignment regime, non-disturbance and the rent under the century index. Statements of current state — waves open, indicative prices, live calculator output before a number is agreed — inform and change freely. Where a statement could read either way, it reads in the Holder's favour.

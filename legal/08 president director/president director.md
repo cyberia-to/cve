@@ -11,6 +11,8 @@ icon: "🧭"
 > **Offer / agreement (one text).** Draft for discussion until signed.  
 > No separate economics annex, no open-items sheet, no long legal novel.
 
+**Holder.** [[@alex]].
+
 **Company.** PT Cyber Valley Estate ([[pma|PMA]]).  
 **Mandate.** President Director (**PD** below — per GMS the office is President Director; there is no PD title) who grows a **network of cities in Indonesia**, starting from **~37 ha** on **Sanghyang** (Bali): **Bali North Star / Cyber Valley** — nature × technology; mountain tourism + quality of life as tech hub.
 

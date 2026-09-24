@@ -7,20 +7,20 @@ crystal-size: article
 icon: "🔑"
 ---
 
-# Annex H — Condition Schedule at Handover
+# Annex H — Handover Condition
 
-Annexed to [[hak sewa template]]; reasoning in [[land rights agreement]]. Referred to at [[hak sewa template]] 8.6 item 6, *BAST Pengembalian* (redelivery): condition on return at Term end is measured against this annex. One Annex H (Handover Condition) is completed per Plot, at BAST Lahan (site handover, item 1 of the chain) — this page carries the form.
+Annexed to [[hak sewa template]] under 8.6. Completed per Plot at BAST Lahan; the Plot returns at BAST Pengembalian measured against it.
 
 ## Form
 
-| field | recorded at | note |
+| field | recorded at | content |
 |---|---|---|
-| Photographic record | BAST Lahan | dated, timestamped, covering every boundary and any existing structure |
-| Inventory | BAST Lahan | fixtures, existing vegetation of record, any Company infrastructure crossing the Plot (Z4 access, utility runs under [[annex f utilities access mobility\|Annex F (Utilities, Access and Mobility)]]) |
-| Soil baseline | BAST Lahan | test result under [[annex d community rules\|Annex D (Community Rules)]] D3 (soil), for comparison against the soil-building requirement over the Term |
-| Boundary state | BAST Lahan | cross-references [[annex b plot boundary\|Annex B (Plot Boundary)]] for this Plot |
-| Redelivery condition | BAST Pengembalian | compared against the baseline above; wear consistent with the permitted use under [[annex g permitted use\|Annex G (Permitted Use)]] is not a defect |
+| photographs | BAST Lahan | dated, covering every boundary and every existing structure |
+| inventory | BAST Lahan | fixtures, vegetation of record, estate lines crossing the Plot |
+| soil baseline | BAST Lahan | soil test under [[soil policy]] |
+| boundary | BAST Lahan | the corners of [[annex b plot boundary\|Annex B (Plot Boundary)]] |
+| return condition | BAST Pengembalian | compared with the baseline above |
 
-## What "baseline" means for redelivery
+## Condition on return
 
-The Holder returns the Plot in the condition this annex records, adjusted for: (a) fair wear from the permitted use over the Term; (b) Improvements the Holder is entitled to leave or is required to remove under the deed's own end-of-term provisions; (c) soil condition, which is expected to have improved under Annex D (Community Rules) D3, not merely been preserved. A dispute over redelivery condition is resolved by the independent supervisor under [[hak sewa template]] 8.3, comparing the current state to this annex.
+The Holder returns the Plot as recorded here, with fair wear from its permitted use, with the Improvements Part 16 of the template leaves in place, and with soil improved under [[soil policy]]. The supervisor under 8.3 of the template settles a disagreement by comparing the Plot with this record.
