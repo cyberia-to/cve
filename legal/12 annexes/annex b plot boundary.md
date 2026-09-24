@@ -52,7 +52,7 @@ The Plot is reached from the public road by the estate road, which crosses two t
 | HGB No. 00047/Gesing | 20,700 m² | 02.02.2053 | — |
 | HGB No. 00052/Gesing | 20,000 m² | 12.04.2053 | No. 17082310215108002 of 10.08.2023 |
 
-The Landowner grants the Holder, its household, guests and contractors a right of way over the estate road for the Term, and certified copies of both certificates are delivered with Annex I (Due Diligence Pack).
+The Landowner grants the Holder, its household, guests and contractors a right of way over the estate road for the Term, and certified copies of both certificates are delivered with Annex C (Due Diligence Pack).
 
 ## 4. Drawing
 

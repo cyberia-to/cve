@@ -87,7 +87,7 @@ Every figure in this deed is listed in [Schedule 1](#schedule-1-the-value-sheet)
 
 Two forms exist on the market and no other: the lease paid upfront for the Term, or the lease taken under the century index.
 
-3.2 Rent under the century index form. ▲ The Holder pays the premium at signing and, for every lease year of the Term, the rent R(t) under [[annex e century index|Annex E (Century Index)]]: R₀ is recited, and the annex carries it with its annual reset on the anniversary, the collar of +35% / −15% per year in sats and the dual floor. Each year's R(t) is paid in 12 (twelve) equal monthly instalments. R₀ follows from the premium through the pricer at cyberia.my/cx, frozen for the deal in Annex J (Offer of Record). Two forms exist and no other: the upfront form at a premium of 100%, or this — no interest, no fee, the index alone. An instalment is in arrears 30 (thirty) days after its due date; the Holder has 6 (six) months from the first missed due date to clear arrears or to assign under Part 4 with the assignee assuming the rent; arrears outstanding at the end of that period entitle the Landowner to terminate by written notice, sums paid staying with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest.
+3.2 Rent under the century index form. ▲ The Holder pays the premium at signing and, for every lease year of the Term, the rent R(t) under [[annex e century index|Annex E (Century Index)]]: R₀ is recited, and the annex carries it with its annual reset on the anniversary, the collar of +35% / −15% per year in sats and the dual floor. Each year's R(t) is paid in 12 (twelve) equal monthly instalments. R₀ follows from the premium through the pricer at cyberia.my/cx, frozen for the deal in Annex D (Offer of Record). Two forms exist and no other: the upfront form at a premium of 100%, or this — no interest, no fee, the index alone. An instalment is in arrears 30 (thirty) days after its due date; the Holder has 6 (six) months from the first missed due date to clear arrears or to assign under Part 4 with the assignee assuming the rent; arrears outstanding at the end of that period entitle the Landowner to terminate by written notice, sums paid staying with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest.
 
 3.3 Denomination. ▲ Where consideration is indexed, the obligation is denominated in the century index. What is fixed at signing is the set of quantities qᵢ, the collar and the floor — not the amount of any future invoice. R(t) tracks the basket, metered by the collar of +35% / −15% per year in sats and held by the dual floor, as the [[cyberia/protocol/century-index|century index]] protocol states. The Index Annex carries weights, t₀ prices, quantities, fix sources with fallbacks, collar, floor and one worked invoice, and prevails over prose.
 
@@ -97,7 +97,7 @@ Two forms exist on the market and no other: the lease paid upfront for the Term,
 
 3.3.3 Divergence. Where an on-chain fix diverges from the annex computation, the annex computation prevails.
 
-3.4 Early redemption. ▲ A Holder on the century index form may at any time raise the premium to 100% by paying the rent for the remaining Term at the current R(t), discounted at the base rate stated in Annex J (Offer of Record), and stand as a Holder on the upfront form.
+3.4 Early redemption. ▲ A Holder on the century index form may at any time raise the premium to 100% by paying the rent for the remaining Term at the current R(t), discounted at the base rate stated in Annex D (Offer of Record), and stand as a Holder on the upfront form.
 
 3.5 Guarantee Fund. ▲ 5% of the consideration received on every grant, assignment or upgrade of a Plot enters the Guarantee Fund, before any other application of that money and ahead of the operating budget. The Fund is held on a separate Company account, ring-fenced from operating money, denominated in the [[cx|century index]] under [[annex e century index|Annex E (Century Index)]], and its balance is published in the Register and stated in the Estate Certificate. It secures the payments named in [16.4](#part-16-termination-and-end-of-term).
 
@@ -213,7 +213,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 | 3 | SLF | authority → applicant | confirmation that the building may be occupied |
 | 4 | FHO — *final hand over* | Contractor → Holder | end of defects period; retention released |
 | 5 | BAST Operasional | Holder ↔ Operator | day-to-day operation, maintenance, guest liability |
-| 6 | BAST Pengembalian | Holder → Landowner | condition on return, measured against Annex H (Handover Condition) |
+| 6 | BAST Pengembalian | Holder → Landowner | condition on return, measured against Annex G (Handover Condition) |
 
 8.7 SLF. The application follows the PBG applicant. The Holder funds the process, delivers as-built drawings and test certificates, procures the contractor's cooperation and provides access to the inspecting commission. No occupation before SLF. Periodic renewal is treated the same way.
 
@@ -233,7 +233,7 @@ The Fund is whatever has accumulated less payments properly made out of it: ther
 4. PKKPR and zoning confirm the intended use;
 5. a PBG application for the approved design is legally capable of being filed;
 6. the utility connection points in Annex F (Utilities, Access and Mobility) are physically ready to the specified capacity;
-7. title due diligence is clean — Annex I (Due Diligence Pack) delivered and the search under [15.1](#part-15-title-warranties-negative-pledge-indemnity) clear.
+7. title due diligence is clean — Annex C (Due Diligence Pack) delivered and the search under [15.1](#part-15-title-warranties-negative-pledge-indemnity) clear.
 
 9.2 Suspension. If any condition ceases to be satisfied, the clock stops and all time-based rights extend day for day. Cessation is notified within 14 days by the party that becomes aware of it.
 
@@ -346,7 +346,7 @@ Where this deed, a product page or any other estate document describes the upgra
 
 ⚠ Between step 3 and step 4 the parcel is State land and neither party holds a registered right over it. The Landowner does not execute the *pelepasan* until the Holder's eligibility under [12.1.2](#part-12-upgrade-tracks) is confirmed in writing and the application for the grant is lodged, and the Landowner bears the risk and the cost of restoring its own position if the grant is refused.
 
-⚠ The Landowner obtains the office's practice on the sequence in writing before the first application and annexes it as Annex K (Office Practice). Where the office requires a different order of the same steps, the order follows the office; the steps themselves do not change.
+⚠ The Landowner obtains the office's practice on the sequence in writing before the first application and annexes it as the Office Practice page. Where the office requires a different order of the same steps, the order follows the office; the steps themselves do not change.
 
 12.1.2 Statutory conditions on the Holder. ⚠ These are conditions of law which the Landowner neither controls nor warrants. Under [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 49(2)(e)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-49-who-may-hold-it) a foreign individual may hold hak pakai with a term, and under [Pasal 69(1)](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-69-who-qualifies) only while holding the immigration documents the law requires. [Pasal 50](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-50-losing-eligibility) gives one year to transfer if he ceases to qualify, after which the right lapses by operation of law. Under Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 a landed house acquired by a foreign national in the Province of Bali must reach a minimum value of Rp 5,000,000,000, fall within the luxury category, sit on no more than 2,000 m², and be limited to one parcel per person or family.
 
@@ -368,7 +368,7 @@ Where this deed, a product page or any other estate document describes the upgra
 The acts within the Landowner's power include, without limitation:
 
 - applying for and procuring *pemecahan* of the Plot from the master HGB, including the cadastral survey, the *Surat Ukur* and the boundary process with adjoining owners;
-- executing the *pelepasan hak* over the split parcel and lodging the application for the grant of Hak Pakai, in the order Annex K (Office Practice) records;
+- executing the *pelepasan hak* over the split parcel and lodging the application for the grant of Hak Pakai, in the order the Office Practice page records;
 - executing before the PPAT every deed, application, consent, declaration, power of attorney, statement and affidavit required by the PPAT, ATR/BPN or any other authority;
 - procuring the corporate authorisations its own constitution requires, including any approval of the Board of Commissioners under Articles of Association Article 12(3) for establishing a new business where the route involves one;
 - delivering the certificate, *Surat Ukur*, [[pbb|PBB]] receipts, [[nib|NIB]], tax documents and every other instrument in its possession that the application requires;
@@ -430,7 +430,7 @@ The cap in [15.4](#part-15-title-warranties-negative-pledge-indemnity) does not 
 - the Landowner shall re-apply, at the Holder's request and cost, on each occasion within [24] months on which the law or the practice of the office changes so as to permit the application, for as long as the Term subsists;
 - the Holder may, within 12 months of the final refusal, elect instead to terminate and receive the Unamortised premium under [[annex e century index|Annex E (Century Index)]] §1 plus the value of the Improvements at independent valuation, without damages, secured by the Guarantee Fund. ▲ This mirrors the no-fault exit in [10.6.4](#part-10-design-code) and exists for the same reason: a risk the Holder cannot price is not left with the Holder.
 
-12.1.13 Verification before the first application. ⚠ ○ Before the first Hak Pakai Notice is served the Landowner obtains, in writing and at its own cost, from counsel and from the Kantor Pertanahan of Buleleng: the sequence of *pemecahan*, *pelepasan hak* and grant the office requires; the stage of construction at which an application is accepted, and specifically whether PBG suffices in place of SLF; the documents the office requires from a PT PMA as registered holder; the treatment of the Estate's parcels under RTRW, [[lp2b|LP2B]] and *sempadan* for this purpose; and the current minimum-value figure for the Province of Bali. The answers are annexed as Annex K (Office Practice) and this Part is conformed to them before use.
+12.1.13 Verification before the first application. ⚠ ○ Before the first Hak Pakai Notice is served the Landowner obtains, in writing and at its own cost, from counsel and from the Kantor Pertanahan of Buleleng: the sequence of *pemecahan*, *pelepasan hak* and grant the office requires; the stage of construction at which an application is accepted, and specifically whether PBG suffices in place of SLF; the documents the office requires from a PT PMA as registered holder; the treatment of the Estate's parcels under RTRW, [[lp2b|LP2B]] and *sempadan* for this purpose; and the current minimum-value figure for the Province of Bali. The answers are annexed as the Office Practice page and this Part is conformed to them before use.
 
 12.1.14 Costs. Borne by the Holder: the cadastral survey and *pemecahan*; the *perubahan hak*; PPAT and notarial fees; registration fees at ATR/BPN; [[bphtb|BPHTB]], PPh and any other tax or state levy on the acquisition; the independent valuation under [12.1.4](#part-12-upgrade-tracks); and the Holder's own advisers.
 
@@ -499,7 +499,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 15.1 Warranties. ▲ Given at signing and repeated on each anniversary and on the date of each assignment in favour of the assignee: the Company is duly incorporated and subsisting with fully paid capital and a valid NIB; the Title is a valid HGB certificate whose number, dates and remaining term are disclosed in Annex A (Estate Registry) and recited as a number; a PKKPR covering the intended use subsists and is annexed, and the Plot does not sit on land recorded as *Pipil*, uncertificated or held on agreement; the Plot is free of *hak tanggungan*, *sita* and other encumbrances, has not been let, promised under a [[ppjb|PPJB]] or optioned, and is not in the physical possession of a third party; no proceedings and no asserted adat, subak or desa claims affect it; zoning and KKPR permit the intended use, and the Plot carries no [[lp2b|LP2B]] designation and falls outside *sempadan*; [[pbb|PBB]] is paid; the chain of title is disclosed. Given without knowledge qualification save where expressly marked.
 
-15.1.1 Due diligence and the search at signing. Annex I (Due Diligence Pack) is delivered before signing: certified copy of the Title, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR. As a condition of execution the PPAT performs *pengecekan sertifikat* on the day of signing and the result is recited. The Landowner warrants that nothing has been created over the Plot between search and signing.
+15.1.1 Due diligence and the search at signing. Annex C (Due Diligence Pack) is delivered before signing: certified copy of the Title, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR. As a condition of execution the PPAT performs *pengecekan sertifikat* on the day of signing and the result is recited. The Landowner warrants that nothing has been created over the Plot between search and signing.
 
 15.2 Negative pledge. ▲ For a Plot under a Hak Pakai Notice the standstill in [12.1.7](#part-12-upgrade-tracks) applies in addition and, where stricter, in place of this clause. The Landowner shall not, without the Holder's written consent, encumber the Plot with *hak tanggungan* or other security, grant competing rights over it, or dispose of it otherwise than subject to this deed, the transferee taking bound. [[articles of association]] Article 12(3) independently prohibits the Company from pledging or encumbering its land at all, by the nature of its constitution; this clause is the Holder's own contractual right on top of that constitutional prohibition, and controls if the Articles are ever amended to permit encumbrance again.
 
@@ -573,7 +573,7 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [5.1](#part-5-subletting) | area revenue charge | 10%, or 5% net-exporter | D10 | settled |
 | [5.1](#part-5-subletting) | settlement fee | 1 to 3% | D10 | settled |
 | [6.1](#part-6-the-plot-as-a-single-unit) | indicative area | per Plot | Annex B (Plot Boundary) | per deal |
-| [3.1](#part-3-consideration) | Plot price | per Plot, per form (upfront / scheduled / rent) | [[annex j offer of record\|Annex J (Offer of Record)]], offer of record | per deal |
+| [3.1](#part-3-consideration) | Plot price | per Plot, per form (upfront / scheduled / rent) | [[annex d offer of record\|Annex D (Offer of Record)]], offer of record | per deal |
 | [8.1](#part-8-construction-control) | approval window | 10 working days | framework 5A.1 | settled |
 | [8.5](#part-8-construction-control) | completion security | — | framework 5A.5 | open |
 | [8.6](#part-8-construction-control) | defects period, retention | 12 months, 5% | framework 5A.6 | proposed |
@@ -644,7 +644,7 @@ Assembled from [[land rights agreement]] v0.4.3, which holds the reasoning for e
 
 ⚠ D13, the Design Envelope lock at [10.6](#part-10-design-code), postdates the decision sheet and is not written up there. It is added to the sheet before the sheet is treated as complete.
 
-Annex K (Office Practice), the written practice of the Kantor Pertanahan of Buleleng and counsel's confirmation under [12.1.13](#part-12-upgrade-tracks), does not yet exist.
+the Office Practice page, the written practice of the Kantor Pertanahan of Buleleng and counsel's confirmation under [12.1.13](#part-12-upgrade-tracks), does not yet exist.
 
 Statutory sources relied on in Part [12.1](#part-12-upgrade-tracks): [[pp 18-2021 hak atas tanah|PP 18/2021]], Pasal 49(2)(e) and 69(1) for the eligibility of a foreign individual, Pasal 51 for the land that may carry a hak pakai — which is why the route runs through *pelepasan*, HGB not being on that list, Pasal 52(1) for the term. The regulation runs to Pasal 104; Pasal 103 repeals PP 40/1996 and PP 103/2015, so any figure taken from those is out of date. Permen ATR/BPN 18/2021 governs the procedure for establishing land rights, Pasal 187 and the surrounding articles for the modes by which a foreign national acquires; Kepmen ATR/BPN 1241/SK-HK.02/IX/2022 for the minimum value, the area ceiling and the one-parcel limit. ⚠ Each is verified against JDIH and against the current practice of the office before execution.
 

@@ -22,12 +22,12 @@ Two instruments per Plot form one transaction. The notary executes [[hak sewa si
 | Plot | sinwood-[___] on the estate map, Annex B (Plot Boundary), area ±[___] m² |
 | Term | from [___] for 25 years; the Title allows up to 02.02.2052, its expiry less 12 months, so the 25 years bind (Part 2) |
 | Form and price | Plot price Rp [___] · Premium [___]% = Rp [___] at signing · year-0 rent R₀ Rp [___] with its quantities in Annex E (Century Index) (Part 3) |
-| Offer of record | Annex J (Offer of Record): the product page and price as shown to the Holder, version of [___] |
+| Offer of record | Annex D (Offer of Record): the product page and price as shown to the Holder, version of [___] |
 | Design Code | [[cyber-valley/policies/design code\|Design Code]] as published on [___]; the approved design is protected under 10.6 |
-| Title check | *pengecekan sertifikat* of [___] clear; Annex I (Due Diligence Pack) delivered [___] |
+| Title check | *pengecekan sertifikat* of [___] clear; Annex C (Due Diligence Pack) delivered [___] |
 | Notice addresses | Landowner: [email] · Holder: [email] (18.3) |
 
-The Landowner and the Holder record that hak sewa is a contractual right under Indonesian civil law, unregistered at [[bpn|BPN]], and that Part 2.3 states what stands in its place. Each party has read Annexes A, B, E, F and H–K and the graph pages this deed links.
+The Landowner and the Holder record that hak sewa is a contractual right under Indonesian civil law, unregistered at [[bpn|BPN]], and that Part 2.3 states what stands in its place. Each party has read Annexes A–G and the graph pages this deed links.
 
 ---
 
@@ -141,7 +141,7 @@ The quantities are the ones fixed at signing; only their prices move. The Landow
 
 ## Part 3. Consideration
 
-3.0 Offer of record. The product page and price schedule the Holder relied on are frozen in Annex J (Offer of Record). Commitments stated there bind through this deed; statements of current state bind nothing.
+3.0 Offer of record. The product page and price schedule the Holder relied on are frozen in Annex D (Offer of Record). Commitments stated there bind through this deed; statements of current state bind nothing.
 
 3.1 Form. The Holder takes the Plot under one of two forms, elected in the recitals:
 
@@ -150,7 +150,7 @@ The quantities are the ones fixed at signing; only their prices move. The Landow
 | full payment | Premium 100% of the Plot price | area revenue charge, service charge, taxes |
 | century index | the Premium recited, below 100% | rent for each lease year, set at signing as fixed quantities of Annex E (Century Index); each year's rent is those quantities at the published fixes, within the collar and floor; paid in 12 equal monthly instalments |
 
-3.2 Rent under the century index form. The rent is a set of quantities of eight assets, fixed at signing for the whole Term. The quantities never change; the prices of the assets move, and with them each asset's share of the basket and the rupiah amount of each invoice. No interest, no fee and no review against market value sit on top. R₀, the first year's rent, follows from the Premium through the pricer at cyberia.my/cx, frozen for this deal in Annex J (Offer of Record). The Holder may at any time raise the Premium to 100% by paying the quantities of every remaining lease year, valued at the fixes of the payment date and discounted at the base rate stated in Annex J (Offer of Record), and stands thereafter on the upfront form.
+3.2 Rent under the century index form. The rent is a set of quantities of eight assets, fixed at signing for the whole Term. The quantities never change; the prices of the assets move, and with them each asset's share of the basket and the rupiah amount of each invoice. No interest, no fee and no review against market value sit on top. R₀, the first year's rent, follows from the Premium through the pricer at cyberia.my/cx, frozen for this deal in Annex D (Offer of Record). The Holder may at any time raise the Premium to 100% by paying the quantities of every remaining lease year, valued at the fixes of the payment date and discounted at the base rate stated in Annex D (Offer of Record), and stands thereafter on the upfront form.
 
 3.3 Arrears. An instalment is in arrears 30 days after its due date. Arrears open a period of 6 months from the first missed due date during which the Holder may clear them, or assign under Part 4 with the assignee assuming the rent. On the day that period ends with arrears outstanding, the Landowner may terminate by written notice; sums paid stay with the Landowner as the price of the time held, and the Plot returns free of the Holder's interest. Improvements follow 16.2.
 
@@ -177,7 +177,7 @@ The quantities are the ones fixed at signing; only their prices move. The Landow
 | built within time, SLF issued | 0.5 percentage points |
 | Design Code kept for the whole term | 0.25 percentage points |
 | soil and water results published to the ledger without gaps | 0.25 percentage points |
-| referred Holders at or above the threshold on the [[cyber-valley/strategy/leasehold-referrals\|leasehold referrals]] page | fee at 1.0% |
+| referred Holders at or above the threshold on the [[cyber-valley/strategy/referral system\|referral system]] page | fee at 1.0% |
 
 4.5.1 Right of first refusal. Exists in Wave 1 only and lapses permanently on SLF. The Holder serves an offer notice stating price and terms 30 days before the intended sale; the Landowner may take up the whole offer within 7 working days of the notice; absent take-up the Holder may sell within 60 days at a price and on terms at least as favourable to it.
 
@@ -250,12 +250,12 @@ Land-time totals 12% of revenue, or 7% in a net-exporter district. Stay totals [
 
 | # | document | between | what moves |
 |---|---|---|---|
-| 1 | BAST Lahan | Landowner → Holder | possession; site safety; Annex H (Handover Condition) baseline recorded |
+| 1 | BAST Lahan | Landowner → Holder | possession; site safety; Annex G (Handover Condition) baseline recorded |
 | 2 | PHO | Contractor → Holder | practical completion; 12-month defects period, 5% retention |
 | 3 | SLF | authority → applicant | permission to occupy |
 | 4 | FHO | Contractor → Holder | end of defects; retention released |
 | 5 | BAST Operasional | Holder ↔ operator | operation under the stay channel |
-| 6 | BAST Pengembalian | Holder → Landowner | return, measured against Annex H (Handover Condition) |
+| 6 | BAST Pengembalian | Holder → Landowner | return, measured against Annex G (Handover Condition) |
 
 8.7 SLF. Applied for by the PBG applicant, funded by the Holder, who delivers as-builts and test certificates and procures the contractor's cooperation. Occupation starts at SLF. Periodic SLF renewal follows the same route.
 
@@ -267,7 +267,7 @@ Land-time totals 12% of revenue, or 7% in a net-exporter district. Stay totals [
 
 ## Part 9. Build obligation
 
-9.1 The clock starts on a *Berita Acara Mulai* signed by both parties recording that: BAST Lahan is signed; Annex B (Plot Boundary) is initialled, *patok* set and the *Berita Acara Persetujuan Batas* signed by adjoining owners and any *subak*, *desa* or *sempadan* interest; legal access subsists by the estate road set out in Annex B (Plot Boundary) §3; PKKPR and zoning confirm the use; a PBG application for the approved design can be filed; access under Annex F (Utilities, Access and Mobility) is open to the Plot; and Annex I (Due Diligence Pack) is delivered with the 15.1.1 search clear.
+9.1 The clock starts on a *Berita Acara Mulai* signed by both parties recording that: BAST Lahan is signed; Annex B (Plot Boundary) is initialled, *patok* set and the *Berita Acara Persetujuan Batas* signed by adjoining owners and any *subak*, *desa* or *sempadan* interest; legal access subsists by the estate road set out in Annex B (Plot Boundary) §3; PKKPR and zoning confirm the use; a PBG application for the approved design can be filed; access under Annex F (Utilities, Access and Mobility) is open to the Plot; and Annex C (Due Diligence Pack) is delivered with the 15.1.1 search clear.
 
 9.2 If a condition lapses the clock stops, time-based rights extend day for day, the protection of the approved design extends by the same period, and no holding charge accrues. The party that learns of it notifies within 14 days.
 
@@ -349,13 +349,13 @@ Weights are normalised per district each moon cycle, capped at 10% per participa
 
 12.1 Track F, Hak Pakai for a Foreign Holder. The Holder holds an option, part of what it buys, passing with the bundle and binding the Landowner through every change of ownership or control, to require the Hak Pakai procedure over the Plot to be started and carried to registration. The hak sewa stays a hak sewa until the land office grants the new right; the Landowner's undertaking is to perform every act within its power, in time.
 
-12.1.1 Route: (1) the Holder pays the conversion price under 12.1.9A and the costs under 12.1.9; (2) *pemecahan sertifikat* at BPN; (3) *pelepasan hak* over the split parcel, executed once the Holder's eligibility is confirmed in writing and the grant application is lodged; (4) grant of Hak Pakai to the Holder on the deed before the PPAT. Where Annex K (Office Practice) records a different order of the same steps, the office's order governs.
+12.1.1 Route: (1) the Holder pays the conversion price under 12.1.9A and the costs under 12.1.9; (2) *pemecahan sertifikat* at BPN; (3) *pelepasan hak* over the split parcel, executed once the Holder's eligibility is confirmed in writing and the grant application is lodged; (4) grant of Hak Pakai to the Holder on the deed before the PPAT. Where the Office Practice page records a different order of the same steps, the office's order governs.
 
 12.1.2 Conditions of law on the Holder, warranted by nobody: eligibility under PP 18/2021 Pasal 49(2)(e) and 69(1); a valid residence permit; the Bali minimum value of Rp 5,000,000,000 for land and house together, one parcel per person or family, up to 2,000 m², under Kepmen ATR/BPN 1241/SK-HK.02/IX/2022. The recitals state this figure against this Plot.
 
 12.1.3 The Hak Pakai runs 30 years, extendable by 20 and renewable by 30 under PP 18/2021 Pasal 52(1), each cycle granted by the office.
 
-12.1.4 Trigger. A Hak Pakai Notice may be served once SLF has issued, an independent valuation annexed to the Notice meets the threshold, a residence permit is in force, and sums due are paid with no uncured material default. Where Annex K (Office Practice) confirms acceptance at PBG stage, the Notice may be served then.
+12.1.4 Trigger. A Hak Pakai Notice may be served once SLF has issued, an independent valuation annexed to the Notice meets the threshold, a residence permit is in force, and sums due are paid with no uncured material default. Where the Office Practice page confirms acceptance at PBG stage, the Notice may be served then.
 
 12.1.5 On a valid Notice the Landowner performs every act within its power: *pemecahan* with survey and boundary process; the *pelepasan* and grant application; every deed, consent, power and declaration the PPAT or the office requires; its own corporate authorisations; delivery of certificate, *Surat Ukur*, PBB receipts, NIB and tax documents; appearance at every stage; and abstention from any act that delays the application.
 
@@ -371,13 +371,13 @@ Weights are normalised per district each moon cycle, capped at 10% per participa
 
 (e) delivers any document or signature required by the PPAT, the office or the Holder within 10 working days of the request;
 
-(f) notifies the Holder of any step added under Annex K (Office Practice) within 5 working days of learning of it, and completes that step within 30 days of learning of it.
+(f) notifies the Holder of any step added under the Office Practice page within 5 working days of learning of it, and completes that step within 30 days of learning of it.
 
 12.1.7 Standstill. From signing until registration or final failure the Landowner refrains, absent the Holder's written consent, from disposing of the Plot or its parcel otherwise than subject to this deed, granting any right over the Plot, creating any security or notation over the Plot or the certificate it is split from, and surrendering or altering the Title otherwise than as this Part requires. The stricter of this clause and 15.2 applies.
 
 12.1.8 Power of attorney. To the extent the law permits, the Landowner grants the Holder an irrevocable power, in the notary's form executed with this deed, to sign in its name the instruments of 12.1.5 left unsigned past the periods of 12.1.6. The obligation of 12.1.5 stands on its own.
 
-12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, BPHTB on the grant, the PPh due on the *pelepasan* (paid by the Landowner and reimbursed by the Holder within 10 working days of evidence of payment), the valuation, its own advisers, and a processing fee of [2.0]% of the valuation under 12.1.4. Landowner: its own authorisations and advisers, the Annex K (Office Practice) verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
+12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, BPHTB on the grant, the PPh due on the *pelepasan* (paid by the Landowner and reimbursed by the Holder within 10 working days of evidence of payment), the valuation, its own advisers, and a processing fee of [2.0]% of the valuation under 12.1.4. Landowner: its own authorisations and advisers, the the Office Practice page verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
 
 12.1.9A Conversion price. The hak sewa is a lease and its consideration buys the Term only. The Plot under Hak Pakai is acquired for a conversion price equal to the valuation under 12.1.4 of the Plot held under Hak Pakai, fixed as at the date of the Notice, less the Unamortised premium at that date. The conversion price is paid before the *pelepasan* is executed and is refunded in full on any failure under 12.1.10.
 
@@ -395,7 +395,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 12.1.12 No-fault failure. The hak sewa continues with every right. The Landowner refunds the Holder's documented application costs, re-applies at the Holder's request and cost whenever within 24 months of final refusal the law or the office's practice changes to permit it, and the Holder may within 12 months of final refusal elect to exit with the Unamortised premium and the value of Improvements at independent valuation, secured by the Guarantee Fund.
 
-12.1.13 Before the first Notice the Landowner obtains in writing, at its cost, from the Kantor Pertanahan of Buleleng and from counsel, the answers to the eight questions of Annex K (Office Practice): the order of *pemecahan*, *pelepasan hak* and grant; the construction stage at which an application is accepted; the documents required; the spatial-plan treatment of the Estate; the current value, area and parcel limits for a foreign holder; the power of attorney under 12.1.8; the *rumah tinggal* test; and the covenant mechanism of 12.1.14. This Part is conformed to the answers.
+12.1.13 Before the first Notice the Landowner obtains in writing, at its cost, from the Kantor Pertanahan of Buleleng and from counsel, the answers to the eight questions of the [[office practice|Office Practice]] page: the order of *pemecahan*, *pelepasan hak* and grant; the construction stage at which an application is accepted; the documents required; the spatial-plan treatment of the Estate; the current value, area and parcel limits for a foreign holder; the power of attorney under 12.1.8; the *rumah tinggal* test; and the covenant mechanism of 12.1.14. This Part is conformed to the answers.
 
 12.1.14 On registration the hak sewa over the Plot ends; the parties execute the notary's deed of termination and the Register entry is closed; the conversion price having been paid, no further consideration is due for the Plot; the Design Code, the Community Rules, Council membership and the area revenue charge continue to bind the Hak Pakai holder through covenants recorded in the acquisition deed and easements over access and utilities, drafted with the notary before the first Notice. Company shares the Holder has bought stay with the Holder.
 
@@ -409,7 +409,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 ## Part 13. Representations
 
-13.1 Landowner: valid title; encumbrances as disclosed in Annex I (Due Diligence Pack) and none other; zoning and [[kkpr|KKPR]] permit the use; licences and their locational scope as in Annex A (Estate Registry) §3; the warranties of 15.1.
+13.1 Landowner: valid title; encumbrances as disclosed in Annex C (Due Diligence Pack) and none other; zoning and [[kkpr|KKPR]] permit the use; licences and their locational scope as in Annex A (Estate Registry) §3; the warranties of 15.1.
 
 13.2 Holder: identity and status; lawful source of funds; absence of nominee arrangement; ability to fund construction.
 
@@ -443,7 +443,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 15.1 Warranties, given at signing, repeated on each anniversary and to each assignee on assignment, without knowledge qualification: the Company is duly incorporated with paid capital and a valid NIB; the Title is a valid HGB certificate with number, dates and remaining term as in Annex A (Estate Registry); a PKKPR covering the use subsists and is annexed; the Plot sits on certificated land, free of *hak tanggungan*, *sita*, lease, [[ppjb|PPJB]], option and third-party possession; no proceedings and no adat, subak or desa claim affect it; zoning and KKPR permit the use; the Plot carries no [[lp2b|LP2B]] designation and falls outside *sempadan*; PBB is paid; the chain of title is disclosed.
 
-15.1.1 Annex I (Due Diligence Pack) is delivered before signing with a BPN search dated within 30 days; the PPAT performs *pengecekan sertifikat* on the day of signing and the result is recited; the Landowner warrants nothing was created over the Plot between search and signing.
+15.1.1 Annex C (Due Diligence Pack) is delivered before signing with a BPN search dated within 30 days; the PPAT performs *pengecekan sertifikat* on the day of signing and the result is recited; the Landowner warrants nothing was created over the Plot between search and signing.
 
 15.2 Negative pledge. The Landowner refrains from encumbering the Plot, granting competing rights over it, or disposing of it otherwise than subject to this deed with the transferee bound. [[articles of association]] Article 12(3) independently prohibits encumbrance; this clause stands on its own if the Articles change.
 
@@ -471,7 +471,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 16.4 The Guarantee Fund secures the payments under 9.3, 9.5(2), 10.6.3, 12.1.11, 12.1.12, 14.4, 15.4, 15.5 and this Part.
 
-16.5 Return. The Holder delivers the Plot under BAST Pengembalian measured against Annex H (Handover Condition) within 60 days of the end date, with charges and taxes settled.
+16.5 Return. The Holder delivers the Plot under BAST Pengembalian measured against Annex G (Handover Condition) within 60 days of the end date, with charges and taxes settled.
 
 ---
 
@@ -503,12 +503,11 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 |---|---|
 | A | [[annex a estate registry\|Estate Registry]]: the Title |
 | B | [[annex b plot boundary\|Plot Boundary]]: the Plot, its neighbours, its access, its drawing |
+| C | [[annex c due diligence pack\|Due Diligence Pack]]: the documents handed over before signing, with the record of handover |
+| D | [[annex d offer of record\|Offer of Record]]: the product page and price as shown |
 | E | [[annex e century index\|Century Index]]: terms, formulas, rules, quantities at signing |
 | F | [[annex f utilities access mobility\|Utilities, Access and Mobility]]: self-sufficiency norms per Plot |
-| H | [[annex h handover condition\|Handover Condition]]: baseline at BAST Lahan |
-| I | [[annex i due diligence pack\|Due Diligence Pack]]: documents at signing |
-| J | [[annex j offer of record\|Offer of Record]]: the product page and price as shown |
-| K | [[annex k office practice\|Office Practice]]: Kantor Pertanahan and counsel answers under 12.1.13 |
+| G | [[annex g handover condition\|Handover Condition]]: the record of handover of the Plot |
 
 | linked page | what it governs |
 |---|---|
@@ -518,6 +517,8 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 | [[cyber-valley/policies/guarantee fund policy\|Guarantee fund policy]] | inflows, ledger, order of payment |
 | [[cyber-valley/policies/biosphere and desa reserves\|Biosphere and desa reserves]] | where holding charges and tithes go |
 | [[company licences\|Company licences]] | NIB, KBLI, PKKPR |
+| [[office practice\|Office Practice]] | land office and counsel answers on Hak Pakai and Hak Milik |
+| [[cyber-valley/strategy/referral system\|Referral system]] | leasehold and event referrals |
 
 ---
 
@@ -543,7 +544,7 @@ Figures in brackets in the text:
 | 8.5 | completion security | 5% of budget, 50% at SLF, 50% at FHO |
 | 9.5 | holding charge, buy-back trigger | 0.5% per month +0.25 pp per 6 months; 12 months |
 | 10.4 | density settlement fee | 2% |
-| 11.1.1 | weight formula, bonus, cap | as D11 draft; 0.25; 10% |
+| 11.1.1 | bonus, cap | 0.25 per condition; 10% of district weight |
 | 11.3 | initiative threshold | 10% of district weight |
 | 11.4 | service charge cap | 1% of Plot price per year |
 | 12.1.9 | processing fee | 2.0% of the valuation |

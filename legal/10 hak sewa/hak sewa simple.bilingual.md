@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, draft
+tags: cyber valley, cyberia, legal
 alias: hak sewa simple bilingual, akta sewa dwibahasa, simple lease bilingual
 crystal-type: pattern
 crystal-domain: cyberia
@@ -7,19 +7,15 @@ icon: "🖋"
 ---
 # Akta Sewa — Bentuk Sederhana / Hak Sewa — Simple Form
 
-Akta sewa minimal yang dapat ditandatangani / The minimal signable lease · draft for counsel and [[ppat|PPAT]].
-
-## Kedudukan — Standing
-
-| Satu halaman, delapan pasal. Satuan hitung adalah [[annex e century index\|indeks abad]] (century index); rupiah semata-mata merupakan mata uang penyelesaian pembayaran. | One page, eight clauses. The unit of account is the [[annex e century index\|century index]]; rupiah is only the settlement currency. |
+Akta sewa notaris untuk setiap Bidang Tanah, ditandatangani bersama [[hak sewa template]] sebagai satu transaksi / The notarial *akta sewa* of each Plot, signed with [[hak sewa template]] as one transaction.
 
 ## Naskah Operasional — Operative text
 
 > **AKTA SEWA — SIMPLE FORM**
 
-| **1. Para Pihak.** PT CYBER VALLEY ESTATE, PT PMA, berkedudukan di Gesing, Banjar, Buleleng, Bali, [[nib\|NIB]] [___] ("Pemilik Tanah"), dan [___] ("Penyewa"). | **1. Parties.** PT CYBER VALLEY ESTATE, PT PMA, domiciled in Gesing, Banjar, Buleleng, Bali, [[nib\|NIB]] [___] (the "Landowner"), and [___] (the "Holder"). |
-| **2. Bidang Tanah.** Bidang tanah yang ditandai di lapangan dengan patok dan diuraikan dalam *peta bidang* terlampir, seluas ±[___] m², merupakan bagian dari sertipikat [[hgb\|HGB]] No. [___]. | **2. Plot.** The parcel marked on the ground (*patok*) and described in the attached *peta bidang*, ±[___] m², part of [[hgb\|HGB]] certificate No. [___]. |
-| **3. Pemberian hak, jangka waktu, dan penguasaan secara tenang.** Pemilik Tanah menyewakan Bidang Tanah kepada Penyewa (*hak sewa*) untuk jangka waktu [___] tahun terhitung sejak penandatanganan, dalam batas sisa jangka waktu sertipikat. Pemilik Tanah menjamin haknya untuk menyewakan Bidang Tanah dan tidak mengganggu penggunaan oleh Penyewa selama akta ini berlaku. | **3. Grant, term and quiet enjoyment.** The Landowner leases the Plot to the Holder (*hak sewa*) for [___] years from signing, within the remaining term of the certificate. The Landowner warrants its right to lease the Plot and does not disturb the Holder's use while this deed stands. |
+| **1. Para Pihak.** PT CYBER VALLEY ESTATE, PT PMA, berkedudukan di Gesing, Banjar, Buleleng, Bali, [[nib\|NIB]] 2504220016017 ("Pemilik Tanah"), dan [___] ("Penyewa"). | **1. Parties.** PT CYBER VALLEY ESTATE, PT PMA, domiciled in Gesing, Banjar, Buleleng, Bali, [[nib\|NIB]] 2504220016017 (the "Landowner"), and [___] (the "Holder"). |
+| **2. Bidang Tanah.** Bidang tanah yang ditandai di lapangan dengan patok dan diuraikan dalam *peta bidang* terlampir, sinwood-[___], seluas ±[___] m², merupakan bagian dari sertipikat [[hgb\|HGB]] No. 00048/Gesing. | **2. Plot.** The parcel marked on the ground (*patok*) and described in the attached *peta bidang*, sinwood-[___], ±[___] m², part of [[hgb\|HGB]] certificate No. 00048/Gesing. |
+| **3. Pemberian hak, jangka waktu, dan penguasaan secara tenang.** Pemilik Tanah menyewakan Bidang Tanah kepada Penyewa (*hak sewa*) untuk jangka waktu 25 (dua puluh lima) tahun terhitung sejak penandatanganan, dalam batas sisa jangka waktu sertipikat. Pemilik Tanah menjamin haknya untuk menyewakan Bidang Tanah dan tidak mengganggu penggunaan oleh Penyewa selama akta ini berlaku. | **3. Grant, term and quiet enjoyment.** The Landowner leases the Plot to the Holder (*hak sewa*) for 25 years from signing, within the remaining term of the certificate. The Landowner warrants its right to lease the Plot and does not disturb the Holder's use while this deed stands. |
 | **4. Uang sewa.** Premi atas sewa ini, sebagaimana disebutkan dalam akta ini, adalah **Rp [___]** ([___]% dari nilai hak sewa), dibayar pada saat penandatanganan. Apabila premi kurang dari 100%, Penyewa membayar pula uang sewa tahunan sebesar **Rp [___]** untuk tahun sewa pertama ("Uang Sewa yang Disebutkan") — nilai pada saat penandatanganan dari kuantitas tetap yang tercantum dalam [[annex e century index\|Lampiran E (Indeks Abad)]], dikonversi dengan kurs [[jisdor\|JISDOR]] pada tanggal penandatanganan — dan untuk setiap tahun sewa berikutnya jumlah yang diturunkan Lampiran E dari kuantitas tersebut, disesuaikan pada setiap tanggal ulang tahun dalam batas collar dan lantai (floor) Lampiran E. Uang sewa setiap tahun dibayar dalam **12 angsuran bulanan yang sama besar**.
 
 Apa yang tidak dapat dicantumkan dalam akta. Notaris dan [[ppat\|PPAT]] mencatat harga dalam rupiah, bukan dalam satuan indeks eksternal — kuantitas dan rumus dalam Lampiran E merupakan mekanisme internal yang digunakan para pihak untuk menghitung Uang Sewa yang Disebutkan, uang sewa setiap tahun berikutnya dan harga perpanjangan; keduanya tidak dicantumkan sebagai satuan hitung dalam akta ini. Jumlah rupiah untuk setiap tahun berikutnya dihitung dari Lampiran E pada saat penyesuaiannya, sesuai [[uu 7-2011 mata uang\|UU 7/2011]] mengenai satuan hitung dan penyelesaian pembayaran. | **4. Rent.** The premium for the lease, as recited in this akta, is **Rp [___]** ([___]% of the leasehold value), paid at signing. Where the premium is below 100%, the Holder pays in addition an annual rent of **Rp [___]** in the first lease year (the "Recited Rent") — the value at signing of the fixed quantities carried in [[annex e century index\|Annex E (Century Index)]], converted at [[jisdor\|JISDOR]] on the signing date — and in every later lease year the amount Annex E (Century Index) derives from those quantities, reset on each anniversary within its collar and floor. Each year's rent is paid in **12 equal monthly instalments**.

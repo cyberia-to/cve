@@ -1,5 +1,5 @@
 ---
-tags: cyber valley, cyberia, legal, draft
+tags: cyber valley, cyberia, legal
 alias: hak sewa simple, simple lease, sewa simple, simple hak sewa
 crystal-type: pattern
 crystal-domain: cyberia
@@ -7,26 +7,20 @@ icon: "🖋"
 ---
 # Hak Sewa Simple
 
-The minimal signable lease, draft for counsel and [[ppat|PPAT]].
-
-One page, eight clauses. The unit of account is the
-[[annex e century index|century index]]; rupiah is only the settlement
-currency.
-
-## Operative text
+The notarial *akta sewa* of each Plot, signed with [[hak sewa template]] as one transaction.
 
 > **AKTA SEWA — SIMPLE FORM**
 >
 > **1. Parties.** PT CYBER VALLEY ESTATE, PT PMA, domiciled in Gesing,
-> Banjar, Buleleng, Bali, [[nib|NIB]] [___] (the "Landowner"), and
+> Banjar, Buleleng, Bali, [[nib|NIB]] 2504220016017 (the "Landowner"), and
 > [___] (the "Holder").
 >
 > **2. Plot.** The parcel marked on the ground (*patok*) and described
-> in the attached *peta bidang*, ±[___] m², part of [[hgb|HGB]]
-> certificate No. [___].
+> in the attached *peta bidang*, sinwood-[___], ±[___] m², part of
+> [[hgb|HGB]] certificate No. 00048/Gesing.
 >
 > **3. Grant, term and quiet enjoyment.** The Landowner leases the Plot
-> to the Holder (*hak sewa*) for [___] years from signing, within the
+> to the Holder (*hak sewa*) for 25 years from signing, within the
 > remaining term of the certificate. The Landowner warrants its right to
 > lease the Plot and does not disturb the Holder's use while this deed
 > stands.

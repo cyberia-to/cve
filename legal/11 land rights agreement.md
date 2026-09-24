@@ -26,9 +26,9 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 | [[annex e century index\|Annex E (Century Index)]] | Century index annex (T1) — weights, t₀ prices, quantities qᵢ, fixes, floor, worked invoice; also the unamortised-return formula |
 | [[annex f utilities access mobility\|Annex F (Utilities, Access and Mobility)]] | Utilities, access and mobility specification |
 | [[cyber-valley/policies/permitted use\|Permitted Use]] | Permitted-use matrix by Holder class, zone and track |
-| [[annex h handover condition\|Annex H (Handover Condition)]] | Condition schedule at site handover (baseline for redelivery, 5A.6 #6) |
-| [[annex i due diligence pack\|Annex I (Due Diligence Pack)]] | Due diligence pack under 9B.2 |
-| [[annex j offer of record\|Annex J (Offer of Record)]] | Offer of record under 2.1.2 — the product page and price schedule as they stood, by commit hash and date |
+| [[annex g handover condition\|Annex G (Handover Condition)]] | Condition schedule at site handover (baseline for redelivery, 5A.6 #6) |
+| [[annex c due diligence pack\|Annex C (Due Diligence Pack)]] | Due diligence pack under 9B.2 |
+| [[annex d offer of record\|Annex D (Offer of Record)]] | Offer of record under 2.1.2 — the product page and price schedule as they stood, by commit hash and date |
 
 ---
 
@@ -83,7 +83,7 @@ The Landowner covenants to apply for extension and, where extension is exhausted
 
 2.1.1 Where the term lives. The term is a property of the Plot, not of the product. The shared product pages describe the shape of the instrument; the term as a date appears in three places only — the recitals of this deed, the Register under 2.5.8, and the Estate Certificate under 2.5.6. Price per are is set for the Plot with its term known, so that two Plots on differently-dated Titles are not priced as if identical.
 
-2.1.2 Offer of record. ▲ The product pages are living documents and change as the city develops; what the Holder was told when it decided does not. The version of the product page and price schedule on which the Holder relied is annexed as Annex J (Offer of Record), identified by commit hash and date. Later amendment of those pages alters neither this deed nor that annex. Statements in the pages that are commitments — renewal by right, the area revenue charge, the assignment regime, the non-disturbance covenant — change only through this deed and the decision record; statements of current state change freely and bind nothing.
+2.1.2 Offer of record. ▲ The product pages are living documents and change as the city develops; what the Holder was told when it decided does not. The version of the product page and price schedule on which the Holder relied is annexed as Annex D (Offer of Record), identified by commit hash and date. Later amendment of those pages alters neither this deed nor that annex. Statements in the pages that are commitments — renewal by right, the area revenue charge, the assignment regime, the non-disturbance covenant — change only through this deed and the decision record; statements of current state change freely and bind nothing.
 
 2.2 Nature of the right, and what stands in place of registration. ⚠ Hak Sewa is a contractual right under Indonesian civil law. It is not registered at BPN as a land title and does not appear on the certificate. This is stated in the recitals in those words. ▲ In place of registration the Holder receives, and the Landowner expressly grants:
 
@@ -259,7 +259,7 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 | 3 | SLF (see 5A.7) | authority → applicant | public-law confirmation that the building may be occupied |
 | 4 | FHO — *Berita Acara Serah Terima Akhir* | Contractor → Holder | end of defects period; retention released |
 | 5 | BAST Operasional | Holder ↔ Operator (if any) | day-to-day operation, maintenance, guest liability |
-| 6 | BAST Pengembalian (redelivery) | Holder → Landowner at term end | condition on return, measured against Annex H (Handover Condition) |
+| 6 | BAST Pengembalian (redelivery) | Holder → Landowner at term end | condition on return, measured against Annex G (Handover Condition) |
 
 5A.7 SLF. Application follows the PBG applicant, therefore the Landowner. The Holder shall fund the process, deliver as-built drawings and test certificates, procure the contractor's cooperation and provide access to the inspecting commission. No occupation or use of any Improvement before SLF issuance. Periodic SLF renewal is treated the same way.
 
@@ -279,7 +279,7 @@ The Landowner does not build, yet remains the title holder and the PBG applicant
 4. PKKPR and zoning for the parcel confirm the intended use;
 5. a PBG application for the approved design is legally capable of being filed;
 6. the agreed utility connection points in Annex F (Utilities, Access and Mobility) are physically ready to the specified capacity;
-7. title due diligence is clean — Annex I (Due Diligence Pack) delivered and the search under 9B.2 clear.
+7. title due diligence is clean — Annex C (Due Diligence Pack) delivered and the search under 9B.2 clear.
 
 6.0.1 Suspension. If, after the Commencement Certificate, any of 6.0(1)–(7) ceases to be satisfied, the clock stops for the duration and all time-based rights extend day for day. Cessation is notified within [14] days by the party that becomes aware of it.
 
@@ -410,7 +410,7 @@ Holder: identity and status, source of funds, no nominee arrangement, ability to
 - [[pbb|PBB]] is paid and no arrears subsist;
 - the chain of title documents is disclosed.
 
-9B.2 Due diligence pack and the search at signing. Annex I (Due Diligence Pack), delivered before signing: certified copy of the Title certificate, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR document. In addition, and as a condition of execution, the PPAT performs *pengecekan sertifikat* at BPN on the day of signing and the result is recited in the deed. The Landowner warrants that nothing has been created over the Plot between the search and signing.
+9B.2 Due diligence pack and the search at signing. Annex C (Due Diligence Pack), delivered before signing: certified copy of the Title certificate, *Surat Ukur*, NIB, PBB receipts, a BPN non-encumbrance search dated no more than 30 days before signing, and the PKKPR document. In addition, and as a condition of execution, the PPAT performs *pengecekan sertifikat* at BPN on the day of signing and the result is recited in the deed. The Landowner warrants that nothing has been created over the Plot between the search and signing.
 
 9B.2a Keeping the Title alive. The Landowner covenants, for the life of this deed, to do everything required to keep the [[hgb|HGB]] over the Plot in force: to satisfy the duties of a holder under [[pp 18-2021 hak atas tanah|PP 18/2021]] [Pasal 42](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-42-the-holder-s-duties), including the duty to build or work the land in line with the grant decision within 2 (two) years of the grant; to apply for extension before the term expires and for renewal within the period allowed by [Pasal 41](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-41-when-to-apply); and to avoid any act or omission that would expose the Plot to being declared Tanah Telantar or otherwise bring the Title to an end under [Pasal 46](/cyber-valley/cve/legal/laws/pp-18-2021-hak-atas-tanah#pasal-46-how-hgb-lapses). Construction carried out by the Holder under this deed counts towards the Landowner's duty under Pasal 42 for the Plot. On written request the Landowner evidences compliance to the Holder, and failure to do so is a Landowner default under [§9B.6](#9b-title-warranties-negative-pledge-and-indemnity).
 

@@ -16,9 +16,9 @@ The annexes of [[hak sewa template]]: what is fixed per deal. Rules the city cha
 | B | [[annex b plot boundary\|Plot Boundary — corners, neighbours, access, drawing]] | per Plot |
 | E | [[annex e century index\|Century Index — terms, formulas, rules, quantities]] | per deal |
 | F | [[annex f utilities access mobility\|Utilities, Access and Mobility — self-sufficiency norms]] | once |
-| H | [[annex h handover condition\|Handover Condition — baseline at BAST Lahan]] | per Plot |
-| I | [[annex i due diligence pack\|Due Diligence Pack — documents at signing]] | per deal |
-| J | [[annex j offer of record\|Offer of Record — the page and price shown]] | per deal |
-| K | [[annex k office practice\|Office Practice — land office and counsel answers]] | once |
+| H | [[annex g handover condition\|Annex G (Handover Condition)]] | per Plot |
+| I | [[annex c due diligence pack\|Annex C (Due Diligence Pack)]] | per deal |
+| J | [[annex d offer of record\|Annex D (Offer of Record)]] | per deal |
+| K | [[office practice\|Office Practice]] | once |
 
 Annex E keeps its letter across the pack: the signed [[perjanjian sewa fedorov|Fedorov lease]] names the century index Lampiran E.
