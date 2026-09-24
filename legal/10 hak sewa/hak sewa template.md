@@ -17,11 +17,12 @@ Two instruments per Plot. The notary executes [[hak sewa simple]], the eight-cla
 
 | field | value |
 |---|---|
-| Landowner | PT CYBER VALLEY ESTATE, PT PMA, Gesing, Banjar, Buleleng, Bali, [[nib\|NIB]] [___] |
+| Landowner | PT CYBER VALLEY ESTATE, PT PMA, Gesing, Banjar, Buleleng, Bali, established by Akta Pendirian No. 01 of 04.01.2022, [[nib\|NIB]] 2504220016017, NPWP 53.898.326.3-902.000 |
 | Holder | [___], [Foreign Holder / Indonesian Holder] |
-| Title | HGB No. [___], Annex A (Estate Registry) parcel [___], granted [___], expiring [___] |
+| Title | HGB No. 00048/Gesing, Annex A (Estate Registry) parcel 4 (sinwood, where the first signings run; another parcel takes its own Annex A row), 40,000 m², parcel NIB 22040417.00276, Surat Ukur No. 00086/2002, right granted 08.02.2023 under KEPMEN ATR/KBPN No. 1339/SK-HK.02/X/2022, expiring 02.02.2053, registered to PT CYBER VALLEY ESTATE by AJB No. 81/2023 at the Kantor Pertanahan of Kabupaten Buleleng |
+| PKKPR | No. 10082310215108014, issued through OSS on 09.08.2023, KBLI 68111, 40,000 m² |
 | Plot | Annex B (Plot Boundary) reference [___], indicative area ±[___] m² |
-| Term | from [___] to [___] (Part 2) |
+| Term | from [___] for 25 years; the Title allows up to 02.02.2052, its expiry less 12 months, so the 25 years bind (Part 2) |
 | Form and price | Plot price Rp [___] · premium [___]% = Rp [___] at signing · year-0 rent R₀ Rp [___], quantities qᵢ per Annex E (Century Index) §4 (Part 3); premium 100% is the upfront form |
 | Offer of record | Annex J (Offer of Record) entry [___], commit [___], dated [___] |
 | Design Code in force | Annex C (Design Code) version [___] dated [___], initialled on every page, locked for this Plot under 10.6 |
@@ -534,7 +535,7 @@ Settled figures come from [[holder protocol decisions]] D1–D13 and [[hak sewa 
 
 | blocks | item |
 |---|---|
-| recitals, 0.4 | PKKPR per parcel: sinwood holds one, so the first signings run there; the remaining parcels obtain theirs from leasehold proceeds, in the order sinwood, core, bridge, etherland, asgard, avalon, with parcels 12 and 15 after them |
+| recitals, 0.4 | PKKPR per parcel: sinwood holds No. 10082310215108014 of 09.08.2023; its own clause 5 gives 3 years, to 09.08.2026, and clause 7 carries it to the term of the land held — confirm in OSS that it runs with the HGB before the first signing. The first signings run there; the remaining parcels obtain theirs from leasehold proceeds, in the order sinwood, core, bridge, etherland, asgard, avalon, with parcels 12 and 15 after them |
 | 2.2 | certificate audit: grant and expiry dates, the parcels without a certificate, the LP2B check |
 | 6.4 | any known area shortfall |
 | 12.1 | Annex K (Office Practice): office sequence, construction stage accepted, power-of-attorney enforceability |
