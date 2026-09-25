@@ -44,7 +44,7 @@ Every KBLI of [[articles of association]] Pasal 3 is issued on the NIB and in fo
 | issued shares | 8,040 |
 | valuation | USD 10,000,000 |
 | price per share | USD 1,243.78 |
-| minimum holding to vote in the Community Council | 4 shares = USD 4,975 |
+| minimum purchase | 4 shares = USD 4,975 |
 
 The price follows the Company's valuation and is updated here with each new valuation.
 
