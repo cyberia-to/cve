@@ -424,11 +424,7 @@ Where causes are mixed, the consequence follows the cause without which the regi
 
 The cap in [15.4](#part-15-title-warranties-negative-pledge-indemnity) does not limit remedy 1 and does not limit remedy 3 below the sum of the Unamortised premium and the valuation of Improvements.
 
-12.1.12 Consequences where the cause is refusal by the authority or a change of law. No fault, and no damages. The Hak Sewa continues for its Term with every right it carries, and:
-
-- the Landowner refunds the Holder's documented costs of the failed application, save the Landowner's own costs under [12.1.13](#part-12-upgrade-tracks);
-- the Landowner shall re-apply, at the Holder's request and cost, on each occasion within [24] months on which the law or the practice of the office changes so as to permit the application, for as long as the Term subsists;
-- the Holder may, within 12 months of the final refusal, elect instead to terminate and receive the Unamortised premium under [[annex e century index|Annex E (Century Index)]] §1 plus the value of the Improvements at independent valuation, without damages, secured by the Guarantee Fund. ▲ This mirrors the no-fault exit in [10.6.4](#part-10-design-code) and exists for the same reason: a risk the Holder cannot price is not left with the Holder.
+12.1.12 Consequences where the cause is refusal by the authority or a change of law. The Hak Sewa continues for its Term with every right; the conversion price returns to the Holder under the template's 12.1.9A; at the Holder's request and cost the Landowner re-applies whenever the law or the office's practice changes to permit the application.
 
 12.1.13 Verification before the first application. ⚠ ○ Before the first Hak Pakai Notice is served the Landowner obtains, in writing and at its own cost, from counsel and from the Kantor Pertanahan of Buleleng: the sequence of *pemecahan*, *pelepasan hak* and grant the office requires; the stage of construction at which an application is accepted, and specifically whether PBG suffices in place of SLF; the documents the office requires from a PT PMA as registered holder; the treatment of the Estate's parcels under RTRW, [[lp2b|LP2B]] and *sempadan* for this purpose; and the current minimum-value figure for the Province of Bali. The answers are annexed as the Office Practice page and this Part is conformed to them before use.
 
@@ -527,7 +523,7 @@ Borne by the Landowner: its own corporate authorisations; its own advisers; the 
 
 16.3 Title failure. ▲ If the Title is not renewed: compensation under [16.2](#part-16-termination-and-end-of-term) plus the Unamortised premium, secured by the Guarantee Fund. The status of the Title and the progress of its renewal are published in the Register annually.
 
-16.4 What the Guarantee Fund secures: the payments under [9.4](#part-9-the-build-obligation), [9.6](#part-9-the-build-obligation) item 2, [10.6.4](#part-10-design-code), [12.1.11](#part-12-upgrade-tracks), [12.1.12](#part-12-upgrade-tracks), [14.4](#part-14-licences), [15.4](#part-15-title-warranties-negative-pledge-indemnity), [15.5](#part-15-title-warranties-negative-pledge-indemnity) and this Part.
+16.4 What the Guarantee Fund secures: the payments under [9.4](#part-9-the-build-obligation), [9.6](#part-9-the-build-obligation) item 2, [10.6.4](#part-10-design-code), [12.1.11](#part-12-upgrade-tracks), [14.4](#part-14-licences), [15.4](#part-15-title-warranties-negative-pledge-indemnity), [15.5](#part-15-title-warranties-negative-pledge-indemnity) and this Part.
 
 ---
 
@@ -615,8 +611,6 @@ Every figure in the deed, with its source and its status. A figure from a decisi
 | [12.1.6](#part-12-upgrade-tracks) | filing of perubahan hak | 30 days | this draft | proposed |
 | [12.1.6](#part-12-upgrade-tracks) | execution of a requested deed | 14 days | this draft | proposed |
 | [12.1.11](#part-12-upgrade-tracks) | delay compensation | — | to be set as a proportion of sums paid | open |
-| [12.1.12](#part-12-upgrade-tracks) | re-application window on a change of law | 24 months | this draft | proposed |
-| [12.1.12](#part-12-upgrade-tracks) | election window after final refusal | 12 months | this draft | proposed |
 | [12.1.14](#part-12-upgrade-tracks) | upgrade fee on Track F | — | decided with [4.5](#part-4-transfer) | open |
 | [12.1.15](#part-12-upgrade-tracks) | refund on registration | none | this draft | proposed |
 

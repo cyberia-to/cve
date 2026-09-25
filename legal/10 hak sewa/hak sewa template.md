@@ -393,7 +393,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 12.1.11 Remedies for the Landowner's cause, cumulative at the Holder's election, save that exit ends the other remedies from the exit date: specific performance, damages being recorded as inadequate; delay compensation of [0.5]% of the sums paid under this deed per month from the exceeded period until performance or exit; exit with the Unamortised premium, the value of Improvements at independent valuation and direct loss, secured by the Guarantee Fund; suspension of the area revenue charge and of instalments until cure or exit, without default. The cap of 15.4 leaves specific performance and the exit sum untouched.
 
-12.1.12 No-fault failure. The hak sewa continues with every right. The Landowner refunds the Holder's documented application costs, re-applies at the Holder's request and cost whenever within 24 months of final refusal the law or the office's practice changes to permit it, and the Holder may within 12 months of final refusal elect to exit with the Unamortised premium and the value of Improvements at independent valuation, secured by the Guarantee Fund.
+12.1.12 Refusal by the office or change of law. The hak sewa continues for its Term with every right. The conversion price returns to the Holder under 12.1.9A. At the Holder's request and cost, the Landowner re-applies whenever the law or the office's practice changes to permit the application.
 
 12.1.13 Before the first Notice the Landowner obtains in writing, at its cost, from the Kantor Pertanahan of Buleleng and from counsel, the answers to the eight questions of the [[office practice|Office Practice]] page: the order of *pemecahan*, *pelepasan hak* and grant; the construction stage at which an application is accepted; the documents required; the spatial-plan treatment of the Estate; the current value, area and parcel limits for a foreign holder; the power of attorney under 12.1.8; the *rumah tinggal* test; and the covenant mechanism of 12.1.14. This Part is conformed to the answers.
 
@@ -469,7 +469,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 16.3 Title failure. Where the Title lapses through no act of the Holder: compensation under 16.2 plus the Unamortised premium, secured by the Guarantee Fund.
 
-16.4 The Guarantee Fund secures the payments under 9.3, 9.5(2), 10.6.3, 12.1.11, 12.1.12, 14.4, 15.4, 15.5 and this Part.
+16.4 The Guarantee Fund secures the payments under 9.3, 9.5(2), 10.6.3, 12.1.11, 14.4, 15.4, 15.5 and this Part.
 
 16.5 Return. The Holder delivers the Plot under BAST Pengembalian measured against Annex G (Handover Condition) within 60 days of the end date, with charges and taxes settled.
 

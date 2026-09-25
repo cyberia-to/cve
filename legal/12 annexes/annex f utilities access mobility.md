@@ -24,6 +24,8 @@ Annexed to [[hak sewa template]] under 11.5. Each Plot is self-sufficient; the n
 
 ## F2. Connections the estate may open
 
+The Landowner supplies water from the city's reservoirs to any Plot that asks, at the tariff the register publishes.
+
 Where the Landowner lays fibre or another estate line to a district, it offers connections for the period, capacity and tariff the register publishes, and each connection ends on the date stated. Each Plot keeps its own systems ready to run without it. Connection to the PLN grid is prohibited.
 
 ## F3. Access and mobility
