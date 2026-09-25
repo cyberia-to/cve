@@ -210,6 +210,8 @@ Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [30]%
 
 5.3 Net-exporter Plot. A Holder who wants the 5% rate meters the energy and water its Plot produces and consumes, keeps a harvest log of the food it produces, and publishes both monthly in the register. A Plot whose published production over the last 12 months exceeds its consumption of all three pays 5% from the next invoice. Revenue and reporting follow the Permitted Use page.
 
+5.4 Conduct discount. The area revenue charge falls by 1 percentage point for each condition the Holder met over the last 12 months: Design Code kept; ledger results published without gaps; charges paid to date; build obligation met in time.
+
 ---
 
 ## Part 6. The Plot as one unit
@@ -323,15 +325,7 @@ Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [30]%
 | S | the Company shares the participant has bought |
 | N | all Company shares bought by participants |
 
-Company shares are bought separately from land; neither is consideration for the other. Conduct adds a bonus:
-
-    weight = base × (1 + b)
-
-| symbol | meaning |
-|---|---|
-| weight | the participant's voting weight |
-| base | the entry weight above |
-| b | [0.25] for each condition met: Design Code kept; ledger results published without gaps; charges paid to date; build obligation met in time |
+Company shares are bought separately from land; neither is consideration for the other. The base is the participant's voting weight.
 
 Weights are normalised per district each moon cycle, capped at 10% per participant, and published in the Register with their inputs. A Holder may challenge an input within 30 days; the correction applies from the next cycle.
 
@@ -544,7 +538,8 @@ Figures in brackets in the text:
 | 8.5 | completion security | 5% of budget, 50% at SLF, 50% at FHO |
 | 9.5 | holding charge, buy-back trigger | 0.5% per month +0.25 pp per 6 months; 12 months |
 | 10.4 | density settlement fee | 2% |
-| 11.1.1 | bonus, cap | 0.25 per condition; 10% of district weight |
+| 11.1.1 | weight cap | 10% of district weight |
+| 5.4 | conduct discount | 1 percentage point per condition, 4 conditions |
 | 11.3 | initiative threshold | 10% of district weight |
 | 11.4 | service charge cap | 1% of Plot price per year |
 | 12.1.9 | processing fee | 2.0% of the valuation |
