@@ -261,7 +261,7 @@ Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [30]%
 
 8.8 The Holder indemnifies the Landowner against claims, penalties, orders and costs arising from its works, occupation and use. Its mirror is 15.4. Public-law liability as PBG and SLF applicant stays with the Landowner and is covered by this indemnity between the parties.
 
-8.9 Guarantee Fund cover. The Landowner credits to the Guarantee Fund [1]% of each area revenue charge and [10]% of each assignment fee until the Fund reaches [2]% of the total Plot price of all Plots under lease; credits resume when it falls below. On receipt of an official penalty, order or assessment arising from the works, occupation or use of any Holder, the Fund pays it directly, whether before or after that Holder's termination. The Fund is then subrogated to the Landowner's rights under 8.8 against that Holder, and recoveries are credited to the Fund.
+8.9 Guarantee Fund cover. On receipt of an official penalty, order or assessment arising from the works, occupation or use of any Holder, the Guarantee Fund pays it directly, whether before or after that Holder's lease ends. The Fund then takes over the Landowner's rights under 8.8 against that Holder, and recoveries return to the Fund.
 
 ---
 
@@ -551,7 +551,6 @@ Figures in brackets in the text:
 | 12.1.9A | conversion price | valuation at the Notice less the Unamortised premium |
 | 4.5 | assignment fee minimum | 1.0% |
 | 5.1 | stay management fee | 30% of revenue, per [[property management]] |
-| 8.9 | fund cover credits | 1% of each area revenue charge, 10% of each assignment fee, to 2% of the total Plot price under lease |
 | 12.1.11 | delay compensation | 0.5% of sums paid per month |
 | 15.4 | limitation | 3 years after termination |
 | 16.2 | removal election | 6 months before expiry |
