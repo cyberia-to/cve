@@ -309,7 +309,7 @@ Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [30]%
 
 ## Part 11. Community Council
 
-11.1 Membership is compulsory for every Holder and survives assignment and title upgrade. A *perkumpulan* is constituted in Phase 3 to hold shared infrastructure.
+11.1 Membership is compulsory for every Holder and survives assignment and title upgrade. A member votes in the Council once it holds at least 4 Company shares and so stands as a shareholder of PT CYBER VALLEY ESTATE. Shares may be bought at any time at the price per share the [[company licences|Company page]] publishes from the Company's current valuation. A *perkumpulan* is constituted in Phase 3 to hold shared infrastructure.
 
 11.1.1 Weight. Each participant carries a weight fixed on entry and moved only when a stake moves:
 
